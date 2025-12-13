@@ -5,15 +5,15 @@
 ## Build Information
 
 - **Environment**: TEST
-- **Build Time**: 2025-12-12T23:55:07Z
-- **Source Commit**: [`03086956398fc0e3395f73a74e3bb3c30cff1639`](https://github.com/keunwoochoi/seoulunderground.live/commit/03086956398fc0e3395f73a74e3bb3c30cff1639)
-- **Branch**: `k/change-target`
-- **Workflow Run**: [View logs](https://github.com/keunwoochoi/seoulunderground.live/actions/runs/20183240962)
+- **Build Time**: 2025-12-13T01:48:11Z
+- **Source Commit**: [`1e46971ab93ecba892e3ab3d19b80f1faa70956c`](https://github.com/keunwoochoi/seoulunderground.live/commit/1e46971ab93ecba892e3ab3d19b80f1faa70956c)
+- **Branch**: `k/refine-undr-live`
+- **Workflow Run**: [View logs](https://github.com/keunwoochoi/seoulunderground.live/actions/runs/20184889547)
 
 ## Commit Details
 
 - **Author**: Keunwoo Choi <gnuchoi+github@gmail.com>
-- **Message**: reflect gemini comment
+- **Message**: undr.live 2
 
 ## Deployment URLs
 
