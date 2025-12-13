@@ -5,15 +5,15 @@
 ## Build Information
 
 - **Environment**: TEST
-- **Build Time**: 2025-12-13T01:48:11Z
-- **Source Commit**: [`1e46971ab93ecba892e3ab3d19b80f1faa70956c`](https://github.com/keunwoochoi/seoulunderground.live/commit/1e46971ab93ecba892e3ab3d19b80f1faa70956c)
+- **Build Time**: 2025-12-13T02:34:27Z
+- **Source Commit**: [`3a1f4ca72c5ca5ca86b77c2056257e6da5a73226`](https://github.com/keunwoochoi/seoulunderground.live/commit/3a1f4ca72c5ca5ca86b77c2056257e6da5a73226)
 - **Branch**: `k/refine-undr-live`
-- **Workflow Run**: [View logs](https://github.com/keunwoochoi/seoulunderground.live/actions/runs/20184889547)
+- **Workflow Run**: [View logs](https://github.com/keunwoochoi/seoulunderground.live/actions/runs/20185453507)
 
 ## Commit Details
 
 - **Author**: Keunwoo Choi <gnuchoi+github@gmail.com>
-- **Message**: undr.live 2
+- **Message**: fix pytest.
 
 ## Deployment URLs
 
