@@ -5,15 +5,15 @@
 ## Build Information
 
 - **Environment**: TEST
-- **Build Time**: 2025-12-18T15:22:56Z
-- **Source Commit**: [`1bf997f5842f65718c0ccbb12a67d8fdc486a7a3`](https://github.com/keunwoochoi/seoulunderground.live/commit/1bf997f5842f65718c0ccbb12a67d8fdc486a7a3)
+- **Build Time**: 2025-12-18T17:34:41Z
+- **Source Commit**: [`91a9daa8c5e9ed4123752a181c45a4313cc0548b`](https://github.com/keunwoochoi/seoulunderground.live/commit/91a9daa8c5e9ed4123752a181c45a4313cc0548b)
 - **Branch**: `add-weekly-germany`
-- **Workflow Run**: [View logs](https://github.com/keunwoochoi/seoulunderground.live/actions/runs/20341913915)
+- **Workflow Run**: [View logs](https://github.com/keunwoochoi/seoulunderground.live/actions/runs/20345634088)
 
 ## Commit Details
 
 - **Author**: Keunwoo Choi <gnuchoi+github@gmail.com>
-- **Message**: first version
+- **Message**: .ddd
 
 ## Deployment URLs
 
