@@ -5,15 +5,15 @@
 ## Build Information
 
 - **Environment**: TEST
-- **Build Time**: 2025-12-13T03:22:41Z
-- **Source Commit**: [`54c6cacf6d0280f65c57ad2a8caec79eee9f15d9`](https://github.com/keunwoochoi/seoulunderground.live/commit/54c6cacf6d0280f65c57ad2a8caec79eee9f15d9)
-- **Branch**: `k/undr-live-3`
-- **Workflow Run**: [View logs](https://github.com/keunwoochoi/seoulunderground.live/actions/runs/20186032784)
+- **Build Time**: 2025-12-18T15:22:56Z
+- **Source Commit**: [`1bf997f5842f65718c0ccbb12a67d8fdc486a7a3`](https://github.com/keunwoochoi/seoulunderground.live/commit/1bf997f5842f65718c0ccbb12a67d8fdc486a7a3)
+- **Branch**: `add-weekly-germany`
+- **Workflow Run**: [View logs](https://github.com/keunwoochoi/seoulunderground.live/actions/runs/20341913915)
 
 ## Commit Details
 
 - **Author**: Keunwoo Choi <gnuchoi+github@gmail.com>
-- **Message**: add llc
+- **Message**: first version
 
 ## Deployment URLs
 
