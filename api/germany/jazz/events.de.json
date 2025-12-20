@@ -1,57 +1,5 @@
 [
   {
-    "id": "evt_20251218_66a44665-a4a7-432e-88b2-e4d09ffd078d",
-    "event_key": "v:ven_2eca8f12-f65e-48da-8229-ce9ff2724748|t:2025-12-18T19:30:00+00:00",
-    "source_url": "https://www.instagram.com/p/DSAwJP8iAZy/",
-    "venue_handle": "donau115",
-    "musician_ids": [],
-    "musician_ig_handles": [],
-    "venue_id": "ven_2eca8f12-f65e-48da-8229-ce9ff2724748",
-    "venue_location_id": "main",
-    "datetime": "2025-12-18T19:30:00+00:00",
-    "price": null,
-    "llm_confidence": 1.0,
-    "title": "Marie Séférian Quartett",
-    "description": "Concert by the Marie Séférian Quartett.",
-    "ticket_link": null,
-    "show_time": null,
-    "age_limit": null,
-    "_search_en": {
-      "title": "Marie Séférian Quartett",
-      "description": "Concert by the Marie Séférian Quartett."
-    },
-    "_search_ko": {
-      "title": "Marie Séférian Quartett",
-      "description": "Concert by the Marie Séférian Quartett."
-    }
-  },
-  {
-    "id": "evt_20251218_0fa4f473-3954-4df2-9b30-1bca3c060051",
-    "event_key": "v:ven_c7c62f53-4e47-4364-b6d6-a852b9c44906|t:2025-12-18T20:00:00+00:00",
-    "source_url": "https://www.instagram.com/p/DSTEtYmDP5i/",
-    "venue_handle": "kunstfabrikschlot",
-    "musician_ids": [],
-    "musician_ig_handles": [],
-    "venue_id": "ven_c7c62f53-4e47-4364-b6d6-a852b9c44906",
-    "venue_location_id": "main",
-    "datetime": "2025-12-18T20:00:00+00:00",
-    "price": "None",
-    "llm_confidence": 1.0,
-    "title": "Lucia Fodde Quintet: Samba e Amore",
-    "description": "The Lucia Fodde Quintet presents 'Samba e Amore'. Lineup: Lucia Fodde (vocals), Tom Maciel (piano), Eudinho Soares (guitar), Trigo Santana (bass), Mathias Trippner (drums).",
-    "ticket_link": null,
-    "show_time": null,
-    "age_limit": null,
-    "_search_en": {
-      "title": "Lucia Fodde Quintet: Samba e Amore",
-      "description": "The Lucia Fodde Quintet presents 'Samba e Amore'. Lineup: Lucia Fodde (vocals), Tom Maciel (piano), Eudinho Soares (guitar), Trigo Santana (bass), Mathias Trippner (drums)."
-    },
-    "_search_ko": {
-      "title": "Lucia Fodde Quintet: Samba e Amore",
-      "description": "The Lucia Fodde Quintet presents 'Samba e Amore'. Lineup: Lucia Fodde (vocals), Tom Maciel (piano), Eudinho Soares (guitar), Trigo Santana (bass), Mathias Trippner (drums)."
-    }
-  },
-  {
     "id": "evt_20251219_26c04380-389d-44c5-88c4-be1e71fb1ff3",
     "event_key": "v:ven_2eca8f12-f65e-48da-8229-ce9ff2724748|t:2025-12-19T19:30:00+00:00",
     "source_url": "https://www.instagram.com/p/DSAwJP8iAZy/",
