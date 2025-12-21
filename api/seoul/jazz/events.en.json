@@ -1,1419 +1,5 @@
 [
   {
-    "id": "evt_20251220_14973210-fb03-47bb-a853-c1b8da7d03ae",
-    "event_key": "v:ven_0f9c48b2-2ea8-4cd2-8993-eea16592d271|t:2025-12-20T05:00:00+00:00",
-    "source_url": "https://www.instagram.com/p/DRCjowgD0od/",
-    "venue_handle": "cafe_minor_swing",
-    "musician_ids": [],
-    "musician_ig_handles": [],
-    "venue_id": "ven_0f9c48b2-2ea8-4cd2-8993-eea16592d271",
-    "venue_location_id": "main",
-    "datetime": "2025-12-20T05:00:00+00:00",
-    "price": null,
-    "llm_confidence": 1.0,
-    "title": "Kim Dae-kyung Trio",
-    "description": "Piano trio led by Kim Dae-kyung. Kim Dae-kyung (piano), Yang Hyun-soo (drums), Choi Eun-kyu (bass).",
-    "ticket_link": null,
-    "show_time": null,
-    "age_limit": null,
-    "_search_en": {
-      "title": "Kim Dae-kyung Trio",
-      "description": "Piano trio led by Kim Dae-kyung. Kim Dae-kyung (piano), Yang Hyun-soo (drums), Choi Eun-kyu (bass)."
-    },
-    "_search_ko": {
-      "title": "김대경 트리오",
-      "description": "피아니스트 김대경이 이끄는 트리오 공연. 김대경 (피아노), 양현수 (드럼), 최은규 (베이스)."
-    }
-  },
-  {
-    "id": "evt_20251220_529ea9f5-5d8c-4503-9329-0956b9cd97c6",
-    "event_key": "v:ven_43bce5a9-5cf4-4a74-abdc-06bf5b998b89|t:2025-12-20T05:00:00+00:00",
-    "source_url": "https://www.instagram.com/p/DRQz2NRCYLf/",
-    "venue_handle": "entry55_official",
-    "musician_ids": [],
-    "musician_ig_handles": [],
-    "venue_id": "ven_43bce5a9-5cf4-4a74-abdc-06bf5b998b89",
-    "venue_location_id": "seongsu",
-    "datetime": "2025-12-20T05:00:00+00:00",
-    "price": null,
-    "llm_confidence": 1.0,
-    "title": "AimHigh Band",
-    "description": "[Location: Seongsu] AimHigh Band performs Christmas carols. Members: Choi Aim (vocal), Sung Ha-eun (piano), Kim Tae-jun (guitar), Kim Jae-geun (bass), Jung Mose (drums). Carol Playlist: All I Want For Christmas Is You, The Christmas Song, Let it snow, Have Yourself A Merry Little Christmas.",
-    "ticket_link": null,
-    "show_time": null,
-    "age_limit": null,
-    "_search_en": {
-      "title": "AimHigh Band",
-      "description": "[Location: Seongsu] AimHigh Band performs Christmas carols. Members: Choi Aim (vocal), Sung Ha-eun (piano), Kim Tae-jun (guitar), Kim Jae-geun (bass), Jung Mose (drums). Carol Playlist: All I Want For Christmas Is You, The Christmas Song, Let it snow, Have Yourself A Merry Little Christmas."
-    },
-    "_search_ko": {
-      "title": "AimHigh 밴드",
-      "description": "[위치: 성수] AimHigh 밴드가 크리스마스 캐롤을 연주합니다. 멤버: 최아임 (보컬), 성하은 (피아노), 김태준 (기타), 김재근 (베이스), 정모세 (드럼). 캐롤 플레이리스트: All I Want For Christmas Is You, The Christmas Song, Let it snow, Have Yourself A Merry Little Christmas."
-    }
-  },
-  {
-    "id": "evt_20251220_97c5b6f2-0dbb-419e-99e4-5a005e958461",
-    "event_key": "v:ven_43bce5a9-5cf4-4a74-abdc-06bf5b998b89|t:2025-12-20T06:00:00+00:00",
-    "source_url": "https://www.instagram.com/p/DRQz2NRCYLf/",
-    "venue_handle": "entry55_official",
-    "musician_ids": [],
-    "musician_ig_handles": [],
-    "venue_id": "ven_43bce5a9-5cf4-4a74-abdc-06bf5b998b89",
-    "venue_location_id": "sadang",
-    "datetime": "2025-12-20T06:00:00+00:00",
-    "price": null,
-    "llm_confidence": 1.0,
-    "title": "Tap.oz Jazz Band",
-    "description": "[Location: Sadang] Jazzy Christmas carol live. Live time 55 minutes.",
-    "ticket_link": null,
-    "show_time": null,
-    "age_limit": null,
-    "_search_en": {
-      "title": "Tap.oz Jazz Band",
-      "description": "[Location: Sadang] Jazzy Christmas carol live. Live time 55 minutes."
-    },
-    "_search_ko": {
-      "title": "Tap.oz 재즈 밴드",
-      "description": "[위치: 사당] 재즈 캐롤 라이브. 공연 시간 55분."
-    }
-  },
-  {
-    "id": "evt_20251220_b123cffd-afdb-4a88-9ba9-9ed7d52aa733",
-    "event_key": "v:ven_1d487e38-3841-4779-ae41-41b7da354ca2|t:2025-12-20T09:00:00+00:00",
-    "source_url": "https://www.instagram.com/p/DRT5NVmEedY/",
-    "venue_handle": "gwangalli_namme",
-    "musician_ids": [],
-    "musician_ig_handles": [],
-    "venue_id": "ven_1d487e38-3841-4779-ae41-41b7da354ca2",
-    "venue_location_id": "main",
-    "datetime": "2025-12-20T09:00:00+00:00",
-    "price": "15,000 KRW",
-    "llm_confidence": 1.0,
-    "title": "Hyo Jeong-li Band",
-    "description": "December Jazz & Wine Dinner. Performance fee 15,000 KRW per person, one meal order required per person. Featuring: Hyo Jeong-li (vocal), Kim Dae-gyu (piano), Park Jae-hoon (bass), Park Sung-jin (drum).",
-    "ticket_link": null,
-    "show_time": null,
-    "age_limit": null,
-    "_search_en": {
-      "title": "Hyo Jeong-li Band",
-      "description": "December Jazz & Wine Dinner. Performance fee 15,000 KRW per person, one meal order required per person. Featuring: Hyo Jeong-li (vocal), Kim Dae-gyu (piano), Park Jae-hoon (bass), Park Sung-jin (drum)."
-    },
-    "_search_ko": {
-      "title": "효정리 Band",
-      "description": "12월 재즈 & 와인 디너. 공연료 1인 15,000원, 1인 1식사 주문 필수. 출연: 효정리 (보컬), 김대규 (피아노), 박재훈 (베이스), 박성진 (드럼)."
-    }
-  },
-  {
-    "id": "evt_20251220_c5e17133-a0a2-4dc6-b121-86385843c67e",
-    "event_key": "v:ven_6715fe20-c3e0-47e4-a54d-fd33305d3fd2|t:2025-12-20T09:00:00+00:00",
-    "source_url": "https://www.instagram.com/p/DSMdV4biS2I/",
-    "venue_handle": "chunnyun.jazz",
-    "musician_ids": [],
-    "musician_ig_handles": [],
-    "venue_id": "ven_6715fe20-c3e0-47e4-a54d-fd33305d3fd2",
-    "venue_location_id": "nakwon",
-    "datetime": "2025-12-20T09:00:00+00:00",
-    "price": null,
-    "llm_confidence": 1.0,
-    "title": "LOTUS v. Moon Ji-hyun",
-    "description": "[Location: Nakwon] Part 1 performance by LOTUS featuring Moon Ji-hyun.",
-    "ticket_link": null,
-    "show_time": null,
-    "age_limit": null,
-    "_search_en": {
-      "title": "LOTUS v. Moon Ji-hyun",
-      "description": "[Location: Nakwon] Part 1 performance by LOTUS featuring Moon Ji-hyun."
-    },
-    "_search_ko": {
-      "title": "LOTUS v. 문지현",
-      "description": "[위치: 낙원] LOTUS와 문지현의 1부 공연."
-    }
-  },
-  {
-    "id": "evt_20251220_994e6e01-56a4-4581-b783-ab0c7b3f60d8",
-    "event_key": "v:ven_60b6d3cb-5547-4382-bad8-2a5667f68c9f|t:2025-12-20T09:30:00+00:00",
-    "source_url": "https://www.instagram.com/p/DRjnTA_EUnI/",
-    "venue_handle": "edls_official",
-    "musician_ids": [],
-    "musician_ig_handles": [],
-    "venue_id": "ven_60b6d3cb-5547-4382-bad8-2a5667f68c9f",
-    "venue_location_id": "main",
-    "datetime": "2025-12-20T09:30:00+00:00",
-    "price": null,
-    "llm_confidence": 1.0,
-    "title": "Hailum Quartet",
-    "description": "Live jazz performance by Hailum Quartet.",
-    "ticket_link": null,
-    "show_time": null,
-    "age_limit": null,
-    "_search_en": {
-      "title": "Hailum Quartet",
-      "description": "Live jazz performance by Hailum Quartet."
-    },
-    "_search_ko": {
-      "title": "해일럼 퀄텟",
-      "description": "해일럼 퀄텟의 라이브 재즈 공연."
-    }
-  },
-  {
-    "id": "evt_20251220_f5c33a59-d911-4560-a92e-cebf4847e751",
-    "event_key": "v:ven_8f63bbb7-f925-45f4-8bf7-284b0758a00c|t:2025-12-20T10:00:00+00:00",
-    "source_url": "https://www.instagram.com/p/DRv0unTEw2j/",
-    "venue_handle": "jazzxover",
-    "musician_ids": [],
-    "musician_ig_handles": [
-      "future__juu"
-    ],
-    "venue_id": "ven_8f63bbb7-f925-45f4-8bf7-284b0758a00c",
-    "venue_location_id": "main",
-    "datetime": "2025-12-20T10:00:00+00:00",
-    "price": "KRW 20,000 ~",
-    "llm_confidence": 1.0,
-    "title": "Joo Mi-rae Quartet",
-    "description": "Joo Mi-rae Quartet performance (Part 1).",
-    "ticket_link": null,
-    "show_time": null,
-    "age_limit": null,
-    "_search_en": {
-      "title": "Joo Mi-rae Quartet",
-      "description": "Joo Mi-rae Quartet performance (Part 1)."
-    },
-    "_search_ko": {
-      "title": "주미래 퀄텟",
-      "description": "주미래 퀄텟 공연 (1부)."
-    }
-  },
-  {
-    "id": "evt_20251220_eeb864e0-049a-462f-a0f4-0f3a83b3d11b",
-    "event_key": "v:ven_9142f2b2-e19c-4556-8ba7-7f42d8445f28|t:2025-12-20T10:00:00+00:00",
-    "source_url": "https://www.instagram.com/p/DSHgCJvEnsF/",
-    "venue_handle": "ninejazz_chungdam",
-    "musician_ids": [],
-    "musician_ig_handles": [],
-    "venue_id": "ven_9142f2b2-e19c-4556-8ba7-7f42d8445f28",
-    "venue_location_id": "main",
-    "datetime": "2025-12-20T10:00:00+00:00",
-    "price": null,
-    "llm_confidence": 1.0,
-    "title": "Nina Park Band",
-    "description": "Singer-songwriter Nina Park delivers a trend-setting performance with powerful high notes.",
-    "ticket_link": null,
-    "show_time": null,
-    "age_limit": null,
-    "_search_en": {
-      "title": "Nina Park Band",
-      "description": "Singer-songwriter Nina Park delivers a trend-setting performance with powerful high notes."
-    },
-    "_search_ko": {
-      "title": "니나파크 밴드",
-      "description": "싱어송라이터 니나파크의 폭발적인 고음과 트렌디한 무대."
-    }
-  },
-  {
-    "id": "evt_20251220_12cf4db4-d7e1-48b2-ac19-bd55b01d08b0",
-    "event_key": "v:ven_6f67bf66-952d-480b-92cd-971d60e5c086|t:2025-12-20T10:00:00+00:00",
-    "source_url": "https://www.instagram.com/p/DSFAg5igQaj/",
-    "venue_handle": "yoori.kim_mullaejazzin",
-    "musician_ids": [],
-    "musician_ig_handles": [],
-    "venue_id": "ven_6f67bf66-952d-480b-92cd-971d60e5c086",
-    "venue_location_id": "main",
-    "datetime": "2025-12-20T10:00:00+00:00",
-    "price": "KRW 30,000",
-    "llm_confidence": 1.0,
-    "title": "Chon Yong-jun Trio",
-    "description": "A year-end special performance by the unique jazz pianist Chon Yong-jun Trio, known for bridging Korean jazz and K-POP. Chon Yong-jun (piano), Song In-seob (bass), Song Jun-young (drums) deliver a moving stage for the Christmas season. Advance KRW 30,000, On-site KRW 35,000. Includes 1 drink (wine option) & snack. Student discount (20% off for under 35 with student ID) available.",
-    "ticket_link": null,
-    "show_time": null,
-    "age_limit": null,
-    "_search_en": {
-      "title": "Chon Yong-jun Trio",
-      "description": "A year-end special performance by the unique jazz pianist Chon Yong-jun Trio, known for bridging Korean jazz and K-POP. Chon Yong-jun (piano), Song In-seob (bass), Song Jun-young (drums) deliver a moving stage for the Christmas season. Advance KRW 30,000, On-site KRW 35,000. Includes 1 drink (wine option) & snack. Student discount (20% off for under 35 with student ID) available."
-    },
-    "_search_ko": {
-      "title": "전용준 트리오",
-      "description": "한국 재즈씬과 K-POP을 아우르는 독보적인 재즈 피아니스트 전용준 트리오의 연말 특별 공연. 크리스마스 시즌을 맞아 전용준 (피아노), 송인섭 (베이스), 송준영 (드럼)이 감동적인 무대를 선사. 예매 30,000원, 현장 구매 35,000원. 음료 1잔 (와인 포함) & 기본 스낵 제공. 만 35세 미만 학생증 지참 시 20% 할인."
-    }
-  },
-  {
-    "id": "evt_20251220_a96a40d5-3c42-410a-8a6c-49bcdd30498a",
-    "event_key": "v:ven_6715fe20-c3e0-47e4-a54d-fd33305d3fd2|t:2025-12-20T10:00:00+00:00",
-    "source_url": "https://www.instagram.com/p/DSMdV4biS2I/",
-    "venue_handle": "chunnyun.jazz",
-    "musician_ids": [],
-    "musician_ig_handles": [],
-    "venue_id": "ven_6715fe20-c3e0-47e4-a54d-fd33305d3fd2",
-    "venue_location_id": "jonggak",
-    "datetime": "2025-12-20T10:00:00+00:00",
-    "price": null,
-    "llm_confidence": 1.0,
-    "title": "SPECIAL. Cold Bath, Warm Bath, and Wormwood Bath. Nuevo Ensemble + ARB Joint Performance",
-    "description": "[Location: Jonggak] Joint performance by Nuevo Ensemble and ARB.",
-    "ticket_link": null,
-    "show_time": null,
-    "age_limit": null,
-    "_search_en": {
-      "title": "SPECIAL. Cold Bath, Warm Bath, and Wormwood Bath. Nuevo Ensemble + ARB Joint Performance",
-      "description": "[Location: Jonggak] Joint performance by Nuevo Ensemble and ARB."
-    },
-    "_search_ko": {
-      "title": "SPECIAL. 냉탕과 온탕 그리고 쑥탕. 누에보 앙상블 + ARB 합동 공연",
-      "description": "[위치: 종각] 누에보 앙상블과 ARB의 합동 공연."
-    }
-  },
-  {
-    "id": "evt_20251220_130bdc1d-c490-4190-afdc-a2e5c3f6c80e",
-    "event_key": "v:ven_3e9472b8-61e7-43c2-9d79-7c4d5a932a0a|t:2025-12-20T10:00:00+00:00",
-    "source_url": "https://www.instagram.com/p/DSS0Lipk3Rr/",
-    "venue_handle": "oleojazzpub",
-    "musician_ids": [],
-    "musician_ig_handles": [
-      "bangpil_kim",
-      "brownbeatj",
-      "ye_vans"
-    ],
-    "venue_id": "ven_3e9472b8-61e7-43c2-9d79-7c4d5a932a0a",
-    "venue_location_id": "main",
-    "datetime": "2025-12-20T10:00:00+00:00",
-    "price": "KRW 15,000",
-    "llm_confidence": 1.0,
-    "title": "Yang Yebon Trio",
-    "description": "Yang Yebon (piano) @ye_vans, Kim Seung-hyun (bass) @bangpil_kim, Kim Jung-woo (drums) @brownbeatj trio performance. Admission KRW 15,000 (includes 1 basic drink).",
-    "ticket_link": null,
-    "show_time": null,
-    "age_limit": null,
-    "_search_en": {
-      "title": "Yang Yebon Trio",
-      "description": "Yang Yebon (piano) @ye_vans, Kim Seung-hyun (bass) @bangpil_kim, Kim Jung-woo (drums) @brownbeatj trio performance. Admission KRW 15,000 (includes 1 basic drink)."
-    },
-    "_search_ko": {
-      "title": "양예본 트리오",
-      "description": "양예본 (피아노) @ye_vans, 김승현 (베이스) @bangpil_kim, 김정우 (드럼) @brownbeatj 트리오 공연. 입장료 15,000원 (기본 음료 1잔 포함)."
-    }
-  },
-  {
-    "id": "evt_20251220_4b018399-23f1-49ec-a226-75d9f7074e49",
-    "event_key": "v:ven_43bce5a9-5cf4-4a74-abdc-06bf5b998b89|t:2025-12-20T10:15:00+00:00",
-    "source_url": "https://www.instagram.com/p/DRQz2NRCYLf/",
-    "venue_handle": "entry55_official",
-    "musician_ids": [],
-    "musician_ig_handles": [],
-    "venue_id": "ven_43bce5a9-5cf4-4a74-abdc-06bf5b998b89",
-    "venue_location_id": "sadang",
-    "datetime": "2025-12-20T10:15:00+00:00",
-    "price": null,
-    "llm_confidence": 1.0,
-    "title": "Gritty Kitty",
-    "description": "[Location: Sadang] Jazzy Christmas carol live. Carol Playlist: This Christmas, All I want for Christmas is you, Zat you Santa Claus. Live time 55 minutes.",
-    "ticket_link": null,
-    "show_time": null,
-    "age_limit": null,
-    "_search_en": {
-      "title": "Gritty Kitty",
-      "description": "[Location: Sadang] Jazzy Christmas carol live. Carol Playlist: This Christmas, All I want for Christmas is you, Zat you Santa Claus. Live time 55 minutes."
-    },
-    "_search_ko": {
-      "title": "Gritty Kitty",
-      "description": "[위치: 사당] 재즈 캐롤 라이브. 캐롤 플레이리스트: This Christmas, All I want for Christmas is you, Zat you Santa Claus. 공연 시간 55분."
-    }
-  },
-  {
-    "id": "evt_20251220_b98650b6-543f-4571-b0c1-388132774f3c",
-    "event_key": "v:ven_5bb65766-9242-4a8a-bbdf-c7cdd5dd73f0|t:2025-12-20T10:30:00+00:00",
-    "source_url": "https://www.instagram.com/p/DRQoiLrj4y5/",
-    "venue_handle": "africa_since1988",
-    "musician_ids": [],
-    "musician_ig_handles": [],
-    "venue_id": "ven_5bb65766-9242-4a8a-bbdf-c7cdd5dd73f0",
-    "venue_location_id": "main",
-    "datetime": "2025-12-20T10:30:00+00:00",
-    "price": "KRW 20,000",
-    "llm_confidence": 1.0,
-    "title": "Hyojeongri Band",
-    "description": "Hyojeongri Band. Hyojeongri (vocal).",
-    "ticket_link": null,
-    "show_time": null,
-    "age_limit": null,
-    "_search_en": {
-      "title": "Hyojeongri Band",
-      "description": "Hyojeongri Band. Hyojeongri (vocal)."
-    },
-    "_search_ko": {
-      "title": "효정리 밴드",
-      "description": "효정리 밴드. 효정리 (보컬)."
-    }
-  },
-  {
-    "id": "evt_20251220_304d484d-c955-4374-bb53-3b91a461402f",
-    "event_key": "v:ven_defc39a1-7787-48c7-b5f4-623157118647|t:2025-12-20T10:30:00+00:00",
-    "source_url": "https://www.instagram.com/p/DRqSJ2fklKG/",
-    "venue_handle": "bluecat.fezh",
-    "musician_ids": [],
-    "musician_ig_handles": [
-      "hzeoro",
-      "lee_daaahe",
-      "song_the_jazzman"
-    ],
-    "venue_id": "ven_defc39a1-7787-48c7-b5f4-623157118647",
-    "venue_location_id": "main",
-    "datetime": "2025-12-20T10:30:00+00:00",
-    "price": null,
-    "llm_confidence": 1.0,
-    "title": "Song on Air",
-    "description": "Song Min-sub (guitar/vocal) @song_the_jazzman, Heo Ji-woo (piano) @hzeoro, Lee Dae-hee (bass) @lee_daaahe",
-    "ticket_link": null,
-    "show_time": null,
-    "age_limit": null,
-    "_search_en": {
-      "title": "Song on Air",
-      "description": "Song Min-sub (guitar/vocal) @song_the_jazzman, Heo Ji-woo (piano) @hzeoro, Lee Dae-hee (bass) @lee_daaahe"
-    },
-    "_search_ko": {
-      "title": "Song on Air",
-      "description": "송민섭 (기타/보컬) @song_the_jazzman, 허지우 (피아노) @hzeoro, 이대희 (베이스) @lee_daaahe"
-    }
-  },
-  {
-    "id": "evt_20251220_5d457462-923a-490f-b5e5-31b489da5233",
-    "event_key": "v:ven_6e486fef-b548-4980-8565-9c7d54e964da|t:2025-12-20T10:30:00+00:00",
-    "source_url": "https://www.instagram.com/p/DROu61lkjog/",
-    "venue_handle": "flatnine_jazzbar",
-    "musician_ids": [],
-    "musician_ig_handles": [],
-    "venue_id": "ven_6e486fef-b548-4980-8565-9c7d54e964da",
-    "venue_location_id": "main",
-    "datetime": "2025-12-20T10:30:00+00:00",
-    "price": "KRW 30,000",
-    "llm_confidence": 1.0,
-    "title": "2025 FESTIVE SESSIONS",
-    "description": "Special performances by top musicians for FESTIVE SESSIONS. Mandatory 1 Bottle (wine included) order (2 Bottles for 5+ guests). Course menu available by pre-reservation (no drink order required with course menu).",
-    "ticket_link": null,
-    "show_time": null,
-    "age_limit": null,
-    "_search_en": {
-      "title": "2025 FESTIVE SESSIONS",
-      "description": "Special performances by top musicians for FESTIVE SESSIONS. Mandatory 1 Bottle (wine included) order (2 Bottles for 5+ guests). Course menu available by pre-reservation (no drink order required with course menu)."
-    },
-    "_search_ko": {
-      "title": "2025 FESTIVE SESSIONS",
-      "description": "최고의 뮤지션들이 FESTIVE SESSIONS를 위한 특별 공연을 선보입니다. 1 Bottle(와인 포함) 필수 주문 (5인 이상 2 Bottle 필수). 코스 메뉴는 사전 예약으로 이용 가능 (코스 이용 시 주류 주문 없음)."
-    }
-  },
-  {
-    "id": "evt_20251220_79b53958-b36d-48ed-b4ce-b667f5df05ca",
-    "event_key": "v:ven_b15a6fa7-a191-4ec5-b2b5-7d75f89c03aa|t:2025-12-20T10:30:00+00:00",
-    "source_url": "https://www.instagram.com/p/DSUGHnzEUqN/",
-    "venue_handle": "jazzclubbottomline",
-    "musician_ids": [],
-    "musician_ig_handles": [],
-    "venue_id": "ven_b15a6fa7-a191-4ec5-b2b5-7d75f89c03aa",
-    "venue_location_id": "main",
-    "datetime": "2025-12-20T10:30:00+00:00",
-    "price": "KRW 20,000",
-    "llm_confidence": 1.0,
-    "title": "Kim Hyung-jun Band",
-    "description": "18th Incheon Live Club Day performance. Guitarist Kim Hyung-jun Band presents various genres including fusion, crossover, and modern jazz. Featuring Choi Hyun-seo (vocal), Choi Won-seok (saxophone), Song Suk-chul (piano), An Gun-sik (bass), Kim Joo-hyun (drums). For reservations, deposit to Kookmin Bank 651025-93-118128 (Heo Jeong-seon) and text [Date/Name/Number of visitors/Phone number].",
-    "ticket_link": null,
-    "show_time": null,
-    "age_limit": null,
-    "_search_en": {
-      "title": "Kim Hyung-jun Band",
-      "description": "18th Incheon Live Club Day performance. Guitarist Kim Hyung-jun Band presents various genres including fusion, crossover, and modern jazz. Featuring Choi Hyun-seo (vocal), Choi Won-seok (saxophone), Song Suk-chul (piano), An Gun-sik (bass), Kim Joo-hyun (drums). For reservations, deposit to Kookmin Bank 651025-93-118128 (Heo Jeong-seon) and text [Date/Name/Number of visitors/Phone number]."
-    },
-    "_search_ko": {
-      "title": "김형준 밴드",
-      "description": "18회 인천 라이브 클럽 데이 공연. 기타리스트 김형준 밴드가 퓨전, 크로스오버, 모던재즈 등 다양한 장르를 선보입니다. 최현서 (보컬), 최원석 (색소폰), 송석철 (피아노), 안건식 (베이스), 김주헌 (드럼). 예매 국민 651025-93-118128(허정선)으로 입금 후 [날짜/성함/방문인원/전화번호] 문자로 남겨주세요."
-    }
-  },
-  {
-    "id": "evt_20251220_c8d41803-3d5a-4059-b4ce-8d9e580dfbfd",
-    "event_key": "v:ven_0e7c10c5-1bd6-494e-8664-42bef9f4d10d|t:2025-12-20T10:30:00+00:00",
-    "source_url": "https://www.instagram.com/p/DSCVcOKEflB/",
-    "venue_handle": "kindseoul.kr",
-    "musician_ids": [],
-    "musician_ig_handles": [
-      "Nicolepark_piano",
-      "_mingi_park",
-      "daami_dam",
-      "drumsulee",
-      "mindo_b",
-      "vinniekimmm"
-    ],
-    "venue_id": "ven_0e7c10c5-1bd6-494e-8664-42bef9f4d10d",
-    "venue_location_id": "main",
-    "datetime": "2025-12-20T10:30:00+00:00",
-    "price": "None",
-    "llm_confidence": 1.0,
-    "title": "Authentic Blue",
-    "description": "Mixed-gender vocal jazz trio Authentic Blue. Composed of three jazz vocalists, piano, double bass, and drums. Harmonious voices and instruments offer a diverse jazz experience.",
-    "ticket_link": null,
-    "show_time": null,
-    "age_limit": null,
-    "_search_en": {
-      "title": "Authentic Blue",
-      "description": "Mixed-gender vocal jazz trio Authentic Blue. Composed of three jazz vocalists, piano, double bass, and drums. Harmonious voices and instruments offer a diverse jazz experience."
-    },
-    "_search_ko": {
-      "title": "어센틱블루",
-      "description": "혼성 보컬 재즈 트리오 어센틱블루. 3명의 재즈 보컬과 피아노, 더블베이스, 드럼 연주자로 구성. 다채로운 재즈 경험을 선사하는 아름답고 조화로운 보이스와 악기들의 하모니."
-    }
-  },
-  {
-    "id": "evt_20251220_f42da9c9-cdf5-4c58-bf8c-a6d280026e09",
-    "event_key": "v:ven_3dda425f-b1d3-4cf9-88c0-d2d3483e9b41|t:2025-12-20T10:30:00+00:00",
-    "source_url": "https://www.instagram.com/p/DR8PFdXknor/",
-    "venue_handle": "myjazzgarden",
-    "musician_ids": [],
-    "musician_ig_handles": [],
-    "venue_id": "ven_3dda425f-b1d3-4cf9-88c0-d2d3483e9b41",
-    "venue_location_id": "main",
-    "datetime": "2025-12-20T10:30:00+00:00",
-    "price": null,
-    "llm_confidence": 1.0,
-    "title": "Lucie Cha Quintet December Songs",
-    "description": "A great evening of Jazz, Pop, Chansons and Christmas Carols with the wonderful Lucie Cha Quintet. Expect a cozy and warm Christmas atmosphere performance.",
-    "ticket_link": null,
-    "show_time": null,
-    "age_limit": null,
-    "_search_en": {
-      "title": "Lucie Cha Quintet December Songs",
-      "description": "A great evening of Jazz, Pop, Chansons and Christmas Carols with the wonderful Lucie Cha Quintet. Expect a cozy and warm Christmas atmosphere performance."
-    },
-    "_search_ko": {
-      "title": "루시 차 퀸텟 December Songs",
-      "description": "재즈, 팝, 샹송, 크리스마스 캐럴과 함께하는 루시 차 퀸텟의 멋진 저녁. 편안하고 따뜻한 크리스마스 분위기의 공연."
-    }
-  },
-  {
-    "id": "evt_20251220_8818a91e-8090-40e1-9e04-afe42adeb6aa",
-    "event_key": "v:ven_18ca62e5-92e4-4145-883d-36c6b7c813bb|t:2025-12-20T10:40:00+00:00",
-    "source_url": "https://www.instagram.com/p/DRwBivdEvoe/",
-    "venue_handle": "rustic_jazz",
-    "musician_ids": [],
-    "musician_ig_handles": [
-      "drummingu"
-    ],
-    "venue_id": "ven_18ca62e5-92e4-4145-883d-36c6b7c813bb",
-    "venue_location_id": "main",
-    "datetime": "2025-12-20T10:40:00+00:00",
-    "price": "KRW 11,000",
-    "llm_confidence": 1.0,
-    "title": "Lee Min-gu Quartet (Set 1)",
-    "description": "First set of the performance by Lee Min-gu Quartet.",
-    "ticket_link": null,
-    "show_time": null,
-    "age_limit": null,
-    "_search_en": {
-      "title": "Lee Min-gu Quartet (Set 1)",
-      "description": "First set of the performance by Lee Min-gu Quartet."
-    },
-    "_search_ko": {
-      "title": "이민구 퀄텟 (1부)",
-      "description": "이민구 퀄텟 공연의 1부입니다."
-    }
-  },
-  {
-    "id": "evt_20251220_47e1c559-092c-413b-9083-2fad354001a1",
-    "event_key": "v:ven_5bb65766-9242-4a8a-bbdf-c7cdd5dd73f0|t:2025-12-20T11:00:00+00:00",
-    "source_url": "https://www.instagram.com/p/DRQoiLrj4y5/",
-    "venue_handle": "africa_since1988",
-    "musician_ids": [],
-    "musician_ig_handles": [],
-    "venue_id": "ven_5bb65766-9242-4a8a-bbdf-c7cdd5dd73f0",
-    "venue_location_id": "main",
-    "datetime": "2025-12-20T11:00:00+00:00",
-    "price": "KRW 20,000",
-    "llm_confidence": 1.0,
-    "title": "Hyojungri Band",
-    "description": "Hyojungri (vocal) Band.",
-    "ticket_link": null,
-    "show_time": null,
-    "age_limit": null,
-    "_search_en": {
-      "title": "Hyojungri Band",
-      "description": "Hyojungri (vocal) Band."
-    },
-    "_search_ko": {
-      "title": "효정리 밴드",
-      "description": "효정리 (보컬) 밴드."
-    }
-  },
-  {
-    "id": "evt_20251220_917a3771-f128-4ec0-8953-ef4d08c47b0f",
-    "event_key": "v:ven_9121334e-11fe-4710-8d7b-87f5825e3fcd|t:2025-12-20T11:00:00+00:00",
-    "source_url": "https://www.instagram.com/p/DRJ5ex1ATDs/",
-    "venue_handle": "bar_tican",
-    "musician_ids": [],
-    "musician_ig_handles": [],
-    "venue_id": "ven_9121334e-11fe-4710-8d7b-87f5825e3fcd",
-    "venue_location_id": "main",
-    "datetime": "2025-12-20T11:00:00+00:00",
-    "price": "KRW 10,000",
-    "llm_confidence": 1.0,
-    "title": "HEY P Live Performance",
-    "description": "Live performance by HEY P at BARTICAN, featuring jazz, K-pop, and pop music.",
-    "ticket_link": null,
-    "show_time": null,
-    "age_limit": null,
-    "_search_en": {
-      "title": "HEY P Live Performance",
-      "description": "Live performance by HEY P at BARTICAN, featuring jazz, K-pop, and pop music."
-    },
-    "_search_ko": {
-      "title": "HEY P 라이브 공연",
-      "description": "BARTICAN에서 열리는 HEY P의 라이브 공연. 재즈, 가요 및 팝 음악이 포함됩니다."
-    }
-  },
-  {
-    "id": "evt_20251220_1d0af5a8-238d-4a6c-b157-a1695b3bb169",
-    "event_key": "v:ven_deec1cbb-d591-4db1-b88c-ed13402c1740|t:2025-12-20T11:00:00+00:00",
-    "source_url": "https://www.instagram.com/p/DRwYJWnjyU8/",
-    "venue_handle": "blueming_jazz",
-    "musician_ids": [],
-    "musician_ig_handles": [],
-    "venue_id": "ven_deec1cbb-d591-4db1-b88c-ed13402c1740",
-    "venue_location_id": "main",
-    "datetime": "2025-12-20T11:00:00+00:00",
-    "price": null,
-    "llm_confidence": 1.0,
-    "title": "Headeun CHOI Organ Quartet",
-    "description": "Headeun CHOI Organ Quartet performance.",
-    "ticket_link": null,
-    "show_time": null,
-    "age_limit": null,
-    "_search_en": {
-      "title": "Headeun CHOI Organ Quartet",
-      "description": "Headeun CHOI Organ Quartet performance."
-    },
-    "_search_ko": {
-      "title": "최하은 오르간 퀄텟",
-      "description": "최하은 오르간 퀄텟 공연."
-    }
-  },
-  {
-    "id": "evt_20251220_db61ecbd-3877-4b7c-88fb-378657bb1e26",
-    "event_key": "v:ven_0f9c48b2-2ea8-4cd2-8993-eea16592d271|t:2025-12-20T11:00:00+00:00",
-    "source_url": "https://www.instagram.com/p/DSPmPm3D0P2/",
-    "venue_handle": "cafe_minor_swing",
-    "musician_ids": [],
-    "musician_ig_handles": [],
-    "venue_id": "ven_0f9c48b2-2ea8-4cd2-8993-eea16592d271",
-    "venue_location_id": "main",
-    "datetime": "2025-12-20T11:00:00+00:00",
-    "price": "None",
-    "llm_confidence": 1.0,
-    "title": "Kim Dae-kyung Trio",
-    "description": "Kim Dae-kyung Trio concert, participating as an artist in the 2026 Minor Swing Project. A performance combining lyrical phrasing and innate pianism.",
-    "ticket_link": null,
-    "show_time": null,
-    "age_limit": null,
-    "_search_en": {
-      "title": "Kim Dae-kyung Trio",
-      "description": "Kim Dae-kyung Trio concert, participating as an artist in the 2026 Minor Swing Project. A performance combining lyrical phrasing and innate pianism."
-    },
-    "_search_ko": {
-      "title": "김대경 트리오",
-      "description": "2026 마이너스윙 프로젝트 아티스트 김대경 트리오 콘서트. 서정적인 프레이즈와 타고난 피아니즘을 겸비한 공연."
-    }
-  },
-  {
-    "id": "evt_20251220_88a664b3-230f-469a-a031-9fcd727ddcd8",
-    "event_key": "v:ven_80a6ccbc-0ded-4f7a-9e20-b6dfcd17718d|t:2025-12-20T11:00:00+00:00",
-    "source_url": "https://www.instagram.com/p/DQ734inD0DW/",
-    "venue_handle": "concino_concrete",
-    "musician_ids": [],
-    "musician_ig_handles": [],
-    "venue_id": "ven_80a6ccbc-0ded-4f7a-9e20-b6dfcd17718d",
-    "venue_location_id": "main",
-    "datetime": "2025-12-20T11:00:00+00:00",
-    "price": null,
-    "llm_confidence": 1.0,
-    "title": "CHRISTMAS CLASSIC FANTASY",
-    "description": "A 2-Piano & Chamber Collaboration Concert blending romantic sensibility with modern rhythms. Part 1 features works by Schumann, Liszt, and Márquez for two pianos. Part 2 presents Piazzolla and Joo-Hye Lee's 「Christmas Fantasy」 with strings and cajon.",
-    "ticket_link": null,
-    "show_time": null,
-    "age_limit": null,
-    "_search_en": {
-      "title": "CHRISTMAS CLASSIC FANTASY",
-      "description": "A 2-Piano & Chamber Collaboration Concert blending romantic sensibility with modern rhythms. Part 1 features works by Schumann, Liszt, and Márquez for two pianos. Part 2 presents Piazzolla and Joo-Hye Lee's 「Christmas Fantasy」 with strings and cajon."
-    },
-    "_search_ko": {
-      "title": "CHRISTMAS CLASSIC FANTASY",
-      "description": "낭만주의 감성과 현대적 리듬이 어우러지는 2Piano & Chamber Collaboration Concert. 1부 슈만, 리스트, 마르케스의 피아노 무대. 2부 피아졸라, 이주혜의 「Christmas Fantasy」 현악기와 카혼 협연."
-    }
-  },
-  {
-    "id": "evt_20251220_db218de6-ec58-4264-bfa3-94228fa6f57d",
-    "event_key": "v:ven_668a43db-d5ab-412e-ae31-f0a49e4b4359|t:2025-12-20T11:00:00+00:00",
-    "source_url": "https://www.instagram.com/p/DRl1fCMiQ8o/",
-    "venue_handle": "jazzgarage_official",
-    "musician_ids": [],
-    "musician_ig_handles": [],
-    "venue_id": "ven_668a43db-d5ab-412e-ae31-f0a49e4b4359",
-    "venue_location_id": "main",
-    "datetime": "2025-12-20T11:00:00+00:00",
-    "price": null,
-    "llm_confidence": 1.0,
-    "title": "Midnight J Project",
-    "description": "Jazz performance by Midnight J Project.",
-    "ticket_link": null,
-    "show_time": null,
-    "age_limit": null,
-    "_search_en": {
-      "title": "Midnight J Project",
-      "description": "Jazz performance by Midnight J Project."
-    },
-    "_search_ko": {
-      "title": "미드나잇J프로젝트",
-      "description": "미드나잇J프로젝트의 재즈 공연."
-    }
-  },
-  {
-    "id": "evt_20251220_24bbdef7-0462-4cc9-b17a-86c3e3e4e4c7",
-    "event_key": "v:ven_cb0c3754-4898-4a3e-be0b-0c6062df5111|t:2025-12-20T11:00:00+00:00",
-    "source_url": "https://www.instagram.com/p/DSOu4qCk89S/",
-    "venue_handle": "jazzlounge_official",
-    "musician_ids": [],
-    "musician_ig_handles": [
-      "1_woolsss",
-      "h_0zl",
-      "kgvovc"
-    ],
-    "venue_id": "ven_cb0c3754-4898-4a3e-be0b-0c6062df5111",
-    "venue_location_id": "main",
-    "datetime": "2025-12-20T11:00:00+00:00",
-    "price": "KRW 5,000",
-    "llm_confidence": 1.0,
-    "title": "Kim Han-wool Trio",
-    "description": "Jazz performance by Kim Han-wool Trio. Kim Han-wool (vocal) @1_woolsss, Jung Hyun-woo (piano) @h_0zl, Kim Ji-hyun (electric bass) @kgvovc.",
-    "ticket_link": null,
-    "show_time": null,
-    "age_limit": null,
-    "_search_en": {
-      "title": "Kim Han-wool Trio",
-      "description": "Jazz performance by Kim Han-wool Trio. Kim Han-wool (vocal) @1_woolsss, Jung Hyun-woo (piano) @h_0zl, Kim Ji-hyun (electric bass) @kgvovc."
-    },
-    "_search_ko": {
-      "title": "김한울 트리오",
-      "description": "김한울 트리오의 재즈 공연. 김한울 (보컬) @1_woolsss, 정현우 (피아노) @h_0zl, 김지현 (일렉 베이스) @kgvovc."
-    }
-  },
-  {
-    "id": "evt_20251220_3b46f2b1-810e-4ba1-ae2b-f11e669492bf",
-    "event_key": "v:ven_8f63bbb7-f925-45f4-8bf7-284b0758a00c|t:2025-12-20T11:00:00+00:00",
-    "source_url": "https://www.instagram.com/p/DRnjsFTEwLG/",
-    "venue_handle": "jazzxover",
-    "musician_ids": [],
-    "musician_ig_handles": [],
-    "venue_id": "ven_8f63bbb7-f925-45f4-8bf7-284b0758a00c",
-    "venue_location_id": "main",
-    "datetime": "2025-12-20T11:00:00+00:00",
-    "price": "KRW 20,000 + 1 bottle (wine/whiskey) minimum order",
-    "llm_confidence": 1.0,
-    "title": "Ju Mirae Quartet",
-    "description": "JAZZXOVER Winter Swing 2025 performance. Admission fee KRW 20,000, 1 bottle (wine/whiskey) minimum order required.",
-    "ticket_link": null,
-    "show_time": null,
-    "age_limit": null,
-    "_search_en": {
-      "title": "Ju Mirae Quartet",
-      "description": "JAZZXOVER Winter Swing 2025 performance. Admission fee KRW 20,000, 1 bottle (wine/whiskey) minimum order required."
-    },
-    "_search_ko": {
-      "title": "주미래 콰르텟",
-      "description": "JAZZXOVER WINTER SWING 2025 공연. 공연료 20,000원, 와인 또는 위스키 1병 필수 주문."
-    }
-  },
-  {
-    "id": "evt_20251220_3c0a610c-7676-4d58-a3cc-c2e8c98a0073",
-    "event_key": "v:ven_5cb218fb-385c-4061-b355-02940bbba48b|t:2025-12-20T11:00:00+00:00",
-    "source_url": "https://www.instagram.com/p/DRrxx9qDwyv/",
-    "venue_handle": "laidback2019",
-    "musician_ids": [],
-    "musician_ig_handles": [],
-    "venue_id": "ven_5cb218fb-385c-4061-b355-02940bbba48b",
-    "venue_location_id": "main",
-    "datetime": "2025-12-20T11:00:00+00:00",
-    "price": "KRW 10,000",
-    "llm_confidence": 1.0,
-    "title": "SP Jazz Band",
-    "description": "Jazz performance by SP Jazz Band with vocal. Part 1 20:00-20:50, Part 2 21:10-22:00.",
-    "ticket_link": null,
-    "show_time": null,
-    "age_limit": null,
-    "_search_en": {
-      "title": "SP Jazz Band",
-      "description": "Jazz performance by SP Jazz Band with vocal. Part 1 20:00-20:50, Part 2 21:10-22:00."
-    },
-    "_search_ko": {
-      "title": "SP Jazz Band",
-      "description": "보컬과 함께하는 SP Jazz Band의 재즈 공연. 1부 20:00-20:50, 2부 21:10-22:00."
-    }
-  },
-  {
-    "id": "evt_20251220_97a86843-ec7e-4746-ab0e-1a047ef9bac9",
-    "event_key": "v:ven_f719e4df-3791-4a08-9e2e-da888d62e071|t:2025-12-20T11:00:00+00:00",
-    "source_url": "https://www.instagram.com/p/DRrwdJKD69v/",
-    "venue_handle": "milestones_jazz",
-    "musician_ids": [],
-    "musician_ig_handles": [],
-    "venue_id": "ven_f719e4df-3791-4a08-9e2e-da888d62e071",
-    "venue_location_id": "main",
-    "datetime": "2025-12-20T11:00:00+00:00",
-    "price": "Advance KRW 20,000 / At door KRW 25,000",
-    "llm_confidence": 1.0,
-    "title": "Choi Yeon-bi Quartet",
-    "description": "Jazz live performance. Advance KRW 20,000 / At door KRW 25,000.",
-    "ticket_link": null,
-    "show_time": null,
-    "age_limit": null,
-    "_search_en": {
-      "title": "Choi Yeon-bi Quartet",
-      "description": "Jazz live performance. Advance KRW 20,000 / At door KRW 25,000."
-    },
-    "_search_ko": {
-      "title": "최연비 퀄텟",
-      "description": "재즈 라이브 공연. 예매 20,000원 / 현매 25,000원."
-    }
-  },
-  {
-    "id": "evt_20251220_e132dcac-406b-4f87-9ecb-9195c2e3eaf8",
-    "event_key": "v:ven_c3b43966-ae0c-4c52-a64a-d9b9e69dc8c4|t:2025-12-20T11:00:00+00:00",
-    "source_url": "https://www.instagram.com/p/DRJmS-xEmAo/",
-    "venue_handle": "pdpdclub",
-    "musician_ids": [],
-    "musician_ig_handles": [],
-    "venue_id": "ven_c3b43966-ae0c-4c52-a64a-d9b9e69dc8c4",
-    "venue_location_id": "main",
-    "datetime": "2025-12-20T11:00:00+00:00",
-    "price": null,
-    "llm_confidence": 1.0,
-    "title": "Blue Bird Quintet",
-    "description": "Performance by Blue Bird Quintet featuring piano, trumpet, trombone, drums, and bass.",
-    "ticket_link": null,
-    "show_time": null,
-    "age_limit": null,
-    "_search_en": {
-      "title": "Blue Bird Quintet",
-      "description": "Performance by Blue Bird Quintet featuring piano, trumpet, trombone, drums, and bass."
-    },
-    "_search_ko": {
-      "title": "블루버드 퀸텟",
-      "description": "피아노, 트럼펫, 트롬본, 드럼, 베이스로 구성된 블루버드 퀸텟의 공연."
-    }
-  },
-  {
-    "id": "evt_20251220_272478d4-a0d2-4cd1-84bc-211aee0b1a32",
-    "event_key": "v:ven_600f5d9c-e53d-45a3-8a52-528d028189a0|t:2025-12-20T11:00:00+00:00",
-    "source_url": "https://www.instagram.com/p/DRbnQhOkieH/",
-    "venue_handle": "seobs_bar",
-    "musician_ids": [],
-    "musician_ig_handles": [],
-    "venue_id": "ven_600f5d9c-e53d-45a3-8a52-528d028189a0",
-    "venue_location_id": "main",
-    "datetime": "2025-12-20T11:00:00+00:00",
-    "price": null,
-    "llm_confidence": 1.0,
-    "title": "Park Eop",
-    "description": "Live performance by jazz bassist Park Eop.",
-    "ticket_link": null,
-    "show_time": null,
-    "age_limit": null,
-    "_search_en": {
-      "title": "Park Eop",
-      "description": "Live performance by jazz bassist Park Eop."
-    },
-    "_search_ko": {
-      "title": "박 업",
-      "description": "재즈 베이시스트 박 업의 라이브 공연."
-    }
-  },
-  {
-    "id": "evt_20251220_ab25e880-b571-44bd-a90b-4afe5f178a77",
-    "event_key": "v:ven_e57e7dd0-ba54-4765-ace6-fbf774a5b181|t:2025-12-20T11:00:00+00:00",
-    "source_url": "https://www.instagram.com/p/DP982KMEuFq/",
-    "venue_handle": "sounddog_jazz",
-    "musician_ids": [],
-    "musician_ig_handles": [],
-    "venue_id": "ven_e57e7dd0-ba54-4765-ace6-fbf774a5b181",
-    "venue_location_id": "main",
-    "datetime": "2025-12-20T11:00:00+00:00",
-    "price": "KRW 20,000",
-    "llm_confidence": 1.0,
-    "title": "Nam Yu-seon",
-    "description": "Nam Yu-seon performance.",
-    "ticket_link": null,
-    "show_time": null,
-    "age_limit": null,
-    "_search_en": {
-      "title": "Nam Yu-seon",
-      "description": "Nam Yu-seon performance."
-    },
-    "_search_ko": {
-      "title": "남유선",
-      "description": "남유선 공연."
-    }
-  },
-  {
-    "id": "evt_20251220_dddd07f7-9db4-4195-bd4a-d6f44b4f910e",
-    "event_key": "v:ven_4d2f5926-b57e-4c53-bc16-fd81e2ae1081|t:2025-12-20T11:00:00+00:00",
-    "source_url": "https://www.instagram.com/p/DSPe0TKkS_I/",
-    "venue_handle": "jazzclub_evans",
-    "musician_ids": [],
-    "musician_ig_handles": [],
-    "venue_id": "ven_4d2f5926-b57e-4c53-bc16-fd81e2ae1081",
-    "venue_location_id": "main",
-    "datetime": "2025-12-20T11:00:00+00:00",
-    "price": null,
-    "llm_confidence": 1.0,
-    "title": "Oh Young-jun Quartet",
-    "description": "Oh Young-jun Quartet performance. Oh Young-jun (piano), Yeo Hyeon-woo (saxophone), Jeong Sang-wook (bass), Lee Gil-jong (drums). Part 1 at 8:00 PM, Part 2 at 9:20 PM.",
-    "ticket_link": null,
-    "show_time": null,
-    "age_limit": null,
-    "_search_en": {
-      "title": "Oh Young-jun Quartet",
-      "description": "Oh Young-jun Quartet performance. Oh Young-jun (piano), Yeo Hyeon-woo (saxophone), Jeong Sang-wook (bass), Lee Gil-jong (drums). Part 1 at 8:00 PM, Part 2 at 9:20 PM."
-    },
-    "_search_ko": {
-      "title": "오영준 퀄텟",
-      "description": "오영준 퀄텟 공연. 오영준 (피아노), 여현우 (색소폰), 정상욱 (베이스), 이길종 (드럼). 1부 8:00 PM, 2부 9:20 PM."
-    }
-  },
-  {
-    "id": "evt_20251220_2b6a339e-81d3-4ade-9214-8e7a547c7be1",
-    "event_key": "v:ven_d8793345-9984-453f-ba47-85b936b044d8|t:2025-12-20T11:00:00+00:00",
-    "source_url": "https://www.instagram.com/p/DSRIDwOk2BL/",
-    "venue_handle": "newall_jazz",
-    "musician_ids": [],
-    "musician_ig_handles": [
-      "bongtrabass",
-      "modaaaaaaal",
-      "soonwookhahn",
-      "wooyeonjeong"
-    ],
-    "venue_id": "ven_d8793345-9984-453f-ba47-85b936b044d8",
-    "venue_location_id": "main",
-    "datetime": "2025-12-20T11:00:00+00:00",
-    "price": null,
-    "llm_confidence": 1.0,
-    "title": "Modal Band",
-    "description": "Special Carol Day: Modal Band: Modal (vocal) @modaaaaaaal, Jung Woo-yeon (piano) @wooyeonjeong, Kim Bong-gwan (bass) @bongtrabass, Han Soon-wook (drums) @soonwookhahn",
-    "ticket_link": null,
-    "show_time": null,
-    "age_limit": null,
-    "_search_en": {
-      "title": "Modal Band",
-      "description": "Special Carol Day: Modal Band: Modal (vocal) @modaaaaaaal, Jung Woo-yeon (piano) @wooyeonjeong, Kim Bong-gwan (bass) @bongtrabass, Han Soon-wook (drums) @soonwookhahn"
-    },
-    "_search_ko": {
-      "title": "모달 밴드",
-      "description": "스페셜 캐롤 데이: 모달 밴드: 모달 (보컬) @modaaaaaaal, 정우연 (피아노) @wooyeonjeong, 김봉관 (베이스) @bongtrabass, 한순욱 (드럼) @soonwookhahn"
-    }
-  },
-  {
-    "id": "evt_20251220_31733220-3a69-413d-91f4-3d1a51437ca7",
-    "event_key": "v:ven_5ad56022-0396-4cbb-b164-1c01bffcb0f9|t:2025-12-20T11:30:00+00:00",
-    "source_url": "https://www.instagram.com/p/DRt3xJBj1Sb/",
-    "venue_handle": "asome_ground",
-    "musician_ids": [],
-    "musician_ig_handles": [],
-    "venue_id": "ven_5ad56022-0396-4cbb-b164-1c01bffcb0f9",
-    "venue_location_id": "main",
-    "datetime": "2025-12-20T11:30:00+00:00",
-    "price": "None",
-    "llm_confidence": 1.0,
-    "title": "Kim No-hyun Soul Quintet",
-    "description": "Lee Cho-rong (vocal), Kim Min-joon (keys), Kim Eui-soo (guitar), Ma Jae-seon (drums), Kim No-hyun (bass).",
-    "ticket_link": null,
-    "show_time": null,
-    "age_limit": null,
-    "_search_en": {
-      "title": "Kim No-hyun Soul Quintet",
-      "description": "Lee Cho-rong (vocal), Kim Min-joon (keys), Kim Eui-soo (guitar), Ma Jae-seon (drums), Kim No-hyun (bass)."
-    },
-    "_search_ko": {
-      "title": "김노현 소울 퀸텟",
-      "description": "이초롱 (보컬), 김민준 (건반), 김의수 (기타), 마재선 (드럼), 김노현 (베이스)."
-    }
-  },
-  {
-    "id": "evt_20251220_c050e7e8-922b-4aad-ab95-9b20f7e4a19e",
-    "event_key": "v:ven_782b3bbf-b6a2-470e-a1e6-00b2f2d5587e|t:2025-12-20T11:30:00+00:00",
-    "source_url": "https://www.instagram.com/p/DRUUMxZj2xQ/",
-    "venue_handle": "dido_jazz_lounge",
-    "musician_ids": [],
-    "musician_ig_handles": [],
-    "venue_id": "ven_782b3bbf-b6a2-470e-a1e6-00b2f2d5587e",
-    "venue_location_id": "main",
-    "datetime": "2025-12-20T11:30:00+00:00",
-    "price": "None",
-    "llm_confidence": 1.0,
-    "title": "Band Gritty Kitty",
-    "description": "Band Gritty Kitty performance.",
-    "ticket_link": null,
-    "show_time": null,
-    "age_limit": null,
-    "_search_en": {
-      "title": "Band Gritty Kitty",
-      "description": "Band Gritty Kitty performance."
-    },
-    "_search_ko": {
-      "title": "밴드 그리티 키티",
-      "description": "밴드 그리티 키티 공연."
-    }
-  },
-  {
-    "id": "evt_20251220_dff06b31-bfc1-4e02-8bf2-d6445cdd9a68",
-    "event_key": "v:ven_a33b875a-ca85-4f9f-8b30-b7e0def9f0c1|t:2025-12-20T11:30:00+00:00",
-    "source_url": "https://www.instagram.com/p/DSSMiuZkdn1/",
-    "venue_handle": "mammy__blue",
-    "musician_ids": [],
-    "musician_ig_handles": [
-      "js__piano",
-      "min.hacho",
-      "woonjo_"
-    ],
-    "venue_id": "ven_a33b875a-ca85-4f9f-8b30-b7e0def9f0c1",
-    "venue_location_id": "main",
-    "datetime": "2025-12-20T11:30:00+00:00",
-    "price": "KRW 10,000",
-    "llm_confidence": 1.0,
-    "title": "Jo Un and Good Friends",
-    "description": "Performance by 'Jo Un and Good Friends' featuring vocalist Jo Un (@woonjo_), pianist Park Jin-seong (@js__piano), bassist Jo Min-ha (@min.hacho), and drummer Lee Seok-hyeon. The show consists of two 45-minute sets.",
-    "ticket_link": null,
-    "show_time": null,
-    "age_limit": null,
-    "_search_en": {
-      "title": "Jo Un and Good Friends",
-      "description": "Performance by 'Jo Un and Good Friends' featuring vocalist Jo Un (@woonjo_), pianist Park Jin-seong (@js__piano), bassist Jo Min-ha (@min.hacho), and drummer Lee Seok-hyeon. The show consists of two 45-minute sets."
-    },
-    "_search_ko": {
-      "title": "조운과 좋은 친구들",
-      "description": "보컬 조운 (@woonjo_), 피아노 박진성 (@js__piano), 베이스 조민하 (@min.hacho), 드럼 이석현으로 구성된 '조운과 좋은 친구들' 공연. 총 2부로 진행되며 각 45분씩 연주."
-    }
-  },
-  {
-    "id": "evt_20251220_fef36013-a308-4a92-bf61-484b32e5ecf4",
-    "event_key": "v:ven_0e7c10c5-1bd6-494e-8664-42bef9f4d10d|t:2025-12-20T11:30:00+00:00",
-    "source_url": "https://www.instagram.com/p/DR6yr-xkd8c/",
-    "venue_handle": "kindseoul.kr",
-    "musician_ids": [],
-    "musician_ig_handles": [],
-    "venue_id": "ven_0e7c10c5-1bd6-494e-8664-42bef9f4d10d",
-    "venue_location_id": "main",
-    "datetime": "2025-12-20T11:30:00+00:00",
-    "price": null,
-    "llm_confidence": 1.0,
-    "title": "Authentic Blue",
-    "description": "Performance by Authentic Blue band.",
-    "ticket_link": null,
-    "show_time": null,
-    "age_limit": null,
-    "_search_en": {
-      "title": "Authentic Blue",
-      "description": "Performance by Authentic Blue band."
-    },
-    "_search_ko": {
-      "title": "어센틱블루",
-      "description": "어센틱블루 밴드 공연."
-    }
-  },
-  {
-    "id": "evt_20251220_6fb1561a-1749-4d4b-817c-5804c38cb21c",
-    "event_key": "v:ven_0e45dc95-76e5-4d55-9e6d-e5c61cf531d5|t:2025-12-20T11:30:00+00:00",
-    "source_url": "https://www.instagram.com/p/DSSEp4riT8A/",
-    "venue_handle": "idenhouseinsta",
-    "musician_ids": [],
-    "musician_ig_handles": [],
-    "venue_id": "ven_0e45dc95-76e5-4d55-9e6d-e5c61cf531d5",
-    "venue_location_id": "main",
-    "datetime": "2025-12-20T11:30:00+00:00",
-    "price": "KRW 10,000",
-    "llm_confidence": 1.0,
-    "title": "Kansas City Band",
-    "description": "Kansas City Band performance. Park Eun-sung (trumpet), Jo Min-hyeong (saxophone), Byeon Jae-kyung (piano), Lee Ye-nok (bass), Yang Du-han (drums). Price: KRW 10,000.",
-    "ticket_link": null,
-    "show_time": null,
-    "age_limit": null,
-    "_search_en": {
-      "title": "Kansas City Band",
-      "description": "Kansas City Band performance. Park Eun-sung (trumpet), Jo Min-hyeong (saxophone), Byeon Jae-kyung (piano), Lee Ye-nok (bass), Yang Du-han (drums). Price: KRW 10,000."
-    },
-    "_search_ko": {
-      "title": "캔자스시티 밴드",
-      "description": "캔자스시티 밴드 공연. 박은성 (트럼펫), 조민형 (색소폰), 변재경 (피아노), 이예녹 (베이스), 양두한 (드럼). 가격: 10,000원."
-    }
-  },
-  {
-    "id": "evt_20251220_28515ee0-1df4-4184-99b3-b41ea46417fe",
-    "event_key": "v:ven_dc290c4d-e87a-46e2-b62c-c979bcbd0ae3|t:2025-12-20T11:30:00+00:00",
-    "source_url": "https://www.instagram.com/p/DSRo05Kk0J2/",
-    "venue_handle": "bluechicago_jazzbar",
-    "musician_ids": [],
-    "musician_ig_handles": [],
-    "venue_id": "ven_dc290c4d-e87a-46e2-b62c-c979bcbd0ae3",
-    "venue_location_id": "main",
-    "datetime": "2025-12-20T11:30:00+00:00",
-    "price": null,
-    "llm_confidence": 1.0,
-    "title": "Team Cotton",
-    "description": "Team Cotton jazz performance. Shin In-gyu (piano), Gong Jeong-eun (vocal), Park Hyo-seok (vocal), Kim Jong-hwa (bass), S W T P (trumpet, drums).",
-    "ticket_link": null,
-    "show_time": null,
-    "age_limit": null,
-    "_search_en": {
-      "title": "Team Cotton",
-      "description": "Team Cotton jazz performance. Shin In-gyu (piano), Gong Jeong-eun (vocal), Park Hyo-seok (vocal), Kim Jong-hwa (bass), S W T P (trumpet, drums)."
-    },
-    "_search_ko": {
-      "title": "팀 코튼",
-      "description": "팀 코튼 재즈 공연. 신인규 (피아노), 공정은 (보컬), 박효석 (보컬), 김종화 (베이스), S W T P (트럼펫, 드럼)."
-    }
-  },
-  {
-    "id": "evt_20251220_abc210da-0c57-4ac2-8891-7c1277a55649",
-    "event_key": "v:ven_6715fe20-c3e0-47e4-a54d-fd33305d3fd2|t:2025-12-20T11:50:00+00:00",
-    "source_url": "https://www.instagram.com/p/DSMdV4biS2I/",
-    "venue_handle": "chunnyun.jazz",
-    "musician_ids": [],
-    "musician_ig_handles": [],
-    "venue_id": "ven_6715fe20-c3e0-47e4-a54d-fd33305d3fd2",
-    "venue_location_id": "nakwon",
-    "datetime": "2025-12-20T11:50:00+00:00",
-    "price": null,
-    "llm_confidence": 1.0,
-    "title": "RIO Band v. Lee Soo-jin",
-    "description": "[Location: Nakwon] Part 2 performance by RIO Band featuring Lee Soo-jin.",
-    "ticket_link": null,
-    "show_time": null,
-    "age_limit": null,
-    "_search_en": {
-      "title": "RIO Band v. Lee Soo-jin",
-      "description": "[Location: Nakwon] Part 2 performance by RIO Band featuring Lee Soo-jin."
-    },
-    "_search_ko": {
-      "title": "RIO 밴드 v. 이수진",
-      "description": "[위치: 낙원] RIO 밴드와 이수진의 2부 공연."
-    }
-  },
-  {
-    "id": "evt_20251220_326e56c9-4f8e-4b13-a1f6-ac0c299725fb",
-    "event_key": "v:ven_9121334e-11fe-4710-8d7b-87f5825e3fcd|t:2025-12-20T12:00:00+00:00",
-    "source_url": "https://www.instagram.com/p/DRJ5ex1ATDs/",
-    "venue_handle": "bar_tican",
-    "musician_ids": [],
-    "musician_ig_handles": [],
-    "venue_id": "ven_9121334e-11fe-4710-8d7b-87f5825e3fcd",
-    "venue_location_id": "main",
-    "datetime": "2025-12-20T12:00:00+00:00",
-    "price": "KRW 10,000",
-    "llm_confidence": 1.0,
-    "title": "HEY P Live Performance",
-    "description": "Live performance by HEY P at BARTICAN, featuring jazz, K-pop, and pop music.",
-    "ticket_link": null,
-    "show_time": null,
-    "age_limit": null,
-    "_search_en": {
-      "title": "HEY P Live Performance",
-      "description": "Live performance by HEY P at BARTICAN, featuring jazz, K-pop, and pop music."
-    },
-    "_search_ko": {
-      "title": "HEY P 라이브 공연",
-      "description": "BARTICAN에서 열리는 HEY P의 라이브 공연. 재즈, 가요 및 팝 음악이 포함됩니다."
-    }
-  },
-  {
-    "id": "evt_20251220_4d56c00d-a38a-47ec-a99b-efb6486f11c1",
-    "event_key": "v:ven_60b6d3cb-5547-4382-bad8-2a5667f68c9f|t:2025-12-20T12:00:00+00:00",
-    "source_url": "https://www.instagram.com/p/DRjnTA_EUnI/",
-    "venue_handle": "edls_official",
-    "musician_ids": [],
-    "musician_ig_handles": [],
-    "venue_id": "ven_60b6d3cb-5547-4382-bad8-2a5667f68c9f",
-    "venue_location_id": "main",
-    "datetime": "2025-12-20T12:00:00+00:00",
-    "price": null,
-    "llm_confidence": 1.0,
-    "title": "Jeon Jin-yong Trio with Na-gyeom",
-    "description": "Live performance by Jeon Jin-yong Trio with Na-gyeom.",
-    "ticket_link": null,
-    "show_time": null,
-    "age_limit": null,
-    "_search_en": {
-      "title": "Jeon Jin-yong Trio with Na-gyeom",
-      "description": "Live performance by Jeon Jin-yong Trio with Na-gyeom."
-    },
-    "_search_ko": {
-      "title": "전진용 트리오 with 나겸",
-      "description": "전진용 트리오와 나겸의 라이브 공연."
-    }
-  },
-  {
-    "id": "evt_20251220_dc000c63-790c-47c4-8713-ab5272ca3506",
-    "event_key": "v:ven_18ca62e5-92e4-4145-883d-36c6b7c813bb|t:2025-12-20T12:00:00+00:00",
-    "source_url": "https://www.instagram.com/p/DRwBivdEvoe/",
-    "venue_handle": "rustic_jazz",
-    "musician_ids": [],
-    "musician_ig_handles": [
-      "drummingu"
-    ],
-    "venue_id": "ven_18ca62e5-92e4-4145-883d-36c6b7c813bb",
-    "venue_location_id": "main",
-    "datetime": "2025-12-20T12:00:00+00:00",
-    "price": "KRW 11,000",
-    "llm_confidence": 1.0,
-    "title": "Lee Min-gu Quartet (Set 2)",
-    "description": "Second set of the performance by Lee Min-gu Quartet.",
-    "ticket_link": null,
-    "show_time": null,
-    "age_limit": null,
-    "_search_en": {
-      "title": "Lee Min-gu Quartet (Set 2)",
-      "description": "Second set of the performance by Lee Min-gu Quartet."
-    },
-    "_search_ko": {
-      "title": "이민구 퀄텟 (2부)",
-      "description": "이민구 퀄텟 공연의 2부입니다."
-    }
-  },
-  {
-    "id": "evt_20251220_624d4ae7-92a4-47b1-a57b-77dc2cae5529",
-    "event_key": "v:ven_cb0c3754-4898-4a3e-be0b-0c6062df5111|t:2025-12-20T12:00:00+00:00",
-    "source_url": "https://www.instagram.com/p/DRrR00KE4K8/",
-    "venue_handle": "jazzlounge_official",
-    "musician_ids": [],
-    "musician_ig_handles": [],
-    "venue_id": "ven_cb0c3754-4898-4a3e-be0b-0c6062df5111",
-    "venue_location_id": "main",
-    "datetime": "2025-12-20T12:00:00+00:00",
-    "price": "KRW 5,000",
-    "llm_confidence": 1.0,
-    "title": "Kim Han-yul Trio",
-    "description": "Jazz live performance by Kim Han-yul (vocal) Trio. Featuring piano, bass.",
-    "ticket_link": null,
-    "show_time": null,
-    "age_limit": null,
-    "_search_en": {
-      "title": "Kim Han-yul Trio",
-      "description": "Jazz live performance by Kim Han-yul (vocal) Trio. Featuring piano, bass."
-    },
-    "_search_ko": {
-      "title": "김한율 트리오",
-      "description": "김한율 (보컬) 트리오의 재즈 라이브 공연. 피아노, 베이스."
-    }
-  },
-  {
-    "id": "evt_20251220_742339cd-3e89-465f-af62-a40b3bc0090c",
-    "event_key": "v:ven_a33b875a-ca85-4f9f-8b30-b7e0def9f0c1|t:2025-12-20T12:25:00+00:00",
-    "source_url": "https://www.instagram.com/p/DRuNuGiEUvo/",
-    "venue_handle": "mammy__blue",
-    "musician_ids": [],
-    "musician_ig_handles": [],
-    "venue_id": "ven_a33b875a-ca85-4f9f-8b30-b7e0def9f0c1",
-    "venue_location_id": "main",
-    "datetime": "2025-12-20T12:25:00+00:00",
-    "price": "KRW 10,000",
-    "llm_confidence": 1.0,
-    "title": "Jo Un and Good Friends (Part 2)",
-    "description": "Jo Un and Good Friends band performance, Part 2.",
-    "ticket_link": null,
-    "show_time": null,
-    "age_limit": null,
-    "_search_en": {
-      "title": "Jo Un and Good Friends (Part 2)",
-      "description": "Jo Un and Good Friends band performance, Part 2."
-    },
-    "_search_ko": {
-      "title": "조운과 좋은 친구들 (2부)",
-      "description": "조운과 좋은 친구들 밴드 공연 2부."
-    }
-  },
-  {
-    "id": "evt_20251220_9921ec5f-04ea-4cab-b6e9-d16f2790abae",
-    "event_key": "v:ven_5ad56022-0396-4cbb-b164-1c01bffcb0f9|t:2025-12-20T12:30:00+00:00",
-    "source_url": "https://www.instagram.com/p/DRt3xJBj1Sb/",
-    "venue_handle": "asome_ground",
-    "musician_ids": [],
-    "musician_ig_handles": [],
-    "venue_id": "ven_5ad56022-0396-4cbb-b164-1c01bffcb0f9",
-    "venue_location_id": "main",
-    "datetime": "2025-12-20T12:30:00+00:00",
-    "price": null,
-    "llm_confidence": 1.0,
-    "title": "Kim No-hyeon Soul Quintet",
-    "description": "Kim No-hyeon Soul Quintet performance. Featuring: Lee Cho-rong (vocal), Kim Min-jun (keys), Kim Ui-su (guitar), Ma Jae-seon (drums), Kim No-hyeon (bass).",
-    "ticket_link": null,
-    "show_time": null,
-    "age_limit": null,
-    "_search_en": {
-      "title": "Kim No-hyeon Soul Quintet",
-      "description": "Kim No-hyeon Soul Quintet performance. Featuring: Lee Cho-rong (vocal), Kim Min-jun (keys), Kim Ui-su (guitar), Ma Jae-seon (drums), Kim No-hyeon (bass)."
-    },
-    "_search_ko": {
-      "title": "김노현 소울 퀸텟",
-      "description": "김노현 소울 퀸텟 공연. 출연: 이초롱 (보컬), 김민준 (건반), 김의수 (기타), 마재선 (드럼), 김노현 (베이스)."
-    }
-  },
-  {
-    "id": "evt_20251220_e589435a-853b-4321-ac81-e3cdb72ee7f1",
-    "event_key": "v:ven_43bce5a9-5cf4-4a74-abdc-06bf5b998b89|t:2025-12-20T12:40:00+00:00",
-    "source_url": "https://www.instagram.com/p/DRQz2NRCYLf/",
-    "venue_handle": "entry55_official",
-    "musician_ids": [],
-    "musician_ig_handles": [],
-    "venue_id": "ven_43bce5a9-5cf4-4a74-abdc-06bf5b998b89",
-    "venue_location_id": "sadang",
-    "datetime": "2025-12-20T12:40:00+00:00",
-    "price": null,
-    "llm_confidence": 1.0,
-    "title": "Gritty Kitty",
-    "description": "[Location: Sadang] Jazzy Christmas carol live. Carol Playlist: This Christmas, All I want for Christmas is you, Zat you Santa Claus. Live time 55 minutes.",
-    "ticket_link": null,
-    "show_time": null,
-    "age_limit": null,
-    "_search_en": {
-      "title": "Gritty Kitty",
-      "description": "[Location: Sadang] Jazzy Christmas carol live. Carol Playlist: This Christmas, All I want for Christmas is you, Zat you Santa Claus. Live time 55 minutes."
-    },
-    "_search_ko": {
-      "title": "Gritty Kitty",
-      "description": "[위치: 사당] 재즈 캐롤 라이브. 캐롤 플레이리스트: This Christmas, All I want for Christmas is you, Zat you Santa Claus. 공연 시간 55분."
-    }
-  },
-  {
-    "id": "evt_20251220_9fb725a9-d18a-4b39-a798-7455cb1438de",
-    "event_key": "v:ven_668a43db-d5ab-412e-ae31-f0a49e4b4359|t:2025-12-20T13:00:00+00:00",
-    "source_url": "https://www.instagram.com/p/DRl1fCMiQ8o/",
-    "venue_handle": "jazzgarage_official",
-    "musician_ids": [],
-    "musician_ig_handles": [],
-    "venue_id": "ven_668a43db-d5ab-412e-ae31-f0a49e4b4359",
-    "venue_location_id": "main",
-    "datetime": "2025-12-20T13:00:00+00:00",
-    "price": null,
-    "llm_confidence": 1.0,
-    "title": "Kim Geun-hwi Trio",
-    "description": "Jazz performance by Kim Geun-hwi Trio.",
-    "ticket_link": null,
-    "show_time": null,
-    "age_limit": null,
-    "_search_en": {
-      "title": "Kim Geun-hwi Trio",
-      "description": "Jazz performance by Kim Geun-hwi Trio."
-    },
-    "_search_ko": {
-      "title": "김근휘 트리오",
-      "description": "김근휘 트리오의 재즈 공연."
-    }
-  },
-  {
-    "id": "evt_20251220_662b6731-e2f4-48b8-9817-9c2b35e2659a",
-    "event_key": "v:ven_8f63bbb7-f925-45f4-8bf7-284b0758a00c|t:2025-12-20T13:00:00+00:00",
-    "source_url": "https://www.instagram.com/p/DRv0unTEw2j/",
-    "venue_handle": "jazzxover",
-    "musician_ids": [],
-    "musician_ig_handles": [
-      "inda_groove_"
-    ],
-    "venue_id": "ven_8f63bbb7-f925-45f4-8bf7-284b0758a00c",
-    "venue_location_id": "main",
-    "datetime": "2025-12-20T13:00:00+00:00",
-    "price": "KRW 20,000 ~",
-    "llm_confidence": 1.0,
-    "title": "Kim Da-eun INDA GROOVE",
-    "description": "Kim Da-eun INDA GROOVE performance (Part 2).",
-    "ticket_link": null,
-    "show_time": null,
-    "age_limit": null,
-    "_search_en": {
-      "title": "Kim Da-eun INDA GROOVE",
-      "description": "Kim Da-eun INDA GROOVE performance (Part 2)."
-    },
-    "_search_ko": {
-      "title": "김다은 INDA GROOVE",
-      "description": "김다은 INDA GROOVE 공연 (2부)."
-    }
-  },
-  {
-    "id": "evt_20251220_8224a10f-92b2-44cb-86f9-4491ebd87f12",
-    "event_key": "v:ven_9142f2b2-e19c-4556-8ba7-7f42d8445f28|t:2025-12-20T13:00:00+00:00",
-    "source_url": "https://www.instagram.com/p/DSHgCJvEnsF/",
-    "venue_handle": "ninejazz_chungdam",
-    "musician_ids": [],
-    "musician_ig_handles": [],
-    "venue_id": "ven_9142f2b2-e19c-4556-8ba7-7f42d8445f28",
-    "venue_location_id": "main",
-    "datetime": "2025-12-20T13:00:00+00:00",
-    "price": null,
-    "llm_confidence": 1.0,
-    "title": "Nina Park Band",
-    "description": "Singer-songwriter Nina Park delivers a trend-setting performance with powerful high notes.",
-    "ticket_link": null,
-    "show_time": null,
-    "age_limit": null,
-    "_search_en": {
-      "title": "Nina Park Band",
-      "description": "Singer-songwriter Nina Park delivers a trend-setting performance with powerful high notes."
-    },
-    "_search_ko": {
-      "title": "니나파크 밴드",
-      "description": "싱어송라이터 니나파크의 폭발적인 고음과 트렌디한 무대."
-    }
-  },
-  {
-    "id": "evt_20251220_f3948b86-38e5-457b-94c0-7099e0f0a7fb",
-    "event_key": "v:ven_78b47c9f-20e6-45c8-a5d5-b8a986cd58ab|t:2025-12-20T13:30:00+00:00",
-    "source_url": "https://www.instagram.com/p/DSBh_imkqz3/",
-    "venue_handle": "seoul_garage_bar",
-    "musician_ids": [],
-    "musician_ig_handles": [],
-    "venue_id": "ven_78b47c9f-20e6-45c8-a5d5-b8a986cd58ab",
-    "venue_location_id": "seoul_comedy_club_daehakro",
-    "datetime": "2025-12-20T13:30:00+00:00",
-    "price": "Free admission",
-    "llm_confidence": 1.0,
-    "title": "MATTERDAY",
-    "description": "MATTERDAY performance by musical actors Lee Dong-gyu, Han Eun-bin, and saxophonist ALAN.",
-    "ticket_link": null,
-    "show_time": null,
-    "age_limit": null,
-    "_search_en": {
-      "title": "MATTERDAY",
-      "description": "MATTERDAY performance by musical actors Lee Dong-gyu, Han Eun-bin, and saxophonist ALAN."
-    },
-    "_search_ko": {
-      "title": "메터데이",
-      "description": "뮤지컬 배우 이동규, 한은빈, 색소포니스트 ALAN의 MATTERDAY 공연."
-    }
-  },
-  {
-    "id": "evt_20251220_866e360b-3311-4468-9cd5-706f47b41cca",
-    "event_key": "v:ven_8f63bbb7-f925-45f4-8bf7-284b0758a00c|t:2025-12-20T14:00:00+00:00",
-    "source_url": "https://www.instagram.com/p/DRnjsFTEwLG/",
-    "venue_handle": "jazzxover",
-    "musician_ids": [],
-    "musician_ig_handles": [],
-    "venue_id": "ven_8f63bbb7-f925-45f4-8bf7-284b0758a00c",
-    "venue_location_id": "main",
-    "datetime": "2025-12-20T14:00:00+00:00",
-    "price": "KRW 20,000 + 1 bottle (wine/whiskey) minimum order",
-    "llm_confidence": 1.0,
-    "title": "Kim Daeun INDA GROOVE",
-    "description": "JAZZXOVER Winter Swing 2025 performance. Admission fee KRW 20,000, 1 bottle (wine/whiskey) minimum order required.",
-    "ticket_link": null,
-    "show_time": null,
-    "age_limit": null,
-    "_search_en": {
-      "title": "Kim Daeun INDA GROOVE",
-      "description": "JAZZXOVER Winter Swing 2025 performance. Admission fee KRW 20,000, 1 bottle (wine/whiskey) minimum order required."
-    },
-    "_search_ko": {
-      "title": "김다은 인다 그루브",
-      "description": "JAZZXOVER WINTER SWING 2025 공연. 공연료 20,000원, 와인 또는 위스키 1병 필수 주문."
-    }
-  },
-  {
     "id": "evt_20251221_23b5bfb9-91ed-4fdf-a883-3fc83af35018",
     "event_key": "v:ven_43bce5a9-5cf4-4a74-abdc-06bf5b998b89|t:2025-12-21T05:00:00+00:00",
     "source_url": "https://www.instagram.com/p/DRQz2NRCYLf/",
@@ -1442,7 +28,7 @@
   {
     "id": "evt_20251221_165de167-9203-495f-b302-206918a77219",
     "event_key": "v:ven_60b6d3cb-5547-4382-bad8-2a5667f68c9f|t:2025-12-21T06:00:00+00:00",
-    "source_url": "https://www.instagram.com/p/DRjnTA_EUnI/",
+    "source_url": "https://www.instagram.com/p/DSCDPaAkWcq/",
     "venue_handle": "edls_official",
     "musician_ids": [],
     "musician_ig_handles": [],
@@ -1451,18 +37,18 @@
     "datetime": "2025-12-21T06:00:00+00:00",
     "price": "40,000 KRW",
     "llm_confidence": 1.0,
-    "title": "All Day Jazz Show",
-    "description": "Enjoy the All Day Jazz Show at EDLS.",
+    "title": "2025 Christmas Special ALL DAY, JAZZ SHOW!",
+    "description": "2025 Christmas Special ALL DAY, JAZZ SHOW! Featuring Hyeri&Boyoung Quartet, An Seong-mi Band, and BEARD & YOUNGBLOOD.",
     "ticket_link": null,
     "show_time": null,
     "age_limit": null,
     "_search_en": {
-      "title": "All Day Jazz Show",
-      "description": "Enjoy the All Day Jazz Show at EDLS."
+      "title": "2025 Christmas Special ALL DAY, JAZZ SHOW!",
+      "description": "2025 Christmas Special ALL DAY, JAZZ SHOW! Featuring Hyeri&Boyoung Quartet, An Seong-mi Band, and BEARD & YOUNGBLOOD."
     },
     "_search_ko": {
-      "title": "올데이, 재즈쇼",
-      "description": "EDLS에서 즐기는 올데이 재즈 쇼."
+      "title": "2025 크리스마스 스페셜 ALL DAY, JAZZ SHOW!",
+      "description": "2025 크리스마스 스페셜 ALL DAY, JAZZ SHOW! 혜리&보영 퀄텟, 안성미 밴드, BEARD & YOUNGBLOOD."
     }
   },
   {
@@ -1759,32 +345,6 @@
     }
   },
   {
-    "id": "evt_20251221_243ea761-d388-4630-a422-498e123a4751",
-    "event_key": "v:ven_60b6d3cb-5547-4382-bad8-2a5667f68c9f|t:2025-12-21T10:30:00+00:00",
-    "source_url": "https://www.instagram.com/p/DRTRMjjiSir/",
-    "venue_handle": "edls_official",
-    "musician_ids": [],
-    "musician_ig_handles": [],
-    "venue_id": "ven_60b6d3cb-5547-4382-bad8-2a5667f68c9f",
-    "venue_location_id": "main",
-    "datetime": "2025-12-21T10:30:00+00:00",
-    "price": "40,000 KRW",
-    "llm_confidence": 1.0,
-    "title": "BEARD & YOUNGBLOOD",
-    "description": "Christmas Special All Day Jazz Show Part 3. Korea's representative Chicago blues band. Deep soul and hot groove. Kang Ho-geon (guitar&vocal), Kim In-gyu (bass), Hong Ji-hyeong (drums), Kang Mi-gyeong (saxophone).",
-    "ticket_link": null,
-    "show_time": null,
-    "age_limit": null,
-    "_search_en": {
-      "title": "BEARD & YOUNGBLOOD",
-      "description": "Christmas Special All Day Jazz Show Part 3. Korea's representative Chicago blues band. Deep soul and hot groove. Kang Ho-geon (guitar&vocal), Kim In-gyu (bass), Hong Ji-hyeong (drums), Kang Mi-gyeong (saxophone)."
-    },
-    "_search_ko": {
-      "title": "BEARD & YOUNGBLOOD",
-      "description": "크리스마스 스페셜 올데이 재즈쇼 3부. 시카고 블루스 기반의 한국 대표 블루스 밴드. 진한 소울과 뜨거운 그루브. 강호건 (기타&보컬), 김인규 (베이스), 홍지형 (드럼), 강미경 (색소폰)."
-    }
-  },
-  {
     "id": "evt_20251221_f194091d-1f13-482c-8155-9a43d24b83b4",
     "event_key": "v:ven_6e486fef-b548-4980-8565-9c7d54e964da|t:2025-12-21T10:30:00+00:00",
     "source_url": "https://www.instagram.com/p/DROu61lkjog/",
@@ -1945,6 +505,58 @@
     }
   },
   {
+    "id": "evt_20251221_09c85142-e451-4072-ad68-0e0cc5faa4aa",
+    "event_key": "v:ven_8d2dcf2a-456f-4658-8640-84000f9b59f2|t:2025-12-21T11:00:00+00:00",
+    "source_url": "https://www.instagram.com/p/DRrwdJKD69v/",
+    "venue_handle": "milestones_jazz",
+    "musician_ids": [],
+    "musician_ig_handles": [],
+    "venue_id": "ven_8d2dcf2a-456f-4658-8640-84000f9b59f2",
+    "venue_location_id": "main",
+    "datetime": "2025-12-21T11:00:00+00:00",
+    "price": "Advance KRW 20,000 / At door KRW 25,000",
+    "llm_confidence": 1.0,
+    "title": "Kim Geon Quartet",
+    "description": "Jazz live performance. Advance KRW 20,000 / At door KRW 25,000.",
+    "ticket_link": null,
+    "show_time": null,
+    "age_limit": null,
+    "_search_en": {
+      "title": "Kim Geon Quartet",
+      "description": "Jazz live performance. Advance KRW 20,000 / At door KRW 25,000."
+    },
+    "_search_ko": {
+      "title": "김건 퀄텟",
+      "description": "재즈 라이브 공연. 예매 20,000원 / 현매 25,000원."
+    }
+  },
+  {
+    "id": "evt_20251221_b3e871c7-bdc1-4056-99bf-0c764a4dbd18",
+    "event_key": "v:ven_b0e60f70-963d-426b-a8a4-ae2d0b335e84|t:2025-12-21T11:00:00+00:00",
+    "source_url": "https://www.instagram.com/p/DSWZsYIE7qx/",
+    "venue_handle": "orient_express_wine_",
+    "musician_ids": [],
+    "musician_ig_handles": [],
+    "venue_id": "ven_b0e60f70-963d-426b-a8a4-ae2d0b335e84",
+    "venue_location_id": "main",
+    "datetime": "2025-12-21T11:00:00+00:00",
+    "price": "KRW 15,000",
+    "llm_confidence": 1.0,
+    "title": "Jang Si-on Band",
+    "description": "Jang Si-on Band performance.",
+    "ticket_link": null,
+    "show_time": null,
+    "age_limit": null,
+    "_search_en": {
+      "title": "Jang Si-on Band",
+      "description": "Jang Si-on Band performance."
+    },
+    "_search_ko": {
+      "title": "장시온 밴드",
+      "description": "장시온 밴드 공연."
+    }
+  },
+  {
     "id": "evt_20251221_1401f829-8d53-49c1-9fda-2c3e081a3aa2",
     "event_key": "v:ven_782b3bbf-b6a2-470e-a1e6-00b2f2d5587e|t:2025-12-21T11:30:00+00:00",
     "source_url": "https://www.instagram.com/p/DRUUMxZj2xQ/",
@@ -1968,6 +580,32 @@
     "_search_ko": {
       "title": "조윤과 좋은 친구들",
       "description": "조윤과 좋은 친구들의 공연."
+    }
+  },
+  {
+    "id": "evt_20251221_243ea761-d388-4630-a422-498e123a4751",
+    "event_key": "v:ven_60b6d3cb-5547-4382-bad8-2a5667f68c9f|t:2025-12-21T10:30:00+00:00",
+    "source_url": "https://www.instagram.com/p/DRTRMjjiSir/",
+    "venue_handle": "edls_official",
+    "musician_ids": [],
+    "musician_ig_handles": [],
+    "venue_id": "ven_60b6d3cb-5547-4382-bad8-2a5667f68c9f",
+    "venue_location_id": "main",
+    "datetime": "2025-12-21T11:30:00+00:00",
+    "price": "KRW 40,000",
+    "llm_confidence": 1.0,
+    "title": "BEARD & YOUNGBLOOD",
+    "description": "Part of 'ALL DAY, JAZZ SHOW!'. Korea's representative blues band based on Chicago blues. Active domestically and internationally, collaborating with jazz artists. BEARD-Kang Ho-geon (guitar&vocal), Kim In-gyu (bass), Hong Ji-hyeong (drum), Kang Mi-gyeong (saxophone).",
+    "ticket_link": null,
+    "show_time": null,
+    "age_limit": null,
+    "_search_en": {
+      "title": "BEARD & YOUNGBLOOD",
+      "description": "Part of 'ALL DAY, JAZZ SHOW!'. Korea's representative blues band based on Chicago blues. Active domestically and internationally, collaborating with jazz artists. BEARD-Kang Ho-geon (guitar&vocal), Kim In-gyu (bass), Hong Ji-hyeong (drum), Kang Mi-gyeong (saxophone)."
+    },
+    "_search_ko": {
+      "title": "BEARD & YOUNGBLOOD",
+      "description": "‘올데이, 재즈쇼!’의 일부. 시카고 블루스 기반의 한국 대표 블루스 밴드. 국내외에서 활발히 활동하며 재즈 아티스트들과 협업. BEARD-강호건 (기타&보컬), 김인규 (베이스), 홍지형 (드럼), 강미경 (색소폰)."
     }
   },
   {
@@ -2287,6 +925,32 @@
     }
   },
   {
+    "id": "evt_20251222_8c8c48e0-82c5-4be2-8efa-40d74cc3989a",
+    "event_key": "v:ven_8d2dcf2a-456f-4658-8640-84000f9b59f2|t:2025-12-22T11:00:00+00:00",
+    "source_url": "https://www.instagram.com/p/DRrwdJKD69v/",
+    "venue_handle": "milestones_jazz",
+    "musician_ids": [],
+    "musician_ig_handles": [],
+    "venue_id": "ven_8d2dcf2a-456f-4658-8640-84000f9b59f2",
+    "venue_location_id": "main",
+    "datetime": "2025-12-22T11:00:00+00:00",
+    "price": "Advance KRW 20,000 / At door KRW 25,000",
+    "llm_confidence": 1.0,
+    "title": "Hong Ji-hyung Trio",
+    "description": "Jazz live performance. Advance KRW 20,000 / At door KRW 25,000.",
+    "ticket_link": null,
+    "show_time": null,
+    "age_limit": null,
+    "_search_en": {
+      "title": "Hong Ji-hyung Trio",
+      "description": "Jazz live performance. Advance KRW 20,000 / At door KRW 25,000."
+    },
+    "_search_ko": {
+      "title": "홍지형 트리오",
+      "description": "재즈 라이브 공연. 예매 20,000원 / 현매 25,000원."
+    }
+  },
+  {
     "id": "evt_20251222_3daf4083-ae61-4474-88f9-02cd39fee945",
     "event_key": "v:ven_0f2890af-f8c6-410c-947f-2fa85144a63c|t:2025-12-22T11:30:00+00:00",
     "source_url": "https://www.instagram.com/p/DSUUrAykkWP/",
@@ -2530,6 +1194,58 @@
     }
   },
   {
+    "id": "evt_20251223_a934929c-3d07-4088-ae71-72bb9e1b336f",
+    "event_key": "v:ven_8d2dcf2a-456f-4658-8640-84000f9b59f2|t:2025-12-23T11:00:00+00:00",
+    "source_url": "https://www.instagram.com/p/DRrwdJKD69v/",
+    "venue_handle": "milestones_jazz",
+    "musician_ids": [],
+    "musician_ig_handles": [],
+    "venue_id": "ven_8d2dcf2a-456f-4658-8640-84000f9b59f2",
+    "venue_location_id": "main",
+    "datetime": "2025-12-23T11:00:00+00:00",
+    "price": "Advance KRW 20,000 / At door KRW 25,000",
+    "llm_confidence": 1.0,
+    "title": "Jung Young-gwang Trio + Jung Ji-yoon",
+    "description": "Jazz live performance. Advance KRW 20,000 / At door KRW 25,000.",
+    "ticket_link": null,
+    "show_time": null,
+    "age_limit": null,
+    "_search_en": {
+      "title": "Jung Young-gwang Trio + Jung Ji-yoon",
+      "description": "Jazz live performance. Advance KRW 20,000 / At door KRW 25,000."
+    },
+    "_search_ko": {
+      "title": "정영광 트리오 + 정지윤",
+      "description": "재즈 라이브 공연. 예매 20,000원 / 현매 25,000원."
+    }
+  },
+  {
+    "id": "evt_20251223_583d3f92-8b05-4b05-a161-1448f184536f",
+    "event_key": "v:ven_b0e60f70-963d-426b-a8a4-ae2d0b335e84|t:2025-12-23T11:00:00+00:00",
+    "source_url": "https://www.instagram.com/p/DSWZsYIE7qx/",
+    "venue_handle": "orient_express_wine_",
+    "musician_ids": [],
+    "musician_ig_handles": [],
+    "venue_id": "ven_b0e60f70-963d-426b-a8a4-ae2d0b335e84",
+    "venue_location_id": "main",
+    "datetime": "2025-12-23T11:00:00+00:00",
+    "price": "KRW 15,000",
+    "llm_confidence": 1.0,
+    "title": "Zombie & The Angels",
+    "description": "Zombie & The Angels performance.",
+    "ticket_link": null,
+    "show_time": null,
+    "age_limit": null,
+    "_search_en": {
+      "title": "Zombie & The Angels",
+      "description": "Zombie & The Angels performance."
+    },
+    "_search_ko": {
+      "title": "Zombie & The Angels",
+      "description": "Zombie & The Angels 공연."
+    }
+  },
+  {
     "id": "evt_20251223_aa508d4a-b202-4e2a-b761-48a107bb0211",
     "event_key": "v:ven_782b3bbf-b6a2-470e-a1e6-00b2f2d5587e|t:2025-12-23T11:30:00+00:00",
     "source_url": "https://www.instagram.com/p/DRUUMxZj2xQ/",
@@ -2667,7 +1383,7 @@
   {
     "id": "evt_20251224_4f9bceef-3e21-4098-b77f-291b159fad45",
     "event_key": "v:ven_d8793345-9984-453f-ba47-85b936b044d8|t:2025-12-24T04:00:00+00:00",
-    "source_url": "https://www.instagram.com/p/DR2KW5tiUXz/",
+    "source_url": "https://www.instagram.com/p/DSCzzYvE-v_/",
     "venue_handle": "newall_jazz",
     "musician_ids": [],
     "musician_ig_handles": [],
@@ -2676,18 +1392,18 @@
     "datetime": "2025-12-24T04:00:00+00:00",
     "price": "KRW 87,000",
     "llm_confidence": 1.0,
-    "title": "Christmas Special Course with Jazz Performance",
-    "description": "Christmas special 4-course meal including truffle pumpkin soup, chorizo scallop pasta, duck steak, and Christmas special dessert. Includes a special gift. (Drinks separate)",
+    "title": "Jo Yong-chan Quartet",
+    "description": "Christmas Lunch performance Part 1 with a special 4-course meal.",
     "ticket_link": null,
     "show_time": null,
     "age_limit": null,
     "_search_en": {
-      "title": "Christmas Special Course with Jazz Performance",
-      "description": "Christmas special 4-course meal including truffle pumpkin soup, chorizo scallop pasta, duck steak, and Christmas special dessert. Includes a special gift. (Drinks separate)"
+      "title": "Jo Yong-chan Quartet",
+      "description": "Christmas Lunch performance Part 1 with a special 4-course meal."
     },
     "_search_ko": {
-      "title": "크리스마스 스페셜 코스 재즈 공연",
-      "description": "트러플 단호박 스프, 초리조 관자 파스타, 오리 스테이크, 크리스마스 스페셜 디저트가 포함된 4코스 식사. 스페셜 기프트 제공. (주류, 음료 별도)"
+      "title": "조용찬 퀄텟",
+      "description": "스페셜 4코스 요리와 함께하는 크리스마스 런치 공연 1부."
     }
   },
   {
@@ -2740,32 +1456,6 @@
     "_search_ko": {
       "title": "이준영 퀄텟",
       "description": "[위치: 사당] 재즈 캐롤 라이브. 캐롤 플레이리스트: All I want for christmas is you, Sleigh bell, Jingle bell. 공연 시간 55분."
-    }
-  },
-  {
-    "id": "evt_20251224_7b483f49-1e61-441d-a318-154ca3cd9ee3",
-    "event_key": "v:ven_6e89ed93-cd64-46fc-83da-31ff34348700|t:2025-12-24T07:00:00+00:00",
-    "source_url": "https://www.instagram.com/p/DSB2St4gf1h/",
-    "venue_handle": "cottonclub_seoul",
-    "musician_ids": [],
-    "musician_ig_handles": [],
-    "venue_id": "ven_6e89ed93-cd64-46fc-83da-31ff34348700",
-    "venue_location_id": "main",
-    "datetime": "2025-12-24T07:00:00+00:00",
-    "price": "None",
-    "llm_confidence": 1.0,
-    "title": "Kim Han Quintet",
-    "description": "Kim Han Quintet explores diverse jazz styles: swing, bebop, Latin, bossa nova. Their broad, deep sound creates new emotions and spaces within the ensemble.",
-    "ticket_link": null,
-    "show_time": null,
-    "age_limit": null,
-    "_search_en": {
-      "title": "Kim Han Quintet",
-      "description": "Kim Han Quintet explores diverse jazz styles: swing, bebop, Latin, bossa nova. Their broad, deep sound creates new emotions and spaces within the ensemble."
-    },
-    "_search_ko": {
-      "title": "김한 퀸텟",
-      "description": "스윙, 비밥, 라틴, 보사노바 등 다양한 재즈 스타일을 기반으로 폭넓고 깊이 있는 사운드를 추구하는 밴드. 순간의 흐름에 집중하여 앙상블 속 새로운 감정과 공간을 그려내는 음악을 선보인다."
     }
   },
   {
@@ -2823,7 +1513,7 @@
   {
     "id": "evt_20251224_20dc072b-ef76-49aa-8eaa-8ed30695851f",
     "event_key": "v:ven_d8793345-9984-453f-ba47-85b936b044d8|t:2025-12-24T07:00:00+00:00",
-    "source_url": "https://www.instagram.com/p/DR2KW5tiUXz/",
+    "source_url": "https://www.instagram.com/p/DSCzzYvE-v_/",
     "venue_handle": "newall_jazz",
     "musician_ids": [],
     "musician_ig_handles": [],
@@ -2832,18 +1522,18 @@
     "datetime": "2025-12-24T07:00:00+00:00",
     "price": "KRW 87,000",
     "llm_confidence": 1.0,
-    "title": "Christmas Special Course with Jazz Performance",
-    "description": "Christmas special 4-course meal including truffle pumpkin soup, chorizo scallop pasta, duck steak, and Christmas special dessert. Includes a special gift. (Drinks separate)",
+    "title": "Jo Yong-chan Quartet",
+    "description": "Christmas Lunch performance Part 2 with a special 4-course meal.",
     "ticket_link": null,
     "show_time": null,
     "age_limit": null,
     "_search_en": {
-      "title": "Christmas Special Course with Jazz Performance",
-      "description": "Christmas special 4-course meal including truffle pumpkin soup, chorizo scallop pasta, duck steak, and Christmas special dessert. Includes a special gift. (Drinks separate)"
+      "title": "Jo Yong-chan Quartet",
+      "description": "Christmas Lunch performance Part 2 with a special 4-course meal."
     },
     "_search_ko": {
-      "title": "크리스마스 스페셜 코스 재즈 공연",
-      "description": "트러플 단호박 스프, 초리조 관자 파스타, 오리 스테이크, 크리스마스 스페셜 디저트가 포함된 4코스 식사. 스페셜 기프트 제공. (주류, 음료 별도)"
+      "title": "조용찬 퀄텟",
+      "description": "스페셜 4코스 요리와 함께하는 크리스마스 런치 공연 2부."
     }
   },
   {
@@ -2870,6 +1560,32 @@
     "_search_ko": {
       "title": "Early Carol Day",
       "description": "낮술과 함께하는 구름 같은 재즈 캐롤 공연. 크리스마스 이브 낮 공연으로, 오후 4시-5시 사이 50분간 진행됩니다. 1인 1음료 이상 주문 필수. 모든 예약은 12월 1일 00시에 네이버 예약에서 오픈됩니다."
+    }
+  },
+  {
+    "id": "evt_20251224_7b483f49-1e61-441d-a318-154ca3cd9ee3",
+    "event_key": "v:ven_6e89ed93-cd64-46fc-83da-31ff34348700|t:2025-12-24T07:00:00+00:00",
+    "source_url": "https://www.instagram.com/p/DSB2St4gf1h/",
+    "venue_handle": "cottonclub_seoul",
+    "musician_ids": [],
+    "musician_ig_handles": [],
+    "venue_id": "ven_6e89ed93-cd64-46fc-83da-31ff34348700",
+    "venue_location_id": "main",
+    "datetime": "2025-12-24T07:30:00+00:00",
+    "price": "None",
+    "llm_confidence": 1.0,
+    "title": "Kim Han Quintet",
+    "description": "A band pursuing a broad and deep sound based on diverse jazz styles including swing, bebop, Latin, and bossa nova. They present music that focuses on the moment's flow, creating new emotions and spaces within the ensemble.",
+    "ticket_link": null,
+    "show_time": null,
+    "age_limit": null,
+    "_search_en": {
+      "title": "Kim Han Quintet",
+      "description": "A band pursuing a broad and deep sound based on diverse jazz styles including swing, bebop, Latin, and bossa nova. They present music that focuses on the moment's flow, creating new emotions and spaces within the ensemble."
+    },
+    "_search_ko": {
+      "title": "김한 퀸텟",
+      "description": "스윙, 비밥, 라틴, 보사노바 등 다양한 재즈 스타일을 기반으로 폭넓고 깊이 있는 사운드를 추구하는 밴드. 순간의 흐름에 집중하여 앙상블 속 새로운 감정과 공간을 그려내는 음악을 선보인다."
     }
   },
   {
@@ -2901,7 +1617,7 @@
   {
     "id": "evt_20251224_f2231b6b-fdb2-4c93-ad0c-9e7e5b8a3b99",
     "event_key": "v:ven_defc39a1-7787-48c7-b5f4-623157118647|t:2025-12-24T08:00:00+00:00",
-    "source_url": "https://www.instagram.com/p/DRqSJ2fklKG/",
+    "source_url": "https://www.instagram.com/p/DRw3tPAEmvM/",
     "venue_handle": "bluecat.fezh",
     "musician_ids": [],
     "musician_ig_handles": [
@@ -2914,18 +1630,18 @@
     "datetime": "2025-12-24T08:00:00+00:00",
     "price": "None",
     "llm_confidence": 1.0,
-    "title": "Maeng Seo-ryeong Trio",
-    "description": "Year-end special dinner package performance. Kim Hyun-gyu (bass) @kyubase_, Maeng Seo-ryeong (piano) @seo_m_piano, Jung Sung-jae (drums) @sungjae_drums",
+    "title": "Blue Cat Year-End Special Jazz Night",
+    "description": "Romantic jazz performance by Jazz Music Korea Ensemble. Includes chef's special dinner and strawberry cake.",
     "ticket_link": null,
     "show_time": null,
     "age_limit": null,
     "_search_en": {
-      "title": "Maeng Seo-ryeong Trio",
-      "description": "Year-end special dinner package performance. Kim Hyun-gyu (bass) @kyubase_, Maeng Seo-ryeong (piano) @seo_m_piano, Jung Sung-jae (drums) @sungjae_drums"
+      "title": "Blue Cat Year-End Special Jazz Night",
+      "description": "Romantic jazz performance by Jazz Music Korea Ensemble. Includes chef's special dinner and strawberry cake."
     },
     "_search_ko": {
-      "title": "맹서령 트리오",
-      "description": "연말 스페셜 디너 패키지 공연. 김현규 (베이스) @kyubase_, 맹서령 (피아노) @seo_m_piano, 정성재 (드럼) @sungjae_drums"
+      "title": "블루캣 연말 스페셜 재즈 나잇",
+      "description": "재즈뮤직코리아 앙상블의 로맨틱 재즈 공연. 셰프의 스페셜 디너와 딸기 케이크 포함."
     }
   },
   {
@@ -3269,32 +1985,6 @@
     }
   },
   {
-    "id": "evt_20251224_87277742-3b94-4bbd-8f52-0c4ff1441ea2",
-    "event_key": "v:ven_6e89ed93-cd64-46fc-83da-31ff34348700|t:2025-12-24T10:00:00+00:00",
-    "source_url": "https://www.instagram.com/p/DSB2St4gf1h/",
-    "venue_handle": "cottonclub_seoul",
-    "musician_ids": [],
-    "musician_ig_handles": [],
-    "venue_id": "ven_6e89ed93-cd64-46fc-83da-31ff34348700",
-    "venue_location_id": "main",
-    "datetime": "2025-12-24T10:00:00+00:00",
-    "price": "None",
-    "llm_confidence": 1.0,
-    "title": "Lee Ji-yeon Quintet",
-    "description": "A comfortable yet lively jazz performance with vocalist Lee Ji-yeon, known for her lyrical voice, and talented musicians.",
-    "ticket_link": null,
-    "show_time": null,
-    "age_limit": null,
-    "_search_en": {
-      "title": "Lee Ji-yeon Quintet",
-      "description": "A comfortable yet lively jazz performance with vocalist Lee Ji-yeon, known for her lyrical voice, and talented musicians."
-    },
-    "_search_ko": {
-      "title": "이지연 퀸텟",
-      "description": "서정적인 보이스의 보컬리스트 이지연과 실력파 연주자들이 함께하는 편안하면서도 생동감 넘치는 재즈 공연."
-    }
-  },
-  {
     "id": "evt_20251224_50be8ada-5715-4d03-a5e6-4de854141270",
     "event_key": "v:ven_8f63bbb7-f925-45f4-8bf7-284b0758a00c|t:2025-12-24T10:00:00+00:00",
     "source_url": "https://www.instagram.com/p/DRv0unTEw2j/",
@@ -3351,7 +2041,7 @@
   {
     "id": "evt_20251224_78e50950-2a29-41f2-881f-35ac57c7e7fa",
     "event_key": "v:ven_d8793345-9984-453f-ba47-85b936b044d8|t:2025-12-24T10:00:00+00:00",
-    "source_url": "https://www.instagram.com/p/DR2KW5tiUXz/",
+    "source_url": "https://www.instagram.com/p/DSCzzYvE-v_/",
     "venue_handle": "newall_jazz",
     "musician_ids": [],
     "musician_ig_handles": [],
@@ -3360,18 +2050,18 @@
     "datetime": "2025-12-24T10:00:00+00:00",
     "price": "KRW 87,000",
     "llm_confidence": 1.0,
-    "title": "Christmas Special Course with Jazz Performance",
-    "description": "Christmas special 4-course meal including truffle pumpkin soup, chorizo scallop pasta, duck steak, and Christmas special dessert. Includes a special gift. Wine bottle mandatory for dinner course. (Drinks separate)",
+    "title": "Jung Pil-seop Swing Band",
+    "description": "Christmas Dinner performance Part 1 with a special 4-course meal. Mandatory wine bottle order for dinner.",
     "ticket_link": null,
     "show_time": null,
     "age_limit": null,
     "_search_en": {
-      "title": "Christmas Special Course with Jazz Performance",
-      "description": "Christmas special 4-course meal including truffle pumpkin soup, chorizo scallop pasta, duck steak, and Christmas special dessert. Includes a special gift. Wine bottle mandatory for dinner course. (Drinks separate)"
+      "title": "Jung Pil-seop Swing Band",
+      "description": "Christmas Dinner performance Part 1 with a special 4-course meal. Mandatory wine bottle order for dinner."
     },
     "_search_ko": {
-      "title": "크리스마스 스페셜 코스 재즈 공연",
-      "description": "트러플 단호박 스프, 초리조 관자 파스타, 오리 스테이크, 크리스마스 스페셜 디저트가 포함된 4코스 식사. 스페셜 기프트 제공. 디너 코스 시 와인 바틀 필수 주문. (주류, 음료 별도)"
+      "title": "정필섭 스윙 밴드",
+      "description": "스페셜 4코스 요리와 함께하는 크리스마스 디너 공연 1부. 와인 바틀 필수 주문."
     }
   },
   {
@@ -3531,6 +2221,32 @@
     }
   },
   {
+    "id": "evt_20251224_87277742-3b94-4bbd-8f52-0c4ff1441ea2",
+    "event_key": "v:ven_6e89ed93-cd64-46fc-83da-31ff34348700|t:2025-12-24T10:00:00+00:00",
+    "source_url": "https://www.instagram.com/p/DSB2St4gf1h/",
+    "venue_handle": "cottonclub_seoul",
+    "musician_ids": [],
+    "musician_ig_handles": [],
+    "venue_id": "ven_6e89ed93-cd64-46fc-83da-31ff34348700",
+    "venue_location_id": "main",
+    "datetime": "2025-12-24T10:30:00+00:00",
+    "price": "None",
+    "llm_confidence": 1.0,
+    "title": "Lee Ji-yeon Quintet",
+    "description": "Vocalist Lee Ji-yeon, known for her lyrical voice, performs a comfortable yet vibrant jazz show with talented instrumentalists.",
+    "ticket_link": null,
+    "show_time": null,
+    "age_limit": null,
+    "_search_en": {
+      "title": "Lee Ji-yeon Quintet",
+      "description": "Vocalist Lee Ji-yeon, known for her lyrical voice, performs a comfortable yet vibrant jazz show with talented instrumentalists."
+    },
+    "_search_ko": {
+      "title": "이지연 퀸텟",
+      "description": "서정적인 보이스의 보컬리스트 이지연과 실력파 연주자들이 함께 편안하면서도 생동감 넘치는 재즈 공연을 선사한다."
+    }
+  },
+  {
     "id": "evt_20251224_c56f929c-80f0-4024-b293-dc7fafb9dfdf",
     "event_key": "v:ven_6e89ed93-cd64-46fc-83da-31ff34348700|t:2025-12-24T10:30:00+00:00",
     "source_url": "https://www.instagram.com/p/DSB2St4gf1h/",
@@ -3559,7 +2275,7 @@
   {
     "id": "evt_20251224_bc5a2d18-0b51-45bd-b1d1-e171185e5c61",
     "event_key": "v:ven_60b6d3cb-5547-4382-bad8-2a5667f68c9f|t:2025-12-24T10:30:00+00:00",
-    "source_url": "https://www.instagram.com/p/DSCgMTWiWN0/",
+    "source_url": "https://www.instagram.com/p/DSXCHEMkclT/",
     "venue_handle": "edls_official",
     "musician_ids": [],
     "musician_ig_handles": [],
@@ -3569,17 +2285,17 @@
     "price": "KRW 170,000",
     "llm_confidence": 1.0,
     "title": "Hyeri&Boyoung Quartet",
-    "description": "Romantic Christmas Jazz & Dinner. Includes 2 jazz viewing tickets with early reservation of HOLLYDAY JAZZ PLATTER or EDLS SPECIAL SET (KRW 170,000 ~ KRW 200,000).",
+    "description": "An X-mas healing jazz stage presenting masterpieces from various genres including jazz, pop.",
     "ticket_link": null,
     "show_time": null,
     "age_limit": null,
     "_search_en": {
       "title": "Hyeri&Boyoung Quartet",
-      "description": "Romantic Christmas Jazz & Dinner. Includes 2 jazz viewing tickets with early reservation of HOLLYDAY JAZZ PLATTER or EDLS SPECIAL SET (KRW 170,000 ~ KRW 200,000)."
+      "description": "An X-mas healing jazz stage presenting masterpieces from various genres including jazz, pop."
     },
     "_search_ko": {
       "title": "혜리&보영 퀄텟",
-      "description": "로맨틱 크리스마스 재즈 & 디너. HOLLYDAY JAZZ PLATTER 또는 EDLS SPECIAL SET 사전 예약 시 재즈 공연 관람권 2인 포함 (170,000원 ~ 200,000원)."
+      "description": "재즈, 가요, 팝 등 다양한 장르의 명곡을 새롭게 선보이는 X-mas 힐링 재즈 무대."
     }
   },
   {
@@ -3611,7 +2327,7 @@
   {
     "id": "evt_20251224_7ea98e7f-9ade-4ae9-8eaf-35c56ec9fecf",
     "event_key": "v:ven_5bb65766-9242-4a8a-bbdf-c7cdd5dd73f0|t:2025-12-24T11:00:00+00:00",
-    "source_url": "https://www.instagram.com/p/DRQoiLrj4y5/",
+    "source_url": "https://www.instagram.com/p/DRQojh2Dyn6/",
     "venue_handle": "africa_since1988",
     "musician_ids": [],
     "musician_ig_handles": [],
@@ -3620,24 +2336,24 @@
     "datetime": "2025-12-24T11:00:00+00:00",
     "price": "KRW 20,000",
     "llm_confidence": 1.0,
-    "title": "Hyojungri Band (Christmas Special)",
-    "description": "Christmas Special. Hyojungri (vocal) Band.",
+    "title": "Hyo Jeong-ri Band (Christmas Special)",
+    "description": "Hyo Jeong-ri (vocal), Kim Dae-gyu (piano), Park Ju-min (bass), Alain O. Samada (drums). Christmas special.",
     "ticket_link": null,
     "show_time": null,
     "age_limit": null,
     "_search_en": {
-      "title": "Hyojungri Band (Christmas Special)",
-      "description": "Christmas Special. Hyojungri (vocal) Band."
+      "title": "Hyo Jeong-ri Band (Christmas Special)",
+      "description": "Hyo Jeong-ri (vocal), Kim Dae-gyu (piano), Park Ju-min (bass), Alain O. Samada (drums). Christmas special."
     },
     "_search_ko": {
       "title": "효정리 밴드 (크리스마스 특집)",
-      "description": "크리스마스 특집. 효정리 (보컬) 밴드."
+      "description": "효정리 (보컬), 김대규 (피아노), 박주민 (베이스), Alain O. Samada (드럼). 크리스마스 특집."
     }
   },
   {
     "id": "evt_20251224_3fa4e001-ea5c-4509-b7a3-418162123063",
     "event_key": "v:ven_defc39a1-7787-48c7-b5f4-623157118647|t:2025-12-24T11:00:00+00:00",
-    "source_url": "https://www.instagram.com/p/DRqSJ2fklKG/",
+    "source_url": "https://www.instagram.com/p/DRw3tPAEmvM/",
     "venue_handle": "bluecat.fezh",
     "musician_ids": [],
     "musician_ig_handles": [
@@ -3650,18 +2366,18 @@
     "datetime": "2025-12-24T11:00:00+00:00",
     "price": "None",
     "llm_confidence": 1.0,
-    "title": "Maeng Seo-ryeong Trio",
-    "description": "Year-end special dinner package performance. Kim Hyun-gyu (bass) @kyubase_, Maeng Seo-ryeong (piano) @seo_m_piano, Jung Sung-jae (drums) @sungjae_drums",
+    "title": "Blue Cat Year-End Special Jazz Night",
+    "description": "Romantic jazz performance by Jazz Music Korea Ensemble. Includes chef's special dinner and strawberry cake.",
     "ticket_link": null,
     "show_time": null,
     "age_limit": null,
     "_search_en": {
-      "title": "Maeng Seo-ryeong Trio",
-      "description": "Year-end special dinner package performance. Kim Hyun-gyu (bass) @kyubase_, Maeng Seo-ryeong (piano) @seo_m_piano, Jung Sung-jae (drums) @sungjae_drums"
+      "title": "Blue Cat Year-End Special Jazz Night",
+      "description": "Romantic jazz performance by Jazz Music Korea Ensemble. Includes chef's special dinner and strawberry cake."
     },
     "_search_ko": {
-      "title": "맹서령 트리오",
-      "description": "연말 스페셜 디너 패키지 공연. 김현규 (베이스) @kyubase_, 맹서령 (피아노) @seo_m_piano, 정성재 (드럼) @sungjae_drums"
+      "title": "블루캣 연말 스페셜 재즈 나잇",
+      "description": "재즈뮤직코리아 앙상블의 로맨틱 재즈 공연. 셰프의 스페셜 디너와 딸기 케이크 포함."
     }
   },
   {
@@ -4060,6 +2776,58 @@
     }
   },
   {
+    "id": "evt_20251224_aceeb5c9-ee79-4e5f-a28c-696aedda29e7",
+    "event_key": "v:ven_8d2dcf2a-456f-4658-8640-84000f9b59f2|t:2025-12-24T11:00:00+00:00",
+    "source_url": "https://www.instagram.com/p/DRrwdJKD69v/",
+    "venue_handle": "milestones_jazz",
+    "musician_ids": [],
+    "musician_ig_handles": [],
+    "venue_id": "ven_8d2dcf2a-456f-4658-8640-84000f9b59f2",
+    "venue_location_id": "main",
+    "datetime": "2025-12-24T11:00:00+00:00",
+    "price": "Advance KRW 20,000 / At door KRW 25,000",
+    "llm_confidence": 1.0,
+    "title": "Jung Min-sung Quartet",
+    "description": "Jazz live performance. Advance KRW 20,000 / At door KRW 25,000.",
+    "ticket_link": null,
+    "show_time": null,
+    "age_limit": null,
+    "_search_en": {
+      "title": "Jung Min-sung Quartet",
+      "description": "Jazz live performance. Advance KRW 20,000 / At door KRW 25,000."
+    },
+    "_search_ko": {
+      "title": "정민성 퀄텟",
+      "description": "재즈 라이브 공연. 예매 20,000원 / 현매 25,000원."
+    }
+  },
+  {
+    "id": "evt_20251224_5fcc3716-f935-434f-8808-d46d75a90411",
+    "event_key": "v:ven_b0e60f70-963d-426b-a8a4-ae2d0b335e84|t:2025-12-24T11:00:00+00:00",
+    "source_url": "https://www.instagram.com/p/DSWZsYIE7qx/",
+    "venue_handle": "orient_express_wine_",
+    "musician_ids": [],
+    "musician_ig_handles": [],
+    "venue_id": "ven_b0e60f70-963d-426b-a8a4-ae2d0b335e84",
+    "venue_location_id": "main",
+    "datetime": "2025-12-24T11:00:00+00:00",
+    "price": "KRW 15,000",
+    "llm_confidence": 1.0,
+    "title": "Christmas Eve Jazz Quartet",
+    "description": "Christmas Eve Jazz Quartet performance.",
+    "ticket_link": null,
+    "show_time": null,
+    "age_limit": null,
+    "_search_en": {
+      "title": "Christmas Eve Jazz Quartet",
+      "description": "Christmas Eve Jazz Quartet performance."
+    },
+    "_search_ko": {
+      "title": "크리스마스 이브 재즈 퀄텟",
+      "description": "크리스마스 이브 재즈 퀄텟 공연."
+    }
+  },
+  {
     "id": "evt_20251224_f28157de-b7d3-4ee1-a716-24529d547ad7",
     "event_key": "v:ven_deec1cbb-d591-4db1-b88c-ed13402c1740|t:2025-12-24T11:30:00+00:00",
     "source_url": "https://www.instagram.com/p/DR_h53aj7Jw/",
@@ -4213,32 +2981,6 @@
     "_search_ko": {
       "title": "호라",
       "description": "[위치: 종각] 호라의 크리스마스 이브 콘서트. 예약 선예매 시 15% 할인, 와인 10% 할인."
-    }
-  },
-  {
-    "id": "evt_20251224_bf69afbd-e4a7-4286-a1b9-7eb4280b15a1",
-    "event_key": "v:ven_9121334e-11fe-4710-8d7b-87f5825e3fcd|t:2025-12-24T12:00:00+00:00",
-    "source_url": "https://www.instagram.com/p/DRq4XsNgSo-/",
-    "venue_handle": "bar_tican",
-    "musician_ids": [],
-    "musician_ig_handles": [],
-    "venue_id": "ven_9121334e-11fe-4710-8d7b-87f5825e3fcd",
-    "venue_location_id": "main",
-    "datetime": "2025-12-24T12:00:00+00:00",
-    "price": "KRW 5,000",
-    "llm_confidence": 1.0,
-    "title": "Haeilup Band",
-    "description": "Haeilup Band performance. Admission: KRW 5,000.",
-    "ticket_link": null,
-    "show_time": null,
-    "age_limit": null,
-    "_search_en": {
-      "title": "Haeilup Band",
-      "description": "Haeilup Band performance. Admission: KRW 5,000."
-    },
-    "_search_ko": {
-      "title": "해일럽 밴드",
-      "description": "해일럽 밴드 공연. 입장료: 5,000원."
     }
   },
   {
@@ -4530,6 +3272,32 @@
     }
   },
   {
+    "id": "evt_20251224_bf69afbd-e4a7-4286-a1b9-7eb4280b15a1",
+    "event_key": "v:ven_9121334e-11fe-4710-8d7b-87f5825e3fcd|t:2025-12-24T12:00:00+00:00",
+    "source_url": "https://www.instagram.com/p/DRq4XsNgSo-/",
+    "venue_handle": "bar_tican",
+    "musician_ids": [],
+    "musician_ig_handles": [],
+    "venue_id": "ven_9121334e-11fe-4710-8d7b-87f5825e3fcd",
+    "venue_location_id": "main",
+    "datetime": "2025-12-24T13:00:00+00:00",
+    "price": "KRW 5,000",
+    "llm_confidence": 1.0,
+    "title": "Haeilup Band",
+    "description": "Haeilup Band performance. Admission: KRW 5,000.",
+    "ticket_link": null,
+    "show_time": null,
+    "age_limit": null,
+    "_search_en": {
+      "title": "Haeilup Band",
+      "description": "Haeilup Band performance. Admission: KRW 5,000."
+    },
+    "_search_ko": {
+      "title": "해일럽 밴드",
+      "description": "해일럽 밴드 공연. 입장료: 5,000원."
+    }
+  },
+  {
     "id": "evt_20251224_4e960449-615c-4263-958b-f78317a48cc7",
     "event_key": "v:ven_9121334e-11fe-4710-8d7b-87f5825e3fcd|t:2025-12-24T13:00:00+00:00",
     "source_url": "https://www.instagram.com/p/DRq4XsNgSo-/",
@@ -4582,35 +3350,9 @@
     }
   },
   {
-    "id": "evt_20251224_cafa7b44-4ef7-47bf-9526-f387f72bceec",
-    "event_key": "v:ven_6e89ed93-cd64-46fc-83da-31ff34348700|t:2025-12-24T13:00:00+00:00",
-    "source_url": "https://www.instagram.com/p/DSB2St4gf1h/",
-    "venue_handle": "cottonclub_seoul",
-    "musician_ids": [],
-    "musician_ig_handles": [],
-    "venue_id": "ven_6e89ed93-cd64-46fc-83da-31ff34348700",
-    "venue_location_id": "main",
-    "datetime": "2025-12-24T13:00:00+00:00",
-    "price": "None",
-    "llm_confidence": 1.0,
-    "title": "Park Ra-on Quintet",
-    "description": "Jazz vocalist Park Ra-on (Karina Nebula) presents a special Christmas stage with colleagues. Enjoy her charming, whispering voice this Christmas Eve.",
-    "ticket_link": null,
-    "show_time": null,
-    "age_limit": null,
-    "_search_en": {
-      "title": "Park Ra-on Quintet",
-      "description": "Jazz vocalist Park Ra-on (Karina Nebula) presents a special Christmas stage with colleagues. Enjoy her charming, whispering voice this Christmas Eve."
-    },
-    "_search_ko": {
-      "title": "박라온 퀸텟",
-      "description": "카리나 네뷸라 보컬로 활동 중인 재즈 보컬리스트 박라온이 음악 동료들과 함께 준비한 크리스마스 특별 무대. 속삭이듯 매력적인 보이스와 함께하는 크리스마스 이브 공연."
-    }
-  },
-  {
     "id": "evt_20251224_141a59e3-384a-4f37-90e7-84d791c4ce30",
     "event_key": "v:ven_60b6d3cb-5547-4382-bad8-2a5667f68c9f|t:2025-12-24T13:00:00+00:00",
-    "source_url": "https://www.instagram.com/p/DSCgMTWiWN0/",
+    "source_url": "https://www.instagram.com/p/DSXCHEMkclT/",
     "venue_handle": "edls_official",
     "musician_ids": [],
     "musician_ig_handles": [],
@@ -4620,17 +3362,17 @@
     "price": "KRW 170,000",
     "llm_confidence": 1.0,
     "title": "An Seong-mi Band",
-    "description": "Romantic Christmas Jazz & Dinner. Includes 2 jazz viewing tickets with early reservation of HOLLYDAY JAZZ PLATTER or EDLS SPECIAL SET (KRW 170,000 ~ KRW 200,000).",
+    "description": "X-mas emotional jazz crossing standard jazz and pop, presented by Grand Prize-winning vocalist An Seong-mi and her band.",
     "ticket_link": null,
     "show_time": null,
     "age_limit": null,
     "_search_en": {
       "title": "An Seong-mi Band",
-      "description": "Romantic Christmas Jazz & Dinner. Includes 2 jazz viewing tickets with early reservation of HOLLYDAY JAZZ PLATTER or EDLS SPECIAL SET (KRW 170,000 ~ KRW 200,000)."
+      "description": "X-mas emotional jazz crossing standard jazz and pop, presented by Grand Prize-winning vocalist An Seong-mi and her band."
     },
     "_search_ko": {
       "title": "안성미 밴드",
-      "description": "로맨틱 크리스마스 재즈 & 디너. HOLLYDAY JAZZ PLATTER 또는 EDLS SPECIAL SET 사전 예약 시 재즈 공연 관람권 2인 포함 (170,000원 ~ 200,000원)."
+      "description": "대학가요제 대상 수상 보컬리스트 안성미와 밴드가 선보이는 스탠다드 재즈와 팝을 넘나드는 X-mas 감성 재즈."
     }
   },
   {
@@ -4690,7 +3432,7 @@
   {
     "id": "evt_20251224_2024cf61-74d8-4a57-8655-a0399646afae",
     "event_key": "v:ven_d8793345-9984-453f-ba47-85b936b044d8|t:2025-12-24T13:00:00+00:00",
-    "source_url": "https://www.instagram.com/p/DR2KW5tiUXz/",
+    "source_url": "https://www.instagram.com/p/DSCzzYvE-v_/",
     "venue_handle": "newall_jazz",
     "musician_ids": [],
     "musician_ig_handles": [],
@@ -4699,18 +3441,18 @@
     "datetime": "2025-12-24T13:00:00+00:00",
     "price": "KRW 87,000",
     "llm_confidence": 1.0,
-    "title": "Christmas Special Course with Jazz Performance",
-    "description": "Christmas special 4-course meal including truffle pumpkin soup, chorizo scallop pasta, duck steak, and Christmas special dessert. Includes a special gift. Wine bottle mandatory for dinner course. (Drinks separate)",
+    "title": "Jung Pil-seop Swing Band",
+    "description": "Christmas Dinner performance Part 2 with a special 4-course meal. Mandatory wine bottle order for dinner.",
     "ticket_link": null,
     "show_time": null,
     "age_limit": null,
     "_search_en": {
-      "title": "Christmas Special Course with Jazz Performance",
-      "description": "Christmas special 4-course meal including truffle pumpkin soup, chorizo scallop pasta, duck steak, and Christmas special dessert. Includes a special gift. Wine bottle mandatory for dinner course. (Drinks separate)"
+      "title": "Jung Pil-seop Swing Band",
+      "description": "Christmas Dinner performance Part 2 with a special 4-course meal. Mandatory wine bottle order for dinner."
     },
     "_search_ko": {
-      "title": "크리스마스 스페셜 코스 재즈 공연",
-      "description": "트러플 단호박 스프, 초리조 관자 파스타, 오리 스테이크, 크리스마스 스페셜 디저트가 포함된 4코스 식사. 스페셜 기프트 제공. 디너 코스 시 와인 바틀 필수 주문. (주류, 음료 별도)"
+      "title": "정필섭 스윙 밴드",
+      "description": "스페셜 4코스 요리와 함께하는 크리스마스 디너 공연 2부. 와인 바틀 필수 주문."
     }
   },
   {
@@ -4789,6 +3531,32 @@
     "_search_ko": {
       "title": "이미소 퀸텟",
       "description": "크리스마스 재즈 스페셜 공연. 스탠다드 재즈 및 캐롤 라이브."
+    }
+  },
+  {
+    "id": "evt_20251224_cafa7b44-4ef7-47bf-9526-f387f72bceec",
+    "event_key": "v:ven_6e89ed93-cd64-46fc-83da-31ff34348700|t:2025-12-24T13:00:00+00:00",
+    "source_url": "https://www.instagram.com/p/DSB2St4gf1h/",
+    "venue_handle": "cottonclub_seoul",
+    "musician_ids": [],
+    "musician_ig_handles": [],
+    "venue_id": "ven_6e89ed93-cd64-46fc-83da-31ff34348700",
+    "venue_location_id": "main",
+    "datetime": "2025-12-24T13:30:00+00:00",
+    "price": "None",
+    "llm_confidence": 1.0,
+    "title": "Park Ra-on Quintet",
+    "description": "A special Christmas stage prepared by veteran jazz vocalist Park Ra-on, vocalist for Karina Nebula, with her musical colleagues. A Christmas Eve performance featuring her charming, whispering voice.",
+    "ticket_link": null,
+    "show_time": null,
+    "age_limit": null,
+    "_search_en": {
+      "title": "Park Ra-on Quintet",
+      "description": "A special Christmas stage prepared by veteran jazz vocalist Park Ra-on, vocalist for Karina Nebula, with her musical colleagues. A Christmas Eve performance featuring her charming, whispering voice."
+    },
+    "_search_ko": {
+      "title": "박라온 퀸텟",
+      "description": "카리나 네뷸라의 보컬로 활동 중인 관록의 재즈 보컬리스트 박라온이 음악 동료들과 함께 준비한 크리스마스 특별 무대. 속삭이듯 매력적인 보이스와 함께하는 크리스마스 이브 공연."
     }
   },
   {
@@ -5002,7 +3770,7 @@
   {
     "id": "evt_20251225_34c4a7a0-e4af-40d3-a09f-ca9f9b6a27b4",
     "event_key": "v:ven_d8793345-9984-453f-ba47-85b936b044d8|t:2025-12-25T04:00:00+00:00",
-    "source_url": "https://www.instagram.com/p/DR2KW5tiUXz/",
+    "source_url": "https://www.instagram.com/p/DSCzzYvE-v_/",
     "venue_handle": "newall_jazz",
     "musician_ids": [],
     "musician_ig_handles": [],
@@ -5011,18 +3779,18 @@
     "datetime": "2025-12-25T04:00:00+00:00",
     "price": "KRW 87,000",
     "llm_confidence": 1.0,
-    "title": "Christmas Special Course with Jazz Performance",
-    "description": "Christmas special 4-course meal including truffle pumpkin soup, chorizo scallop pasta, duck steak, and Christmas special dessert. Includes a special gift. (Drinks separate)",
+    "title": "Young-chan's Project !",
+    "description": "Christmas Lunch performance Part 1 with a special 4-course meal.",
     "ticket_link": null,
     "show_time": null,
     "age_limit": null,
     "_search_en": {
-      "title": "Christmas Special Course with Jazz Performance",
-      "description": "Christmas special 4-course meal including truffle pumpkin soup, chorizo scallop pasta, duck steak, and Christmas special dessert. Includes a special gift. (Drinks separate)"
+      "title": "Young-chan's Project !",
+      "description": "Christmas Lunch performance Part 1 with a special 4-course meal."
     },
     "_search_ko": {
-      "title": "크리스마스 스페셜 코스 재즈 공연",
-      "description": "트러플 단호박 스프, 초리조 관자 파스타, 오리 스테이크, 크리스마스 스페셜 디저트가 포함된 4코스 식사. 스페셜 기프트 제공. (주류, 음료 별도)"
+      "title": "영찬's 프로젝트 !",
+      "description": "스페셜 4코스 요리와 함께하는 크리스마스 런치 공연 1부."
     }
   },
   {
@@ -5132,32 +3900,6 @@
     }
   },
   {
-    "id": "evt_20251225_8ff6f435-2914-4e50-9863-e28456455253",
-    "event_key": "v:ven_6e89ed93-cd64-46fc-83da-31ff34348700|t:2025-12-25T07:00:00+00:00",
-    "source_url": "https://www.instagram.com/p/DSB2St4gf1h/",
-    "venue_handle": "cottonclub_seoul",
-    "musician_ids": [],
-    "musician_ig_handles": [],
-    "venue_id": "ven_6e89ed93-cd64-46fc-83da-31ff34348700",
-    "venue_location_id": "main",
-    "datetime": "2025-12-25T07:00:00+00:00",
-    "price": "None",
-    "llm_confidence": 1.0,
-    "title": "Latin Factory",
-    "description": "A team reinterpreting Afro-Cuban and South American music with a Korean sensibility. Enjoy Christmas carols reborn as passionate Latin music.",
-    "ticket_link": null,
-    "show_time": null,
-    "age_limit": null,
-    "_search_en": {
-      "title": "Latin Factory",
-      "description": "A team reinterpreting Afro-Cuban and South American music with a Korean sensibility. Enjoy Christmas carols reborn as passionate Latin music."
-    },
-    "_search_ko": {
-      "title": "라틴 팩토리",
-      "description": "쿠바 음악(Afro-Cuban)을 중심으로 남미 여러 나라의 음악을 한국적 감성으로 재해석하는 팀. 열정적인 라틴 음악으로 재탄생한 크리스마스 캐롤을 감상할 수 있다."
-    }
-  },
-  {
     "id": "evt_20251225_1d0e88bf-fa03-42b3-8768-1e75bc4e05e3",
     "event_key": "v:ven_782b3bbf-b6a2-470e-a1e6-00b2f2d5587e|t:2025-12-25T07:00:00+00:00",
     "source_url": "https://www.instagram.com/p/DRBLLjGjxQm/",
@@ -5240,7 +3982,7 @@
   {
     "id": "evt_20251225_1891a263-ab39-47db-9e0d-3bd4015fbba9",
     "event_key": "v:ven_d8793345-9984-453f-ba47-85b936b044d8|t:2025-12-25T07:00:00+00:00",
-    "source_url": "https://www.instagram.com/p/DR2KW5tiUXz/",
+    "source_url": "https://www.instagram.com/p/DSCzzYvE-v_/",
     "venue_handle": "newall_jazz",
     "musician_ids": [],
     "musician_ig_handles": [],
@@ -5249,18 +3991,18 @@
     "datetime": "2025-12-25T07:00:00+00:00",
     "price": "KRW 87,000",
     "llm_confidence": 1.0,
-    "title": "Christmas Special Course with Jazz Performance",
-    "description": "Christmas special 4-course meal including truffle pumpkin soup, chorizo scallop pasta, duck steak, and Christmas special dessert. Includes a special gift. (Drinks separate)",
+    "title": "Young-chan's Project !",
+    "description": "Christmas Lunch performance Part 2 with a special 4-course meal.",
     "ticket_link": null,
     "show_time": null,
     "age_limit": null,
     "_search_en": {
-      "title": "Christmas Special Course with Jazz Performance",
-      "description": "Christmas special 4-course meal including truffle pumpkin soup, chorizo scallop pasta, duck steak, and Christmas special dessert. Includes a special gift. (Drinks separate)"
+      "title": "Young-chan's Project !",
+      "description": "Christmas Lunch performance Part 2 with a special 4-course meal."
     },
     "_search_ko": {
-      "title": "크리스마스 스페셜 코스 재즈 공연",
-      "description": "트러플 단호박 스프, 초리조 관자 파스타, 오리 스테이크, 크리스마스 스페셜 디저트가 포함된 4코스 식사. 스페셜 기프트 제공. (주류, 음료 별도)"
+      "title": "영찬's 프로젝트 !",
+      "description": "스페셜 4코스 요리와 함께하는 크리스마스 런치 공연 2부."
     }
   },
   {
@@ -5342,6 +4084,32 @@
     }
   },
   {
+    "id": "evt_20251225_8ff6f435-2914-4e50-9863-e28456455253",
+    "event_key": "v:ven_6e89ed93-cd64-46fc-83da-31ff34348700|t:2025-12-25T07:00:00+00:00",
+    "source_url": "https://www.instagram.com/p/DSB2St4gf1h/",
+    "venue_handle": "cottonclub_seoul",
+    "musician_ids": [],
+    "musician_ig_handles": [],
+    "venue_id": "ven_6e89ed93-cd64-46fc-83da-31ff34348700",
+    "venue_location_id": "main",
+    "datetime": "2025-12-25T07:30:00+00:00",
+    "price": "None",
+    "llm_confidence": 1.0,
+    "title": "Latin Factory",
+    "description": "A team reinterpreting music from various South American countries, centered on Afro-Cuban music, with a Korean sensibility. This performance features Christmas carols reborn as passionate Latin music.",
+    "ticket_link": null,
+    "show_time": null,
+    "age_limit": null,
+    "_search_en": {
+      "title": "Latin Factory",
+      "description": "A team reinterpreting music from various South American countries, centered on Afro-Cuban music, with a Korean sensibility. This performance features Christmas carols reborn as passionate Latin music."
+    },
+    "_search_ko": {
+      "title": "라틴 팩토리",
+      "description": "쿠바 음악(Afro-Cuban)을 중심으로 남미 여러 나라의 음악을 한국적 감성으로 재해석하는 팀. 이번 공연에서는 열정적인 라틴 음악으로 재탄생한 크리스마스 캐롤을 감상할 수 있다."
+    }
+  },
+  {
     "id": "evt_20251225_b5d1af6e-68f3-459a-928e-ad6db53114bd",
     "event_key": "v:ven_6e89ed93-cd64-46fc-83da-31ff34348700|t:2025-12-25T07:30:00+00:00",
     "source_url": "https://www.instagram.com/p/DSB2St4gf1h/",
@@ -5370,7 +4138,7 @@
   {
     "id": "evt_20251225_34c7e1ab-b079-4f7e-8411-8fbb8a5d8355",
     "event_key": "v:ven_defc39a1-7787-48c7-b5f4-623157118647|t:2025-12-25T08:00:00+00:00",
-    "source_url": "https://www.instagram.com/p/DRqSJ2fklKG/",
+    "source_url": "https://www.instagram.com/p/DRw3tPAEmvM/",
     "venue_handle": "bluecat.fezh",
     "musician_ids": [],
     "musician_ig_handles": [
@@ -5383,18 +4151,18 @@
     "datetime": "2025-12-25T08:00:00+00:00",
     "price": "None",
     "llm_confidence": 1.0,
-    "title": "Jung Sung-jae Trio",
-    "description": "Year-end special dinner package performance. Maeng Seo-ryeong (piano) @seo_m_piano, Jeon Jae-geun (bass) @jaegeun0118, Jung Sung-jae (drums) @sungjae_drums",
+    "title": "Blue Cat Year-End Special Jazz Night",
+    "description": "Romantic jazz performance by Jazz Music Korea Ensemble. Includes chef's special dinner and strawberry cake.",
     "ticket_link": null,
     "show_time": null,
     "age_limit": null,
     "_search_en": {
-      "title": "Jung Sung-jae Trio",
-      "description": "Year-end special dinner package performance. Maeng Seo-ryeong (piano) @seo_m_piano, Jeon Jae-geun (bass) @jaegeun0118, Jung Sung-jae (drums) @sungjae_drums"
+      "title": "Blue Cat Year-End Special Jazz Night",
+      "description": "Romantic jazz performance by Jazz Music Korea Ensemble. Includes chef's special dinner and strawberry cake."
     },
     "_search_ko": {
-      "title": "정성재 트리오",
-      "description": "연말 스페셜 디너 패키지 공연. 맹서령 (피아노) @seo_m_piano, 전재근 (베이스) @jaegeun0118, 정성재 (드럼) @sungjae_drums"
+      "title": "블루캣 연말 스페셜 재즈 나잇",
+      "description": "재즈뮤직코리아 앙상블의 로맨틱 재즈 공연. 셰프의 스페셜 디너와 딸기 케이크 포함."
     }
   },
   {
@@ -5744,7 +4512,7 @@
   {
     "id": "evt_20251225_a6c9c790-7f87-4aab-ad15-8f99c505aa33",
     "event_key": "v:ven_60b6d3cb-5547-4382-bad8-2a5667f68c9f|t:2025-12-25T09:30:00+00:00",
-    "source_url": "https://www.instagram.com/p/DSCgMTWiWN0/",
+    "source_url": "https://www.instagram.com/p/DSXCHEMkclT/",
     "venue_handle": "edls_official",
     "musician_ids": [],
     "musician_ig_handles": [],
@@ -5753,18 +4521,18 @@
     "datetime": "2025-12-25T09:30:00+00:00",
     "price": "KRW 170,000",
     "llm_confidence": 1.0,
-    "title": "Hailup X-mas Quartet",
-    "description": "Romantic Christmas Jazz & Dinner. Includes 2 jazz viewing tickets with early reservation of HOLLYDAY JAZZ PLATTER or EDLS SPECIAL SET (KRW 170,000 ~ KRW 200,000).",
+    "title": "Haeillim X-mas Quartet",
+    "description": "An X-mas special stage to enjoy jazz/pop carols with happy energy.",
     "ticket_link": null,
     "show_time": null,
     "age_limit": null,
     "_search_en": {
-      "title": "Hailup X-mas Quartet",
-      "description": "Romantic Christmas Jazz & Dinner. Includes 2 jazz viewing tickets with early reservation of HOLLYDAY JAZZ PLATTER or EDLS SPECIAL SET (KRW 170,000 ~ KRW 200,000)."
+      "title": "Haeillim X-mas Quartet",
+      "description": "An X-mas special stage to enjoy jazz/pop carols with happy energy."
     },
     "_search_ko": {
-      "title": "해일럽 X-mas 퀄텟",
-      "description": "로맨틱 크리스마스 재즈 & 디너. HOLLYDAY JAZZ PLATTER 또는 EDLS SPECIAL SET 사전 예약 시 재즈 공연 관람권 2인 포함 (170,000원 ~ 200,000원)."
+      "title": "해일림 X-mas 퀄텟",
+      "description": "행복한 에너지로 재즈·팝 캐럴을 즐기는 X-mas 특별 무대."
     }
   },
   {
@@ -5876,7 +4644,7 @@
   {
     "id": "evt_20251225_97f71b36-65fd-49dd-95d6-507316c4fcf3",
     "event_key": "v:ven_d8793345-9984-453f-ba47-85b936b044d8|t:2025-12-25T10:00:00+00:00",
-    "source_url": "https://www.instagram.com/p/DR2KW5tiUXz/",
+    "source_url": "https://www.instagram.com/p/DSCzzYvE-v_/",
     "venue_handle": "newall_jazz",
     "musician_ids": [],
     "musician_ig_handles": [],
@@ -5885,18 +4653,18 @@
     "datetime": "2025-12-25T10:00:00+00:00",
     "price": "KRW 87,000",
     "llm_confidence": 1.0,
-    "title": "Christmas Special Course with Jazz Performance",
-    "description": "Christmas special 4-course meal including truffle pumpkin soup, chorizo scallop pasta, duck steak, and Christmas special dessert. Includes a special gift. Wine bottle mandatory for dinner course. (Drinks separate)",
+    "title": "Jung Pil-seop Swing Band",
+    "description": "Christmas Dinner performance Part 1 with a special 4-course meal. Mandatory wine bottle order for dinner.",
     "ticket_link": null,
     "show_time": null,
     "age_limit": null,
     "_search_en": {
-      "title": "Christmas Special Course with Jazz Performance",
-      "description": "Christmas special 4-course meal including truffle pumpkin soup, chorizo scallop pasta, duck steak, and Christmas special dessert. Includes a special gift. Wine bottle mandatory for dinner course. (Drinks separate)"
+      "title": "Jung Pil-seop Swing Band",
+      "description": "Christmas Dinner performance Part 1 with a special 4-course meal. Mandatory wine bottle order for dinner."
     },
     "_search_ko": {
-      "title": "크리스마스 스페셜 코스 재즈 공연",
-      "description": "트러플 단호박 스프, 초리조 관자 파스타, 오리 스테이크, 크리스마스 스페셜 디저트가 포함된 4코스 식사. 스페셜 기프트 제공. 디너 코스 시 와인 바틀 필수 주문. (주류, 음료 별도)"
+      "title": "정필섭 스윙 밴드",
+      "description": "스페셜 4코스 요리와 함께하는 크리스마스 디너 공연 1부. 와인 바틀 필수 주문."
     }
   },
   {
@@ -6004,35 +4772,9 @@
     }
   },
   {
-    "id": "evt_20251225_85565d32-2be3-4009-99bc-401b0af1d716",
-    "event_key": "v:ven_6f67bf66-952d-480b-92cd-971d60e5c086|t:2025-12-25T10:30:00+00:00",
-    "source_url": "https://www.instagram.com/p/DRQm3f-AWlz/",
-    "venue_handle": "yoori.kim_mullaejazzin",
-    "musician_ids": [],
-    "musician_ig_handles": [],
-    "venue_id": "ven_6f67bf66-952d-480b-92cd-971d60e5c086",
-    "venue_location_id": "main",
-    "datetime": "2025-12-25T10:30:00+00:00",
-    "price": "66,000 KRW",
-    "llm_confidence": 1.0,
-    "title": "Shin So-yi Christmas Concert",
-    "description": "Mullaejazzin's representative sold-out special concert, jazz vocalist Shin So-yi's Christmas concert. Musicians: Shin So-yi (vocal), Oh Jong-dae (drums), Han Hyun-woo (bass), Park Jong-hyun (piano), Lee Yong-seok (tenor saxophone), Kim Tae-guk (alto saxophone).",
-    "ticket_link": null,
-    "show_time": null,
-    "age_limit": null,
-    "_search_en": {
-      "title": "Shin So-yi Christmas Concert",
-      "description": "Mullaejazzin's representative sold-out special concert, jazz vocalist Shin So-yi's Christmas concert. Musicians: Shin So-yi (vocal), Oh Jong-dae (drums), Han Hyun-woo (bass), Park Jong-hyun (piano), Lee Yong-seok (tenor saxophone), Kim Tae-guk (alto saxophone)."
-    },
-    "_search_ko": {
-      "title": "신소이 크리스마스 콘서트",
-      "description": "전회 매진을 기록한 문래재즈인의 대표적인 기획 공연, 재즈 보컬 신소이의 크리스마스 콘서트. 뮤지션: 신소이 (보컬), 오종대 (드럼), 한현우 (베이스), 박종현 (피아노), 이용석 (테너 색소폰), 김태국 (알토 색소폰)."
-    }
-  },
-  {
     "id": "evt_20251225_7cdc2cb1-1bee-4709-8888-9e22a79e255c",
     "event_key": "v:ven_5bb65766-9242-4a8a-bbdf-c7cdd5dd73f0|t:2025-12-25T11:00:00+00:00",
-    "source_url": "https://www.instagram.com/p/DRQoiLrj4y5/",
+    "source_url": "https://www.instagram.com/p/DRQojh2Dyn6/",
     "venue_handle": "africa_since1988",
     "musician_ids": [],
     "musician_ig_handles": [],
@@ -6041,24 +4783,24 @@
     "datetime": "2025-12-25T11:00:00+00:00",
     "price": "KRW 20,000",
     "llm_confidence": 1.0,
-    "title": "Jeongrong Quartet (Christmas Special)",
-    "description": "Christmas Special. Jeongrong (vocal) Quartet.",
+    "title": "Jeong Rong Quartet (Christmas Special)",
+    "description": "Jeong Rong (vocal), Kim Kyung-mo (guitar), Kim Dae-gyu (piano), Park Ju-min (bass). Christmas special.",
     "ticket_link": null,
     "show_time": null,
     "age_limit": null,
     "_search_en": {
-      "title": "Jeongrong Quartet (Christmas Special)",
-      "description": "Christmas Special. Jeongrong (vocal) Quartet."
+      "title": "Jeong Rong Quartet (Christmas Special)",
+      "description": "Jeong Rong (vocal), Kim Kyung-mo (guitar), Kim Dae-gyu (piano), Park Ju-min (bass). Christmas special."
     },
     "_search_ko": {
       "title": "정롱 퀄텟 (크리스마스 특집)",
-      "description": "크리스마스 특집. 정롱 (보컬) 퀄텟."
+      "description": "정롱 (보컬), 김경모 (기타), 김대규 (피아노), 박주민 (베이스). 크리스마스 특집."
     }
   },
   {
     "id": "evt_20251225_3b6237c3-7a86-4062-94e2-6a594f5b4d4d",
     "event_key": "v:ven_defc39a1-7787-48c7-b5f4-623157118647|t:2025-12-25T11:00:00+00:00",
-    "source_url": "https://www.instagram.com/p/DRqSJ2fklKG/",
+    "source_url": "https://www.instagram.com/p/DRw3tPAEmvM/",
     "venue_handle": "bluecat.fezh",
     "musician_ids": [],
     "musician_ig_handles": [
@@ -6071,18 +4813,18 @@
     "datetime": "2025-12-25T11:00:00+00:00",
     "price": "None",
     "llm_confidence": 1.0,
-    "title": "Jung Sung-jae Trio",
-    "description": "Year-end special dinner package performance. Maeng Seo-ryeong (piano) @seo_m_piano, Jeon Jae-geun (bass) @jaegeun0118, Jung Sung-jae (drums) @sungjae_drums",
+    "title": "Blue Cat Year-End Special Jazz Night",
+    "description": "Romantic jazz performance by Jazz Music Korea Ensemble. Includes chef's special dinner and strawberry cake.",
     "ticket_link": null,
     "show_time": null,
     "age_limit": null,
     "_search_en": {
-      "title": "Jung Sung-jae Trio",
-      "description": "Year-end special dinner package performance. Maeng Seo-ryeong (piano) @seo_m_piano, Jeon Jae-geun (bass) @jaegeun0118, Jung Sung-jae (drums) @sungjae_drums"
+      "title": "Blue Cat Year-End Special Jazz Night",
+      "description": "Romantic jazz performance by Jazz Music Korea Ensemble. Includes chef's special dinner and strawberry cake."
     },
     "_search_ko": {
-      "title": "정성재 트리오",
-      "description": "연말 스페셜 디너 패키지 공연. 맹서령 (피아노) @seo_m_piano, 전재근 (베이스) @jaegeun0118, 정성재 (드럼) @sungjae_drums"
+      "title": "블루캣 연말 스페셜 재즈 나잇",
+      "description": "재즈뮤직코리아 앙상블의 로맨틱 재즈 공연. 셰프의 스페셜 디너와 딸기 케이크 포함."
     }
   },
   {
@@ -6372,6 +5114,32 @@
     }
   },
   {
+    "id": "evt_20251225_85565d32-2be3-4009-99bc-401b0af1d716",
+    "event_key": "v:ven_6f67bf66-952d-480b-92cd-971d60e5c086|t:2025-12-25T10:30:00+00:00",
+    "source_url": "https://www.instagram.com/p/DRQm3f-AWlz/",
+    "venue_handle": "yoori.kim_mullaejazzin",
+    "musician_ids": [],
+    "musician_ig_handles": [],
+    "venue_id": "ven_6f67bf66-952d-480b-92cd-971d60e5c086",
+    "venue_location_id": "main",
+    "datetime": "2025-12-25T11:00:00+00:00",
+    "price": "66,000 KRW",
+    "llm_confidence": 1.0,
+    "title": "Shin So-yi Christmas Concert",
+    "description": "Mullae Jazzin's sold-out signature concert. A joyful Christmas concert featuring top jazz musicians: Shin So-yi (vocal), Oh Jong-dae (drums), Han Hyun-woo (bass), Park Jong-hyun (piano), Lee Yong-seok (tenor saxophone), Kim Tae-guk (alto saxophone).",
+    "ticket_link": null,
+    "show_time": null,
+    "age_limit": null,
+    "_search_en": {
+      "title": "Shin So-yi Christmas Concert",
+      "description": "Mullae Jazzin's sold-out signature concert. A joyful Christmas concert featuring top jazz musicians: Shin So-yi (vocal), Oh Jong-dae (drums), Han Hyun-woo (bass), Park Jong-hyun (piano), Lee Yong-seok (tenor saxophone), Kim Tae-guk (alto saxophone)."
+    },
+    "_search_ko": {
+      "title": "신소이 크리스마스 콘서트",
+      "description": "전회 매진을 기록한 문래재즈인의 대표적인 기획 공연. 신소이 (보컬), 오종대 (드럼), 한현우 (베이스), 박종현 (피아노), 이용석 (테너 색소폰), 김태국 (알토 색소폰) 등 최고의 재즈 뮤지션과 행복 가득한 크리스마스."
+    }
+  },
+  {
     "id": "evt_20251225_c4263cda-723b-4d5c-86d1-d364ef3a778a",
     "event_key": "v:ven_6f67bf66-952d-480b-92cd-971d60e5c086|t:2025-12-25T11:00:00+00:00",
     "source_url": "https://www.instagram.com/p/DRQm3f-AWlz/",
@@ -6447,6 +5215,58 @@
     "_search_ko": {
       "title": "예진 안젤라 박 퀄텟",
       "description": "예진 안젤라 박 (보컬), 박힘찬 (피아노), 황슬기 (베이스), 이은마루 (드럼)으로 구성된 퀄텟 무대."
+    }
+  },
+  {
+    "id": "evt_20251225_185eb7c1-4257-4102-a5c6-3ed50a83dcf3",
+    "event_key": "v:ven_8d2dcf2a-456f-4658-8640-84000f9b59f2|t:2025-12-25T11:00:00+00:00",
+    "source_url": "https://www.instagram.com/p/DRrwdJKD69v/",
+    "venue_handle": "milestones_jazz",
+    "musician_ids": [],
+    "musician_ig_handles": [],
+    "venue_id": "ven_8d2dcf2a-456f-4658-8640-84000f9b59f2",
+    "venue_location_id": "main",
+    "datetime": "2025-12-25T11:00:00+00:00",
+    "price": "Advance KRW 20,000 / At door KRW 25,000",
+    "llm_confidence": 1.0,
+    "title": "Choi Yeon-bi WITH FRIENDS",
+    "description": "Jazz live performance. Advance KRW 20,000 / At door KRW 25,000.",
+    "ticket_link": null,
+    "show_time": null,
+    "age_limit": null,
+    "_search_en": {
+      "title": "Choi Yeon-bi WITH FRIENDS",
+      "description": "Jazz live performance. Advance KRW 20,000 / At door KRW 25,000."
+    },
+    "_search_ko": {
+      "title": "최연비 WITH FRIENDS",
+      "description": "재즈 라이브 공연. 예매 20,000원 / 현매 25,000원."
+    }
+  },
+  {
+    "id": "evt_20251225_94f3dcaa-4273-4cfd-8dc1-be6cc351404b",
+    "event_key": "v:ven_b0e60f70-963d-426b-a8a4-ae2d0b335e84|t:2025-12-25T11:00:00+00:00",
+    "source_url": "https://www.instagram.com/p/DSWZsYIE7qx/",
+    "venue_handle": "orient_express_wine_",
+    "musician_ids": [],
+    "musician_ig_handles": [],
+    "venue_id": "ven_b0e60f70-963d-426b-a8a4-ae2d0b335e84",
+    "venue_location_id": "main",
+    "datetime": "2025-12-25T11:00:00+00:00",
+    "price": "KRW 20,000",
+    "llm_confidence": 1.0,
+    "title": "Christmas Jazz Trio",
+    "description": "Christmas Jazz Trio performance. (Sold Out)",
+    "ticket_link": null,
+    "show_time": null,
+    "age_limit": null,
+    "_search_en": {
+      "title": "Christmas Jazz Trio",
+      "description": "Christmas Jazz Trio performance. (Sold Out)"
+    },
+    "_search_ko": {
+      "title": "크리스마스 재즈 트리오",
+      "description": "크리스마스 재즈 트리오 공연. (매진)"
     }
   },
   {
@@ -6768,35 +5588,9 @@
     }
   },
   {
-    "id": "evt_20251225_9a61ca2d-1afd-4747-9d74-d50e5e3d425e",
-    "event_key": "v:ven_9121334e-11fe-4710-8d7b-87f5825e3fcd|t:2025-12-25T12:00:00+00:00",
-    "source_url": "https://www.instagram.com/p/DRq4XsNgSo-/",
-    "venue_handle": "bar_tican",
-    "musician_ids": [],
-    "musician_ig_handles": [],
-    "venue_id": "ven_9121334e-11fe-4710-8d7b-87f5825e3fcd",
-    "venue_location_id": "main",
-    "datetime": "2025-12-25T12:00:00+00:00",
-    "price": "KRW 5,000",
-    "llm_confidence": 1.0,
-    "title": "Lim Da-eun Band",
-    "description": "Lim Da-eun Band performance. Admission: KRW 5,000.",
-    "ticket_link": null,
-    "show_time": null,
-    "age_limit": null,
-    "_search_en": {
-      "title": "Lim Da-eun Band",
-      "description": "Lim Da-eun Band performance. Admission: KRW 5,000."
-    },
-    "_search_ko": {
-      "title": "임다은 밴드",
-      "description": "임다은 밴드 공연. 입장료: 5,000원."
-    }
-  },
-  {
     "id": "evt_20251225_3eae6045-8a7e-4fd2-a968-06ca19657061",
     "event_key": "v:ven_60b6d3cb-5547-4382-bad8-2a5667f68c9f|t:2025-12-25T12:00:00+00:00",
-    "source_url": "https://www.instagram.com/p/DSCgMTWiWN0/",
+    "source_url": "https://www.instagram.com/p/DSXCHEMkclT/",
     "venue_handle": "edls_official",
     "musician_ids": [],
     "musician_ig_handles": [],
@@ -6806,17 +5600,17 @@
     "price": "KRW 170,000",
     "llm_confidence": 1.0,
     "title": "X-mas EDLS Friends",
-    "description": "Romantic Christmas Jazz & Dinner. Includes 2 jazz viewing tickets with early reservation of HOLLYDAY JAZZ PLATTER or EDLS SPECIAL SET (KRW 170,000 ~ KRW 200,000).",
+    "description": "A romantic stage presented by saxophonist Kim Do-hyung with warm tone and explosive energy.",
     "ticket_link": null,
     "show_time": null,
     "age_limit": null,
     "_search_en": {
       "title": "X-mas EDLS Friends",
-      "description": "Romantic Christmas Jazz & Dinner. Includes 2 jazz viewing tickets with early reservation of HOLLYDAY JAZZ PLATTER or EDLS SPECIAL SET (KRW 170,000 ~ KRW 200,000)."
+      "description": "A romantic stage presented by saxophonist Kim Do-hyung with warm tone and explosive energy."
     },
     "_search_ko": {
-      "title": "X-mas 이들스 프렌즈",
-      "description": "로맨틱 크리스마스 재즈 & 디너. HOLLYDAY JAZZ PLATTER 또는 EDLS SPECIAL SET 사전 예약 시 재즈 공연 관람권 2인 포함 (170,000원 ~ 200,000원)."
+      "title": "X-mas EDLS 프렌즈",
+      "description": "따뜻한 음색과 폭발적인 에너지의 색소포니스트 김도형이 선보이는 낭만 가득한 무대."
     }
   },
   {
@@ -6978,6 +5772,32 @@
     }
   },
   {
+    "id": "evt_20251225_9a61ca2d-1afd-4747-9d74-d50e5e3d425e",
+    "event_key": "v:ven_9121334e-11fe-4710-8d7b-87f5825e3fcd|t:2025-12-25T12:00:00+00:00",
+    "source_url": "https://www.instagram.com/p/DRq4XsNgSo-/",
+    "venue_handle": "bar_tican",
+    "musician_ids": [],
+    "musician_ig_handles": [],
+    "venue_id": "ven_9121334e-11fe-4710-8d7b-87f5825e3fcd",
+    "venue_location_id": "main",
+    "datetime": "2025-12-25T13:00:00+00:00",
+    "price": "KRW 5,000",
+    "llm_confidence": 1.0,
+    "title": "Lim Da-eun Band",
+    "description": "Lim Da-eun Band performance. Admission: KRW 5,000.",
+    "ticket_link": null,
+    "show_time": null,
+    "age_limit": null,
+    "_search_en": {
+      "title": "Lim Da-eun Band",
+      "description": "Lim Da-eun Band performance. Admission: KRW 5,000."
+    },
+    "_search_ko": {
+      "title": "임다은 밴드",
+      "description": "임다은 밴드 공연. 입장료: 5,000원."
+    }
+  },
+  {
     "id": "evt_20251225_b913c53c-918e-45ad-8b86-bd4a729c147c",
     "event_key": "v:ven_9121334e-11fe-4710-8d7b-87f5825e3fcd|t:2025-12-25T13:00:00+00:00",
     "source_url": "https://www.instagram.com/p/DRq4XsNgSo-/",
@@ -7027,32 +5847,6 @@
     "_search_ko": {
       "title": "황은혜 밴드",
       "description": "재즈, 팝, 캐롤 보컬 공연."
-    }
-  },
-  {
-    "id": "evt_20251225_69583d1a-73e7-4f8d-ac37-217946f825f0",
-    "event_key": "v:ven_6e89ed93-cd64-46fc-83da-31ff34348700|t:2025-12-25T13:00:00+00:00",
-    "source_url": "https://www.instagram.com/p/DSB2St4gf1h/",
-    "venue_handle": "cottonclub_seoul",
-    "musician_ids": [],
-    "musician_ig_handles": [],
-    "venue_id": "ven_6e89ed93-cd64-46fc-83da-31ff34348700",
-    "venue_location_id": "main",
-    "datetime": "2025-12-25T13:00:00+00:00",
-    "price": "None",
-    "llm_confidence": 1.0,
-    "title": "Park Ra-on Quintet",
-    "description": "Park Ra-on Quintet continues their special Christmas show. Her warm, charming vocal tone will make the Christmas night deeper and more beautiful.",
-    "ticket_link": null,
-    "show_time": null,
-    "age_limit": null,
-    "_search_en": {
-      "title": "Park Ra-on Quintet",
-      "description": "Park Ra-on Quintet continues their special Christmas show. Her warm, charming vocal tone will make the Christmas night deeper and more beautiful."
-    },
-    "_search_ko": {
-      "title": "박라온 퀸텟",
-      "description": "전날에 이어 박라온 퀸텟이 크리스마스 특별 공연을 진행. 박라온의 따뜻하고 매력적인 음색과 함께 크리스마스의 밤을 더욱 깊고 아름답게 채운다."
     }
   },
   {
@@ -7112,7 +5906,7 @@
   {
     "id": "evt_20251225_0756e06a-ba90-403a-acde-a287c30d4802",
     "event_key": "v:ven_d8793345-9984-453f-ba47-85b936b044d8|t:2025-12-25T13:00:00+00:00",
-    "source_url": "https://www.instagram.com/p/DR2KW5tiUXz/",
+    "source_url": "https://www.instagram.com/p/DSCzzYvE-v_/",
     "venue_handle": "newall_jazz",
     "musician_ids": [],
     "musician_ig_handles": [],
@@ -7121,18 +5915,18 @@
     "datetime": "2025-12-25T13:00:00+00:00",
     "price": "KRW 87,000",
     "llm_confidence": 1.0,
-    "title": "Christmas Special Course with Jazz Performance",
-    "description": "Christmas special 4-course meal including truffle pumpkin soup, chorizo scallop pasta, duck steak, and Christmas special dessert. Includes a special gift. Wine bottle mandatory for dinner course. (Drinks separate)",
+    "title": "Jung Pil-seop Swing Band",
+    "description": "Christmas Dinner performance Part 2 with a special 4-course meal. Mandatory wine bottle order for dinner.",
     "ticket_link": null,
     "show_time": null,
     "age_limit": null,
     "_search_en": {
-      "title": "Christmas Special Course with Jazz Performance",
-      "description": "Christmas special 4-course meal including truffle pumpkin soup, chorizo scallop pasta, duck steak, and Christmas special dessert. Includes a special gift. Wine bottle mandatory for dinner course. (Drinks separate)"
+      "title": "Jung Pil-seop Swing Band",
+      "description": "Christmas Dinner performance Part 2 with a special 4-course meal. Mandatory wine bottle order for dinner."
     },
     "_search_ko": {
-      "title": "크리스마스 스페셜 코스 재즈 공연",
-      "description": "트러플 단호박 스프, 초리조 관자 파스타, 오리 스테이크, 크리스마스 스페셜 디저트가 포함된 4코스 식사. 스페셜 기프트 제공. 디너 코스 시 와인 바틀 필수 주문. (주류, 음료 별도)"
+      "title": "정필섭 스윙 밴드",
+      "description": "스페셜 4코스 요리와 함께하는 크리스마스 디너 공연 2부. 와인 바틀 필수 주문."
     }
   },
   {
@@ -7159,6 +5953,32 @@
     "_search_ko": {
       "title": "POST SPOT",
       "description": "크리스마스 재즈 스페셜 공연. 재즈, 팝, 소울, 캐롤 라이브."
+    }
+  },
+  {
+    "id": "evt_20251225_69583d1a-73e7-4f8d-ac37-217946f825f0",
+    "event_key": "v:ven_6e89ed93-cd64-46fc-83da-31ff34348700|t:2025-12-25T13:00:00+00:00",
+    "source_url": "https://www.instagram.com/p/DSB2St4gf1h/",
+    "venue_handle": "cottonclub_seoul",
+    "musician_ids": [],
+    "musician_ig_handles": [],
+    "venue_id": "ven_6e89ed93-cd64-46fc-83da-31ff34348700",
+    "venue_location_id": "main",
+    "datetime": "2025-12-25T13:30:00+00:00",
+    "price": "None",
+    "llm_confidence": 1.0,
+    "title": "Park Ra-on Quintet",
+    "description": "Following the previous day, Park Ra-on Quintet presents a special Christmas performance. Park Ra-on's warm and charming voice will fill the Christmas night with deeper beauty.",
+    "ticket_link": null,
+    "show_time": null,
+    "age_limit": null,
+    "_search_en": {
+      "title": "Park Ra-on Quintet",
+      "description": "Following the previous day, Park Ra-on Quintet presents a special Christmas performance. Park Ra-on's warm and charming voice will fill the Christmas night with deeper beauty."
+    },
+    "_search_ko": {
+      "title": "박라온 퀸텟",
+      "description": "전날에 이어 박라온 퀸텟이 크리스마스 특별 공연을 진행한다. 박라온의 따뜻하고 매력적인 음색과 함께 크리스마스의 밤을 더욱 깊고 아름답게 채워줄 것이다."
     }
   },
   {
@@ -7344,35 +6164,9 @@
     }
   },
   {
-    "id": "evt_20251226_d378ace0-be08-4dc6-b2bd-ec90976df69a",
-    "event_key": "v:ven_5bb65766-9242-4a8a-bbdf-c7cdd5dd73f0|t:2025-12-26T10:30:00+00:00",
-    "source_url": "https://www.instagram.com/p/DRQoiLrj4y5/",
-    "venue_handle": "africa_since1988",
-    "musician_ids": [],
-    "musician_ig_handles": [],
-    "venue_id": "ven_5bb65766-9242-4a8a-bbdf-c7cdd5dd73f0",
-    "venue_location_id": "main",
-    "datetime": "2025-12-26T10:30:00+00:00",
-    "price": "KRW 20,000",
-    "llm_confidence": 1.0,
-    "title": "Pipeline",
-    "description": "Pipeline. Heo Yu-jin (vocal).",
-    "ticket_link": null,
-    "show_time": null,
-    "age_limit": null,
-    "_search_en": {
-      "title": "Pipeline",
-      "description": "Pipeline. Heo Yu-jin (vocal)."
-    },
-    "_search_ko": {
-      "title": "파이프라인",
-      "description": "파이프라인. 허유진 (보컬)."
-    }
-  },
-  {
     "id": "evt_20251226_cb0d21c9-24b5-4948-b429-9ed53bb9dc75",
     "event_key": "v:ven_60b6d3cb-5547-4382-bad8-2a5667f68c9f|t:2025-12-26T10:30:00+00:00",
-    "source_url": "https://www.instagram.com/p/DRjnTA_EUnI/",
+    "source_url": "https://www.instagram.com/p/DSXCHEMkclT/",
     "venue_handle": "edls_official",
     "musician_ids": [],
     "musician_ig_handles": [],
@@ -7382,43 +6176,17 @@
     "price": null,
     "llm_confidence": 1.0,
     "title": "Lee Dae-won Quartet",
-    "description": "Live jazz performance by Lee Dae-won Quartet.",
+    "description": "A stage filled with the excitement of the first snow.",
     "ticket_link": null,
     "show_time": null,
     "age_limit": null,
     "_search_en": {
       "title": "Lee Dae-won Quartet",
-      "description": "Live jazz performance by Lee Dae-won Quartet."
+      "description": "A stage filled with the excitement of the first snow."
     },
     "_search_ko": {
       "title": "이대원 퀄텟",
-      "description": "이대원 퀄텟의 라이브 재즈 공연."
-    }
-  },
-  {
-    "id": "evt_20251226_e71f10d4-3b3c-41c3-86b4-1fc2dd6b08fa",
-    "event_key": "v:ven_0e7c10c5-1bd6-494e-8664-42bef9f4d10d|t:2025-12-26T10:30:00+00:00",
-    "source_url": "https://www.instagram.com/p/DR6yr-xkd8c/",
-    "venue_handle": "kindseoul.kr",
-    "musician_ids": [],
-    "musician_ig_handles": [],
-    "venue_id": "ven_0e7c10c5-1bd6-494e-8664-42bef9f4d10d",
-    "venue_location_id": "main",
-    "datetime": "2025-12-26T10:30:00+00:00",
-    "price": null,
-    "llm_confidence": 1.0,
-    "title": "Colin Kim Trio with Park Min-ki",
-    "description": "Performance by Colin Kim Trio with Park Min-ki.",
-    "ticket_link": null,
-    "show_time": null,
-    "age_limit": null,
-    "_search_en": {
-      "title": "Colin Kim Trio with Park Min-ki",
-      "description": "Performance by Colin Kim Trio with Park Min-ki."
-    },
-    "_search_ko": {
-      "title": "Colin Kim 트리오 with 박민기",
-      "description": "Colin Kim 트리오와 박민기가 함께하는 공연."
+      "description": "첫 눈 오는 날의 설레임을 담은 무대."
     }
   },
   {
@@ -7450,6 +6218,32 @@
     }
   },
   {
+    "id": "evt_20251226_d378ace0-be08-4dc6-b2bd-ec90976df69a",
+    "event_key": "v:ven_5bb65766-9242-4a8a-bbdf-c7cdd5dd73f0|t:2025-12-26T10:30:00+00:00",
+    "source_url": "https://www.instagram.com/p/DRQojh2Dyn6/",
+    "venue_handle": "africa_since1988",
+    "musician_ids": [],
+    "musician_ig_handles": [],
+    "venue_id": "ven_5bb65766-9242-4a8a-bbdf-c7cdd5dd73f0",
+    "venue_location_id": "main",
+    "datetime": "2025-12-26T11:00:00+00:00",
+    "price": "KRW 20,000",
+    "llm_confidence": 1.0,
+    "title": "Pipeline",
+    "description": "Heo Yu-jin (vocal), Kim Seon-hoon (piano, guitar), Kim Eun-ho (percussions), Kang Min-jeong (haegeum)",
+    "ticket_link": null,
+    "show_time": null,
+    "age_limit": null,
+    "_search_en": {
+      "title": "Pipeline",
+      "description": "Heo Yu-jin (vocal), Kim Seon-hoon (piano, guitar), Kim Eun-ho (percussions), Kang Min-jeong (haegeum)"
+    },
+    "_search_ko": {
+      "title": "Pipeline",
+      "description": "허유진 (보컬), 김선훈 (피아노, 기타), 김은호 (퍼커션), 강민정 (해금)"
+    }
+  },
+  {
     "id": "evt_20251226_0ac6ce13-d593-4f3c-9594-f97d3e0e9cc1",
     "event_key": "v:ven_5bb65766-9242-4a8a-bbdf-c7cdd5dd73f0|t:2025-12-26T11:00:00+00:00",
     "source_url": "https://www.instagram.com/p/DRonzZQD3js/",
@@ -7473,32 +6267,6 @@
     "_search_ko": {
       "title": "어게인 인 아프리카",
       "description": "재즈 보컬, 기타 등 어쿠스틱 악기로 구성된 '어게인 인 아프리카'의 공연."
-    }
-  },
-  {
-    "id": "evt_20251226_459edb3b-bf9c-403b-8987-af43a0b907f6",
-    "event_key": "v:ven_9121334e-11fe-4710-8d7b-87f5825e3fcd|t:2025-12-26T11:00:00+00:00",
-    "source_url": "https://www.instagram.com/p/DRq4XsNgSo-/",
-    "venue_handle": "bar_tican",
-    "musician_ids": [],
-    "musician_ig_handles": [],
-    "venue_id": "ven_9121334e-11fe-4710-8d7b-87f5825e3fcd",
-    "venue_location_id": "main",
-    "datetime": "2025-12-26T11:00:00+00:00",
-    "price": "KRW 10,000",
-    "llm_confidence": 1.0,
-    "title": "120S Band",
-    "description": "120S Band performance. Admission: KRW 10,000.",
-    "ticket_link": null,
-    "show_time": null,
-    "age_limit": null,
-    "_search_en": {
-      "title": "120S Band",
-      "description": "120S Band performance. Admission: KRW 10,000."
-    },
-    "_search_ko": {
-      "title": "120S 밴드",
-      "description": "120S 밴드 공연. 입장료: 10,000원."
     }
   },
   {
@@ -7736,6 +6504,58 @@
     }
   },
   {
+    "id": "evt_20251226_c4fdff9f-9c54-401a-8127-1e7ad03598a9",
+    "event_key": "v:ven_8d2dcf2a-456f-4658-8640-84000f9b59f2|t:2025-12-26T11:00:00+00:00",
+    "source_url": "https://www.instagram.com/p/DRrwdJKD69v/",
+    "venue_handle": "milestones_jazz",
+    "musician_ids": [],
+    "musician_ig_handles": [],
+    "venue_id": "ven_8d2dcf2a-456f-4658-8640-84000f9b59f2",
+    "venue_location_id": "main",
+    "datetime": "2025-12-26T11:00:00+00:00",
+    "price": "Advance KRW 20,000 / At door KRW 25,000",
+    "llm_confidence": 1.0,
+    "title": "Good Palace",
+    "description": "Jazz live performance. Advance KRW 20,000 / At door KRW 25,000.",
+    "ticket_link": null,
+    "show_time": null,
+    "age_limit": null,
+    "_search_en": {
+      "title": "Good Palace",
+      "description": "Jazz live performance. Advance KRW 20,000 / At door KRW 25,000."
+    },
+    "_search_ko": {
+      "title": "굿펠리스",
+      "description": "재즈 라이브 공연. 예매 20,000원 / 현매 25,000원."
+    }
+  },
+  {
+    "id": "evt_20251226_f4718434-4da2-467c-8b8d-6ec8dc3ad0f1",
+    "event_key": "v:ven_b0e60f70-963d-426b-a8a4-ae2d0b335e84|t:2025-12-26T11:00:00+00:00",
+    "source_url": "https://www.instagram.com/p/DSWZsYIE7qx/",
+    "venue_handle": "orient_express_wine_",
+    "musician_ids": [],
+    "musician_ig_handles": [],
+    "venue_id": "ven_b0e60f70-963d-426b-a8a4-ae2d0b335e84",
+    "venue_location_id": "main",
+    "datetime": "2025-12-26T11:00:00+00:00",
+    "price": "KRW 20,000",
+    "llm_confidence": 1.0,
+    "title": "Kim Han Quartet",
+    "description": "Kim Han Quartet performance.",
+    "ticket_link": null,
+    "show_time": null,
+    "age_limit": null,
+    "_search_en": {
+      "title": "Kim Han Quartet",
+      "description": "Kim Han Quartet performance."
+    },
+    "_search_ko": {
+      "title": "김한 퀄텟",
+      "description": "김한 퀄텟 공연."
+    }
+  },
+  {
     "id": "evt_20251226_9fb6d953-05e7-4cfc-98f6-012859e1b377",
     "event_key": "v:ven_5ad56022-0396-4cbb-b164-1c01bffcb0f9|t:2025-12-26T11:30:00+00:00",
     "source_url": "https://www.instagram.com/p/DRb-UAND2ah/",
@@ -7785,6 +6605,32 @@
     "_search_ko": {
       "title": "ARB",
       "description": "ARB 밴드 공연."
+    }
+  },
+  {
+    "id": "evt_20251226_e71f10d4-3b3c-41c3-86b4-1fc2dd6b08fa",
+    "event_key": "v:ven_0e7c10c5-1bd6-494e-8664-42bef9f4d10d|t:2025-12-26T10:30:00+00:00",
+    "source_url": "https://www.instagram.com/p/DR6yr-xkd8c/",
+    "venue_handle": "kindseoul.kr",
+    "musician_ids": [],
+    "musician_ig_handles": [],
+    "venue_id": "ven_0e7c10c5-1bd6-494e-8664-42bef9f4d10d",
+    "venue_location_id": "main",
+    "datetime": "2025-12-26T11:30:00+00:00",
+    "price": null,
+    "llm_confidence": 1.0,
+    "title": "Colin Kim Trio with Park Min-ki",
+    "description": "Performance by Colin Kim Trio with Park Min-ki.",
+    "ticket_link": null,
+    "show_time": null,
+    "age_limit": null,
+    "_search_en": {
+      "title": "Colin Kim Trio with Park Min-ki",
+      "description": "Performance by Colin Kim Trio with Park Min-ki."
+    },
+    "_search_ko": {
+      "title": "Colin Kim 트리오 with 박민기",
+      "description": "Colin Kim 트리오와 박민기가 함께하는 공연."
     }
   },
   {
@@ -7863,6 +6709,32 @@
     "_search_ko": {
       "title": "Colin Kim 트리오 with 박민기",
       "description": "Colin Kim 트리오와 박민기가 함께하는 공연."
+    }
+  },
+  {
+    "id": "evt_20251226_459edb3b-bf9c-403b-8987-af43a0b907f6",
+    "event_key": "v:ven_9121334e-11fe-4710-8d7b-87f5825e3fcd|t:2025-12-26T11:00:00+00:00",
+    "source_url": "https://www.instagram.com/p/DRq4XsNgSo-/",
+    "venue_handle": "bar_tican",
+    "musician_ids": [],
+    "musician_ig_handles": [],
+    "venue_id": "ven_9121334e-11fe-4710-8d7b-87f5825e3fcd",
+    "venue_location_id": "main",
+    "datetime": "2025-12-26T12:00:00+00:00",
+    "price": "KRW 10,000",
+    "llm_confidence": 1.0,
+    "title": "120S Band",
+    "description": "120S Band performance. Admission: KRW 10,000.",
+    "ticket_link": null,
+    "show_time": null,
+    "age_limit": null,
+    "_search_en": {
+      "title": "120S Band",
+      "description": "120S Band performance. Admission: KRW 10,000."
+    },
+    "_search_ko": {
+      "title": "120S 밴드",
+      "description": "120S 밴드 공연. 입장료: 10,000원."
     }
   },
   {
@@ -8104,7 +6976,7 @@
   {
     "id": "evt_20251227_db4fa2ba-ad49-4d96-b85a-afc2236fc3a1",
     "event_key": "v:ven_60b6d3cb-5547-4382-bad8-2a5667f68c9f|t:2025-12-27T09:30:00+00:00",
-    "source_url": "https://www.instagram.com/p/DRjnTA_EUnI/",
+    "source_url": "https://www.instagram.com/p/DSXCHEMkclT/",
     "venue_handle": "edls_official",
     "musician_ids": [],
     "musician_ig_handles": [],
@@ -8113,44 +6985,18 @@
     "datetime": "2025-12-27T09:30:00+00:00",
     "price": null,
     "llm_confidence": 1.0,
-    "title": "Yang Hye-jung Quartet",
-    "description": "Live jazz performance by Yang Hye-jung Quartet.",
+    "title": "Yang Hye-jeong Quartet",
+    "description": "A year-end jazz stage on a winter night where vocals and saxophone harmonize over movie-like melodies.",
     "ticket_link": null,
     "show_time": null,
     "age_limit": null,
     "_search_en": {
-      "title": "Yang Hye-jung Quartet",
-      "description": "Live jazz performance by Yang Hye-jung Quartet."
+      "title": "Yang Hye-jeong Quartet",
+      "description": "A year-end jazz stage on a winter night where vocals and saxophone harmonize over movie-like melodies."
     },
     "_search_ko": {
       "title": "양혜정 퀄텟",
-      "description": "양혜정 퀄텟의 라이브 재즈 공연."
-    }
-  },
-  {
-    "id": "evt_20251227_8440e877-7125-4d02-b023-387e3be2dae1",
-    "event_key": "v:ven_8f63bbb7-f925-45f4-8bf7-284b0758a00c|t:2025-12-27T10:00:00+00:00",
-    "source_url": "https://www.instagram.com/p/DRv0unTEw2j/",
-    "venue_handle": "jazzxover",
-    "musician_ids": [],
-    "musician_ig_handles": [],
-    "venue_id": "ven_8f63bbb7-f925-45f4-8bf7-284b0758a00c",
-    "venue_location_id": "main",
-    "datetime": "2025-12-27T10:00:00+00:00",
-    "price": "KRW 20,000",
-    "llm_confidence": 1.0,
-    "title": "JASON PARK FUSION",
-    "description": "JASON PARK FUSION performance (Part 1).",
-    "ticket_link": null,
-    "show_time": null,
-    "age_limit": null,
-    "_search_en": {
-      "title": "JASON PARK FUSION",
-      "description": "JASON PARK FUSION performance (Part 1)."
-    },
-    "_search_ko": {
-      "title": "JASON PARK FUSION",
-      "description": "JASON PARK FUSION 공연 (1부)."
+      "description": "영화처럼 흐르는 선율 위로 보컬과 색소폰이 어우러진 겨울 밤의 연말 재즈 스테이지."
     }
   },
   {
@@ -8203,32 +7049,6 @@
     "_search_ko": {
       "title": "허성 송년콘서트",
       "description": "재즈와 R&B 그루브, 소울풀한 에너지의 보컬 스타일리스트 허성의 송년콘서트. Berklee 음대 동문인 최한글 (피아노), 전창민 (베이스), 주드킴 (드럼)과 함께 따뜻하고 감동적인 무대를 선사합니다. 50석 한정. 음료 1잔 & 스낵 제공. 예매: 인터파크, 네이버 예매."
-    }
-  },
-  {
-    "id": "evt_20251227_840b77a5-821c-415a-a3e3-fdf4e410d914",
-    "event_key": "v:ven_5bb65766-9242-4a8a-bbdf-c7cdd5dd73f0|t:2025-12-27T10:30:00+00:00",
-    "source_url": "https://www.instagram.com/p/DRQoiLrj4y5/",
-    "venue_handle": "africa_since1988",
-    "musician_ids": [],
-    "musician_ig_handles": [],
-    "venue_id": "ven_5bb65766-9242-4a8a-bbdf-c7cdd5dd73f0",
-    "venue_location_id": "main",
-    "datetime": "2025-12-27T10:30:00+00:00",
-    "price": "KRW 20,000",
-    "llm_confidence": 1.0,
-    "title": "Choi Baek-gyeol Jazz Ensemble",
-    "description": "Choi Baek-gyeol Jazz Ensemble. Choi Baek-gyeol (saxophone).",
-    "ticket_link": null,
-    "show_time": null,
-    "age_limit": null,
-    "_search_en": {
-      "title": "Choi Baek-gyeol Jazz Ensemble",
-      "description": "Choi Baek-gyeol Jazz Ensemble. Choi Baek-gyeol (saxophone)."
-    },
-    "_search_ko": {
-      "title": "최백결 재즈 앙상블",
-      "description": "최백결 재즈 앙상블. 최백결 (색소폰)."
     }
   },
   {
@@ -8342,6 +7162,32 @@
     }
   },
   {
+    "id": "evt_20251227_840b77a5-821c-415a-a3e3-fdf4e410d914",
+    "event_key": "v:ven_5bb65766-9242-4a8a-bbdf-c7cdd5dd73f0|t:2025-12-27T10:30:00+00:00",
+    "source_url": "https://www.instagram.com/p/DRQojh2Dyn6/",
+    "venue_handle": "africa_since1988",
+    "musician_ids": [],
+    "musician_ig_handles": [],
+    "venue_id": "ven_5bb65766-9242-4a8a-bbdf-c7cdd5dd73f0",
+    "venue_location_id": "main",
+    "datetime": "2025-12-27T11:00:00+00:00",
+    "price": "KRW 20,000",
+    "llm_confidence": 1.0,
+    "title": "Choi Baek-gyeol Jazz Ensemble",
+    "description": "Choi Baek-gyeol (saxophone), Kim Dae-ho (guitar), Kim Dae-gyu (piano), Park Jae-hoon (bass), Song Tae-un (drums)",
+    "ticket_link": null,
+    "show_time": null,
+    "age_limit": null,
+    "_search_en": {
+      "title": "Choi Baek-gyeol Jazz Ensemble",
+      "description": "Choi Baek-gyeol (saxophone), Kim Dae-ho (guitar), Kim Dae-gyu (piano), Park Jae-hoon (bass), Song Tae-un (drums)"
+    },
+    "_search_ko": {
+      "title": "최백결 재즈 앙상블",
+      "description": "최백결 (색소폰), 김대호 (기타), 김대규 (피아노), 박재훈 (베이스), 송태운 (드럼)"
+    }
+  },
+  {
     "id": "evt_20251227_6ecb9520-8a6f-463b-a286-af8abd9b063b",
     "event_key": "v:ven_5bb65766-9242-4a8a-bbdf-c7cdd5dd73f0|t:2025-12-27T11:00:00+00:00",
     "source_url": "https://www.instagram.com/p/DRQoiLrj4y5/",
@@ -8365,32 +7211,6 @@
     "_search_ko": {
       "title": "최백결 재즈 앙상블",
       "description": "최백결 (색소폰) 재즈 앙상블."
-    }
-  },
-  {
-    "id": "evt_20251227_9ecd45ed-e36e-47e8-a18c-a7883449f958",
-    "event_key": "v:ven_9121334e-11fe-4710-8d7b-87f5825e3fcd|t:2025-12-27T11:00:00+00:00",
-    "source_url": "https://www.instagram.com/p/DRq4XsNgSo-/",
-    "venue_handle": "bar_tican",
-    "musician_ids": [],
-    "musician_ig_handles": [],
-    "venue_id": "ven_9121334e-11fe-4710-8d7b-87f5825e3fcd",
-    "venue_location_id": "main",
-    "datetime": "2025-12-27T11:00:00+00:00",
-    "price": "KRW 10,000",
-    "llm_confidence": 1.0,
-    "title": "Haeilup Band",
-    "description": "Haeilup Band performance. Admission: KRW 10,000.",
-    "ticket_link": null,
-    "show_time": null,
-    "age_limit": null,
-    "_search_en": {
-      "title": "Haeilup Band",
-      "description": "Haeilup Band performance. Admission: KRW 10,000."
-    },
-    "_search_ko": {
-      "title": "해일럽 밴드",
-      "description": "해일럽 밴드 공연. 입장료: 10,000원."
     }
   },
   {
@@ -8469,6 +7289,32 @@
     "_search_ko": {
       "title": "Harris Kim",
       "description": "Harris Kim의 재즈 공연."
+    }
+  },
+  {
+    "id": "evt_20251227_8440e877-7125-4d02-b023-387e3be2dae1",
+    "event_key": "v:ven_8f63bbb7-f925-45f4-8bf7-284b0758a00c|t:2025-12-27T10:00:00+00:00",
+    "source_url": "https://www.instagram.com/p/DRnjsFTEwLG/",
+    "venue_handle": "jazzxover",
+    "musician_ids": [],
+    "musician_ig_handles": [],
+    "venue_id": "ven_8f63bbb7-f925-45f4-8bf7-284b0758a00c",
+    "venue_location_id": "main",
+    "datetime": "2025-12-27T11:00:00+00:00",
+    "price": "KRW 20,000 + 1 bottle (wine/whiskey) minimum order",
+    "llm_confidence": 1.0,
+    "title": "Jason Park Fusion",
+    "description": "JAZZXOVER Winter Swing 2025 performance. Admission fee KRW 20,000, 1 bottle (wine/whiskey) minimum order required.",
+    "ticket_link": null,
+    "show_time": null,
+    "age_limit": null,
+    "_search_en": {
+      "title": "Jason Park Fusion",
+      "description": "JAZZXOVER Winter Swing 2025 performance. Admission fee KRW 20,000, 1 bottle (wine/whiskey) minimum order required."
+    },
+    "_search_ko": {
+      "title": "제이슨 박 퓨전",
+      "description": "JAZZXOVER WINTER SWING 2025 공연. 공연료 20,000원, 와인 또는 위스키 1병 필수 주문."
     }
   },
   {
@@ -8686,6 +7532,32 @@
     }
   },
   {
+    "id": "evt_20251227_874c9d57-45ae-4181-8381-4a4023137977",
+    "event_key": "v:ven_8d2dcf2a-456f-4658-8640-84000f9b59f2|t:2025-12-27T11:00:00+00:00",
+    "source_url": "https://www.instagram.com/p/DRrwdJKD69v/",
+    "venue_handle": "milestones_jazz",
+    "musician_ids": [],
+    "musician_ig_handles": [],
+    "venue_id": "ven_8d2dcf2a-456f-4658-8640-84000f9b59f2",
+    "venue_location_id": "main",
+    "datetime": "2025-12-27T11:00:00+00:00",
+    "price": "Advance KRW 20,000 / At door KRW 25,000",
+    "llm_confidence": 1.0,
+    "title": "Da-eun Quintet",
+    "description": "Jazz live performance. Advance KRW 20,000 / At door KRW 25,000.",
+    "ticket_link": null,
+    "show_time": null,
+    "age_limit": null,
+    "_search_en": {
+      "title": "Da-eun Quintet",
+      "description": "Jazz live performance. Advance KRW 20,000 / At door KRW 25,000."
+    },
+    "_search_ko": {
+      "title": "다은 퀸텟",
+      "description": "재즈 라이브 공연. 예매 20,000원 / 현매 25,000원."
+    }
+  },
+  {
     "id": "evt_20251227_2f28c2c9-2bc8-49df-a9a3-8fe89d9ab9f9",
     "event_key": "v:ven_5ad56022-0396-4cbb-b164-1c01bffcb0f9|t:2025-12-27T11:30:00+00:00",
     "source_url": "https://www.instagram.com/p/DRb-UAND2ah/",
@@ -8790,6 +7662,32 @@
     }
   },
   {
+    "id": "evt_20251227_9ecd45ed-e36e-47e8-a18c-a7883449f958",
+    "event_key": "v:ven_9121334e-11fe-4710-8d7b-87f5825e3fcd|t:2025-12-27T11:00:00+00:00",
+    "source_url": "https://www.instagram.com/p/DRq4XsNgSo-/",
+    "venue_handle": "bar_tican",
+    "musician_ids": [],
+    "musician_ig_handles": [],
+    "venue_id": "ven_9121334e-11fe-4710-8d7b-87f5825e3fcd",
+    "venue_location_id": "main",
+    "datetime": "2025-12-27T12:00:00+00:00",
+    "price": "KRW 10,000",
+    "llm_confidence": 1.0,
+    "title": "Haeilup Band",
+    "description": "Haeilup Band performance. Admission: KRW 10,000.",
+    "ticket_link": null,
+    "show_time": null,
+    "age_limit": null,
+    "_search_en": {
+      "title": "Haeilup Band",
+      "description": "Haeilup Band performance. Admission: KRW 10,000."
+    },
+    "_search_ko": {
+      "title": "해일럽 밴드",
+      "description": "해일럽 밴드 공연. 입장료: 10,000원."
+    }
+  },
+  {
     "id": "evt_20251227_b6433514-e6e8-4428-b646-75f0681806ef",
     "event_key": "v:ven_9121334e-11fe-4710-8d7b-87f5825e3fcd|t:2025-12-27T12:00:00+00:00",
     "source_url": "https://www.instagram.com/p/DRq4XsNgSo-/",
@@ -8818,7 +7716,7 @@
   {
     "id": "evt_20251227_9c9d13bd-9785-4c97-b6ac-686eae866946",
     "event_key": "v:ven_60b6d3cb-5547-4382-bad8-2a5667f68c9f|t:2025-12-27T12:00:00+00:00",
-    "source_url": "https://www.instagram.com/p/DRjnTA_EUnI/",
+    "source_url": "https://www.instagram.com/p/DSXCHEMkclT/",
     "venue_handle": "edls_official",
     "musician_ids": [],
     "musician_ig_handles": [],
@@ -8828,17 +7726,17 @@
     "price": null,
     "llm_confidence": 1.0,
     "title": "Linda Floresta Quintet",
-    "description": "Live jazz performance by Linda Floresta Quintet.",
+    "description": "Samba Jazz! A meeting of Brazilian rhythms and free harmonies!",
     "ticket_link": null,
     "show_time": null,
     "age_limit": null,
     "_search_en": {
       "title": "Linda Floresta Quintet",
-      "description": "Live jazz performance by Linda Floresta Quintet."
+      "description": "Samba Jazz! A meeting of Brazilian rhythms and free harmonies!"
     },
     "_search_ko": {
       "title": "린다 플로레스타 퀸텟",
-      "description": "린다 플로레스타 퀸텟의 라이브 재즈 공연."
+      "description": "브라질의 리듬과 자유로운 하모니가 만나는 삼바 재즈!"
     }
   },
   {
@@ -9080,7 +7978,7 @@
   {
     "id": "evt_20251228_dc4dfb1a-2725-47c6-a179-5755387d8089",
     "event_key": "v:ven_f925c030-84e7-4742-bf0d-1e0ce8bf1493|t:2025-12-28T07:00:00+00:00",
-    "source_url": "https://www.instagram.com/p/DSQRyh4krm6/",
+    "source_url": "https://www.instagram.com/p/DSEhfNaknY6/",
     "venue_handle": "teddy.valley",
     "musician_ids": [],
     "musician_ig_handles": [
@@ -9094,17 +7992,17 @@
     "price": "KRW 25,000",
     "llm_confidence": 1.0,
     "title": "Kim Daeyoun Trio",
-    "description": "Trio featuring Kim Daeyoun (piano), Baek Yonghun (bass), and Teddy Shin (drums).",
+    "description": "Kim Daeyoun (piano) @daeyounkimm, Yonghoon Baek (bass) @jazz_baek, Teddy Shin (drums) @teddy.shin_drums. Show times: 16:00~16:40 / 17:00~17:40. Ticket KRW 25,000 includes one free drink (house wine, beer, or non-alcoholic). Reservations via DM or text (010-7633-5348).",
     "ticket_link": null,
     "show_time": null,
     "age_limit": null,
     "_search_en": {
       "title": "Kim Daeyoun Trio",
-      "description": "Trio featuring Kim Daeyoun (piano), Baek Yonghun (bass), and Teddy Shin (drums)."
+      "description": "Kim Daeyoun (piano) @daeyounkimm, Yonghoon Baek (bass) @jazz_baek, Teddy Shin (drums) @teddy.shin_drums. Show times: 16:00~16:40 / 17:00~17:40. Ticket KRW 25,000 includes one free drink (house wine, beer, or non-alcoholic). Reservations via DM or text (010-7633-5348)."
     },
     "_search_ko": {
       "title": "김대윤 트리오",
-      "description": "김대윤 (피아노), 백용훈 (베이스), 테디 신 (드럼)으로 구성된 트리오."
+      "description": "김대윤 (피아노) @daeyounkimm, 백용훈 (베이스) @jazz_baek, 테디 신 (드럼) @teddy.shin_drums. 공연시간: 16:00~16:40 / 17:00~17:40. 관람료 25,000원에 하우스 와인, 맥주, 논알콜 중 1잔 포함. 예매는 DM 또는 문자 (010-7633-5348)."
     }
   },
   {
@@ -9136,7 +8034,7 @@
   {
     "id": "evt_20251228_d5226d4f-f0e1-4a7c-b3e2-c6b52e41a392",
     "event_key": "v:ven_60b6d3cb-5547-4382-bad8-2a5667f68c9f|t:2025-12-28T09:30:00+00:00",
-    "source_url": "https://www.instagram.com/p/DRjnTA_EUnI/",
+    "source_url": "https://www.instagram.com/p/DSXCHEMkclT/",
     "venue_handle": "edls_official",
     "musician_ids": [],
     "musician_ig_handles": [],
@@ -9146,17 +8044,17 @@
     "price": null,
     "llm_confidence": 1.0,
     "title": "Lee Dae-won Quartet",
-    "description": "Live jazz performance by Lee Dae-won Quartet.",
+    "description": "A stage filled with the excitement of the first snow.",
     "ticket_link": null,
     "show_time": null,
     "age_limit": null,
     "_search_en": {
       "title": "Lee Dae-won Quartet",
-      "description": "Live jazz performance by Lee Dae-won Quartet."
+      "description": "A stage filled with the excitement of the first snow."
     },
     "_search_ko": {
       "title": "이대원 퀄텟",
-      "description": "이대원 퀄텟의 라이브 재즈 공연."
+      "description": "첫 눈 오는 날의 설레임을 담은 무대."
     }
   },
   {
@@ -9370,6 +8268,32 @@
     }
   },
   {
+    "id": "evt_20251228_a878e009-163b-46fd-a461-2e423a42b121",
+    "event_key": "v:ven_b0e60f70-963d-426b-a8a4-ae2d0b335e84|t:2025-12-28T11:00:00+00:00",
+    "source_url": "https://www.instagram.com/p/DSWZsYIE7qx/",
+    "venue_handle": "orient_express_wine_",
+    "musician_ids": [],
+    "musician_ig_handles": [],
+    "venue_id": "ven_b0e60f70-963d-426b-a8a4-ae2d0b335e84",
+    "venue_location_id": "main",
+    "datetime": "2025-12-28T11:00:00+00:00",
+    "price": "KRW 15,000",
+    "llm_confidence": 1.0,
+    "title": "Park Go-un Quartet",
+    "description": "Park Go-un Quartet performance.",
+    "ticket_link": null,
+    "show_time": null,
+    "age_limit": null,
+    "_search_en": {
+      "title": "Park Go-un Quartet",
+      "description": "Park Go-un Quartet performance."
+    },
+    "_search_ko": {
+      "title": "박고운 퀄텟",
+      "description": "박고운 퀄텟 공연."
+    }
+  },
+  {
     "id": "evt_20251228_46bff90f-1ba2-4707-b57c-66905dab52d1",
     "event_key": "v:ven_782b3bbf-b6a2-470e-a1e6-00b2f2d5587e|t:2025-12-28T11:30:00+00:00",
     "source_url": "https://www.instagram.com/p/DRUUMxZj2xQ/",
@@ -9554,6 +8478,32 @@
     }
   },
   {
+    "id": "evt_20251229_8cd4ce00-da6f-4111-9909-01cf78c9657d",
+    "event_key": "v:ven_b0e60f70-963d-426b-a8a4-ae2d0b335e84|t:2025-12-29T11:00:00+00:00",
+    "source_url": "https://www.instagram.com/p/DSWZsYIE7qx/",
+    "venue_handle": "orient_express_wine_",
+    "musician_ids": [],
+    "musician_ig_handles": [],
+    "venue_id": "ven_b0e60f70-963d-426b-a8a4-ae2d0b335e84",
+    "venue_location_id": "main",
+    "datetime": "2025-12-29T11:00:00+00:00",
+    "price": "KRW 15,000",
+    "llm_confidence": 1.0,
+    "title": "Jung Sang-woo Trio",
+    "description": "Jung Sang-woo Trio performance.",
+    "ticket_link": null,
+    "show_time": null,
+    "age_limit": null,
+    "_search_en": {
+      "title": "Jung Sang-woo Trio",
+      "description": "Jung Sang-woo Trio performance."
+    },
+    "_search_ko": {
+      "title": "정상우 트리오",
+      "description": "정상우 트리오 공연."
+    }
+  },
+  {
     "id": "evt_20251230_a823b52e-b589-4305-9daf-a204b5420236",
     "event_key": "v:ven_6f67bf66-952d-480b-92cd-971d60e5c086|t:2025-12-30T10:30:00+00:00",
     "source_url": "https://www.instagram.com/p/DSR3TclAQfb/",
@@ -9681,6 +8631,32 @@
     "_search_ko": {
       "title": "배민혁",
       "description": "배민혁 공연."
+    }
+  },
+  {
+    "id": "evt_20251230_fdd3ae9d-12a1-49bd-9932-3d91a8da84bf",
+    "event_key": "v:ven_b0e60f70-963d-426b-a8a4-ae2d0b335e84|t:2025-12-30T11:00:00+00:00",
+    "source_url": "https://www.instagram.com/p/DSWZsYIE7qx/",
+    "venue_handle": "orient_express_wine_",
+    "musician_ids": [],
+    "musician_ig_handles": [],
+    "venue_id": "ven_b0e60f70-963d-426b-a8a4-ae2d0b335e84",
+    "venue_location_id": "main",
+    "datetime": "2025-12-30T11:00:00+00:00",
+    "price": "KRW 15,000",
+    "llm_confidence": 1.0,
+    "title": "2025 LAST Jazz Duo",
+    "description": "2025 LAST Jazz Duo performance.",
+    "ticket_link": null,
+    "show_time": null,
+    "age_limit": null,
+    "_search_en": {
+      "title": "2025 LAST Jazz Duo",
+      "description": "2025 LAST Jazz Duo performance."
+    },
+    "_search_ko": {
+      "title": "2025 마지막 재즈 듀오",
+      "description": "2025 마지막 재즈 듀오 공연."
     }
   },
   {
@@ -9842,7 +8818,7 @@
   {
     "id": "evt_20251231_29ad9378-72f6-414e-8969-b144d632ce4f",
     "event_key": "v:ven_defc39a1-7787-48c7-b5f4-623157118647|t:2025-12-31T10:30:00+00:00",
-    "source_url": "https://www.instagram.com/p/DRqSJ2fklKG/",
+    "source_url": "https://www.instagram.com/p/DRw3tPAEmvM/",
     "venue_handle": "bluecat.fezh",
     "musician_ids": [],
     "musician_ig_handles": [
@@ -9855,24 +8831,24 @@
     "datetime": "2025-12-31T10:30:00+00:00",
     "price": "None",
     "llm_confidence": 1.0,
-    "title": "Jazz Music Korea Ensemble",
-    "description": "Year-end special dinner package performance. Choi Jun-hyeok (bass) @chjh1210, Lee Soo-kyung (vocal) @sugarjazzzz, Park Jin-seong (piano) @js__piano",
+    "title": "Blue Cat Year-End Special Jazz Night",
+    "description": "Romantic jazz performance by Jazz Music Korea Ensemble. Includes chef's special dinner and strawberry cake.",
     "ticket_link": null,
     "show_time": null,
     "age_limit": null,
     "_search_en": {
-      "title": "Jazz Music Korea Ensemble",
-      "description": "Year-end special dinner package performance. Choi Jun-hyeok (bass) @chjh1210, Lee Soo-kyung (vocal) @sugarjazzzz, Park Jin-seong (piano) @js__piano"
+      "title": "Blue Cat Year-End Special Jazz Night",
+      "description": "Romantic jazz performance by Jazz Music Korea Ensemble. Includes chef's special dinner and strawberry cake."
     },
     "_search_ko": {
-      "title": "재즈뮤직코리아 앙상블",
-      "description": "연말 스페셜 디너 패키지 공연. 최준혁 (베이스) @chjh1210, 이수경 (보컬) @sugarjazzzz, 박진성 (피아노) @js__piano"
+      "title": "블루캣 연말 스페셜 재즈 나잇",
+      "description": "재즈뮤직코리아 앙상블의 로맨틱 재즈 공연. 셰프의 스페셜 디너와 딸기 케이크 포함."
     }
   },
   {
     "id": "evt_20251231_c2b7b0d6-5f59-4d05-99d5-29b7fb4fcd32",
     "event_key": "v:ven_60b6d3cb-5547-4382-bad8-2a5667f68c9f|t:2025-12-31T10:30:00+00:00",
-    "source_url": "https://www.instagram.com/p/DRjnTA_EUnI/",
+    "source_url": "https://www.instagram.com/p/DSXCHEMkclT/",
     "venue_handle": "edls_official",
     "musician_ids": [],
     "musician_ig_handles": [],
@@ -9882,17 +8858,17 @@
     "price": "None",
     "llm_confidence": 1.0,
     "title": "Park Sun-young JR Combo",
-    "description": "Live performance by Park Sun-young JR Combo.",
+    "description": "A colorful, groovy, and hip jazz performance reinterpreted with the sensibility of JR Combo.",
     "ticket_link": null,
     "show_time": null,
     "age_limit": null,
     "_search_en": {
       "title": "Park Sun-young JR Combo",
-      "description": "Live performance by Park Sun-young JR Combo."
+      "description": "A colorful, groovy, and hip jazz performance reinterpreted with the sensibility of JR Combo."
     },
     "_search_ko": {
       "title": "박선영 JR 콤보",
-      "description": "박선영 JR 콤보의 라이브 공연."
+      "description": "JR Combo의 감각으로 재해석한 다채로운 재즈, 그루브 넘치는 힙한 재즈 퍼포먼스."
     }
   },
   {
@@ -9924,7 +8900,7 @@
   {
     "id": "evt_20251231_f6009848-306c-4b9b-aa9b-de50ab7763c8",
     "event_key": "v:ven_5bb65766-9242-4a8a-bbdf-c7cdd5dd73f0|t:2025-12-31T11:00:00+00:00",
-    "source_url": "https://www.instagram.com/p/DRQoiLrj4y5/",
+    "source_url": "https://www.instagram.com/p/DRQojh2Dyn6/",
     "venue_handle": "africa_since1988",
     "musician_ids": [],
     "musician_ig_handles": [],
@@ -9933,18 +8909,18 @@
     "datetime": "2025-12-31T11:00:00+00:00",
     "price": "KRW 20,000",
     "llm_confidence": 1.0,
-    "title": "Ko Myungseok Trio (Year-end Special)",
-    "description": "Year-end Special. Ko Myungseok (drums) Trio.",
+    "title": "Go Myeong-seok Trio (Year-end Special)",
+    "description": "Go Myeong-seok (drums), Kim Kyung-mo (guitar), Park Ju-min (bass). Year-end special.",
     "ticket_link": null,
     "show_time": null,
     "age_limit": null,
     "_search_en": {
-      "title": "Ko Myungseok Trio (Year-end Special)",
-      "description": "Year-end Special. Ko Myungseok (drums) Trio."
+      "title": "Go Myeong-seok Trio (Year-end Special)",
+      "description": "Go Myeong-seok (drums), Kim Kyung-mo (guitar), Park Ju-min (bass). Year-end special."
     },
     "_search_ko": {
       "title": "고명석 트리오 (송년 특집)",
-      "description": "송년 특집. 고명석 (드럼) 트리오."
+      "description": "고명석 (드럼), 김경모 (기타), 박주민 (베이스). 송년 특집."
     }
   },
   {
@@ -9997,32 +8973,6 @@
     "_search_ko": {
       "title": "Tracy&",
       "description": "Tracy&의 재즈 공연."
-    }
-  },
-  {
-    "id": "evt_20251231_10aa3cc1-f386-49d2-bff7-5e94e411d79d",
-    "event_key": "v:ven_cb0c3754-4898-4a3e-be0b-0c6062df5111|t:2025-12-31T11:00:00+00:00",
-    "source_url": "https://www.instagram.com/p/DRrR00KE4K8/",
-    "venue_handle": "jazzlounge_official",
-    "musician_ids": [],
-    "musician_ig_handles": [],
-    "venue_id": "ven_cb0c3754-4898-4a3e-be0b-0c6062df5111",
-    "venue_location_id": "main",
-    "datetime": "2025-12-31T11:00:00+00:00",
-    "price": "KRW 5,000",
-    "llm_confidence": 1.0,
-    "title": "Park Yu-ra Trio",
-    "description": "Jazz live performance by Park Yu-ra (guitar) Trio. Featuring bass, drums.",
-    "ticket_link": null,
-    "show_time": null,
-    "age_limit": null,
-    "_search_en": {
-      "title": "Park Yu-ra Trio",
-      "description": "Jazz live performance by Park Yu-ra (guitar) Trio. Featuring bass, drums."
-    },
-    "_search_ko": {
-      "title": "박유라 트리오",
-      "description": "박유라 (기타) 트리오의 재즈 라이브 공연. 베이스, 드럼."
     }
   },
   {
@@ -10081,6 +9031,32 @@
     "_search_ko": {
       "title": "SEOB's New Day 라이브 공연",
       "description": "2025년을 마무리하고 2026년 새해를 맞이하는 SEOB's New Day. Seob의 라이브 공연과 함께 스파클링 와인이 제공됩니다. 1부 20:00-20:40, 2부 21:00-21:40."
+    }
+  },
+  {
+    "id": "evt_20251231_efc16878-f038-41d4-848e-b95b2e0e4c18",
+    "event_key": "v:ven_b0e60f70-963d-426b-a8a4-ae2d0b335e84|t:2025-12-31T11:00:00+00:00",
+    "source_url": "https://www.instagram.com/p/DSWZsYIE7qx/",
+    "venue_handle": "orient_express_wine_",
+    "musician_ids": [],
+    "musician_ig_handles": [],
+    "venue_id": "ven_b0e60f70-963d-426b-a8a4-ae2d0b335e84",
+    "venue_location_id": "main",
+    "datetime": "2025-12-31T11:00:00+00:00",
+    "price": "KRW 15,000",
+    "llm_confidence": 1.0,
+    "title": "New Year's Eve Jazz Trio",
+    "description": "New Year's Eve Jazz Trio performance.",
+    "ticket_link": null,
+    "show_time": null,
+    "age_limit": null,
+    "_search_en": {
+      "title": "New Year's Eve Jazz Trio",
+      "description": "New Year's Eve Jazz Trio performance."
+    },
+    "_search_ko": {
+      "title": "새해 전야 재즈 트리오",
+      "description": "새해 전야 재즈 트리오 공연."
     }
   },
   {
@@ -10162,29 +9138,29 @@
     }
   },
   {
-    "id": "evt_20251231_02ab67e9-85eb-40d0-9f8d-41501a17b698",
-    "event_key": "v:ven_9121334e-11fe-4710-8d7b-87f5825e3fcd|t:2025-12-31T12:00:00+00:00",
-    "source_url": "https://www.instagram.com/p/DRq4XsNgSo-/",
-    "venue_handle": "bar_tican",
+    "id": "evt_20251231_10aa3cc1-f386-49d2-bff7-5e94e411d79d",
+    "event_key": "v:ven_cb0c3754-4898-4a3e-be0b-0c6062df5111|t:2025-12-31T11:00:00+00:00",
+    "source_url": "https://www.instagram.com/p/DRrR00KE4K8/",
+    "venue_handle": "jazzlounge_official",
     "musician_ids": [],
     "musician_ig_handles": [],
-    "venue_id": "ven_9121334e-11fe-4710-8d7b-87f5825e3fcd",
+    "venue_id": "ven_cb0c3754-4898-4a3e-be0b-0c6062df5111",
     "venue_location_id": "main",
     "datetime": "2025-12-31T12:00:00+00:00",
     "price": "KRW 5,000",
     "llm_confidence": 1.0,
-    "title": "Lee Jong-won Band",
-    "description": "Lee Jong-won Band performance. Admission: KRW 5,000.",
+    "title": "Park Yu-ra Trio",
+    "description": "Jazz live performance by Park Yu-ra (guitar) Trio. Featuring bass, drums.",
     "ticket_link": null,
     "show_time": null,
     "age_limit": null,
     "_search_en": {
-      "title": "Lee Jong-won Band",
-      "description": "Lee Jong-won Band performance. Admission: KRW 5,000."
+      "title": "Park Yu-ra Trio",
+      "description": "Jazz live performance by Park Yu-ra (guitar) Trio. Featuring bass, drums."
     },
     "_search_ko": {
-      "title": "이종원 밴드",
-      "description": "이종원 밴드 공연. 입장료: 5,000원."
+      "title": "박유라 트리오",
+      "description": "박유라 (기타) 트리오의 재즈 라이브 공연. 베이스, 드럼."
     }
   },
   {
@@ -10266,6 +9242,32 @@
     }
   },
   {
+    "id": "evt_20251231_02ab67e9-85eb-40d0-9f8d-41501a17b698",
+    "event_key": "v:ven_9121334e-11fe-4710-8d7b-87f5825e3fcd|t:2025-12-31T12:00:00+00:00",
+    "source_url": "https://www.instagram.com/p/DRq4XsNgSo-/",
+    "venue_handle": "bar_tican",
+    "musician_ids": [],
+    "musician_ig_handles": [],
+    "venue_id": "ven_9121334e-11fe-4710-8d7b-87f5825e3fcd",
+    "venue_location_id": "main",
+    "datetime": "2025-12-31T13:00:00+00:00",
+    "price": "KRW 5,000",
+    "llm_confidence": 1.0,
+    "title": "Lee Jong-won Band",
+    "description": "Lee Jong-won Band performance. Admission: KRW 5,000.",
+    "ticket_link": null,
+    "show_time": null,
+    "age_limit": null,
+    "_search_en": {
+      "title": "Lee Jong-won Band",
+      "description": "Lee Jong-won Band performance. Admission: KRW 5,000."
+    },
+    "_search_ko": {
+      "title": "이종원 밴드",
+      "description": "이종원 밴드 공연. 입장료: 5,000원."
+    }
+  },
+  {
     "id": "evt_20251231_57fbc970-d97a-4b85-a060-e1d2259e9f58",
     "event_key": "v:ven_9121334e-11fe-4710-8d7b-87f5825e3fcd|t:2025-12-31T13:00:00+00:00",
     "source_url": "https://www.instagram.com/p/DRq4XsNgSo-/",
@@ -10294,7 +9296,7 @@
   {
     "id": "evt_20251231_7528407d-38eb-4f54-a237-0f6e4f57d454",
     "event_key": "v:ven_60b6d3cb-5547-4382-bad8-2a5667f68c9f|t:2025-12-31T13:00:00+00:00",
-    "source_url": "https://www.instagram.com/p/DRjnTA_EUnI/",
+    "source_url": "https://www.instagram.com/p/DSXCHEMkclT/",
     "venue_handle": "edls_official",
     "musician_ids": [],
     "musician_ig_handles": [],
@@ -10303,18 +9305,18 @@
     "datetime": "2025-12-31T13:00:00+00:00",
     "price": null,
     "llm_confidence": 1.0,
-    "title": "Bang Byung-jo Group",
-    "description": "Live performance by Bang Byung-jo Group. Happy New Year Countdown.",
+    "title": "Bang Byeong-jo Group",
+    "description": "Happy New Year! A jazz performance to share the countdown.",
     "ticket_link": null,
     "show_time": null,
     "age_limit": null,
     "_search_en": {
-      "title": "Bang Byung-jo Group",
-      "description": "Live performance by Bang Byung-jo Group. Happy New Year Countdown."
+      "title": "Bang Byeong-jo Group",
+      "description": "Happy New Year! A jazz performance to share the countdown."
     },
     "_search_ko": {
       "title": "방병조 그룹",
-      "description": "방병조 그룹의 라이브 공연. 해피 뉴 이어 카운트다운."
+      "description": "Happy New Year! 카운트다운을 함께하는 재즈 공연."
     }
   },
   {
@@ -10686,11 +9688,11 @@
   {
     "id": "evt_20260110_37c83df3-a2b3-4aba-99dc-29a071a986bd",
     "event_key": "v:ven_f925c030-84e7-4742-bf0d-1e0ce8bf1493|t:2026-01-10T07:00:00+00:00",
-    "source_url": "https://www.instagram.com/p/DSVX7bVkr74/",
+    "source_url": "https://www.instagram.com/p/DSEmhTKkvfP/",
     "venue_handle": "teddy.valley",
     "musician_ids": [],
     "musician_ig_handles": [
-      "_mingi_park",
+      "__mingi_park",
       "baeminhyuk6"
     ],
     "venue_id": "ven_f925c030-84e7-4742-bf0d-1e0ce8bf1493",
@@ -10698,18 +9700,18 @@
     "datetime": "2026-01-10T07:00:00+00:00",
     "price": null,
     "llm_confidence": 1.0,
-    "title": "Park MinGi Duo",
-    "description": "Park MinGi Duo: Park MinGi (vocal), Bae MinHyeok (guitar).",
+    "title": "Park Min-gi Duo",
+    "description": "Park Min-gi (vocal) @__mingi_park, Bae Min-hyuk (guitar) @baeminhyuk6",
     "ticket_link": null,
     "show_time": null,
     "age_limit": null,
     "_search_en": {
-      "title": "Park MinGi Duo",
-      "description": "Park MinGi Duo: Park MinGi (vocal), Bae MinHyeok (guitar)."
+      "title": "Park Min-gi Duo",
+      "description": "Park Min-gi (vocal) @__mingi_park, Bae Min-hyuk (guitar) @baeminhyuk6"
     },
     "_search_ko": {
       "title": "박민기 듀오",
-      "description": "박민기 듀오: 박민기 (보컬), 배민혁 (기타)."
+      "description": "박민기 (보컬) @__mingi_park, 배민혁 (기타) @baeminhyuk6"
     }
   },
   {
@@ -10897,7 +9899,7 @@
   {
     "id": "evt_20260117_c6b00531-361f-4e87-8279-e6aab26166d7",
     "event_key": "v:ven_f925c030-84e7-4742-bf0d-1e0ce8bf1493|t:2026-01-17T07:00:00+00:00",
-    "source_url": "https://www.instagram.com/p/DSVX7bVkr74/",
+    "source_url": "https://www.instagram.com/p/DSEmhTKkvfP/",
     "venue_handle": "teddy.valley",
     "musician_ids": [],
     "musician_ig_handles": [
@@ -10910,18 +9912,18 @@
     "datetime": "2026-01-17T07:00:00+00:00",
     "price": null,
     "llm_confidence": 1.0,
-    "title": "Roh Basaem Trio",
-    "description": "Roh Basaem Trio: Roh Basaem (piano), Shin MyungJun (bass), Teddy Shin (drums).",
+    "title": "Kim Dae-yoon Trio",
+    "description": "Kim Dae-yoon (piano) @daeyounkimm, Baek Yong-hoon (bass) @jazz_baek, Teddy Shin (drums) @teddy.shin_drums",
     "ticket_link": null,
     "show_time": null,
     "age_limit": null,
     "_search_en": {
-      "title": "Roh Basaem Trio",
-      "description": "Roh Basaem Trio: Roh Basaem (piano), Shin MyungJun (bass), Teddy Shin (drums)."
+      "title": "Kim Dae-yoon Trio",
+      "description": "Kim Dae-yoon (piano) @daeyounkimm, Baek Yong-hoon (bass) @jazz_baek, Teddy Shin (drums) @teddy.shin_drums"
     },
     "_search_ko": {
-      "title": "노바샘 트리오",
-      "description": "노바샘 트리오: 노바샘 (피아노), 신명준 (베이스), 테디 신 (드럼)."
+      "title": "김대윤 트리오",
+      "description": "김대윤 (피아노) @daeyounkimm, 백용훈 (베이스) @jazz_baek, 테디 신 (드럼) @teddy.shin_drums"
     }
   },
   {
@@ -11109,7 +10111,7 @@
   {
     "id": "evt_20260124_eb85a69a-be66-4a2f-816e-995c46d560bc",
     "event_key": "v:ven_f925c030-84e7-4742-bf0d-1e0ce8bf1493|t:2026-01-24T07:00:00+00:00",
-    "source_url": "https://www.instagram.com/p/DSVX7bVkr74/",
+    "source_url": "https://www.instagram.com/p/DSEmhTKkvfP/",
     "venue_handle": "teddy.valley",
     "musician_ids": [],
     "musician_ig_handles": [
@@ -11124,18 +10126,18 @@
     "datetime": "2026-01-24T07:00:00+00:00",
     "price": null,
     "llm_confidence": 1.0,
-    "title": "Kang Jaehun Quartet",
-    "description": "Kang Jaehun Quartet: Kang Jaehun (piano), Son YoungSeo (vocal), Park JinKyo (bass), Kim SangSu (drums).",
+    "title": "Kang Jae-hoon Quartet 'On The 4-Sticks'",
+    "description": "Son Young-seo (vocal) @un_mardi, Kang Jae-hoon (piano) @thisisjaehun, Park Jin-gyo (bass) @casstech_, Kim Sang-soo (drums) @sangsu8531, Teddy Shin (drums) @teddy.shin_drums",
     "ticket_link": null,
     "show_time": null,
     "age_limit": null,
     "_search_en": {
-      "title": "Kang Jaehun Quartet",
-      "description": "Kang Jaehun Quartet: Kang Jaehun (piano), Son YoungSeo (vocal), Park JinKyo (bass), Kim SangSu (drums)."
+      "title": "Kang Jae-hoon Quartet 'On The 4-Sticks'",
+      "description": "Son Young-seo (vocal) @un_mardi, Kang Jae-hoon (piano) @thisisjaehun, Park Jin-gyo (bass) @casstech_, Kim Sang-soo (drums) @sangsu8531, Teddy Shin (drums) @teddy.shin_drums"
     },
     "_search_ko": {
-      "title": "강재훈 퀄텟",
-      "description": "강재훈 퀄텟: 강재훈 (피아노), 손영서 (보컬), 박진교 (베이스), 김상수 (드럼)."
+      "title": "강재훈 퀄텟 'On The 4-Sticks'",
+      "description": "손영서 (보컬) @un_mardi, 강재훈 (피아노) @thisisjaehun, 박진교 (베이스) @casstech_, 김상수 (드럼) @sangsu8531, 테디 신 (드럼) @teddy.shin_drums"
     }
   },
   {
@@ -11297,7 +10299,7 @@
   {
     "id": "evt_20260131_38e72cfc-6499-4a31-85bb-c37b8c1994d4",
     "event_key": "v:ven_f925c030-84e7-4742-bf0d-1e0ce8bf1493|t:2026-01-31T07:00:00+00:00",
-    "source_url": "https://www.instagram.com/p/DSVX7bVkr74/",
+    "source_url": "https://www.instagram.com/p/DSEmhTKkvfP/",
     "venue_handle": "teddy.valley",
     "musician_ids": [],
     "musician_ig_handles": [
@@ -11310,18 +10312,18 @@
     "datetime": "2026-01-31T07:00:00+00:00",
     "price": null,
     "llm_confidence": 1.0,
-    "title": "Kim Daeyoun Trio",
-    "description": "Kim Daeyoun Trio: Kim Daeyoun (piano), Baek YongHun (bass), Teddy Shin (drums).",
+    "title": "No Ba-saem Trio",
+    "description": "No Ba-saem (piano) @basaemroh, Shin Myung-joon (bass) @smjazz_98, Teddy Shin (drums) @teddy.shin_drums",
     "ticket_link": null,
     "show_time": null,
     "age_limit": null,
     "_search_en": {
-      "title": "Kim Daeyoun Trio",
-      "description": "Kim Daeyoun Trio: Kim Daeyoun (piano), Baek YongHun (bass), Teddy Shin (drums)."
+      "title": "No Ba-saem Trio",
+      "description": "No Ba-saem (piano) @basaemroh, Shin Myung-joon (bass) @smjazz_98, Teddy Shin (drums) @teddy.shin_drums"
     },
     "_search_ko": {
-      "title": "김대윤 트리오",
-      "description": "김대윤 트리오: 김대윤 (피아노), 백용훈 (베이스), 테디 신 (드럼)."
+      "title": "노바샘 트리오",
+      "description": "노바샘 (피아노) @basaemroh, 신명준 (베이스) @smjazz_98, 테디 신 (드럼) @teddy.shin_drums"
     }
   },
   {
@@ -11754,21 +10756,21 @@
     "musician_ig_handles": [],
     "venue_id": "ven_9121334e-11fe-4710-8d7b-87f5825e3fcd",
     "venue_location_id": "main",
-    "datetime": "2026-10-31T11:00:00+00:00",
+    "datetime": "2026-10-31T12:00:00+00:00",
     "price": null,
     "llm_confidence": 1.0,
     "title": "Damon Brown",
-    "description": "Jazz trumpet player Damon Brown live performance, part 1.",
+    "description": "Jazz trumpet player Damon Brown live performance, part 2.",
     "ticket_link": null,
     "show_time": null,
     "age_limit": null,
     "_search_en": {
       "title": "Damon Brown",
-      "description": "Jazz trumpet player Damon Brown live performance, part 1."
+      "description": "Jazz trumpet player Damon Brown live performance, part 2."
     },
     "_search_ko": {
       "title": "Damon Brown",
-      "description": "재즈 트럼펫 연주자 데이먼 브라운 라이브 공연 1부."
+      "description": "재즈 트럼펫 연주자 데이먼 브라운 라이브 공연 2부."
     }
   },
   {
@@ -11888,21 +10890,21 @@
     "musician_ig_handles": [],
     "venue_id": "ven_9121334e-11fe-4710-8d7b-87f5825e3fcd",
     "venue_location_id": "main",
-    "datetime": "2026-11-29T11:00:00+00:00",
+    "datetime": "2026-11-29T12:00:00+00:00",
     "price": null,
     "llm_confidence": 1.0,
     "title": "Beard and Young Bloods",
-    "description": "Live performance by Beard and Young Bloods, Part 1. Featuring various genres including jazz, K-pop, and pop.",
+    "description": "Live performance by Beard and Young Bloods, Part 2. Featuring various genres including jazz, K-pop, and pop.",
     "ticket_link": null,
     "show_time": null,
     "age_limit": null,
     "_search_en": {
       "title": "Beard and Young Bloods",
-      "description": "Live performance by Beard and Young Bloods, Part 1. Featuring various genres including jazz, K-pop, and pop."
+      "description": "Live performance by Beard and Young Bloods, Part 2. Featuring various genres including jazz, K-pop, and pop."
     },
     "_search_ko": {
       "title": "털보와 젊은피들",
-      "description": "털보와 젊은피들의 라이브 공연 1부. 재즈, 가요, 팝 등 다양한 장르."
+      "description": "털보와 젊은피들의 라이브 공연 2부. 재즈, 가요, 팝 등 다양한 장르."
     }
   },
   {

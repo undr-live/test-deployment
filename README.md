@@ -5,15 +5,15 @@
 ## Build Information
 
 - **Environment**: TEST
-- **Build Time**: 2025-12-20T09:58:52Z
-- **Source Commit**: [`b65363bb91ee958ddd0d7769717a4695e7829217`](https://github.com/keunwoochoi/seoulunderground.live/commit/b65363bb91ee958ddd0d7769717a4695e7829217)
-- **Branch**: `add-weekly-germany`
-- **Workflow Run**: [View logs](https://github.com/keunwoochoi/seoulunderground.live/actions/runs/20392734069)
+- **Build Time**: 2025-12-21T06:09:51Z
+- **Source Commit**: [`d8b0d8256e5d93fd489d3af13ee4200337ea18f4`](https://github.com/keunwoochoi/seoulunderground.live/commit/d8b0d8256e5d93fd489d3af13ee4200337ea18f4)
+- **Branch**: `remove-address`
+- **Workflow Run**: [View logs](https://github.com/keunwoochoi/seoulunderground.live/actions/runs/20405701128)
 
 ## Commit Details
 
 - **Author**: Keunwoo Choi <gnuchoi+github@gmail.com>
-- **Message**: add missing file
+- **Message**: fix the address and others....
 
 ## Deployment URLs
 
