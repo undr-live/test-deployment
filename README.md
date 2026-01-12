@@ -5,15 +5,15 @@
 ## Build Information
 
 - **Environment**: TEST
-- **Build Time**: 2025-12-21T06:09:51Z
-- **Source Commit**: [`d8b0d8256e5d93fd489d3af13ee4200337ea18f4`](https://github.com/keunwoochoi/seoulunderground.live/commit/d8b0d8256e5d93fd489d3af13ee4200337ea18f4)
-- **Branch**: `remove-address`
-- **Workflow Run**: [View logs](https://github.com/keunwoochoi/seoulunderground.live/actions/runs/20405701128)
+- **Build Time**: 2026-01-12T05:43:49Z
+- **Source Commit**: [`5989d7f73de24eef86b768057481033705c75e2b`](https://github.com/keunwoochoi/seoulunderground.live/commit/5989d7f73de24eef86b768057481033705c75e2b)
+- **Branch**: `fix-screenshot`
+- **Workflow Run**: [View logs](https://github.com/keunwoochoi/seoulunderground.live/actions/runs/20909286929)
 
 ## Commit Details
 
 - **Author**: Keunwoo Choi <gnuchoi+github@gmail.com>
-- **Message**: fix the address and others....
+- **Message**: Fix cover overlay: use position:fixed to cover entire viewport including header
 
 ## Deployment URLs
 
