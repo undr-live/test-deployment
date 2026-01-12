@@ -1,57 +1,5 @@
 [
   {
-    "id": "evt_20260112_8f2622ac-3f2e-41ca-bf62-dfb4777d55c5",
-    "event_key": "v:ven_ae87c279-2920-4035-93b7-1c63f47dcb1b|t:2026-01-12T11:00:00+00:00",
-    "source_url": "https://www.instagram.com/p/DR8ZqOGkrkl/",
-    "venue_handle": "sounddog_jazz",
-    "musician_ids": [],
-    "musician_ig_handles": [],
-    "venue_id": "ven_ae87c279-2920-4035-93b7-1c63f47dcb1b",
-    "venue_location_id": "main",
-    "datetime": "2026-01-12T11:00:00+00:00",
-    "price": "KRW 20,000",
-    "llm_confidence": 1.0,
-    "title": "Lee Won-tae",
-    "description": "Jazz live performance.",
-    "ticket_link": null,
-    "show_time": null,
-    "age_limit": null,
-    "_search_en": {
-      "title": "Lee Won-tae",
-      "description": "Jazz live performance."
-    },
-    "_search_ko": {
-      "title": "이원태",
-      "description": "재즈 라이브 공연."
-    }
-  },
-  {
-    "id": "evt_20260112_13626273-35c3-40ba-b979-f138b569eb03",
-    "event_key": "v:ven_0f8f141b-149e-4273-9a26-74ffb1133001|t:2026-01-12T11:00:00+00:00",
-    "source_url": "https://www.instagram.com/p/DSzcbUAErj3/",
-    "venue_handle": "flatnine_jazzbar",
-    "musician_ids": [],
-    "musician_ig_handles": [],
-    "venue_id": "ven_0f8f141b-149e-4273-9a26-74ffb1133001",
-    "venue_location_id": "main",
-    "datetime": "2026-01-12T11:00:00+00:00",
-    "price": null,
-    "llm_confidence": 1.0,
-    "title": "Randy Ingram Trio",
-    "description": "Randy Ingram Trio performance",
-    "ticket_link": null,
-    "show_time": null,
-    "age_limit": null,
-    "_search_en": {
-      "title": "Randy Ingram Trio",
-      "description": "Randy Ingram Trio performance"
-    },
-    "_search_ko": {
-      "title": "랜디 인그램 트리오",
-      "description": "랜디 인그램 트리오 공연"
-    }
-  },
-  {
     "id": "evt_20260113_2299ada1-b607-46c0-a9f0-d7e0cedc7978",
     "event_key": "v:ven_ae87c279-2920-4035-93b7-1c63f47dcb1b|t:2026-01-13T11:00:00+00:00",
     "source_url": "https://www.instagram.com/p/DRn1aJTkhHM/",

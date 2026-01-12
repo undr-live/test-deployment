@@ -5,15 +5,15 @@
 ## Build Information
 
 - **Environment**: TEST
-- **Build Time**: 2026-01-12T05:43:49Z
-- **Source Commit**: [`5989d7f73de24eef86b768057481033705c75e2b`](https://github.com/keunwoochoi/seoulunderground.live/commit/5989d7f73de24eef86b768057481033705c75e2b)
+- **Build Time**: 2026-01-12T16:30:20Z
+- **Source Commit**: [`87c5aa640290131d46a488d51511f4ccba3dda3e`](https://github.com/keunwoochoi/seoulunderground.live/commit/87c5aa640290131d46a488d51511f4ccba3dda3e)
 - **Branch**: `fix-screenshot`
-- **Workflow Run**: [View logs](https://github.com/keunwoochoi/seoulunderground.live/actions/runs/20909286929)
+- **Workflow Run**: [View logs](https://github.com/keunwoochoi/seoulunderground.live/actions/runs/20926965633)
 
 ## Commit Details
 
 - **Author**: Keunwoo Choi <gnuchoi+github@gmail.com>
-- **Message**: Fix cover overlay: use position:fixed to cover entire viewport including header
+- **Message**: Refactor: use Z_INDEX constant instead of magic number for maintainability
 
 ## Deployment URLs
 
