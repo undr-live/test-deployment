@@ -5,15 +5,20 @@
 ## Build Information
 
 - **Environment**: TEST
-- **Build Time**: 2026-01-12T16:30:20Z
-- **Source Commit**: [`87c5aa640290131d46a488d51511f4ccba3dda3e`](https://github.com/keunwoochoi/seoulunderground.live/commit/87c5aa640290131d46a488d51511f4ccba3dda3e)
-- **Branch**: `fix-screenshot`
-- **Workflow Run**: [View logs](https://github.com/keunwoochoi/seoulunderground.live/actions/runs/20926965633)
+- **Build Time**: 2026-01-14T15:27:34Z
+- **Source Commit**: [`2ac8a122ecae523d1de0d7e0d971a86895156963`](https://github.com/keunwoochoi/seoulunderground.live/commit/2ac8a122ecae523d1de0d7e0d971a86895156963)
+- **Branch**: `k/seoul-jazz-only`
+- **Workflow Run**: [View logs](https://github.com/keunwoochoi/seoulunderground.live/actions/runs/20999641234)
 
 ## Commit Details
 
 - **Author**: Keunwoo Choi <gnuchoi+github@gmail.com>
-- **Message**: Refactor: use Z_INDEX constant instead of magic number for maintainability
+- **Message**: Focus on Seoul/jazz only: disable Germany/jazz ETL and frontend
+
+- Comment out Germany/jazz sections in event_job.sh and venue_job.sh
+- Remove 'germany' from SUPPORTED_LOCALITIES in frontend
+- Keep all Germany data and code intact for future reactivation
+- Immediate cost savings by stopping Germany ETL pipeline
 
 ## Deployment URLs
 
