@@ -5,20 +5,15 @@
 ## Build Information
 
 - **Environment**: TEST
-- **Build Time**: 2026-01-14T15:27:34Z
-- **Source Commit**: [`2ac8a122ecae523d1de0d7e0d971a86895156963`](https://github.com/keunwoochoi/seoulunderground.live/commit/2ac8a122ecae523d1de0d7e0d971a86895156963)
-- **Branch**: `k/seoul-jazz-only`
-- **Workflow Run**: [View logs](https://github.com/keunwoochoi/seoulunderground.live/actions/runs/20999641234)
+- **Build Time**: 2026-01-15T16:49:53Z
+- **Source Commit**: [`f77d5d4576d80429a8fc49fa6912e9a0a613f03e`](https://github.com/keunwoochoi/seoulunderground.live/commit/f77d5d4576d80429a8fc49fa6912e9a0a613f03e)
+- **Branch**: `k/insta-for-real`
+- **Workflow Run**: [View logs](https://github.com/keunwoochoi/seoulunderground.live/actions/runs/21039249656)
 
 ## Commit Details
 
 - **Author**: Keunwoo Choi <gnuchoi+github@gmail.com>
-- **Message**: Focus on Seoul/jazz only: disable Germany/jazz ETL and frontend
-
-- Comment out Germany/jazz sections in event_job.sh and venue_job.sh
-- Remove 'germany' from SUPPORTED_LOCALITIES in frontend
-- Keep all Germany data and code intact for future reactivation
-- Immediate cost savings by stopping Germany ETL pipeline
+- **Message**: Add daily Instagram images for 2026-01-16
 
 ## Deployment URLs
 
