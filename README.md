@@ -5,15 +5,15 @@
 ## Build Information
 
 - **Environment**: TEST
-- **Build Time**: 2026-01-15T16:49:53Z
-- **Source Commit**: [`f77d5d4576d80429a8fc49fa6912e9a0a613f03e`](https://github.com/keunwoochoi/seoulunderground.live/commit/f77d5d4576d80429a8fc49fa6912e9a0a613f03e)
+- **Build Time**: 2026-01-15T17:19:20Z
+- **Source Commit**: [`e378833ae19f8045b247d32c974dc2ba90c3553d`](https://github.com/keunwoochoi/seoulunderground.live/commit/e378833ae19f8045b247d32c974dc2ba90c3553d)
 - **Branch**: `k/insta-for-real`
-- **Workflow Run**: [View logs](https://github.com/keunwoochoi/seoulunderground.live/actions/runs/21039249656)
+- **Workflow Run**: [View logs](https://github.com/keunwoochoi/seoulunderground.live/actions/runs/21040053811)
 
 ## Commit Details
 
 - **Author**: Keunwoo Choi <gnuchoi+github@gmail.com>
-- **Message**: Add daily Instagram images for 2026-01-16
+- **Message**: Remove daily-images from frontend (now using separate undr-live-imgs.github.io repo)
 
 ## Deployment URLs
 
