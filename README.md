@@ -5,24 +5,15 @@
 ## Build Information
 
 - **Environment**: TEST
-- **Build Time**: 2026-01-16T20:46:30Z
-- **Source Commit**: [`00cd87cd7a1361ccf5f188f2903b4dcbc15333a6`](https://github.com/keunwoochoi/seoulunderground.live/commit/00cd87cd7a1361ccf5f188f2903b4dcbc15333a6)
-- **Branch**: `cleaning98`
-- **Workflow Run**: [View logs](https://github.com/keunwoochoi/seoulunderground.live/actions/runs/21080351142)
+- **Build Time**: 2026-01-29T18:30:58Z
+- **Source Commit**: [`4d839cff0d0d6745a128f454a36e36f543888ec3`](https://github.com/keunwoochoi/seoulunderground.live/commit/4d839cff0d0d6745a128f454a36e36f543888ec3)
+- **Branch**: `k/refactor-service-layer`
+- **Workflow Run**: [View logs](https://github.com/keunwoochoi/seoulunderground.live/actions/runs/21490115764)
 
 ## Commit Details
 
 - **Author**: Keunwoo Choi <gnuchoi+github@gmail.com>
-- **Message**: fix: address code review issues
-
-CRITICAL:
-- Remove .env.bak with secrets from git (add *.bak and .env* to .gitignore)
-- Fix bash syntax error: else: → else in upload_post_job.sh
-
-Medium:
-- Handle bytes in subprocess_utils.py (decode before logging)
-- Remove stderr suppression in deploy_daily_images.sh for better debugging
-- Fix sync_venue_manual_info.py to use proper JSONL format (line-by-line)
+- **Message**: fix: Remove unused imports
 
 ## Deployment URLs
 
