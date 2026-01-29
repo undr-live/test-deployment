@@ -5,15 +5,15 @@
 ## Build Information
 
 - **Environment**: TEST
-- **Build Time**: 2026-01-29T18:30:58Z
-- **Source Commit**: [`4d839cff0d0d6745a128f454a36e36f543888ec3`](https://github.com/keunwoochoi/seoulunderground.live/commit/4d839cff0d0d6745a128f454a36e36f543888ec3)
-- **Branch**: `k/refactor-service-layer`
-- **Workflow Run**: [View logs](https://github.com/keunwoochoi/seoulunderground.live/actions/runs/21490115764)
+- **Build Time**: 2026-01-29T22:37:55Z
+- **Source Commit**: [`e99a32c264d9871f077d67b998ef0b5abc6d3387`](https://github.com/keunwoochoi/seoulunderground.live/commit/e99a32c264d9871f077d67b998ef0b5abc6d3387)
+- **Branch**: `feature/highlighted-shows`
+- **Workflow Run**: [View logs](https://github.com/keunwoochoi/seoulunderground.live/actions/runs/21497248289)
 
 ## Commit Details
 
 - **Author**: Keunwoo Choi <gnuchoi+github@gmail.com>
-- **Message**: fix: Remove unused imports
+- **Message**: fix: Correct import path in EnhancedCoverOverlay (datetime -> timezone)
 
 ## Deployment URLs
 
