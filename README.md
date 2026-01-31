@@ -5,21 +5,25 @@
 ## Build Information
 
 - **Environment**: TEST
-- **Build Time**: 2026-01-31T06:47:42Z
-- **Source Commit**: [`0a5dce9cef3b64d606b979a9ccbae23dde143866`](https://github.com/keunwoochoi/seoulunderground.live/commit/0a5dce9cef3b64d606b979a9ccbae23dde143866)
-- **Branch**: `k/refactor-frontend`
-- **Workflow Run**: [View logs](https://github.com/keunwoochoi/seoulunderground.live/actions/runs/21540477103)
+- **Build Time**: 2026-01-31T17:44:29Z
+- **Source Commit**: [`f7b373bb9f6cc513688a589b1a741446e5c4f624`](https://github.com/keunwoochoi/seoulunderground.live/commit/f7b373bb9f6cc513688a589b1a741446e5c4f624)
+- **Branch**: `fix/cover-screenshot-alignment`
+- **Workflow Run**: [View logs](https://github.com/keunwoochoi/seoulunderground.live/actions/runs/21548366446)
 
 ## Commit Details
 
 - **Author**: Keunwoo Choi <gnuchoi+github@gmail.com>
-- **Message**: fix: Adjust flex proportions in cover overlay to prevent date text crop
+- **Message**: fix: Fix cover screenshot alignment for center-crop
 
-- Changed top section from 30% to 40% height
-- Changed middle section from 60% to 50% height
-- Removed paddingTop hack (was pushing content too low)
-- Date '01-31 (토)' now fully visible in center-cropped 1170x1170 output
-- Tested with local build screenshot generation
+- Replace flexbox percentage sections with absolute centering technique
+- Use transform: translate(-50%, -50%) for bulletproof centering
+- Content now appears correctly in the center 1170px crop area
+- Works for both non-highlighted days (genre title) and highlighted days (event card)
+- Add test script for manual screenshot generation with date/highlight override
+- Add App.tsx support for test_date and test_highlight URL parameters
+
+Fixes the issue where date text was half trimmed off after the highlighted
+shows feature was added (commit 2080775).
 
 ## Deployment URLs
 
