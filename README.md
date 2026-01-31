@@ -5,15 +5,15 @@
 ## Build Information
 
 - **Environment**: TEST
-- **Build Time**: 2026-01-29T22:37:55Z
-- **Source Commit**: [`e99a32c264d9871f077d67b998ef0b5abc6d3387`](https://github.com/keunwoochoi/seoulunderground.live/commit/e99a32c264d9871f077d67b998ef0b5abc6d3387)
-- **Branch**: `feature/highlighted-shows`
-- **Workflow Run**: [View logs](https://github.com/keunwoochoi/seoulunderground.live/actions/runs/21497248289)
+- **Build Time**: 2026-01-31T00:07:28Z
+- **Source Commit**: [`05f8c1160c41052920e2ad90dc04115666ba3003`](https://github.com/keunwoochoi/seoulunderground.live/commit/05f8c1160c41052920e2ad90dc04115666ba3003)
+- **Branch**: `k/refactor-event-extraction-prompt`
+- **Workflow Run**: [View logs](https://github.com/keunwoochoi/seoulunderground.live/actions/runs/21535014567)
 
 ## Commit Details
 
 - **Author**: Keunwoo Choi <gnuchoi+github@gmail.com>
-- **Message**: fix: Correct import path in EnhancedCoverOverlay (datetime -> timezone)
+- **Message**: chore: Keep v3.0.3 backup locally only (not in git history)
 
 ## Deployment URLs
 

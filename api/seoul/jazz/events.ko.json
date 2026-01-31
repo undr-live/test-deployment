@@ -1,798 +1,5 @@
 [
   {
-    "id": "evt_20260130_8b835679-1d2a-4fd0-82a0-2b5ab3fd7815",
-    "event_key": "v:ven_4c4252d9-0cc8-4d11-aa82-a6daf8743dde|t:2026-01-30T10:00:00+00:00",
-    "source_url": "https://www.instagram.com/p/DS-I8_NgabT/",
-    "venue_handle": "pungjane2021",
-    "musician_ids": [],
-    "musician_ig_handles": [],
-    "venue_id": "ven_4c4252d9-0cc8-4d11-aa82-a6daf8743dde",
-    "venue_location_id": "main",
-    "datetime": "2026-01-30T10:00:00+00:00",
-    "price": null,
-    "llm_confidence": 1.0,
-    "title": "Band kay",
-    "description": "Band kay 라이브 공연.",
-    "ticket_link": null,
-    "show_time": null,
-    "age_limit": null,
-    "_search_en": {
-      "title": "Band kay",
-      "description": "Band kay live performance."
-    },
-    "_search_ko": {
-      "title": "Band kay",
-      "description": "Band kay 라이브 공연."
-    }
-  },
-  {
-    "id": "evt_20260130_bbe0d297-1c63-4b43-851f-19d7c015572a",
-    "event_key": "v:ven_36cd80b6-ba1b-48d5-a42f-82bfaf89d154|t:2026-01-30T10:00:00+00:00",
-    "source_url": "https://www.instagram.com/p/DUCCQ40Adch/",
-    "venue_handle": "cottonclub_seoul",
-    "musician_ids": [],
-    "musician_ig_handles": [],
-    "venue_id": "ven_36cd80b6-ba1b-48d5-a42f-82bfaf89d154",
-    "venue_location_id": "main",
-    "datetime": "2026-01-30T10:00:00+00:00",
-    "price": null,
-    "llm_confidence": 1.0,
-    "title": "한순욱 퀸텟",
-    "description": "다이내믹한 비밥 재즈 사운드와 친숙한 재즈 넘버. 한순욱 퀸텟: 모탈 (보컬), 한순욱 (드럼), 임슬기 (피아노), 김인영 (베이스), 한승민 (색소폰).",
-    "ticket_link": null,
-    "show_time": null,
-    "age_limit": null,
-    "_search_en": {
-      "title": "Han Sun-wook Quintet",
-      "description": "Dynamic bebop jazz sound and familiar jazz numbers. Han Sun-wook Quintet: Mortal (vocal), Han Sun-wook (drum), Im Seul-gi (piano), Kim In-young (bass), Han Seung-min (saxophone)."
-    },
-    "_search_ko": {
-      "title": "한순욱 퀸텟",
-      "description": "다이내믹한 비밥 재즈 사운드와 친숙한 재즈 넘버. 한순욱 퀸텟: 모탈 (보컬), 한순욱 (드럼), 임슬기 (피아노), 김인영 (베이스), 한승민 (색소폰)."
-    }
-  },
-  {
-    "id": "evt_20260130_7763706b-c108-4502-8b30-eeaf107abd2c",
-    "event_key": "v:ven_8cefa639-4b24-4b1d-a1c0-4adb40311bde|t:2026-01-30T10:30:00+00:00",
-    "source_url": "https://www.instagram.com/p/DTnEZjYEtYq/",
-    "venue_handle": "flatnine_jazzbar",
-    "musician_ids": [],
-    "musician_ig_handles": [],
-    "venue_id": "ven_8cefa639-4b24-4b1d-a1c0-4adb40311bde",
-    "venue_location_id": "main",
-    "datetime": "2026-01-30T10:30:00+00:00",
-    "price": null,
-    "llm_confidence": 1.0,
-    "title": "허성 퀄텟",
-    "description": "허성 퀄텟의 재즈 공연.",
-    "ticket_link": null,
-    "show_time": null,
-    "age_limit": null,
-    "_search_en": {
-      "title": "Heo Seong Quartet",
-      "description": "Jazz performance by Heo Seong Quartet."
-    },
-    "_search_ko": {
-      "title": "허성 퀄텟",
-      "description": "허성 퀄텟의 재즈 공연."
-    }
-  },
-  {
-    "id": "evt_20260130_82a3008d-ac7c-4538-8b3a-e8dfcc411c4d",
-    "event_key": "v:ven_d2db5864-acba-448c-9d21-709d923f5ff4|t:2026-01-30T10:30:00+00:00",
-    "source_url": "https://www.instagram.com/p/DTzznJYEfGJ/",
-    "venue_handle": "edls_official",
-    "musician_ids": [],
-    "musician_ig_handles": [],
-    "venue_id": "ven_d2db5864-acba-448c-9d21-709d923f5ff4",
-    "venue_location_id": "main",
-    "datetime": "2026-01-30T10:30:00+00:00",
-    "price": null,
-    "llm_confidence": 1.0,
-    "title": "안성미 밴드",
-    "description": "대학가요제 대상 수상 보컬리스트 안성미 밴드의 스탠다드 재즈와 팝 무대.",
-    "ticket_link": null,
-    "show_time": null,
-    "age_limit": null,
-    "_search_en": {
-      "title": "An Seong-mi Band",
-      "description": "Standard jazz and pop performance by An Seong-mi Band, featuring the Grand Prize-winning vocalist from the University Song Festival."
-    },
-    "_search_ko": {
-      "title": "안성미 밴드",
-      "description": "대학가요제 대상 수상 보컬리스트 안성미 밴드의 스탠다드 재즈와 팝 무대."
-    }
-  },
-  {
-    "id": "evt_20260130_10996f67-0cdc-42fb-8dde-c842a162d4d2",
-    "event_key": "v:ven_7167b93f-4221-49e3-8463-fd56b8a5e576|t:2026-01-30T10:30:00+00:00",
-    "source_url": "https://www.instagram.com/p/DT12OSVgQ0w/",
-    "venue_handle": "_jam_lounge",
-    "musician_ids": [],
-    "musician_ig_handles": [],
-    "venue_id": "ven_7167b93f-4221-49e3-8463-fd56b8a5e576",
-    "venue_location_id": "main",
-    "datetime": "2026-01-30T10:30:00+00:00",
-    "price": null,
-    "llm_confidence": 1.0,
-    "title": "리원 퀄텟",
-    "description": "리원 퀄텟 라이브 공연 (첫 번째 세트)",
-    "ticket_link": null,
-    "show_time": null,
-    "age_limit": null,
-    "_search_en": {
-      "title": "Ri Won Quartet",
-      "description": "Ri Won Quartet live performance (First Set)"
-    },
-    "_search_ko": {
-      "title": "리원 퀄텟",
-      "description": "리원 퀄텟 라이브 공연 (첫 번째 세트)"
-    }
-  },
-  {
-    "id": "evt_20260130_5c91af57-cdd2-470a-8892-c4ea7a1e4ff7",
-    "event_key": "v:ven_16504f43-374a-48b1-afc8-6da84ddd6c3d|t:2026-01-30T10:40:00+00:00",
-    "source_url": "https://www.instagram.com/p/DS1KeV2klVt/",
-    "venue_handle": "rustic_jazz",
-    "musician_ids": [],
-    "musician_ig_handles": [],
-    "venue_id": "ven_16504f43-374a-48b1-afc8-6da84ddd6c3d",
-    "venue_location_id": "main",
-    "datetime": "2026-01-30T10:40:00+00:00",
-    "price": "11,000원",
-    "llm_confidence": 1.0,
-    "title": "김한얼의 <유쾌한 섬> 대항해시대",
-    "description": "김한얼의 <유쾌한 섬> 대항해시대 라이브 재즈 공연 (1부).",
-    "ticket_link": null,
-    "show_time": null,
-    "age_limit": null,
-    "_search_en": {
-      "title": "Kim Han-eul's <Pleasant Island> Age of Discovery",
-      "description": "Kim Han-eul's <Pleasant Island> Age of Discovery live jazz performance (Part 1)."
-    },
-    "_search_ko": {
-      "title": "김한얼의 <유쾌한 섬> 대항해시대",
-      "description": "김한얼의 <유쾌한 섬> 대항해시대 라이브 재즈 공연 (1부)."
-    }
-  },
-  {
-    "id": "evt_20260130_ae223322-0bc3-490c-985d-b79aaacaac9d",
-    "event_key": "v:ven_8a8b6264-33c2-4204-9fe9-acdc6e909f3a|t:2026-01-30T11:00:00+00:00",
-    "source_url": "https://www.instagram.com/p/DSjB01PDyeP/",
-    "venue_handle": "africa_since1988",
-    "musician_ids": [],
-    "musician_ig_handles": [],
-    "venue_id": "ven_8a8b6264-33c2-4204-9fe9-acdc6e909f3a",
-    "venue_location_id": "main",
-    "datetime": "2026-01-30T11:00:00+00:00",
-    "price": "20,000원",
-    "llm_confidence": 1.0,
-    "title": "홍영호 퀄텟",
-    "description": "홍영호 (드럼), 장세연 (피아노), 신세영 (베이스), 박인찬 (색소폰).",
-    "ticket_link": null,
-    "show_time": null,
-    "age_limit": null,
-    "_search_en": {
-      "title": "Hong Young-ho Quartet",
-      "description": "Hong Young-ho (drums), Jang Se-yeon (piano), Shin Se-young (bass), Park In-chan (saxophone)."
-    },
-    "_search_ko": {
-      "title": "홍영호 퀄텟",
-      "description": "홍영호 (드럼), 장세연 (피아노), 신세영 (베이스), 박인찬 (색소폰)."
-    }
-  },
-  {
-    "id": "evt_20260130_abf7a794-349c-41a2-889a-c958459eb3bd",
-    "event_key": "v:ven_8509b810-2851-4244-912e-9443efb8bafa|t:2026-01-30T11:00:00+00:00",
-    "source_url": "https://www.instagram.com/p/DSxM6hUj-BL/",
-    "venue_handle": "laidback2019",
-    "musician_ids": [],
-    "musician_ig_handles": [],
-    "venue_id": "ven_8509b810-2851-4244-912e-9443efb8bafa",
-    "venue_location_id": "main",
-    "datetime": "2026-01-30T11:00:00+00:00",
-    "price": "10,000원",
-    "llm_confidence": 1.0,
-    "title": "블루 브릿지 퀄텟",
-    "description": "블루 브릿지 퀄텟의 재즈 공연. 1부 20:00-20:50, 2부 21:10-22:00.",
-    "ticket_link": null,
-    "show_time": null,
-    "age_limit": null,
-    "_search_en": {
-      "title": "Blue Bridge Quartet",
-      "description": "Jazz performance by Blue Bridge Quartet. Part 1 20:00-20:50, Part 2 21:10-22:00."
-    },
-    "_search_ko": {
-      "title": "블루 브릿지 퀄텟",
-      "description": "블루 브릿지 퀄텟의 재즈 공연. 1부 20:00-20:50, 2부 21:10-22:00."
-    }
-  },
-  {
-    "id": "evt_20260130_119910ad-5d06-4160-bb6a-209c67f64a90",
-    "event_key": "v:ven_a0789558-4701-443e-ab9a-7600c005b2d8|t:2026-01-30T11:00:00+00:00",
-    "source_url": "https://www.instagram.com/p/DTohswukkFi/",
-    "venue_handle": "sounddog_jazz",
-    "musician_ids": [],
-    "musician_ig_handles": [],
-    "venue_id": "ven_a0789558-4701-443e-ab9a-7600c005b2d8",
-    "venue_location_id": "main",
-    "datetime": "2026-01-30T11:00:00+00:00",
-    "price": "20,000원",
-    "llm_confidence": 1.0,
-    "title": "신동진",
-    "description": "신동진 라이브 공연",
-    "ticket_link": null,
-    "show_time": null,
-    "age_limit": null,
-    "_search_en": {
-      "title": "Shin Dong-jin",
-      "description": "Shin Dong-jin live performance"
-    },
-    "_search_ko": {
-      "title": "신동진",
-      "description": "신동진 라이브 공연"
-    }
-  },
-  {
-    "id": "evt_20260130_6c706ce4-fa66-4a4c-b9e0-08e2370f4a7d",
-    "event_key": "v:ven_ee9d5587-be70-44b9-93d4-cc2eaf5bd4ec|t:2026-01-30T11:00:00+00:00",
-    "source_url": "https://www.instagram.com/p/DS5I7aXicRF/",
-    "venue_handle": "jazzgarage_official",
-    "musician_ids": [],
-    "musician_ig_handles": [],
-    "venue_id": "ven_ee9d5587-be70-44b9-93d4-cc2eaf5bd4ec",
-    "venue_location_id": "main",
-    "datetime": "2026-01-30T11:00:00+00:00",
-    "price": null,
-    "llm_confidence": 1.0,
-    "title": "권범수 듀오",
-    "description": "권범수 듀오 공연.",
-    "ticket_link": null,
-    "show_time": null,
-    "age_limit": null,
-    "_search_en": {
-      "title": "Kwon Beom-su Duo",
-      "description": "Performance by Kwon Beom-su Duo."
-    },
-    "_search_ko": {
-      "title": "권범수 듀오",
-      "description": "권범수 듀오 공연."
-    }
-  },
-  {
-    "id": "evt_20260130_24c0c2e4-e5af-4cb1-b86f-af8dd431f67e",
-    "event_key": "v:ven_2a778508-67fc-4373-abfb-4bc4e4d19c48|t:2026-01-30T11:00:00+00:00",
-    "source_url": "https://www.instagram.com/p/DTZ3kKDEgoR/",
-    "venue_handle": "orient_express_wine_",
-    "musician_ids": [],
-    "musician_ig_handles": [],
-    "venue_id": "ven_2a778508-67fc-4373-abfb-4bc4e4d19c48",
-    "venue_location_id": "main",
-    "datetime": "2026-01-30T11:00:00+00:00",
-    "price": "20,000원",
-    "llm_confidence": 1.0,
-    "title": "모나스 무드",
-    "description": null,
-    "ticket_link": null,
-    "show_time": null,
-    "age_limit": null,
-    "_search_en": {
-      "title": "Mona's Mood",
-      "description": null
-    },
-    "_search_ko": {
-      "title": "모나스 무드",
-      "description": null
-    }
-  },
-  {
-    "id": "evt_20260130_3e4e9277-3439-4ba9-bf2f-6f89898a18d2",
-    "event_key": "v:ven_10e36def-592b-447e-a571-ca96975b6e87|t:2026-01-30T11:00:00+00:00",
-    "source_url": "https://www.instagram.com/p/DS2jFogkyO4/",
-    "venue_handle": "jazzlounge_official",
-    "musician_ids": [],
-    "musician_ig_handles": [],
-    "venue_id": "ven_10e36def-592b-447e-a571-ca96975b6e87",
-    "venue_location_id": "main",
-    "datetime": "2026-01-30T11:00:00+00:00",
-    "price": "8,000원",
-    "llm_confidence": 1.0,
-    "title": "최기윤 트리오",
-    "description": "최기윤 트리오의 기타, 알토 색소폰, 베이스 구성 재즈 공연.",
-    "ticket_link": null,
-    "show_time": null,
-    "age_limit": null,
-    "_search_en": {
-      "title": "Choi Ki-yoon Trio",
-      "description": "Choi Ki-yoon Trio's jazz performance featuring guitar, alto saxophone, and bass."
-    },
-    "_search_ko": {
-      "title": "최기윤 트리오",
-      "description": "최기윤 트리오의 기타, 알토 색소폰, 베이스 구성 재즈 공연."
-    }
-  },
-  {
-    "id": "evt_20260130_441a094b-2cff-4ac1-88ee-1fe532395039",
-    "event_key": "v:ven_87ebacfa-b91a-48ec-921d-77e47585fede|t:2026-01-30T11:00:00+00:00",
-    "source_url": "https://www.instagram.com/p/DS_0JKLj4i0/",
-    "venue_handle": "blueming_jazz",
-    "musician_ids": [],
-    "musician_ig_handles": [],
-    "venue_id": "ven_87ebacfa-b91a-48ec-921d-77e47585fede",
-    "venue_location_id": "main",
-    "datetime": "2026-01-30T11:00:00+00:00",
-    "price": null,
-    "llm_confidence": 1.0,
-    "title": "CHO Heeseong 퀄텟",
-    "description": "CHO Heeseong 퀄텟의 공연.",
-    "ticket_link": null,
-    "show_time": null,
-    "age_limit": null,
-    "_search_en": {
-      "title": "CHO Heeseong Quartet",
-      "description": "Performance by CHO Heeseong Quartet."
-    },
-    "_search_ko": {
-      "title": "CHO Heeseong 퀄텟",
-      "description": "CHO Heeseong 퀄텟의 공연."
-    }
-  },
-  {
-    "id": "evt_20260130_87e66670-2469-46be-a864-f30f0d44fcf6",
-    "event_key": "v:ven_7867b25f-5188-4cab-b243-417ae9048247|t:2026-01-30T11:00:00+00:00",
-    "source_url": "https://www.instagram.com/p/DTo0P11k3pQ/",
-    "venue_handle": "boogiewoogieseoul",
-    "musician_ids": [],
-    "musician_ig_handles": [
-      "2junebbang2",
-      "emmet_709",
-      "lester_yoo",
-      "moohchoi"
-    ],
-    "venue_id": "ven_7867b25f-5188-4cab-b243-417ae9048247",
-    "venue_location_id": "main",
-    "datetime": "2026-01-30T11:00:00+00:00",
-    "price": null,
-    "llm_confidence": 1.0,
-    "title": "이준영",
-    "description": "리듬감 있고 유쾌한 연주를 선보이는 피아니스트 겸 보컬리스트 이준영의 스물 한 번째 재즈 크루 초대. 듣기 편한 자작곡과 오랜 호흡을 맞춰온 동료들과 함께.",
-    "ticket_link": null,
-    "show_time": null,
-    "age_limit": null,
-    "_search_en": {
-      "title": "Lee Jun-young",
-      "description": "The 21st Jazz Crew Invitation featuring pianist and vocalist Lee Jun-young, known for rhythmic and cheerful performances. Presenting easy-listening original songs with long-term collaborators."
-    },
-    "_search_ko": {
-      "title": "이준영",
-      "description": "리듬감 있고 유쾌한 연주를 선보이는 피아니스트 겸 보컬리스트 이준영의 스물 한 번째 재즈 크루 초대. 듣기 편한 자작곡과 오랜 호흡을 맞춰온 동료들과 함께."
-    }
-  },
-  {
-    "id": "evt_20260130_8b134655-379a-4a9d-b0d6-e8fd8803a4a4",
-    "event_key": "v:ven_09991403-4f4f-42a7-a165-602d7e0cefdb|t:2026-01-30T10:00:00+00:00",
-    "source_url": "https://www.instagram.com/p/DTxI-4Wke27/",
-    "venue_handle": "ninejazz_chungdam",
-    "musician_ids": [],
-    "musician_ig_handles": [],
-    "venue_id": "ven_09991403-4f4f-42a7-a165-602d7e0cefdb",
-    "venue_location_id": "main",
-    "datetime": "2026-01-30T11:00:00+00:00",
-    "price": null,
-    "llm_confidence": 1.0,
-    "title": "The Jeremy Park Project",
-    "description": "레트로 재즈 팝 보컬 공연",
-    "ticket_link": null,
-    "show_time": null,
-    "age_limit": null,
-    "_search_en": {
-      "title": "The Jeremy Park Project",
-      "description": "Retro jazz pop vocal performance"
-    },
-    "_search_ko": {
-      "title": "The Jeremy Park Project",
-      "description": "레트로 재즈 팝 보컬 공연"
-    }
-  },
-  {
-    "id": "evt_20260130_554a90a6-f87c-46cf-a33a-604950441c49",
-    "event_key": "v:ven_1655af5a-ea12-47f6-8d39-eb30735e8b48|t:2026-01-30T11:00:00+00:00",
-    "source_url": "https://www.instagram.com/p/DTx5DIbD3hq/",
-    "venue_handle": "cafe_minor_swing",
-    "musician_ids": [],
-    "musician_ig_handles": [],
-    "venue_id": "ven_1655af5a-ea12-47f6-8d39-eb30735e8b48",
-    "venue_location_id": "main",
-    "datetime": "2026-01-30T11:00:00+00:00",
-    "price": null,
-    "llm_confidence": 1.0,
-    "title": "Max Light 퀄텟",
-    "description": "내한 콘서트. Max Light 퀄텟: Max Light (기타), 용리 (피아노), Sean Pentland (베이스), 석다연 (드럼).",
-    "ticket_link": null,
-    "show_time": null,
-    "age_limit": null,
-    "_search_en": {
-      "title": "Max Light Quartet",
-      "description": "Visiting Artist Concert. Max Light Quartet: Max Light (guitar), Yong-ri (piano), Sean Pentland (bass), Seok Da-yeon (drums)."
-    },
-    "_search_ko": {
-      "title": "Max Light 퀄텟",
-      "description": "내한 콘서트. Max Light 퀄텟: Max Light (기타), 용리 (피아노), Sean Pentland (베이스), 석다연 (드럼)."
-    }
-  },
-  {
-    "id": "evt_20260130_bec438f3-550f-4ae2-9a43-9417d8695296",
-    "event_key": "v:ven_95f2365a-d91c-42b1-95bc-ce8cc3d99ce0|t:2026-01-30T11:00:00+00:00",
-    "source_url": "https://www.instagram.com/p/DT4oeEnkcTg/",
-    "venue_handle": "jazzclub_evans",
-    "musician_ids": [],
-    "musician_ig_handles": [],
-    "venue_id": "ven_95f2365a-d91c-42b1-95bc-ce8cc3d99ce0",
-    "venue_location_id": "main",
-    "datetime": "2026-01-30T11:00:00+00:00",
-    "price": null,
-    "llm_confidence": 1.0,
-    "title": "와릿 테차카논트 서울 퀄텟",
-    "description": "와릿 테차카논트 서울 퀄텟: 홍준표 (색소폰), 이원태 (기타), Warit Techakanont (키보드), 이은마루 (드럼).",
-    "ticket_link": null,
-    "show_time": null,
-    "age_limit": null,
-    "_search_en": {
-      "title": "Warit Techakanont Seoul Quartet",
-      "description": "Warit Techakanont Seoul Quartet: Hong Jun-pyo (saxophone), Lee Won-tae (guitar), Warit Techakanont (keyboard), Lee Eun-ma-ru (drums)."
-    },
-    "_search_ko": {
-      "title": "와릿 테차카논트 서울 퀄텟",
-      "description": "와릿 테차카논트 서울 퀄텟: 홍준표 (색소폰), 이원태 (기타), Warit Techakanont (키보드), 이은마루 (드럼)."
-    }
-  },
-  {
-    "id": "evt_20260130_f8bd6012-5a51-4096-9859-5a4a1b0ffe7d",
-    "event_key": "v:ven_09991403-4f4f-42a7-a165-602d7e0cefdb|t:2026-01-30T11:00:00+00:00",
-    "source_url": "https://www.instagram.com/p/DTxI-4Wke27/",
-    "venue_handle": "ninejazz_chungdam",
-    "musician_ids": [],
-    "musician_ig_handles": [],
-    "venue_id": "ven_09991403-4f4f-42a7-a165-602d7e0cefdb",
-    "venue_location_id": "main",
-    "datetime": "2026-01-30T11:00:00+00:00",
-    "price": null,
-    "llm_confidence": 1.0,
-    "title": "더 제레미 박 쇼",
-    "description": "제레미 박의 레트로 재즈 팝 보컬 쇼.",
-    "ticket_link": null,
-    "show_time": null,
-    "age_limit": null,
-    "_search_en": {
-      "title": "The Jeremy Park Show",
-      "description": "Jeremy Park's retro jazz pop vocal show."
-    },
-    "_search_ko": {
-      "title": "더 제레미 박 쇼",
-      "description": "제레미 박의 레트로 재즈 팝 보컬 쇼."
-    }
-  },
-  {
-    "id": "evt_20260130_fa41c406-9dbd-45af-bd0d-c107d937ada4",
-    "event_key": "v:ven_00154ae3-5759-4757-9cca-27ee30b74d49|t:2026-01-30T11:00:00+00:00",
-    "source_url": "https://www.instagram.com/p/DT9UoquD0Vk/",
-    "venue_handle": "milestones_jazz",
-    "musician_ids": [],
-    "musician_ig_handles": [
-      "roymcgrathsaxophone",
-      "stagsbagel",
-      "supermeanevanlevine",
-      "william.garcia.music"
-    ],
-    "venue_id": "ven_00154ae3-5759-4757-9cca-27ee30b74d49",
-    "venue_location_id": "main",
-    "datetime": "2026-01-30T11:00:00+00:00",
-    "price": "예매 20,000원, 현매 25,000원",
-    "llm_confidence": 1.0,
-    "title": "Roy McGrath 퀄텟",
-    "description": "2026 아시아 투어의 일환으로 해외 뮤지션을 초청하는 재즈 나이트. Roy McGrath (색소폰) @roymcgrathsaxophone, Meghan Staghl (피아노, 보컬) @stagsbagel, Evan Levine (베이스) @supermeanevanlevine, William Garcia (드럼) @william.garcia.music.",
-    "ticket_link": null,
-    "show_time": null,
-    "age_limit": null,
-    "_search_en": {
-      "title": "Roy McGrath Quartet",
-      "description": "Jazz Night featuring international musicians as part of their 2026 Asia Tour. Roy McGrath (saxophone) @roymcgrathsaxophone, Meghan Staghl (piano, vocal) @stagsbagel, Evan Levine (bass) @supermeanevanlevine, William Garcia (drums) @william.garcia.music."
-    },
-    "_search_ko": {
-      "title": "Roy McGrath 퀄텟",
-      "description": "2026 아시아 투어의 일환으로 해외 뮤지션을 초청하는 재즈 나이트. Roy McGrath (색소폰) @roymcgrathsaxophone, Meghan Staghl (피아노, 보컬) @stagsbagel, Evan Levine (베이스) @supermeanevanlevine, William Garcia (드럼) @william.garcia.music."
-    }
-  },
-  {
-    "id": "evt_20260130_40ef7cdc-aff2-4b3e-bcd8-8b53439a3462",
-    "event_key": "v:ven_87ebacfa-b91a-48ec-921d-77e47585fede|t:2026-01-30T11:30:00+00:00",
-    "source_url": "https://www.instagram.com/p/DT9KGKtjx6N/",
-    "venue_handle": "blueming_jazz",
-    "musician_ids": [],
-    "musician_ig_handles": [
-      "hees_eong",
-      "parkjinhyeok0510"
-    ],
-    "venue_id": "ven_87ebacfa-b91a-48ec-921d-77e47585fede",
-    "venue_location_id": "main",
-    "datetime": "2026-01-30T11:30:00+00:00",
-    "price": "9,000원",
-    "llm_confidence": 1.0,
-    "title": "조희성 퀄텟",
-    "description": "조희성 퀄텟 라이브. 정상우 (기타), 김대경 (피아노), 박진혁 (베이스) @parkjinhyeok0510, 조희성 (드럼) @hees_eong.",
-    "ticket_link": null,
-    "show_time": null,
-    "age_limit": null,
-    "_search_en": {
-      "title": "Cho Hee Seong Quartet",
-      "description": "Cho Hee Seong Quartet live. Jung Sang-woo (guitar), Kim Dae-gyeong (piano), Park Jin-hyeok (bass) @parkjinhyeok0510, Cho Hee-seong (drums) @hees_eong."
-    },
-    "_search_ko": {
-      "title": "조희성 퀄텟",
-      "description": "조희성 퀄텟 라이브. 정상우 (기타), 김대경 (피아노), 박진혁 (베이스) @parkjinhyeok0510, 조희성 (드럼) @hees_eong."
-    }
-  },
-  {
-    "id": "evt_20260130_ad89835f-6236-4bcf-a306-02c119fb5805",
-    "event_key": "v:ven_76a4beb3-ee71-4d59-bb60-f88ace2ad028|t:2026-01-30T11:00:00+00:00",
-    "source_url": "https://www.instagram.com/p/DT9Q4hKkhHQ/",
-    "venue_handle": "pdpdclub",
-    "musician_ids": [],
-    "musician_ig_handles": [],
-    "venue_id": "ven_76a4beb3-ee71-4d59-bb60-f88ace2ad028",
-    "venue_location_id": "main",
-    "datetime": "2026-01-30T12:00:00+00:00",
-    "price": "20,000원",
-    "llm_confidence": 1.0,
-    "title": "강선아 재즈밴드",
-    "description": "강선아 재즈밴드 공연 2부. 보컬 강선아, 피아노 최현우, 베이스 장태희, 드럼 조남혁. 1인 1음료 주문 필수. 미성년자 보호자 동반 시 입장 가능.",
-    "ticket_link": null,
-    "show_time": null,
-    "age_limit": null,
-    "_search_en": {
-      "title": "Kang Sunah Jazz Band",
-      "description": "Kang Sunah Jazz Band Part 2 performance. Vocal Kang Sunah, Piano Choi Hyunwoo, Bass Jang Taehee, Drums Jo Namhyeok. 1 drink mandatory per person. Minors allowed with guardian."
-    },
-    "_search_ko": {
-      "title": "강선아 재즈밴드",
-      "description": "강선아 재즈밴드 공연 2부. 보컬 강선아, 피아노 최현우, 베이스 장태희, 드럼 조남혁. 1인 1음료 주문 필수. 미성년자 보호자 동반 시 입장 가능."
-    }
-  },
-  {
-    "id": "evt_20260130_453a41ec-2586-46eb-9b13-594e6f547b7c",
-    "event_key": "v:ven_16504f43-374a-48b1-afc8-6da84ddd6c3d|t:2026-01-30T12:00:00+00:00",
-    "source_url": "https://www.instagram.com/p/DS1KeV2klVt/",
-    "venue_handle": "rustic_jazz",
-    "musician_ids": [],
-    "musician_ig_handles": [],
-    "venue_id": "ven_16504f43-374a-48b1-afc8-6da84ddd6c3d",
-    "venue_location_id": "main",
-    "datetime": "2026-01-30T12:00:00+00:00",
-    "price": "11,000원",
-    "llm_confidence": 1.0,
-    "title": "김한얼의 <유쾌한 섬> 대항해시대",
-    "description": "김한얼의 <유쾌한 섬> 대항해시대 라이브 재즈 공연 (2부).",
-    "ticket_link": null,
-    "show_time": null,
-    "age_limit": null,
-    "_search_en": {
-      "title": "Kim Han-eul's <Pleasant Island> Age of Discovery",
-      "description": "Kim Han-eul's <Pleasant Island> Age of Discovery live jazz performance (Part 2)."
-    },
-    "_search_ko": {
-      "title": "김한얼의 <유쾌한 섬> 대항해시대",
-      "description": "김한얼의 <유쾌한 섬> 대항해시대 라이브 재즈 공연 (2부)."
-    }
-  },
-  {
-    "id": "evt_20260130_792fe44f-30bc-40f1-ae9d-d727793313ae",
-    "event_key": "v:ven_eb2df351-85f3-4578-bc5b-9fcd05222571|t:2026-01-30T11:00:00+00:00",
-    "source_url": "https://www.instagram.com/p/DTClspdgYU6/",
-    "venue_handle": "bar_tican",
-    "musician_ids": [],
-    "musician_ig_handles": [],
-    "venue_id": "ven_eb2df351-85f3-4578-bc5b-9fcd05222571",
-    "venue_location_id": "main",
-    "datetime": "2026-01-30T12:00:00+00:00",
-    "price": "10,000원",
-    "llm_confidence": 1.0,
-    "title": "털보와 젊은피 밴드",
-    "description": "털보와 젊은피 밴드 공연.",
-    "ticket_link": null,
-    "show_time": null,
-    "age_limit": null,
-    "_search_en": {
-      "title": "Teolbo & Jeolmeunpi Band",
-      "description": "Teolbo & Jeolmeunpi Band performance."
-    },
-    "_search_ko": {
-      "title": "털보와 젊은피 밴드",
-      "description": "털보와 젊은피 밴드 공연."
-    }
-  },
-  {
-    "id": "evt_20260130_811a0e50-d28a-430b-9674-2563d8904014",
-    "event_key": "v:ven_7167b93f-4221-49e3-8463-fd56b8a5e576|t:2026-01-30T12:00:00+00:00",
-    "source_url": "https://www.instagram.com/p/DT12OSVgQ0w/",
-    "venue_handle": "_jam_lounge",
-    "musician_ids": [],
-    "musician_ig_handles": [],
-    "venue_id": "ven_7167b93f-4221-49e3-8463-fd56b8a5e576",
-    "venue_location_id": "main",
-    "datetime": "2026-01-30T12:00:00+00:00",
-    "price": null,
-    "llm_confidence": 1.0,
-    "title": "리원 퀄텟",
-    "description": "리원 퀄텟 라이브 공연 (두 번째 세트)",
-    "ticket_link": null,
-    "show_time": null,
-    "age_limit": null,
-    "_search_en": {
-      "title": "Ri Won Quartet",
-      "description": "Ri Won Quartet live performance (Second Set)"
-    },
-    "_search_ko": {
-      "title": "리원 퀄텟",
-      "description": "리원 퀄텟 라이브 공연 (두 번째 세트)"
-    }
-  },
-  {
-    "id": "evt_20260130_402b8313-50da-4b18-944b-b6ef32963024",
-    "event_key": "v:ven_09991403-4f4f-42a7-a165-602d7e0cefdb|t:2026-01-30T12:00:00+00:00",
-    "source_url": "https://www.instagram.com/p/DTxI-4Wke27/",
-    "venue_handle": "ninejazz_chungdam",
-    "musician_ids": [],
-    "musician_ig_handles": [],
-    "venue_id": "ven_09991403-4f4f-42a7-a165-602d7e0cefdb",
-    "venue_location_id": "main",
-    "datetime": "2026-01-30T12:00:00+00:00",
-    "price": null,
-    "llm_confidence": 1.0,
-    "title": "더 제레미 박 트리오",
-    "description": "레트로 재즈 팝과 보컬을 선보이는 The Jeremy Park 트리오.",
-    "ticket_link": null,
-    "show_time": null,
-    "age_limit": null,
-    "_search_en": {
-      "title": "The Jeremy Park Trio",
-      "description": "The Jeremy Park Trio performs retro jazz pop with vocals."
-    },
-    "_search_ko": {
-      "title": "더 제레미 박 트리오",
-      "description": "레트로 재즈 팝과 보컬을 선보이는 The Jeremy Park 트리오."
-    }
-  },
-  {
-    "id": "evt_20260130_2df5a303-43c2-4bd2-8cfd-b9104fb01900",
-    "event_key": "v:ven_36cd80b6-ba1b-48d5-a42f-82bfaf89d154|t:2026-01-30T12:30:00+00:00",
-    "source_url": "https://www.instagram.com/p/DUCCQ40Adch/",
-    "venue_handle": "cottonclub_seoul",
-    "musician_ids": [],
-    "musician_ig_handles": [],
-    "venue_id": "ven_36cd80b6-ba1b-48d5-a42f-82bfaf89d154",
-    "venue_location_id": "main",
-    "datetime": "2026-01-30T12:30:00+00:00",
-    "price": null,
-    "llm_confidence": 1.0,
-    "title": "찰리정 밴드",
-    "description": "블루스를 축으로 한 폭발적 에너지와 섬세한 표현. 찰리정 밴드: 찰리정 (기타), 제이슨 팍 (피아노), 김현규 (베이스), 이상민 (드럼).",
-    "ticket_link": null,
-    "show_time": null,
-    "age_limit": null,
-    "_search_en": {
-      "title": "Charlie Jung Band",
-      "description": "Explosive energy and delicate expression centered on blues. Charlie Jung Band: Charlie Jung (guitar), Jason Park (piano), Kim Hyun-gyu (bass), Lee Sang-min (drums)."
-    },
-    "_search_ko": {
-      "title": "찰리정 밴드",
-      "description": "블루스를 축으로 한 폭발적 에너지와 섬세한 표현. 찰리정 밴드: 찰리정 (기타), 제이슨 팍 (피아노), 김현규 (베이스), 이상민 (드럼)."
-    }
-  },
-  {
-    "id": "evt_20260130_bc2cd23f-f541-4394-b0e2-fa4c47926cfd",
-    "event_key": "v:ven_ee9d5587-be70-44b9-93d4-cc2eaf5bd4ec|t:2026-01-30T13:00:00+00:00",
-    "source_url": "https://www.instagram.com/p/DS5I7aXicRF/",
-    "venue_handle": "jazzgarage_official",
-    "musician_ids": [],
-    "musician_ig_handles": [],
-    "venue_id": "ven_ee9d5587-be70-44b9-93d4-cc2eaf5bd4ec",
-    "venue_location_id": "main",
-    "datetime": "2026-01-30T13:00:00+00:00",
-    "price": null,
-    "llm_confidence": 1.0,
-    "title": "미드나잇J 프로젝트",
-    "description": "미드나잇J 프로젝트 공연.",
-    "ticket_link": null,
-    "show_time": null,
-    "age_limit": null,
-    "_search_en": {
-      "title": "Midnight J Project",
-      "description": "Performance by Midnight J Project."
-    },
-    "_search_ko": {
-      "title": "미드나잇J 프로젝트",
-      "description": "미드나잇J 프로젝트 공연."
-    }
-  },
-  {
-    "id": "evt_20260130_9dc8f7b8-94c4-4196-84ce-61379a12d120",
-    "event_key": "v:ven_8cefa639-4b24-4b1d-a1c0-4adb40311bde|t:2026-01-30T13:30:00+00:00",
-    "source_url": "https://www.instagram.com/p/DTnEZjYEtYq/",
-    "venue_handle": "flatnine_jazzbar",
-    "musician_ids": [],
-    "musician_ig_handles": [],
-    "venue_id": "ven_8cefa639-4b24-4b1d-a1c0-4adb40311bde",
-    "venue_location_id": "main",
-    "datetime": "2026-01-30T13:30:00+00:00",
-    "price": null,
-    "llm_confidence": 1.0,
-    "title": "박상아 듀오",
-    "description": "박상아 듀오의 재즈 공연.",
-    "ticket_link": null,
-    "show_time": null,
-    "age_limit": null,
-    "_search_en": {
-      "title": "Park Sang-a Duo",
-      "description": "Jazz performance by Park Sang-a Duo."
-    },
-    "_search_ko": {
-      "title": "박상아 듀오",
-      "description": "박상아 듀오의 재즈 공연."
-    }
-  },
-  {
-    "id": "evt_20260130_9a8f377d-85f3-49f2-9966-4e98da6c5acd",
-    "event_key": "v:ven_09991403-4f4f-42a7-a165-602d7e0cefdb|t:2026-01-30T13:00:00+00:00",
-    "source_url": "https://www.instagram.com/p/DTxI-4Wke27/",
-    "venue_handle": "ninejazz_chungdam",
-    "musician_ids": [],
-    "musician_ig_handles": [],
-    "venue_id": "ven_09991403-4f4f-42a7-a165-602d7e0cefdb",
-    "venue_location_id": "main",
-    "datetime": "2026-01-30T14:00:00+00:00",
-    "price": null,
-    "llm_confidence": 1.0,
-    "title": "권기욱 프렌즈 밴드",
-    "description": "재즈 보컬 댄스 공연",
-    "ticket_link": null,
-    "show_time": null,
-    "age_limit": null,
-    "_search_en": {
-      "title": "Kwon Giwook Friends Band",
-      "description": "Jazz vocal dance performance"
-    },
-    "_search_ko": {
-      "title": "권기욱 프렌즈 밴드",
-      "description": "재즈 보컬 댄스 공연"
-    }
-  },
-  {
-    "id": "evt_20260130_582081cf-9279-42af-9676-dde61166c666",
-    "event_key": "v:ven_09991403-4f4f-42a7-a165-602d7e0cefdb|t:2026-01-30T14:00:00+00:00",
-    "source_url": "https://www.instagram.com/p/DTxI-4Wke27/",
-    "venue_handle": "ninejazz_chungdam",
-    "musician_ids": [],
-    "musician_ig_handles": [],
-    "venue_id": "ven_09991403-4f4f-42a7-a165-602d7e0cefdb",
-    "venue_location_id": "main",
-    "datetime": "2026-01-30T14:00:00+00:00",
-    "price": null,
-    "llm_confidence": 1.0,
-    "title": "권기중 밴드",
-    "description": "권기중 밴드의 재즈 팝 보컬 및 댄스 공연.",
-    "ticket_link": null,
-    "show_time": null,
-    "age_limit": null,
-    "_search_en": {
-      "title": "Kwon Ki-jung Band",
-      "description": "Kwon Ki-jung Band's jazz pop vocal and dance performance."
-    },
-    "_search_ko": {
-      "title": "권기중 밴드",
-      "description": "권기중 밴드의 재즈 팝 보컬 및 댄스 공연."
-    }
-  },
-  {
     "id": "evt_20260131_5a831925-85d6-448a-a817-c03d95598c85",
     "event_key": "v:ven_8cefa639-4b24-4b1d-a1c0-4adb40311bde|t:2026-01-31T07:00:00+00:00",
     "source_url": "https://www.instagram.com/p/DTnEZjYEtYq/",
@@ -993,7 +200,7 @@
     "price": null,
     "llm_confidence": 1.0,
     "title": "이선경 재즈 메이트",
-    "description": "감성의 목소리와 예측불허의 표현력, 본인만의 정체성을 담은 재즈. 이선경 재즈 메이트: 이선경 (보컬), 고호정 (색소폰), 이동민 (베이스), 곽지웅 (드럼).",
+    "description": "감성적인 목소리와 예측불허의 표현력, 본인만의 정체성을 담은 재즈. 이선경 재즈 메이트: 이선경 (보컬), 고호정 (색소폰), 이동민 (베이스), 곽지웅 (드럼).",
     "ticket_link": null,
     "show_time": null,
     "age_limit": null,
@@ -1003,7 +210,7 @@
     },
     "_search_ko": {
       "title": "이선경 재즈 메이트",
-      "description": "감성의 목소리와 예측불허의 표현력, 본인만의 정체성을 담은 재즈. 이선경 재즈 메이트: 이선경 (보컬), 고호정 (색소폰), 이동민 (베이스), 곽지웅 (드럼)."
+      "description": "감성적인 목소리와 예측불허의 표현력, 본인만의 정체성을 담은 재즈. 이선경 재즈 메이트: 이선경 (보컬), 고호정 (색소폰), 이동민 (베이스), 곽지웅 (드럼)."
     }
   },
   {
@@ -1060,6 +267,32 @@
     "_search_ko": {
       "title": "정화 and her duo",
       "description": "BLUE CAT JAZZ Night. 보컬 정화 @junghwa_jazz, 베이스 박해찬 @praise_like_sunshine, 피아노 강한성 @strongcastle_."
+    }
+  },
+  {
+    "id": "evt_20260131_ba9e34c7-8cab-46ec-a1f4-245477ecb665",
+    "event_key": "v:ven_1655af5a-ea12-47f6-8d39-eb30735e8b48|t:2026-01-31T10:30:00+00:00",
+    "source_url": "https://www.instagram.com/p/DTx5DIbD3hq/",
+    "venue_handle": "cafe_minor_swing",
+    "musician_ids": [],
+    "musician_ig_handles": [],
+    "venue_id": "ven_1655af5a-ea12-47f6-8d39-eb30735e8b48",
+    "venue_location_id": "main",
+    "datetime": "2026-01-31T10:30:00+00:00",
+    "price": null,
+    "llm_confidence": 1.0,
+    "title": "베티 퀄텟",
+    "description": "베티 (보컬), 강재훈 (피아노), 브루스 강 (베이스), 김태현 (드럼)",
+    "ticket_link": null,
+    "show_time": null,
+    "age_limit": null,
+    "_search_en": {
+      "title": "Betty Quartet",
+      "description": "Betty (vocal), Kang Jae-hoon (piano), Bruce Kang (bass), Kim Tae-hyun (drums)"
+    },
+    "_search_ko": {
+      "title": "베티 퀄텟",
+      "description": "베티 (보컬), 강재훈 (피아노), 브루스 강 (베이스), 김태현 (드럼)"
     }
   },
   {
@@ -1153,17 +386,17 @@
     "price": "20,000원",
     "llm_confidence": 1.0,
     "title": "라그랑지안",
-    "description": "라그랑지안: 이건민 (피아노), 황인규 (베이스), 김윤태 (드럼), 최원석 (색소폰). 공연시간: 1부(20:00 - 20:40), 2부(21:00 - 21:40). 입장료: 20,000원 (1인 1음료 주문 필수).",
+    "description": "라그랑지안 밴드의 공연. 이건민 (피아노), 황인규 (베이스), 김윤태 (드럼), 최원석 (색소폰).",
     "ticket_link": null,
     "show_time": null,
     "age_limit": null,
     "_search_en": {
       "title": "Lagrangian",
-      "description": "Lagrangian: Lee Geon-min (piano), Hwang In-gyu (bass), Kim Yun-tae (drums), Choi Won-seok (saxophone). Show times: Part 1 (20:00 - 20:40), Part 2 (21:00 - 21:40). Admission: KRW 20,000 (1 drink minimum)."
+      "description": "Performance by the Lagrangian band. Lee Geon-min (piano), Hwang In-gyu (bass), Kim Yun-tae (drums), Choi Won-seok (saxophone)."
     },
     "_search_ko": {
       "title": "라그랑지안",
-      "description": "라그랑지안: 이건민 (피아노), 황인규 (베이스), 김윤태 (드럼), 최원석 (색소폰). 공연시간: 1부(20:00 - 20:40), 2부(21:00 - 21:40). 입장료: 20,000원 (1인 1음료 주문 필수)."
+      "description": "라그랑지안 밴드의 공연. 이건민 (피아노), 황인규 (베이스), 김윤태 (드럼), 최원석 (색소폰)."
     }
   },
   {
@@ -1325,7 +558,7 @@
   {
     "id": "evt_20260131_3cc5b20c-5c14-4003-a8ce-0c4266bf27bd",
     "event_key": "v:ven_1655af5a-ea12-47f6-8d39-eb30735e8b48|t:2026-01-31T11:00:00+00:00",
-    "source_url": "https://www.instagram.com/p/DTx5DIbD3hq/",
+    "source_url": "https://www.instagram.com/p/DUIaDU2jzma/",
     "venue_handle": "cafe_minor_swing",
     "musician_ids": [],
     "musician_ig_handles": [],
@@ -1334,18 +567,18 @@
     "datetime": "2026-01-31T11:00:00+00:00",
     "price": null,
     "llm_confidence": 1.0,
-    "title": "Betty 퀄텟",
-    "description": "Betty 퀄텟: Betty (보컬), 강재훈 (피아노), Bruce Kang (베이스), 김태현 (드럼).",
+    "title": "베티",
+    "description": "마이너 스윙 보컬 베티 공연.",
     "ticket_link": null,
     "show_time": null,
     "age_limit": null,
     "_search_en": {
-      "title": "Betty Quartet",
-      "description": "Betty Quartet: Betty (vocal), Kang Jae-hoon (piano), Bruce Kang (bass), Kim Tae-hyun (drums)."
+      "title": "Betty",
+      "description": "Performance by Minor Swing vocalist Betty."
     },
     "_search_ko": {
-      "title": "Betty 퀄텟",
-      "description": "Betty 퀄텟: Betty (보컬), 강재훈 (피아노), Bruce Kang (베이스), 김태현 (드럼)."
+      "title": "베티",
+      "description": "마이너 스윙 보컬 베티 공연."
     }
   },
   {
@@ -1360,18 +593,18 @@
     "datetime": "2026-01-31T11:00:00+00:00",
     "price": null,
     "llm_confidence": 1.0,
-    "title": "로빅스 월드",
-    "description": "Robiq's World: 정하민 (기타), Robiq (베이스), Lakov (피아노), 김동현 (드럼), 우재훈 (퍼커션).",
+    "title": "Robiq's World",
+    "description": "Robiq's World 공연.",
     "ticket_link": null,
     "show_time": null,
     "age_limit": null,
     "_search_en": {
       "title": "Robiq's World",
-      "description": "Robiq's World: Jung Ha-min (guitar), Robiq (bass), Lakov (piano), Kim Dong-hyun (drums), Woo Jae-hoon (percussion)."
+      "description": "Robiq's World performance."
     },
     "_search_ko": {
-      "title": "로빅스 월드",
-      "description": "Robiq's World: 정하민 (기타), Robiq (베이스), Lakov (피아노), 김동현 (드럼), 우재훈 (퍼커션)."
+      "title": "Robiq's World",
+      "description": "Robiq's World 공연."
     }
   },
   {
@@ -1545,6 +778,32 @@
     }
   },
   {
+    "id": "evt_20260131_2a6a99b6-7939-4bd8-814e-7ac7c8a72c33",
+    "event_key": "v:ven_fb10c30e-f205-42c1-82f9-6e1faaef2011|t:2026-01-31T12:00:00+00:00",
+    "source_url": "https://www.instagram.com/p/DUHmdQAEv1_/",
+    "venue_handle": "eulji_libro",
+    "musician_ids": [],
+    "musician_ig_handles": [],
+    "venue_id": "ven_fb10c30e-f205-42c1-82f9-6e1faaef2011",
+    "venue_location_id": "main",
+    "datetime": "2026-01-31T12:00:00+00:00",
+    "price": null,
+    "llm_confidence": 1.0,
+    "title": "권범수 퀄텟",
+    "description": "LIBRO JAZZ LIVE. 권범수 퀄텟: 권범수 (보컬), Robert Fernandez (베이스), 최해든 (피아노), 장재영 (색소폰).",
+    "ticket_link": null,
+    "show_time": null,
+    "age_limit": null,
+    "_search_en": {
+      "title": "Kwon Beom-su Quartet",
+      "description": "LIBRO JAZZ LIVE. Kwon Beom-su Quartet: Kwon Beom-su (vocal), Robert Fernandez (bass), Choi Hae-deun (piano), Jang Jae-young (saxophone)."
+    },
+    "_search_ko": {
+      "title": "권범수 퀄텟",
+      "description": "LIBRO JAZZ LIVE. 권범수 퀄텟: 권범수 (보컬), Robert Fernandez (베이스), 최해든 (피아노), 장재영 (색소폰)."
+    }
+  },
+  {
     "id": "evt_20260131_d8c85000-8b31-4e6a-856e-0ab3eec7c348",
     "event_key": "v:ven_36cd80b6-ba1b-48d5-a42f-82bfaf89d154|t:2026-01-31T12:30:00+00:00",
     "source_url": "https://www.instagram.com/p/DUCCQ40Adch/",
@@ -1563,7 +822,7 @@
     "age_limit": null,
     "_search_en": {
       "title": "The Jeremy Park Show",
-      "description": "A variety jazz performance with cheerful storytelling from the 1920s to the 60-70s. The Jeremy Park Show: Jeremy Park (vocal), Yoo Ho-jung (violin), Kim Eun-hyun (piano), Jo Yong-won (bass), Chae Seok-woo (drums)."
+      "description": "Variety jazz performance from the 1920s to the 60s-70s, along with cheerful storytelling. The Jeremy Park Show: Jeremy Park (vocal), Yoo Ho-jung (violin), Kim Eun-hyun (piano), Jo Yong-won (bass), Chae Seok-woo (drums)."
     },
     "_search_ko": {
       "title": "더 제레미 박 쇼",
@@ -1773,7 +1032,7 @@
     "age_limit": null,
     "_search_en": {
       "title": "Park Jae-hong Duo",
-      "description": "Intimate conversation between soulful blues vocal and pianist. Park Jae-hong Duo: Sung Ki-moon (piano), Park Jae-hong (vocal)."
+      "description": "Soulful blues vocal and intimate conversation with the pianist. Park Jae-hong Duo: Sung Ki-moon (piano), Park Jae-hong (vocal)."
     },
     "_search_ko": {
       "title": "박재홍 듀오",
@@ -1793,17 +1052,17 @@
     "price": null,
     "llm_confidence": 1.0,
     "title": "신원준 퀄텟",
-    "description": "신원준 퀄텟: 신원준 (기타), 나도윤 (피아노), 강환수 (베이스), 김선빈 (드럼).",
+    "description": "신원준 퀄텟 공연.",
     "ticket_link": null,
     "show_time": null,
     "age_limit": null,
     "_search_en": {
       "title": "Shin Won-jun Quartet",
-      "description": "Shin Won-jun Quartet: Shin Won-jun (guitar), Na Do-yun (piano), Kang Hwan-su (bass), Kim Sun-bin (drums)."
+      "description": "Shin Won-jun Quartet performance."
     },
     "_search_ko": {
       "title": "신원준 퀄텟",
-      "description": "신원준 퀄텟: 신원준 (기타), 나도윤 (피아노), 강환수 (베이스), 김선빈 (드럼)."
+      "description": "신원준 퀄텟 공연."
     }
   },
   {
@@ -1825,7 +1084,7 @@
     "age_limit": null,
     "_search_en": {
       "title": "Lim Ju-chan Quartet",
-      "description": "Transparent and warm vibraphone sound, the true charm of live jazz. Lim Ju-chan Quartet: Kim Ye-chan (vibraphone), Shim Gyu-min (piano), Bruce Kang (bass), Lim Ju-chan (drums)."
+      "description": "Transparent and warm vibraphone sound, the true charm of live jazz. Lim Ju-chan Quartet: Kim Ye-chan (vibraphone), Shim Kyu-min (piano), Bruce Kang (bass), Lim Ju-chan (drums)."
     },
     "_search_ko": {
       "title": "임주찬 퀄텟",
@@ -2812,24 +2071,26 @@
     "source_url": "https://www.instagram.com/p/DT-dwG1Ejbj/",
     "venue_handle": "jazzclub_evans",
     "musician_ids": [],
-    "musician_ig_handles": [],
+    "musician_ig_handles": [
+      "jazzclub_evans"
+    ],
     "venue_id": "ven_95f2365a-d91c-42b1-95bc-ce8cc3d99ce0",
     "venue_location_id": "main",
     "datetime": "2026-02-08T11:00:00+00:00",
     "price": null,
     "llm_confidence": 1.0,
     "title": "더 라스트 이수정 퀄텟",
-    "description": "2026년 2월 8일, 고(故) 이수정 색소포니스트를 추모하는 공연. 이수정 색소포니스트가 직접 기획했던 공연으로, 고인을 기억하고 추모하는 자리로 마련되었다. 무겁지 않은 분위기에서 편안하게 연주할 수 있는 곡들을 선보인다. 김기범 (색소폰), 안상준 (기타), 김태현 (드럼), Yours truly (베이스).",
+    "description": "이수정 추모 공연. 이수정이 직접 잡은 공연을 완성시키기 위해 진행되며, 리허설 없이 다같이 편하게 연주 할 수 있는 곡들로 구성됩니다. 이수정을 추억하고 치유받는 자리가 되기를 희망합니다.",
     "ticket_link": null,
     "show_time": null,
     "age_limit": null,
     "_search_en": {
-      "title": "The Last Lee Sujeong Quartet",
-      "description": "A tribute concert on February 8, 2026, for the late saxophonist Lee Sujeong. Originally planned by Lee Sujeong herself, this performance is held to remember and honor her. The concert features comfortable, easy-listening tunes in a light atmosphere. Kim Ki-bum (saxophone), Ahn Sang-joon (guitar), Kim Tae-hyun (drums), Yours truly (bass)."
+      "title": "The Last Lee Sujung Quartet",
+      "description": "A tribute concert for Lee Sujung, proceeding to complete the performance she had scheduled. It will feature comfortable songs to be played without rehearsal by close colleagues. It is hoped to be a time to remember Lee Sujung and offer healing in a not-too-heavy atmosphere."
     },
     "_search_ko": {
       "title": "더 라스트 이수정 퀄텟",
-      "description": "2026년 2월 8일, 고(故) 이수정 색소포니스트를 추모하는 공연. 이수정 색소포니스트가 직접 기획했던 공연으로, 고인을 기억하고 추모하는 자리로 마련되었다. 무겁지 않은 분위기에서 편안하게 연주할 수 있는 곡들을 선보인다. 김기범 (색소폰), 안상준 (기타), 김태현 (드럼), Yours truly (베이스)."
+      "description": "이수정 추모 공연. 이수정이 직접 잡은 공연을 완성시키기 위해 진행되며, 리허설 없이 다같이 편하게 연주 할 수 있는 곡들로 구성됩니다. 이수정을 추억하고 치유받는 자리가 되기를 희망합니다."
     }
   },
   {
@@ -5813,769 +5074,6 @@
     "_search_ko": {
       "title": "서효상",
       "description": "클라리넷 서효상 (@ddungdorinet) 게스트 공연. 주인장과 함께 연주."
-    }
-  },
-  {
-    "id": "evt_20260619_87e7b6f2-8e9f-42f9-9c48-4ad4e23b28b3",
-    "event_key": "v:ven_7167b93f-4221-49e3-8463-fd56b8a5e576|t:2026-06-19T10:30:00+00:00",
-    "source_url": "https://www.instagram.com/p/DSNLsudAZeY/",
-    "venue_handle": "_jam_lounge",
-    "musician_ids": [],
-    "musician_ig_handles": [],
-    "venue_id": "ven_7167b93f-4221-49e3-8463-fd56b8a5e576",
-    "venue_location_id": "main",
-    "datetime": "2026-06-19T10:30:00+00:00",
-    "price": null,
-    "llm_confidence": 1.0,
-    "title": "방병조 밴드",
-    "description": "재즈 밴드 방병조 밴드의 공연. 1부 7:30 - 8:10 PM, 2부 9:00 - 9:40 PM.",
-    "ticket_link": null,
-    "show_time": null,
-    "age_limit": null,
-    "_search_en": {
-      "title": "Bang Byeong-jo Band",
-      "description": "Jazz performance by Bang Byeong-jo Band. Two sets: 7:30 - 8:10 PM and 9:00 - 9:40 PM."
-    },
-    "_search_ko": {
-      "title": "방병조 밴드",
-      "description": "재즈 밴드 방병조 밴드의 공연. 1부 7:30 - 8:10 PM, 2부 9:00 - 9:40 PM."
-    }
-  },
-  {
-    "id": "evt_20260927_b9851e68-0226-4d12-9b77-f384442a4356",
-    "event_key": "v:ven_afc57e46-2933-4f92-8d8a-551c0ab86ddb|t:2026-09-27T11:00:00+00:00",
-    "source_url": "https://www.instagram.com/p/DSrZbffEgNw/",
-    "venue_handle": "cafe_gig",
-    "musician_ids": [],
-    "musician_ig_handles": [],
-    "venue_id": "ven_afc57e46-2933-4f92-8d8a-551c0ab86ddb",
-    "venue_location_id": "main",
-    "datetime": "2026-09-27T11:00:00+00:00",
-    "price": null,
-    "llm_confidence": 1.0,
-    "title": "김규하 퀄텟 with 김예중",
-    "description": "김규하 퀄텟과 트럼펫 김예중의 연주.",
-    "ticket_link": null,
-    "show_time": null,
-    "age_limit": null,
-    "_search_en": {
-      "title": "Kim Kyu-ha Quartet with Kim Ye-jung",
-      "description": "Performance by Kim Kyu-ha Quartet and trumpeter Kim Ye-jung."
-    },
-    "_search_ko": {
-      "title": "김규하 퀄텟 with 김예중",
-      "description": "김규하 퀄텟과 트럼펫 김예중의 연주."
-    }
-  },
-  {
-    "id": "evt_20261017_81cedc94-52b2-4e49-b678-3fca6ef7d4ec",
-    "event_key": "v:ven_1e4e6f80-789a-4f4a-b416-c54b896d51ad|t:2026-10-17T11:00:00+00:00",
-    "source_url": "https://www.instagram.com/p/DP-7_OHkT2B/",
-    "venue_handle": "mammy__blue",
-    "musician_ids": [],
-    "musician_ig_handles": [
-      "bowingpark",
-      "brownsoundstudio",
-      "saxophone_heaven",
-      "seokgwon_k"
-    ],
-    "venue_id": "ven_1e4e6f80-789a-4f4a-b416-c54b896d51ad",
-    "venue_location_id": "main",
-    "datetime": "2026-10-17T11:00:00+00:00",
-    "price": null,
-    "llm_confidence": 1.0,
-    "title": "김재형 퀄텟",
-    "description": "김재형 퀄텟 라이브 공연. 김재형 (피아노) @brownsoundstudio, 이종원 (테너 색소폰) @saxophone_heaven, 강석권 (드럼) @seokgwon_k, 박정현 (베이스) @bowingpark.",
-    "ticket_link": null,
-    "show_time": null,
-    "age_limit": null,
-    "_search_en": {
-      "title": "Kim Jae-hyung Quartet",
-      "description": "Live performance by Kim Jae-hyung Quartet. Kim Jae-hyung (piano) @brownsoundstudio, Lee Jong-won (tenor saxophone) @saxophone_heaven, Kang Seok-gwon (drums) @seokgwon_k, Park Jung-hyun (bass) @bowingpark."
-    },
-    "_search_ko": {
-      "title": "김재형 퀄텟",
-      "description": "김재형 퀄텟 라이브 공연. 김재형 (피아노) @brownsoundstudio, 이종원 (테너 색소폰) @saxophone_heaven, 강석권 (드럼) @seokgwon_k, 박정현 (베이스) @bowingpark."
-    }
-  },
-  {
-    "id": "evt_20261024_0d7ccdbb-b1b9-4c97-acc8-df868caca7aa",
-    "event_key": "v:ven_eb2df351-85f3-4578-bc5b-9fcd05222571|t:2026-10-24T11:00:00+00:00",
-    "source_url": "https://www.instagram.com/p/DQMzmUjgTG5/",
-    "venue_handle": "bar_tican",
-    "musician_ids": [],
-    "musician_ig_handles": [],
-    "venue_id": "ven_eb2df351-85f3-4578-bc5b-9fcd05222571",
-    "venue_location_id": "main",
-    "datetime": "2026-10-24T11:00:00+00:00",
-    "price": null,
-    "llm_confidence": 1.0,
-    "title": "다은 퀄텟",
-    "description": "다은 퀄텟 라이브 공연.",
-    "ticket_link": null,
-    "show_time": null,
-    "age_limit": null,
-    "_search_en": {
-      "title": "Daeun Quartet",
-      "description": "Live performance by Daeun Quartet."
-    },
-    "_search_ko": {
-      "title": "다은 퀄텟",
-      "description": "다은 퀄텟 라이브 공연."
-    }
-  },
-  {
-    "id": "evt_20261025_13d1ce86-7bc1-4a34-90a8-4693ae085750",
-    "event_key": "v:ven_fc57057d-2f38-400b-80db-2a590f04f4f3|t:2026-10-25T10:30:00+00:00",
-    "source_url": "https://www.instagram.com/p/DQQ2IobkZBE/",
-    "venue_handle": "jazzclubbottomline",
-    "musician_ids": [],
-    "musician_ig_handles": [],
-    "venue_id": "ven_fc57057d-2f38-400b-80db-2a590f04f4f3",
-    "venue_location_id": "main",
-    "datetime": "2026-10-25T10:30:00+00:00",
-    "price": "None",
-    "llm_confidence": 1.0,
-    "title": "라그랑지안 + Benoit Meynier",
-    "description": "라그랑지안 (Lagrangian)과 Benoit Meynier의 협연. 이건민 (피아노), 황인규 (베이스), 최원석 (색소폰), 김인태 (드럼), Benoit Meynier (색소폰).",
-    "ticket_link": null,
-    "show_time": null,
-    "age_limit": null,
-    "_search_en": {
-      "title": "Lagrangian + Benoit Meynier",
-      "description": "Lagrangian and Benoit Meynier collaboration. Lee Geon-min (piano), Hwang In-gyu (bass), Choi Won-seok (saxophone), Kim In-tae (drums), Benoit Meynier (saxophone)."
-    },
-    "_search_ko": {
-      "title": "라그랑지안 + Benoit Meynier",
-      "description": "라그랑지안 (Lagrangian)과 Benoit Meynier의 협연. 이건민 (피아노), 황인규 (베이스), 최원석 (색소폰), 김인태 (드럼), Benoit Meynier (색소폰)."
-    }
-  },
-  {
-    "id": "evt_20261031_424e1245-3ee2-4c23-8133-77cfbe438230",
-    "event_key": "v:ven_eb2df351-85f3-4578-bc5b-9fcd05222571|t:2026-10-31T11:00:00+00:00",
-    "source_url": "https://www.instagram.com/p/DQgGSJSASJo/",
-    "venue_handle": "bar_tican",
-    "musician_ids": [],
-    "musician_ig_handles": [],
-    "venue_id": "ven_eb2df351-85f3-4578-bc5b-9fcd05222571",
-    "venue_location_id": "main",
-    "datetime": "2026-10-31T12:00:00+00:00",
-    "price": null,
-    "llm_confidence": 1.0,
-    "title": "Damon Brown",
-    "description": "재즈 트럼펫 연주자 데이먼 브라운 라이브 공연 2부.",
-    "ticket_link": null,
-    "show_time": null,
-    "age_limit": null,
-    "_search_en": {
-      "title": "Damon Brown",
-      "description": "Jazz trumpet player Damon Brown live performance, part 2."
-    },
-    "_search_ko": {
-      "title": "Damon Brown",
-      "description": "재즈 트럼펫 연주자 데이먼 브라운 라이브 공연 2부."
-    }
-  },
-  {
-    "id": "evt_20261109_ff4ea180-6490-439e-9002-6eff1261e5f5",
-    "event_key": "v:ven_16504f43-374a-48b1-afc8-6da84ddd6c3d|t:2026-11-09T11:00:00+00:00",
-    "source_url": "https://www.instagram.com/p/DQ3JT9OEou_/",
-    "venue_handle": "rustic_jazz",
-    "musician_ids": [],
-    "musician_ig_handles": [],
-    "venue_id": "ven_16504f43-374a-48b1-afc8-6da84ddd6c3d",
-    "venue_location_id": "main",
-    "datetime": "2026-11-09T11:00:00+00:00",
-    "price": null,
-    "llm_confidence": 1.0,
-    "title": "레오킴그룹",
-    "description": "레오킴그룹 공연.",
-    "ticket_link": null,
-    "show_time": null,
-    "age_limit": null,
-    "_search_en": {
-      "title": "Leo Kim Group",
-      "description": "Performance by Leo Kim Group."
-    },
-    "_search_ko": {
-      "title": "레오킴그룹",
-      "description": "레오킴그룹 공연."
-    }
-  },
-  {
-    "id": "evt_20261113_aa5b739b-b391-4e82-9fef-042ec3c0dccf",
-    "event_key": "v:ven_eb2df351-85f3-4578-bc5b-9fcd05222571|t:2026-11-13T11:00:00+00:00",
-    "source_url": "https://www.instagram.com/p/DREBAgugSh0/",
-    "venue_handle": "bar_tican",
-    "musician_ids": [],
-    "musician_ig_handles": [],
-    "venue_id": "ven_eb2df351-85f3-4578-bc5b-9fcd05222571",
-    "venue_location_id": "main",
-    "datetime": "2026-11-13T12:00:00+00:00",
-    "price": null,
-    "llm_confidence": 1.0,
-    "title": "니나 박 듀오",
-    "description": "니나 박 듀오의 라이브 공연. 금요일 20:00와 21:00에 두 차례 진행됩니다.",
-    "ticket_link": null,
-    "show_time": null,
-    "age_limit": null,
-    "_search_en": {
-      "title": "Nina Park Duo",
-      "description": "Live performance by Nina Park Duo. Two sets will be held on Friday at 20:00 and 21:00."
-    },
-    "_search_ko": {
-      "title": "니나 박 듀오",
-      "description": "니나 박 듀오의 라이브 공연. 금요일 20:00와 21:00에 두 차례 진행됩니다."
-    }
-  },
-  {
-    "id": "evt_20261116_1e9e1dd3-ae8e-412b-bafb-65ad2730ce75",
-    "event_key": "v:ven_339823bb-c0ab-4c56-8600-00f120bb9800|t:2026-11-16T11:00:00+00:00",
-    "source_url": "https://www.instagram.com/p/DRHzRalicG_/",
-    "venue_handle": "idenhouseinsta",
-    "musician_ids": [],
-    "musician_ig_handles": [
-      "jazz_gychoi219",
-      "keep_swingin_jb",
-      "kyu_patitucci"
-    ],
-    "venue_id": "ven_339823bb-c0ab-4c56-8600-00f120bb9800",
-    "venue_location_id": "main",
-    "datetime": "2026-11-16T11:00:00+00:00",
-    "price": null,
-    "llm_confidence": 1.0,
-    "title": "최기윤 트리오",
-    "description": "최기윤 트리오 재즈 공연. 최기윤 (기타) @jazz_gychoi219, 서규성 (베이스) @kyu_patitucci, 심준범 (드럼) @keep_swingin_jb.",
-    "ticket_link": null,
-    "show_time": null,
-    "age_limit": null,
-    "_search_en": {
-      "title": "Choi Ki-yoon Trio",
-      "description": "Jazz performance by Choi Ki-yoon Trio. Choi Ki-yoon (guitar) @jazz_gychoi219, Seo Kyu-seong (bass) @kyu_patitucci, Shim Jun-beom (drums) @keep_swingin_jb."
-    },
-    "_search_ko": {
-      "title": "최기윤 트리오",
-      "description": "최기윤 트리오 재즈 공연. 최기윤 (기타) @jazz_gychoi219, 서규성 (베이스) @kyu_patitucci, 심준범 (드럼) @keep_swingin_jb."
-    }
-  },
-  {
-    "id": "evt_20261129_2865f110-d04e-441c-9e0c-d458ccb9a408",
-    "event_key": "v:ven_eb2df351-85f3-4578-bc5b-9fcd05222571|t:2026-11-29T11:00:00+00:00",
-    "source_url": "https://www.instagram.com/p/DRq3hZ4gSqP/",
-    "venue_handle": "bar_tican",
-    "musician_ids": [],
-    "musician_ig_handles": [],
-    "venue_id": "ven_eb2df351-85f3-4578-bc5b-9fcd05222571",
-    "venue_location_id": "main",
-    "datetime": "2026-11-29T12:00:00+00:00",
-    "price": null,
-    "llm_confidence": 1.0,
-    "title": "털보와 젊은피들",
-    "description": "털보와 젊은피들의 라이브 공연 2부. 재즈, 가요, 팝 등 다양한 장르.",
-    "ticket_link": null,
-    "show_time": null,
-    "age_limit": null,
-    "_search_en": {
-      "title": "Beard and Young Bloods",
-      "description": "Live performance by Beard and Young Bloods, Part 2. Featuring various genres including jazz, K-pop, and pop."
-    },
-    "_search_ko": {
-      "title": "털보와 젊은피들",
-      "description": "털보와 젊은피들의 라이브 공연 2부. 재즈, 가요, 팝 등 다양한 장르."
-    }
-  },
-  {
-    "id": "evt_20261213_73e337fa-4993-4782-b735-7953a879b1c3",
-    "event_key": "v:ven_a0789558-4701-443e-ab9a-7600c005b2d8|t:2026-12-13T11:00:00+00:00",
-    "source_url": "https://www.instagram.com/p/DQxd955kk3p/",
-    "venue_handle": "sounddog_jazz",
-    "musician_ids": [],
-    "musician_ig_handles": [],
-    "venue_id": "ven_a0789558-4701-443e-ab9a-7600c005b2d8",
-    "venue_location_id": "main",
-    "datetime": "2026-12-13T11:00:00+00:00",
-    "price": "20,000원",
-    "llm_confidence": 1.0,
-    "title": "재즈 잼 데이",
-    "description": "재즈 잼 데이.",
-    "ticket_link": null,
-    "show_time": null,
-    "age_limit": null,
-    "_search_en": {
-      "title": "Jazz Jam Day",
-      "description": "Jazz Jam Day."
-    },
-    "_search_ko": {
-      "title": "재즈 잼 데이",
-      "description": "재즈 잼 데이."
-    }
-  },
-  {
-    "id": "evt_20261214_a42156f1-ed57-4341-b625-6a438d9c8e35",
-    "event_key": "v:ven_a0789558-4701-443e-ab9a-7600c005b2d8|t:2026-12-14T11:00:00+00:00",
-    "source_url": "https://www.instagram.com/p/DQxd955kk3p/",
-    "venue_handle": "sounddog_jazz",
-    "musician_ids": [],
-    "musician_ig_handles": [],
-    "venue_id": "ven_a0789558-4701-443e-ab9a-7600c005b2d8",
-    "venue_location_id": "main",
-    "datetime": "2026-12-14T11:00:00+00:00",
-    "price": "20,000원",
-    "llm_confidence": 1.0,
-    "title": "박주원",
-    "description": "박주원 공연.",
-    "ticket_link": null,
-    "show_time": null,
-    "age_limit": null,
-    "_search_en": {
-      "title": "Park Ju-won",
-      "description": "Performance by Park Ju-won."
-    },
-    "_search_ko": {
-      "title": "박주원",
-      "description": "박주원 공연."
-    }
-  },
-  {
-    "id": "evt_20261215_375d5fb6-ea54-4d85-ad0e-97f865b7183e",
-    "event_key": "v:ven_a0789558-4701-443e-ab9a-7600c005b2d8|t:2026-12-15T11:00:00+00:00",
-    "source_url": "https://www.instagram.com/p/DQxd955kk3p/",
-    "venue_handle": "sounddog_jazz",
-    "musician_ids": [],
-    "musician_ig_handles": [],
-    "venue_id": "ven_a0789558-4701-443e-ab9a-7600c005b2d8",
-    "venue_location_id": "main",
-    "datetime": "2026-12-15T11:00:00+00:00",
-    "price": "20,000원",
-    "llm_confidence": 1.0,
-    "title": "이지영",
-    "description": "이지영 공연.",
-    "ticket_link": null,
-    "show_time": null,
-    "age_limit": null,
-    "_search_en": {
-      "title": "Lee Ji-young",
-      "description": "Performance by Lee Ji-young."
-    },
-    "_search_ko": {
-      "title": "이지영",
-      "description": "이지영 공연."
-    }
-  },
-  {
-    "id": "evt_20261216_dc5554b7-c4cd-4cc1-8cac-778b9914ada0",
-    "event_key": "v:ven_a0789558-4701-443e-ab9a-7600c005b2d8|t:2026-12-16T11:00:00+00:00",
-    "source_url": "https://www.instagram.com/p/DQxd955kk3p/",
-    "venue_handle": "sounddog_jazz",
-    "musician_ids": [],
-    "musician_ig_handles": [],
-    "venue_id": "ven_a0789558-4701-443e-ab9a-7600c005b2d8",
-    "venue_location_id": "main",
-    "datetime": "2026-12-16T11:00:00+00:00",
-    "price": "20,000원",
-    "llm_confidence": 1.0,
-    "title": "Randy Ingram",
-    "description": "Randy Ingram 공연.",
-    "ticket_link": null,
-    "show_time": null,
-    "age_limit": null,
-    "_search_en": {
-      "title": "Randy Ingram",
-      "description": "Performance by Randy Ingram."
-    },
-    "_search_ko": {
-      "title": "Randy Ingram",
-      "description": "Randy Ingram 공연."
-    }
-  },
-  {
-    "id": "evt_20261217_7a1848c4-d035-4fa2-9630-eb7a49873043",
-    "event_key": "v:ven_a0789558-4701-443e-ab9a-7600c005b2d8|t:2026-12-17T11:00:00+00:00",
-    "source_url": "https://www.instagram.com/p/DQxd955kk3p/",
-    "venue_handle": "sounddog_jazz",
-    "musician_ids": [],
-    "musician_ig_handles": [],
-    "venue_id": "ven_a0789558-4701-443e-ab9a-7600c005b2d8",
-    "venue_location_id": "main",
-    "datetime": "2026-12-17T11:00:00+00:00",
-    "price": "20,000원",
-    "llm_confidence": 1.0,
-    "title": "남유선",
-    "description": "남유선 공연.",
-    "ticket_link": null,
-    "show_time": null,
-    "age_limit": null,
-    "_search_en": {
-      "title": "Nam Yoo-seon",
-      "description": "Performance by Nam Yoo-seon."
-    },
-    "_search_ko": {
-      "title": "남유선",
-      "description": "남유선 공연."
-    }
-  },
-  {
-    "id": "evt_20261218_3e1c6fe7-a974-40bb-93fd-1ec442009f42",
-    "event_key": "v:ven_a0789558-4701-443e-ab9a-7600c005b2d8|t:2026-12-18T10:00:00+00:00",
-    "source_url": "https://www.instagram.com/p/DQxd955kk3p/",
-    "venue_handle": "sounddog_jazz",
-    "musician_ids": [],
-    "musician_ig_handles": [],
-    "venue_id": "ven_a0789558-4701-443e-ab9a-7600c005b2d8",
-    "venue_location_id": "main",
-    "datetime": "2026-12-18T10:00:00+00:00",
-    "price": "20,000원",
-    "llm_confidence": 1.0,
-    "title": "박진영",
-    "description": "박진영 공연.",
-    "ticket_link": null,
-    "show_time": null,
-    "age_limit": null,
-    "_search_en": {
-      "title": "Park Jin-young",
-      "description": "Performance by Park Jin-young."
-    },
-    "_search_ko": {
-      "title": "박진영",
-      "description": "박진영 공연."
-    }
-  },
-  {
-    "id": "evt_20261220_c1d6f719-0874-4b6f-a0b2-8b624c33462c",
-    "event_key": "v:ven_1655af5a-ea12-47f6-8d39-eb30735e8b48|t:2026-12-20T11:00:00+00:00",
-    "source_url": "https://www.instagram.com/p/DSPmPm3D0P2/",
-    "venue_handle": "cafe_minor_swing",
-    "musician_ids": [],
-    "musician_ig_handles": [],
-    "venue_id": "ven_1655af5a-ea12-47f6-8d39-eb30735e8b48",
-    "venue_location_id": "main",
-    "datetime": "2026-12-20T11:00:00+00:00",
-    "price": "None",
-    "llm_confidence": 1.0,
-    "title": "김대경 트리오",
-    "description": "2026 마이너스윙 프로젝트 아티스트 김대경 콘서트. 서정적인 프레이즈와 타고난 피아니즘. 김대경 (피아노), 최은규 (베이스), 양현수 (드럼).",
-    "ticket_link": null,
-    "show_time": null,
-    "age_limit": null,
-    "_search_en": {
-      "title": "Dae Kyung Kim Trio",
-      "description": "Concert by Kim Dae-kyung, participating artist in the 2026 Minor Swing Project. Features lyrical phrasing and natural pianism. Kim Dae-kyung (piano), Choi Eun-kyu (bass), Yang Hyun-su (drums)."
-    },
-    "_search_ko": {
-      "title": "김대경 트리오",
-      "description": "2026 마이너스윙 프로젝트 아티스트 김대경 콘서트. 서정적인 프레이즈와 타고난 피아니즘. 김대경 (피아노), 최은규 (베이스), 양현수 (드럼)."
-    }
-  },
-  {
-    "id": "evt_20261220_d3a4f443-d381-4e88-a715-a39baa61a84a",
-    "event_key": "v:ven_a0789558-4701-443e-ab9a-7600c005b2d8|t:2026-12-20T11:00:00+00:00",
-    "source_url": "https://www.instagram.com/p/DQxd955kk3p/",
-    "venue_handle": "sounddog_jazz",
-    "musician_ids": [],
-    "musician_ig_handles": [],
-    "venue_id": "ven_a0789558-4701-443e-ab9a-7600c005b2d8",
-    "venue_location_id": "main",
-    "datetime": "2026-12-20T11:00:00+00:00",
-    "price": "20,000원",
-    "llm_confidence": 1.0,
-    "title": "재즈 잼 데이",
-    "description": "재즈 잼 데이.",
-    "ticket_link": null,
-    "show_time": null,
-    "age_limit": null,
-    "_search_en": {
-      "title": "Jazz Jam Day",
-      "description": "Jazz Jam Day."
-    },
-    "_search_ko": {
-      "title": "재즈 잼 데이",
-      "description": "재즈 잼 데이."
-    }
-  },
-  {
-    "id": "evt_20261221_32ee6eaa-5354-4125-9fcd-bd96d068cf30",
-    "event_key": "v:ven_a0789558-4701-443e-ab9a-7600c005b2d8|t:2026-12-21T11:00:00+00:00",
-    "source_url": "https://www.instagram.com/p/DQxd955kk3p/",
-    "venue_handle": "sounddog_jazz",
-    "musician_ids": [],
-    "musician_ig_handles": [],
-    "venue_id": "ven_a0789558-4701-443e-ab9a-7600c005b2d8",
-    "venue_location_id": "main",
-    "datetime": "2026-12-21T11:00:00+00:00",
-    "price": "20,000원",
-    "llm_confidence": 1.0,
-    "title": "강재훈",
-    "description": "강재훈 공연.",
-    "ticket_link": null,
-    "show_time": null,
-    "age_limit": null,
-    "_search_en": {
-      "title": "Kang Jae-hoon",
-      "description": "Performance by Kang Jae-hoon."
-    },
-    "_search_ko": {
-      "title": "강재훈",
-      "description": "강재훈 공연."
-    }
-  },
-  {
-    "id": "evt_20261222_a7cf7f13-bcbc-4024-9919-09b734b4e886",
-    "event_key": "v:ven_a0789558-4701-443e-ab9a-7600c005b2d8|t:2026-12-22T11:00:00+00:00",
-    "source_url": "https://www.instagram.com/p/DQxd955kk3p/",
-    "venue_handle": "sounddog_jazz",
-    "musician_ids": [],
-    "musician_ig_handles": [],
-    "venue_id": "ven_a0789558-4701-443e-ab9a-7600c005b2d8",
-    "venue_location_id": "main",
-    "datetime": "2026-12-22T11:00:00+00:00",
-    "price": "20,000원",
-    "llm_confidence": 1.0,
-    "title": "유명한",
-    "description": "유명한 공연.",
-    "ticket_link": null,
-    "show_time": null,
-    "age_limit": null,
-    "_search_en": {
-      "title": "Yu Myung-han",
-      "description": "Performance by Yu Myung-han."
-    },
-    "_search_ko": {
-      "title": "유명한",
-      "description": "유명한 공연."
-    }
-  },
-  {
-    "id": "evt_20261223_a37542c8-471c-4372-b91b-5c3da762038d",
-    "event_key": "v:ven_a0789558-4701-443e-ab9a-7600c005b2d8|t:2026-12-23T11:00:00+00:00",
-    "source_url": "https://www.instagram.com/p/DQxd955kk3p/",
-    "venue_handle": "sounddog_jazz",
-    "musician_ids": [],
-    "musician_ig_handles": [],
-    "venue_id": "ven_a0789558-4701-443e-ab9a-7600c005b2d8",
-    "venue_location_id": "main",
-    "datetime": "2026-12-23T11:00:00+00:00",
-    "price": "20,000원",
-    "llm_confidence": 1.0,
-    "title": "임달균",
-    "description": "임달균 공연.",
-    "ticket_link": null,
-    "show_time": null,
-    "age_limit": null,
-    "_search_en": {
-      "title": "Im Dal-gyun",
-      "description": "Performance by Im Dal-gyun."
-    },
-    "_search_ko": {
-      "title": "임달균",
-      "description": "임달균 공연."
-    }
-  },
-  {
-    "id": "evt_20261224_582ff27d-aa4b-4970-94df-339419dc32d5",
-    "event_key": "v:ven_a0789558-4701-443e-ab9a-7600c005b2d8|t:2026-12-24T11:00:00+00:00",
-    "source_url": "https://www.instagram.com/p/DQxd955kk3p/",
-    "venue_handle": "sounddog_jazz",
-    "musician_ids": [],
-    "musician_ig_handles": [],
-    "venue_id": "ven_a0789558-4701-443e-ab9a-7600c005b2d8",
-    "venue_location_id": "main",
-    "datetime": "2026-12-24T11:00:00+00:00",
-    "price": "20,000원",
-    "llm_confidence": 1.0,
-    "title": "Stupid Bird",
-    "description": "Stupid Bird 공연.",
-    "ticket_link": null,
-    "show_time": null,
-    "age_limit": null,
-    "_search_en": {
-      "title": "Stupid Bird",
-      "description": "Performance by Stupid Bird."
-    },
-    "_search_ko": {
-      "title": "Stupid Bird",
-      "description": "Stupid Bird 공연."
-    }
-  },
-  {
-    "id": "evt_20261224_148d84dc-5385-4aba-9bdb-64824171df28",
-    "event_key": "v:ven_eb2df351-85f3-4578-bc5b-9fcd05222571|t:2026-12-24T11:00:00+00:00",
-    "source_url": "https://www.instagram.com/p/DS2BiLhgfaI/",
-    "venue_handle": "bar_tican",
-    "musician_ids": [],
-    "musician_ig_handles": [],
-    "venue_id": "ven_eb2df351-85f3-4578-bc5b-9fcd05222571",
-    "venue_location_id": "main",
-    "datetime": "2026-12-24T12:00:00+00:00",
-    "price": null,
-    "llm_confidence": 1.0,
-    "title": "해일림 밴드",
-    "description": "해일림 밴드의 라이브 공연.",
-    "ticket_link": null,
-    "show_time": null,
-    "age_limit": null,
-    "_search_en": {
-      "title": "Haeillim Band",
-      "description": "Live performance by Haeillim Band."
-    },
-    "_search_ko": {
-      "title": "해일림 밴드",
-      "description": "해일림 밴드의 라이브 공연."
-    }
-  },
-  {
-    "id": "evt_20261225_e3243a43-f48a-44ea-b7f8-7bb52ab3ffc9",
-    "event_key": "v:ven_4d03e35d-51cd-4d54-b557-de37066bcffc|t:2026-12-25T11:00:00+00:00",
-    "source_url": "https://www.instagram.com/p/DSuQuQREkN5/",
-    "venue_handle": "yeonnam5701",
-    "musician_ids": [],
-    "musician_ig_handles": [],
-    "venue_id": "ven_4d03e35d-51cd-4d54-b557-de37066bcffc",
-    "venue_location_id": "main",
-    "datetime": "2026-12-25T11:00:00+00:00",
-    "price": null,
-    "llm_confidence": 1.0,
-    "title": "릴리킴밴드",
-    "description": "릴리킴밴드 공연. 릴리킴 (보컬, 색소폰), 김현재 (베이스), 홍현진 (피아노), 정원식 (드럼), 임정우 (기타).",
-    "ticket_link": null,
-    "show_time": null,
-    "age_limit": null,
-    "_search_en": {
-      "title": "Lily Kim Band",
-      "description": "Lily Kim Band performance. Lily Kim (vocal, saxophone), Kim Hyun-jae (bass), Hong Hyun-jin (piano), Jung Won-sik (drums), Lim Jung-woo (guitar)."
-    },
-    "_search_ko": {
-      "title": "릴리킴밴드",
-      "description": "릴리킴밴드 공연. 릴리킴 (보컬, 색소폰), 김현재 (베이스), 홍현진 (피아노), 정원식 (드럼), 임정우 (기타)."
-    }
-  },
-  {
-    "id": "evt_20261227_e1bff5d2-9531-4bba-a4c2-fa15dca3919d",
-    "event_key": "v:ven_a0789558-4701-443e-ab9a-7600c005b2d8|t:2026-12-27T11:00:00+00:00",
-    "source_url": "https://www.instagram.com/p/DQxd955kk3p/",
-    "venue_handle": "sounddog_jazz",
-    "musician_ids": [],
-    "musician_ig_handles": [],
-    "venue_id": "ven_a0789558-4701-443e-ab9a-7600c005b2d8",
-    "venue_location_id": "main",
-    "datetime": "2026-12-27T11:00:00+00:00",
-    "price": "20,000원",
-    "llm_confidence": 1.0,
-    "title": "재즈 잼 데이",
-    "description": "재즈 잼 데이.",
-    "ticket_link": null,
-    "show_time": null,
-    "age_limit": null,
-    "_search_en": {
-      "title": "Jazz Jam Day",
-      "description": "Jazz Jam Day."
-    },
-    "_search_ko": {
-      "title": "재즈 잼 데이",
-      "description": "재즈 잼 데이."
-    }
-  },
-  {
-    "id": "evt_20261227_b5350a89-9fc9-4e00-a087-942710193591",
-    "event_key": "v:ven_eb2df351-85f3-4578-bc5b-9fcd05222571|t:2026-12-27T11:00:00+00:00",
-    "source_url": "https://www.instagram.com/p/DS2BiLhgfaI/",
-    "venue_handle": "bar_tican",
-    "musician_ids": [],
-    "musician_ig_handles": [],
-    "venue_id": "ven_eb2df351-85f3-4578-bc5b-9fcd05222571",
-    "venue_location_id": "main",
-    "datetime": "2026-12-27T12:00:00+00:00",
-    "price": null,
-    "llm_confidence": 1.0,
-    "title": "해일림 밴드",
-    "description": "해일림 밴드의 라이브 공연.",
-    "ticket_link": null,
-    "show_time": null,
-    "age_limit": null,
-    "_search_en": {
-      "title": "Haeillim Band",
-      "description": "Live performance by Haeillim Band."
-    },
-    "_search_ko": {
-      "title": "해일림 밴드",
-      "description": "해일림 밴드의 라이브 공연."
-    }
-  },
-  {
-    "id": "evt_20261228_f728f65d-6cb8-412a-8fab-a8faab8b759e",
-    "event_key": "v:ven_a0789558-4701-443e-ab9a-7600c005b2d8|t:2026-12-28T11:00:00+00:00",
-    "source_url": "https://www.instagram.com/p/DQxd955kk3p/",
-    "venue_handle": "sounddog_jazz",
-    "musician_ids": [],
-    "musician_ig_handles": [],
-    "venue_id": "ven_a0789558-4701-443e-ab9a-7600c005b2d8",
-    "venue_location_id": "main",
-    "datetime": "2026-12-28T11:00:00+00:00",
-    "price": "20,000원",
-    "llm_confidence": 1.0,
-    "title": "Max Light",
-    "description": "Max Light 공연.",
-    "ticket_link": null,
-    "show_time": null,
-    "age_limit": null,
-    "_search_en": {
-      "title": "Max Light",
-      "description": "Performance by Max Light."
-    },
-    "_search_ko": {
-      "title": "Max Light",
-      "description": "Max Light 공연."
-    }
-  },
-  {
-    "id": "evt_20261231_ae8c31f7-90a9-488f-ab2d-4421ecb642fb",
-    "event_key": "v:ven_a0789558-4701-443e-ab9a-7600c005b2d8|t:2026-12-31T11:00:00+00:00",
-    "source_url": "https://www.instagram.com/p/DQxd955kk3p/",
-    "venue_handle": "sounddog_jazz",
-    "musician_ids": [],
-    "musician_ig_handles": [],
-    "venue_id": "ven_a0789558-4701-443e-ab9a-7600c005b2d8",
-    "venue_location_id": "main",
-    "datetime": "2026-12-31T11:00:00+00:00",
-    "price": "20,000원",
-    "llm_confidence": 1.0,
-    "title": "이용석",
-    "description": "이용석 공연.",
-    "ticket_link": null,
-    "show_time": null,
-    "age_limit": null,
-    "_search_en": {
-      "title": "Lee Yong-seok",
-      "description": "Performance by Lee Yong-seok."
-    },
-    "_search_ko": {
-      "title": "이용석",
-      "description": "이용석 공연."
-    }
-  },
-  {
-    "id": "evt_20270217_d65158cb-6ced-4986-abc8-c38d32419e29",
-    "event_key": "v:ven_a0789558-4701-443e-ab9a-7600c005b2d8|t:2027-02-17T11:00:00+00:00",
-    "source_url": "https://www.instagram.com/p/DSVa76NElyf/",
-    "venue_handle": "sounddog_jazz",
-    "musician_ids": [],
-    "musician_ig_handles": [],
-    "venue_id": "ven_a0789558-4701-443e-ab9a-7600c005b2d8",
-    "venue_location_id": "main",
-    "datetime": "2027-02-17T11:00:00+00:00",
-    "price": "20,000원",
-    "llm_confidence": 1.0,
-    "title": "강재훈 트리오",
-    "description": "강재훈 트리오 공연. 강재훈 (피아노), 박진교 (베이스), 김상수 (드럼).",
-    "ticket_link": null,
-    "show_time": null,
-    "age_limit": null,
-    "_search_en": {
-      "title": "Kang Jae-hoon Trio",
-      "description": "Performance by Kang Jae-hoon Trio. Kang Jae-hoon (piano), Park Jin-gyo (bass), Kim Sang-soo (drums)."
-    },
-    "_search_ko": {
-      "title": "강재훈 트리오",
-      "description": "강재훈 트리오 공연. 강재훈 (피아노), 박진교 (베이스), 김상수 (드럼)."
     }
   }
 ]
