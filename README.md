@@ -5,25 +5,30 @@
 ## Build Information
 
 - **Environment**: TEST
-- **Build Time**: 2026-01-31T17:44:29Z
-- **Source Commit**: [`f7b373bb9f6cc513688a589b1a741446e5c4f624`](https://github.com/keunwoochoi/seoulunderground.live/commit/f7b373bb9f6cc513688a589b1a741446e5c4f624)
-- **Branch**: `fix/cover-screenshot-alignment`
-- **Workflow Run**: [View logs](https://github.com/keunwoochoi/seoulunderground.live/actions/runs/21548366446)
+- **Build Time**: 2026-02-03T04:23:35Z
+- **Source Commit**: [`b1d13d1711a264518df36621ad90a60dfda3f2a3`](https://github.com/keunwoochoi/seoulunderground.live/commit/b1d13d1711a264518df36621ad90a60dfda3f2a3)
+- **Branch**: `fix/cover-date-color-kst`
+- **Workflow Run**: [View logs](https://github.com/keunwoochoi/seoulunderground.live/actions/runs/21616898917)
 
 ## Commit Details
 
 - **Author**: Keunwoo Choi <gnuchoi+github@gmail.com>
-- **Message**: fix: Fix cover screenshot alignment for center-crop
+- **Message**: fix: Use UTC-based weekday calculation for cover date color
 
-- Replace flexbox percentage sections with absolute centering technique
-- Use transform: translate(-50%, -50%) for bulletproof centering
-- Content now appears correctly in the center 1170px crop area
-- Works for both non-highlighted days (genre title) and highlighted days (event card)
-- Add test script for manual screenshot generation with date/highlight override
-- Add App.tsx support for test_date and test_highlight URL parameters
+The previous implementation used .getDay() which returns the weekday
+in the local timezone of the machine running the code. This caused
+incorrect coloring when the GitHub Actions runner is in a different
+timezone than KST - e.g., Monday in KST was being colored red (Sunday)
+because the runner's local time was still Sunday.
 
-Fixes the issue where date text was half trimmed off after the highlighted
-shows feature was added (commit 2080775).
+Fix: Use .getUTCDay() with a UTC-based timestamp to ensure we get the
+weekday for the actual calendar date regardless of local timezone.
+
+Color scheme (unchanged):
+- Sunday: red (#FF6B9D)
+- Saturday: blue (#6BB6FF)
+- Friday: gold (#FFD700)
+- Weekdays: white (#fff)
 
 ## Deployment URLs
 
