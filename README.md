@@ -5,10 +5,10 @@
 ## Build Information
 
 - **Environment**: TEST
-- **Build Time**: 2026-02-03T04:27:49Z
-- **Source Commit**: [`6bb602091079cd63ee9a617ef1342a8c5124dddf`](https://github.com/keunwoochoi/seoulunderground.live/commit/6bb602091079cd63ee9a617ef1342a8c5124dddf)
+- **Build Time**: 2026-02-03T04:49:20Z
+- **Source Commit**: [`7b4550b72e472ee065c0b7c61deffed790ffa973`](https://github.com/keunwoochoi/seoulunderground.live/commit/7b4550b72e472ee065c0b7c61deffed790ffa973)
 - **Branch**: `fix/cover-date-string-utc`
-- **Workflow Run**: [View logs](https://github.com/keunwoochoi/seoulunderground.live/actions/runs/21616986425)
+- **Workflow Run**: [View logs](https://github.com/keunwoochoi/seoulunderground.live/actions/runs/21617455138)
 
 ## Commit Details
 
@@ -22,6 +22,9 @@ The previous implementation had:
 
 Since formatDateHeader already takes the timezone parameter and handles
 conversion internally, we can simply pass a UTC timestamp.
+
+Also refactored to create the Date object once (dateAtUtcNoon) and reuse
+it for both dateStr and weekdayIdx.
 
 ## Deployment URLs
 
