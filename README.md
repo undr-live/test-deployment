@@ -5,30 +5,23 @@
 ## Build Information
 
 - **Environment**: TEST
-- **Build Time**: 2026-02-03T04:23:35Z
-- **Source Commit**: [`b1d13d1711a264518df36621ad90a60dfda3f2a3`](https://github.com/keunwoochoi/seoulunderground.live/commit/b1d13d1711a264518df36621ad90a60dfda3f2a3)
-- **Branch**: `fix/cover-date-color-kst`
-- **Workflow Run**: [View logs](https://github.com/keunwoochoi/seoulunderground.live/actions/runs/21616898917)
+- **Build Time**: 2026-02-03T04:27:49Z
+- **Source Commit**: [`6bb602091079cd63ee9a617ef1342a8c5124dddf`](https://github.com/keunwoochoi/seoulunderground.live/commit/6bb602091079cd63ee9a617ef1342a8c5124dddf)
+- **Branch**: `fix/cover-date-string-utc`
+- **Workflow Run**: [View logs](https://github.com/keunwoochoi/seoulunderground.live/actions/runs/21616986425)
 
 ## Commit Details
 
 - **Author**: Keunwoo Choi <gnuchoi+github@gmail.com>
-- **Message**: fix: Use UTC-based weekday calculation for cover date color
+- **Message**: fix: Use UTC-based dateStr for cover overlay
 
-The previous implementation used .getDay() which returns the weekday
-in the local timezone of the machine running the code. This caused
-incorrect coloring when the GitHub Actions runner is in a different
-timezone than KST - e.g., Monday in KST was being colored red (Sunday)
-because the runner's local time was still Sunday.
+Apply the same timezone-agnostic technique to dateStr creation.
+The previous implementation had:
+- Hardcoded -05:00 for America/New_York (incorrect during DST)
+- Only handled America/New_York, defaulting to +09:00 for all else
 
-Fix: Use .getUTCDay() with a UTC-based timestamp to ensure we get the
-weekday for the actual calendar date regardless of local timezone.
-
-Color scheme (unchanged):
-- Sunday: red (#FF6B9D)
-- Saturday: blue (#6BB6FF)
-- Friday: gold (#FFD700)
-- Weekdays: white (#fff)
+Since formatDateHeader already takes the timezone parameter and handles
+conversion internally, we can simply pass a UTC timestamp.
 
 ## Deployment URLs
 
