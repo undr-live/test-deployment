@@ -5,10 +5,10 @@
 ## Build Information
 
 - **Environment**: TEST
-- **Build Time**: 2026-02-05T04:57:42Z
-- **Source Commit**: [`43da4528e5c0ebaf764173c45c515c96b263e063`](https://github.com/keunwoochoi/seoulunderground.live/commit/43da4528e5c0ebaf764173c45c515c96b263e063)
+- **Build Time**: 2026-02-05T05:28:25Z
+- **Source Commit**: [`75152fd119e54888838f68c3d308a26dfe3d4e51`](https://github.com/keunwoochoi/seoulunderground.live/commit/75152fd119e54888838f68c3d308a26dfe3d4e51)
 - **Branch**: `fix/highlights-static-export`
-- **Workflow Run**: [View logs](https://github.com/keunwoochoi/seoulunderground.live/actions/runs/21699391128)
+- **Workflow Run**: [View logs](https://github.com/keunwoochoi/seoulunderground.live/actions/runs/21700021800)
 
 ## Commit Details
 
