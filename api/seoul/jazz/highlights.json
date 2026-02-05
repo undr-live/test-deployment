@@ -1,0 +1,78 @@
+{
+  "week_start_date": "2026-02-02",
+  "generated_at": "2026-02-04T21:55:57.725769+00:00",
+  "locality": "seoul",
+  "genre": "jazz",
+  "highlights": {
+    "2026-02-04": {
+      "event_id": "evt_20260204_47a619f3-d764-4cea-b8ce-aab849da2200",
+      "title": {
+        "ko": "SeRoh",
+        "en": "SeRoh"
+      },
+      "venue_name": {
+        "en": "Boogie Woogie",
+        "ko": "부기우기"
+      },
+      "venue_handle": "boogiewoogieseoul",
+      "datetime": "2026-02-04T09:00:00+00:00",
+      "selected_at": "2026-02-04T21:55:57.707293+00:00"
+    },
+    "2026-02-05": {
+      "event_id": "evt_20260205_6a97d268-7995-4a59-879e-5c212de11926",
+      "title": {
+        "ko": "제이로운과 함께 흔들어",
+        "en": "Shake with J-Roun"
+      },
+      "venue_name": {
+        "en": "Boogie Woogie",
+        "ko": "부기우기"
+      },
+      "venue_handle": "boogiewoogieseoul",
+      "datetime": "2026-02-05T13:00:00+00:00",
+      "selected_at": "2026-02-04T21:55:57.711914+00:00"
+    },
+    "2026-02-06": {
+      "event_id": "evt_20260206_985d2c96-58bb-498f-994a-c8a34d37cdf2",
+      "title": {
+        "ko": "Authentic Groove Lab",
+        "en": "Authentic Groove Lab"
+      },
+      "venue_name": {
+        "en": "Boogie Woogie",
+        "ko": "부기우기"
+      },
+      "venue_handle": "boogiewoogieseoul",
+      "datetime": "2026-02-06T13:00:00+00:00",
+      "selected_at": "2026-02-04T21:55:57.716378+00:00"
+    },
+    "2026-02-07": {
+      "event_id": "evt_20260207_9425e7d9-ad9b-4889-92de-540b116273a3",
+      "title": {
+        "ko": "이현재 퀸텟",
+        "en": "Lee Hyun-jae Quintet"
+      },
+      "venue_name": {
+        "en": "Cotton Club",
+        "ko": "코튼클럽"
+      },
+      "venue_handle": "cottonclub_seoul",
+      "datetime": "2026-02-07T12:30:00+00:00",
+      "selected_at": "2026-02-04T21:55:57.721525+00:00"
+    },
+    "2026-02-08": {
+      "event_id": "evt_20260208_586097c0-0c79-40e6-a218-6daf396d7031",
+      "title": {
+        "ko": "김기중 밴드 (BANDKAY)",
+        "en": "Kim Ki-jung Band (BANDKAY)"
+      },
+      "venue_name": {
+        "en": "Cotton Club",
+        "ko": "코튼클럽"
+      },
+      "venue_handle": "cottonclub_seoul",
+      "datetime": "2026-02-08T11:30:00+00:00",
+      "selected_at": "2026-02-04T21:55:57.725756+00:00"
+    }
+  }
+}
