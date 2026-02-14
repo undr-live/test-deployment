@@ -5,21 +5,19 @@
 ## Build Information
 
 - **Environment**: TEST
-- **Build Time**: 2026-02-14T15:54:55Z
-- **Source Commit**: [`0cde41d81393526adbb197702087912064b7f8fa`](https://github.com/keunwoochoi/seoulunderground.live/commit/0cde41d81393526adbb197702087912064b7f8fa)
+- **Build Time**: 2026-02-14T17:14:39Z
+- **Source Commit**: [`c35666027725fe6c43ee30373140e2874ac8c33e`](https://github.com/keunwoochoi/seoulunderground.live/commit/c35666027725fe6c43ee30373140e2874ac8c33e)
 - **Branch**: `feat/dynamic-events-per-page`
-- **Workflow Run**: [View logs](https://github.com/keunwoochoi/seoulunderground.live/actions/runs/22020178606)
+- **Workflow Run**: [View logs](https://github.com/keunwoochoi/seoulunderground.live/actions/runs/22021220809)
 
 ## Commit Details
 
 - **Author**: Keunwoo Choi <gnuchoi+github@gmail.com>
-- **Message**: feat: Dynamic events per page (7 or 8) with cascading trim logic
+- **Message**: refactor: Address code review - named constants + simplify trim loop
 
-- Auto-select 7 events/page when ≤63 events, 8 when >63 (max 72)
-- Add cascading trim when >72 events: drop no-datetime → dedupe venues → truncate tail
-- Support epp URL param override for explicit control
-- Compact InstagramFooter padding when epp=8
-- Match Python screenshot pipeline to pass epp param to frontend
+- Extract EVENTS_PER_PAGE_STANDARD=7, EVENTS_PER_PAGE_COMPACT=8 in Python
+- Extract EPP_STANDARD=7, EPP_COMPACT=8, MAX_CONTENT_PAGES=9 in TypeScript
+- Simplify busiest-venue removal using findLastIndex + Object.keys().find()
 
 ## Deployment URLs
 
