@@ -5,30 +5,21 @@
 ## Build Information
 
 - **Environment**: TEST
-- **Build Time**: 2026-02-05T05:28:25Z
-- **Source Commit**: [`75152fd119e54888838f68c3d308a26dfe3d4e51`](https://github.com/keunwoochoi/seoulunderground.live/commit/75152fd119e54888838f68c3d308a26dfe3d4e51)
-- **Branch**: `fix/highlights-static-export`
-- **Workflow Run**: [View logs](https://github.com/keunwoochoi/seoulunderground.live/actions/runs/21700021800)
+- **Build Time**: 2026-02-14T15:54:55Z
+- **Source Commit**: [`0cde41d81393526adbb197702087912064b7f8fa`](https://github.com/keunwoochoi/seoulunderground.live/commit/0cde41d81393526adbb197702087912064b7f8fa)
+- **Branch**: `feat/dynamic-events-per-page`
+- **Workflow Run**: [View logs](https://github.com/keunwoochoi/seoulunderground.live/actions/runs/22020178606)
 
 ## Commit Details
 
 - **Author**: Keunwoo Choi <gnuchoi+github@gmail.com>
-- **Message**: fix: Export highlights to static JSON for GitHub Pages
+- **Message**: feat: Dynamic events per page (7 or 8) with cascading trim logic
 
-Two issues were preventing highlighted events from showing:
-
-1. Missing weekly_job.sh - the launchd plist referenced this file but
-   it didn't exist, so highlight selection never ran on Mondays
-
-2. Highlights not exported to static JSON - frontend in static mode
-   (GitHub Pages) couldn't fetch highlights because:
-   - export_static_json.py didn't include highlights
-   - App.tsx api() function didn't handle /api/highlights path
-
-Fixes:
-- Add weekly_job.sh that runs highlight_job.sh on Mondays
-- Add export_highlights() to export weekly_highlights.json
-- Add /api/highlights routing in static mode frontend
+- Auto-select 7 events/page when ≤63 events, 8 when >63 (max 72)
+- Add cascading trim when >72 events: drop no-datetime → dedupe venues → truncate tail
+- Support epp URL param override for explicit control
+- Compact InstagramFooter padding when epp=8
+- Match Python screenshot pipeline to pass epp param to frontend
 
 ## Deployment URLs
 
