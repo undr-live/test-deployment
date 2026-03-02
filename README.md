@@ -5,19 +5,20 @@
 ## Build Information
 
 - **Environment**: TEST
-- **Build Time**: 2026-02-14T17:14:39Z
-- **Source Commit**: [`c35666027725fe6c43ee30373140e2874ac8c33e`](https://github.com/keunwoochoi/seoulunderground.live/commit/c35666027725fe6c43ee30373140e2874ac8c33e)
-- **Branch**: `feat/dynamic-events-per-page`
-- **Workflow Run**: [View logs](https://github.com/keunwoochoi/seoulunderground.live/actions/runs/22021220809)
+- **Build Time**: 2026-03-02T04:08:00Z
+- **Source Commit**: [`35aa98478a91485c5a864572b46432a8a18d1ec7`](https://github.com/keunwoochoi/seoulunderground.live/commit/35aa98478a91485c5a864572b46432a8a18d1ec7)
+- **Branch**: `feat/tier-based-venue-sampling`
+- **Workflow Run**: [View logs](https://github.com/keunwoochoi/seoulunderground.live/actions/runs/22560973622)
 
 ## Commit Details
 
 - **Author**: Keunwoo Choi <gnuchoi+github@gmail.com>
-- **Message**: refactor: Address code review - named constants + simplify trim loop
+- **Message**: Remove venue_handles.csv from git tracking
 
-- Extract EVENTS_PER_PAGE_STANDARD=7, EVENTS_PER_PAGE_COMPACT=8 in Python
-- Extract EPP_STANDARD=7, EPP_COMPACT=8, MAX_CONTENT_PAGES=9 in TypeScript
-- Simplify busiest-venue removal using findLastIndex + Object.keys().find()
+The CSV file should remain local-only (like venue_handles.txt) and not be
+tracked in git. This prevents triggering the deployment workflow on PRs.
+
+Made-with: Cursor
 
 ## Deployment URLs
 
