@@ -5,24 +5,23 @@
 ## Build Information
 
 - **Environment**: TEST
-- **Build Time**: 2026-03-02T04:27:18Z
-- **Source Commit**: [`5db417319d5c4920649c131afb0f2c54b933ee8b`](https://github.com/keunwoochoi/seoulunderground.live/commit/5db417319d5c4920649c131afb0f2c54b933ee8b)
-- **Branch**: `feat/tier-based-venue-sampling`
-- **Workflow Run**: [View logs](https://github.com/keunwoochoi/seoulunderground.live/actions/runs/22561396770)
+- **Build Time**: 2026-03-12T02:08:38Z
+- **Source Commit**: [`510fdb9dad4bf16019a1467fff37b65e8ba41109`](https://github.com/keunwoochoi/seoulunderground.live/commit/510fdb9dad4bf16019a1467fff37b65e8ba41109)
+- **Branch**: `feat/event-schema-v2-and-evals`
+- **Workflow Run**: [View logs](https://github.com/keunwoochoi/seoulunderground.live/actions/runs/22983401180)
 
 ## Commit Details
 
 - **Author**: Keunwoo Choi <gnuchoi+github@gmail.com>
-- **Message**: Add tier migration to deployment workflows
+- **Message**: fix: move golden dataset from data/golden/ to evals/golden/
 
-Both production and test deployments now run the tier migration script
-to populate venue tier information after importing data.
+The deploy workflow creates a symlink: ln -s .../data ./data
+With data/golden/ tracked in git, checkout materializes data/ as a real
+directory before ln -s runs, placing the symlink at data/data/ instead.
+This broke the DB path (data/app.db not found).
 
-Changes:
-- deploy-pages.yml: Run migration after venue/event imports
-- deploy-test.yml: Run migration before exporting static JSON
-
-This ensures tier-based venue sorting works on deployed sites.
+Moving to evals/golden/ keeps the dataset clear of the symlink.
+Also update .gitattributes LFS pattern and all path references.
 
 Made-with: Cursor
 
