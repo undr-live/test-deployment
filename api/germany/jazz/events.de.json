@@ -9,8 +9,13 @@
     "venue_id": "ven_78ccd7ee-5c9f-4fa7-aa34-0f3544a0f5d1",
     "venue_location_id": "main",
     "datetime": "2026-03-18T18:30:00+00:00",
-    "date": null,
-    "sets": null,
+    "date": "2026-03-19",
+    "sets": [
+      {
+        "label": null,
+        "time": "03:30"
+      }
+    ],
     "price": null,
     "llm_confidence": 1.0,
     "title": "Sound of Jazz: Brazil Special",
@@ -36,8 +41,13 @@
     "venue_id": "ven_78ccd7ee-5c9f-4fa7-aa34-0f3544a0f5d1",
     "venue_location_id": "main",
     "datetime": "2026-04-15T18:30:00+00:00",
-    "date": null,
-    "sets": null,
+    "date": "2026-04-16",
+    "sets": [
+      {
+        "label": null,
+        "time": "03:30"
+      }
+    ],
     "price": null,
     "llm_confidence": 1.0,
     "title": "Sound of Jazz: Jens Bunge",
@@ -63,8 +73,13 @@
     "venue_id": "ven_78ccd7ee-5c9f-4fa7-aa34-0f3544a0f5d1",
     "venue_location_id": "main",
     "datetime": "2026-05-20T18:30:00+00:00",
-    "date": null,
-    "sets": null,
+    "date": "2026-05-21",
+    "sets": [
+      {
+        "label": null,
+        "time": "03:30"
+      }
+    ],
     "price": null,
     "llm_confidence": 1.0,
     "title": "Sound of Jazz: Bill Petry",
@@ -90,8 +105,13 @@
     "venue_id": "ven_78ccd7ee-5c9f-4fa7-aa34-0f3544a0f5d1",
     "venue_location_id": "main",
     "datetime": "2026-06-17T18:30:00+00:00",
-    "date": null,
-    "sets": null,
+    "date": "2026-06-18",
+    "sets": [
+      {
+        "label": null,
+        "time": "03:30"
+      }
+    ],
     "price": null,
     "llm_confidence": 1.0,
     "title": "Sound of Jazz: Latin Special",
@@ -117,8 +137,13 @@
     "venue_id": "ven_78ccd7ee-5c9f-4fa7-aa34-0f3544a0f5d1",
     "venue_location_id": "main",
     "datetime": "2026-07-15T18:30:00+00:00",
-    "date": null,
-    "sets": null,
+    "date": "2026-07-16",
+    "sets": [
+      {
+        "label": null,
+        "time": "03:30"
+      }
+    ],
     "price": null,
     "llm_confidence": 1.0,
     "title": "Sound of Jazz: Stefan Koschitzki",
@@ -144,8 +169,13 @@
     "venue_id": "ven_78ccd7ee-5c9f-4fa7-aa34-0f3544a0f5d1",
     "venue_location_id": "main",
     "datetime": "2026-09-16T18:30:00+00:00",
-    "date": null,
-    "sets": null,
+    "date": "2026-09-17",
+    "sets": [
+      {
+        "label": null,
+        "time": "03:30"
+      }
+    ],
     "price": null,
     "llm_confidence": 1.0,
     "title": "Sound of Jazz: Trad Special",
@@ -171,8 +201,13 @@
     "venue_id": "ven_78ccd7ee-5c9f-4fa7-aa34-0f3544a0f5d1",
     "venue_location_id": "main",
     "datetime": "2026-10-21T18:30:00+00:00",
-    "date": null,
-    "sets": null,
+    "date": "2026-10-22",
+    "sets": [
+      {
+        "label": null,
+        "time": "03:30"
+      }
+    ],
     "price": null,
     "llm_confidence": 1.0,
     "title": "Sound of Jazz: Cemre Yilmaz",
@@ -198,8 +233,13 @@
     "venue_id": "ven_78ccd7ee-5c9f-4fa7-aa34-0f3544a0f5d1",
     "venue_location_id": "main",
     "datetime": "2026-11-18T18:30:00+00:00",
-    "date": null,
-    "sets": null,
+    "date": "2026-11-19",
+    "sets": [
+      {
+        "label": null,
+        "time": "03:30"
+      }
+    ],
     "price": null,
     "llm_confidence": 1.0,
     "title": "Sound of Jazz: House Band Favorites",
@@ -225,8 +265,13 @@
     "venue_id": "ven_78ccd7ee-5c9f-4fa7-aa34-0f3544a0f5d1",
     "venue_location_id": "main",
     "datetime": "2026-12-16T18:30:00+00:00",
-    "date": null,
-    "sets": null,
+    "date": "2026-12-17",
+    "sets": [
+      {
+        "label": null,
+        "time": "03:30"
+      }
+    ],
     "price": null,
     "llm_confidence": 1.0,
     "title": "Sound of Jazz: Sextet Special",

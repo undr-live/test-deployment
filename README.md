@@ -5,23 +5,32 @@
 ## Build Information
 
 - **Environment**: TEST
-- **Build Time**: 2026-03-12T02:08:38Z
-- **Source Commit**: [`510fdb9dad4bf16019a1467fff37b65e8ba41109`](https://github.com/keunwoochoi/seoulunderground.live/commit/510fdb9dad4bf16019a1467fff37b65e8ba41109)
-- **Branch**: `feat/event-schema-v2-and-evals`
-- **Workflow Run**: [View logs](https://github.com/keunwoochoi/seoulunderground.live/actions/runs/22983401180)
+- **Build Time**: 2026-03-12T15:40:01Z
+- **Source Commit**: [`6dbfa29b643f5b7a50621d9ba84bb7f4f0b50326`](https://github.com/keunwoochoi/seoulunderground.live/commit/6dbfa29b643f5b7a50621d9ba84bb7f4f0b50326)
+- **Branch**: `eval-multi-model-dashboard`
+- **Workflow Run**: [View logs](https://github.com/keunwoochoi/seoulunderground.live/actions/runs/23010360626)
 
 ## Commit Details
 
 - **Author**: Keunwoo Choi <gnuchoi+github@gmail.com>
-- **Message**: fix: move golden dataset from data/golden/ to evals/golden/
+- **Message**: feat: restructure evals/ to seoul/jazz locality layout + multi-model eval dashboard
 
-The deploy workflow creates a symlink: ln -s .../data ./data
-With data/golden/ tracked in git, checkout materializes data/ as a real
-directory before ln -s runs, placing the symlink at data/data/ instead.
-This broke the DB path (data/app.db not found).
+- Add evals/paths.py: centralized path helpers parameterized by locality/genre,
+  mirroring the data/seoul/jazz/ directory structure
+- Move evals/golden/, evals/results/, evals/manifest.json →
+  evals/seoul/jazz/{golden,results,manifest.json}
+- Update .gitattributes LFS pattern to evals/*/*/golden/events/**/*.jpg
+- Update all eval scripts (run, analyze, inspect, compare, collect_baseline,
+  labeler/server, scripts/collect_golden_data) to use evals.paths helpers
+- Fix evals/compare.py: split title_match_rate → title_match_strict + title_match_fuzzy,
+  add TP/FP/FN/TN confusion matrix rows
+- Add evals/seoul/jazz/DASHBOARD.md: full comparison of three models on 58 labeled cases
+  (v4.0.3 prompt + post-date + venue context)
 
-Moving to evals/golden/ keeps the dataset clear of the symlink.
-Also update .gitattributes LFS pattern and all path references.
+Results (58-case ground truth, v4.0.3 prompt):
+  gemini-2.5-flash:          is_event 98.3%, date 100%, title fuzzy 90.2%
+  gemini-3-flash-preview:    is_event 96.6%, date 100%, title fuzzy 96.4% (best title)
+  gemini-3.1-flash-lite:     is_event 94.8%, date 100%, title fuzzy 96.3% (most FN)
 
 Made-with: Cursor
 
