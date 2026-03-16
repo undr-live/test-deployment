@@ -5,60 +5,21 @@
 ## Build Information
 
 - **Environment**: TEST
-- **Build Time**: 2026-03-15T23:12:52Z
-- **Source Commit**: [`814891fc1a6bb9fd5a2a06bd6834dfdebe2b1cdd`](https://github.com/keunwoochoi/seoulunderground.live/commit/814891fc1a6bb9fd5a2a06bd6834dfdebe2b1cdd)
+- **Build Time**: 2026-03-16T01:29:58Z
+- **Source Commit**: [`29cc0fbf65c34f7dcfd3eb2c9e1e76fa90ddb1b9`](https://github.com/keunwoochoi/seoulunderground.live/commit/29cc0fbf65c34f7dcfd3eb2c9e1e76fa90ddb1b9)
 - **Branch**: `feat/musician-pipeline-phase2`
-- **Workflow Run**: [View logs](https://github.com/keunwoochoi/seoulunderground.live/actions/runs/23121558879)
+- **Workflow Run**: [View logs](https://github.com/keunwoochoi/seoulunderground.live/actions/runs/23124172047)
 
 ## Commit Details
 
 - **Author**: Keunwoo Choi <gnuchoi+github@gmail.com>
-- **Message**: feat: musician pipeline phase 2 — event linking, musician pages, crawling improvements (#102)
+- **Message**: fix: address Gemini code review — dead code, regex strictness, lang param
 
-## Musician pipeline completions
-
-**link_events** (new): links Event rows to Musician DB records via three paths —
-IG handle exact match, fuzzy name match from descriptions, and leader-name
-extraction from group titles (e.g. "X Trio"). Also upserts all encountered raw
-names into EntityNameIndex for future discovery. Was silently failing on every
-pipeline run due to Unicode typographic characters in the module docstring; fixed.
-
-**extract_instruments** (new): keyword + emoji pass over IG bio text to populate
-Musician.instruments. Updated 68/128 musicians on first run.
-
-**seed_own_account** (new): seeds the fetch registry with high-priority handles
-from the project's own IG account — post @mentions (priority 9) and followers
-(priority 8). Runs as Step 1b in the daily musician pipeline.
-
-**scan_venue_mentions** (new): scans musician post captions for venue @handle
-and display-name mentions, producing caption_mention counts for the two-way
-musician-venue connection handshake.
-
-**apply_overrides** (new): applies human-curated corrections from
-musician_overrides.json after all automated steps. Runs last so manual
-judgment always wins.
-
-## Crawling improvements (musicians_fetch)
-
-- Separate cooldowns: profile_fetch_until (7d) vs posts_fetch_until (14d) tracked
-  independently so profiles can refresh without re-fetching posts
-- Stale bypass: handles not seen in >60 days skip the policy gate and are
-  force-fetched, rescuing 69 previously stuck handles
-- MUS_FETCH_MAX raised to 80 for initial scale-up phase (discovery queue:
-  ~1,300 pending handles, ~550 expected promotions -> ~678 total musicians)
-
-## Frontend: musician pages
-
-- /seoul/jazz/en/musicians — list with search, IG-style cards showing name_irl,
-  @handle, instruments, name_en/ko, qwen confidence
-- /seoul/jazz/en/musicians/:handle — profile page with upcoming shows
-- Event cards now show linked musician real names as internal links to profile pages
-
-## Data export
-
-export_static_json: events include inline musicians array
-{id, ig_handle, name_ko, name_en, name_irl}; musicians export adds
-name_ko, name_en, other_names, qwen_score, instruments
+- name_match.py: remove dead `overlap` assignment that was immediately overwritten
+- link_events.py: remove trailing \s*$ from _NAME_INST_RE so segments with
+  trailing punctuation (e.g. "Lee Han-jin (trombone).") still match
+- App.tsx MusicianList + MusicianProfile: use typedLang from route params
+  instead of hardcoded 'en' for API calls
 
 Co-Authored-By: Claude Sonnet 4.6 <noreply@anthropic.com>
 
