@@ -5,25 +5,24 @@
 ## Build Information
 
 - **Environment**: TEST
-- **Build Time**: 2026-03-17T23:29:37Z
-- **Source Commit**: [`ec3b9cc3b96d54c467c50a151957d42c87f77984`](https://github.com/keunwoochoi/seoulunderground.live/commit/ec3b9cc3b96d54c467c50a151957d42c87f77984)
-- **Branch**: `fix/ig-story-highlight`
-- **Workflow Run**: [View logs](https://github.com/keunwoochoi/seoulunderground.live/actions/runs/23221314870)
+- **Build Time**: 2026-03-18T16:13:56Z
+- **Source Commit**: [`1e0ea6e15e307233f26ea17b096576e8b558231e`](https://github.com/keunwoochoi/seoulunderground.live/commit/1e0ea6e15e307233f26ea17b096576e8b558231e)
+- **Branch**: `fix/venue-context-loading`
+- **Workflow Run**: [View logs](https://github.com/keunwoochoi/seoulunderground.live/actions/runs/23254763034)
 
 ## Commit Details
 
 - **Author**: Keunwoo Choi <gnuchoi+github@gmail.com>
-- **Message**: fix: title extraction, set labels, iCloud sync, and highlight URL params
+- **Message**: fix: add warning logging to silent exception handlers
 
-- events_extract.py: store title_ko/title_en from v4.0.x LLM response
-  instead of legacy title field (which was always null); fix has_musician
-  check to use name_ko/name_en; fix is_title_empty to handle all schema variants
-- screenshot_table_view.py: pass today_kst as arg to get_today_highlight
-  instead of recalculating inside; refactor to avoid redundant date calc
-- ig_story_notify.py: remove icloud_sync step and its Slack notification
-- App.tsx: fix formatSets to return primary time only (no label) for time
-  column and showTime comparison; add formatSetSchedule for labeled sets
-- EventTableView.tsx: render setSchedule as secondary text below title
+- extract_core.py: _parse_llm_json now logs warning + returns {} instead of {"raw": text}
+- events_extract.py: log meta.json read failures and venue context load failures
+- base_fetcher.py: log profile snapshot index.json load failures
+- import_events.py: use EventMusician.model_validate() when extracting IG handles;
+  log ValidationError as warning and fall back to raw dict access
+- import_musicians.py: call enr.get("name") once, assign to variable before isinstance check
+- build_connections.py: add type annotation for shared_venues JSON parse and validate
+  the parsed value is a list before constructing a set
 
 Co-Authored-By: Claude Sonnet 4.6 <noreply@anthropic.com>
 
