@@ -5,24 +5,27 @@
 ## Build Information
 
 - **Environment**: TEST
-- **Build Time**: 2026-03-18T16:13:56Z
-- **Source Commit**: [`1e0ea6e15e307233f26ea17b096576e8b558231e`](https://github.com/keunwoochoi/seoulunderground.live/commit/1e0ea6e15e307233f26ea17b096576e8b558231e)
+- **Build Time**: 2026-03-18T22:09:05Z
+- **Source Commit**: [`8c8cce39baf85d300552378f07577d58de27a532`](https://github.com/keunwoochoi/seoulunderground.live/commit/8c8cce39baf85d300552378f07577d58de27a532)
 - **Branch**: `fix/venue-context-loading`
-- **Workflow Run**: [View logs](https://github.com/keunwoochoi/seoulunderground.live/actions/runs/23254763034)
+- **Workflow Run**: [View logs](https://github.com/keunwoochoi/seoulunderground.live/actions/runs/23269483420)
 
 ## Commit Details
 
 - **Author**: Keunwoo Choi <gnuchoi+github@gmail.com>
-- **Message**: fix: add warning logging to silent exception handlers
+- **Message**: fix: full ETL pipeline audit — subgenres, sets crash, age_limit, and schema gaps
 
-- extract_core.py: _parse_llm_json now logs warning + returns {} instead of {"raw": text}
-- events_extract.py: log meta.json read failures and venue context load failures
-- base_fetcher.py: log profile snapshot index.json load failures
-- import_events.py: use EventMusician.model_validate() when extracting IG handles;
-  log ValidationError as warning and fall back to raw dict access
-- import_musicians.py: call enr.get("name") once, assign to variable before isinstance check
-- build_connections.py: add type annotation for shared_venues JSON parse and validate
-  the parsed value is a list before constructing a set
+- Add genres column to Event DB model + SQLite migration for subgenres data
+- EventData.genres field maps LLM subgenres through import → DB → export
+- import_events: extract ann['subgenres'] → EventData.genres; use _pick_bilingual
+  for age_limit (was silently dropped when stored as {en, ko} dict)
+- export_static_json: add genres to event export; replace bare json.loads(sets)
+  with safe _parse_sets() helper (was an unhandled crash path)
+- crud._to_event_schema: add genres field; replace bare json.loads(obj.sets) with
+  safe _parse_sets_json() helper (same crash risk in API path)
+- schemas.EventBase: add genres field
+- CLAUDE.md: add working philosophy — fix the pipeline not the data; trace the
+  full data path; full automation is the goal
 
 Co-Authored-By: Claude Sonnet 4.6 <noreply@anthropic.com>
 
