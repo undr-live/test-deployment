@@ -5,27 +5,23 @@
 ## Build Information
 
 - **Environment**: TEST
-- **Build Time**: 2026-03-18T22:09:05Z
-- **Source Commit**: [`8c8cce39baf85d300552378f07577d58de27a532`](https://github.com/keunwoochoi/seoulunderground.live/commit/8c8cce39baf85d300552378f07577d58de27a532)
-- **Branch**: `fix/venue-context-loading`
-- **Workflow Run**: [View logs](https://github.com/keunwoochoi/seoulunderground.live/actions/runs/23269483420)
+- **Build Time**: 2026-03-19T04:54:14Z
+- **Source Commit**: [`7fdff4441f1af2658bec3fe079bdc0c4301569b5`](https://github.com/keunwoochoi/seoulunderground.live/commit/7fdff4441f1af2658bec3fe079bdc0c4301569b5)
+- **Branch**: `fix/stale-highlight-titles`
+- **Workflow Run**: [View logs](https://github.com/keunwoochoi/seoulunderground.live/actions/runs/23280437211)
 
 ## Commit Details
 
 - **Author**: Keunwoo Choi <gnuchoi+github@gmail.com>
-- **Message**: fix: full ETL pipeline audit — subgenres, sets crash, age_limit, and schema gaps
+- **Message**: fix: refresh highlight titles from DB on export to prevent stale cache
 
-- Add genres column to Event DB model + SQLite migration for subgenres data
-- EventData.genres field maps LLM subgenres through import → DB → export
-- import_events: extract ann['subgenres'] → EventData.genres; use _pick_bilingual
-  for age_limit (was silently dropped when stored as {en, ko} dict)
-- export_static_json: add genres to event export; replace bare json.loads(sets)
-  with safe _parse_sets() helper (was an unhandled crash path)
-- crud._to_event_schema: add genres field; replace bare json.loads(obj.sets) with
-  safe _parse_sets_json() helper (same crash risk in API path)
-- schemas.EventBase: add genres field
-- CLAUDE.md: add working philosophy — fix the pipeline not the data; trace the
-  full data path; full automation is the goal
+weekly_highlights.json caches event titles at selection time (Monday).
+When the ETL later corrects an event, the cached title goes stale and
+the wrong title shows up in the screenshot cover.
+
+export_highlights() now re-fetches title/translations from the DB for
+each event_id before writing to frontend/public/api/highlights.json,
+so the exported file always reflects the current DB state.
 
 Co-Authored-By: Claude Sonnet 4.6 <noreply@anthropic.com>
 

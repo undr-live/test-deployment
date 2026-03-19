@@ -162,17 +162,17 @@
     "price": null,
     "llm_confidence": 1.0,
     "title": "Kim Han-wool Quartet",
-    "description": "Jazz performance by Kim Han-wool Quartet.",
+    "description": null,
     "ticket_link": null,
     "age_limit": null,
     "genres": null,
     "_search_en": {
       "title": "Kim Han-wool Quartet",
-      "description": "Jazz performance by Kim Han-wool Quartet."
+      "description": null
     },
     "_search_ko": {
       "title": "김한울 퀄텟",
-      "description": "김한울 퀄텟의 재즈 공연."
+      "description": null
     }
   },
   {
@@ -234,17 +234,17 @@
     "price": "20,000원",
     "llm_confidence": 1.0,
     "title": "Kim Dae-ho Quintet",
-    "description": "Lee Ji-young jazz live performance.",
+    "description": null,
     "ticket_link": null,
     "age_limit": null,
     "genres": null,
     "_search_en": {
       "title": "Kim Dae-ho Quintet",
-      "description": "Lee Ji-young jazz live performance."
+      "description": null
     },
     "_search_ko": {
       "title": "김대호 퀸텟",
-      "description": "이지영 재즈 라이브 공연."
+      "description": null
     }
   },
   {
@@ -274,55 +274,51 @@
     "price": "20,000원",
     "llm_confidence": 1.0,
     "title": "Lee Young-joo Quartet",
-    "description": "Jazz Night Special Gig. Lee Young-ju Quartet performance.",
+    "description": null,
     "ticket_link": null,
     "age_limit": null,
     "genres": null,
     "_search_en": {
       "title": "Lee Young-joo Quartet",
-      "description": "Jazz Night Special Gig. Lee Young-ju Quartet performance."
+      "description": null
     },
     "_search_ko": {
       "title": "이영주 퀄텟",
-      "description": "재즈 나이트 스페셜 기그. 이영주 퀄텟 공연."
+      "description": null
     }
   },
   {
     "id": "evt_20260319_36a08ad5-bbf3-4f83-8e3e-cd7897068b6d",
     "event_key": "v:ven_8cefa639-4b24-4b1d-a1c0-4adb40311bde|t:2026-03-19T11:00:00+00:00",
-    "source_url": "https://www.instagram.com/p/DV5vhVrmpBa/",
+    "source_url": "https://www.instagram.com/p/DV5vB-zmvMB/",
     "venue_handle": "flatnine_jazzbar",
     "musician_ids": [],
     "musicians": [],
-    "musician_ig_handles": [
-      "jonghyun_pf",
-      "kim_kun_young",
-      "limkyungjin_bass"
-    ],
+    "musician_ig_handles": [],
     "venue_id": "ven_8cefa639-4b24-4b1d-a1c0-4adb40311bde",
     "venue_location_id": "main",
     "datetime": "2026-03-19T11:00:00+00:00",
     "date": "2026-03-19",
     "sets": [
       {
-        "label": "1부",
+        "label": null,
         "time": "20:00"
       }
     ],
     "price": "15,000원",
     "llm_confidence": 1.0,
-    "title": "Park Jong-hyun Quartet",
-    "description": "Park Jong-hyun Quartet performance.",
+    "title": "Park Jonghyeon Quartet",
+    "description": null,
     "ticket_link": null,
     "age_limit": null,
     "genres": null,
     "_search_en": {
-      "title": "Park Jong-hyun Quartet",
-      "description": "Park Jong-hyun Quartet performance."
+      "title": "Park Jonghyeon Quartet",
+      "description": null
     },
     "_search_ko": {
       "title": "박종현 퀄텟",
-      "description": "박종현 퀄텟 공연."
+      "description": null
     }
   },
   {
@@ -346,17 +342,17 @@
     "price": null,
     "llm_confidence": 1.0,
     "title": "Haijin Quintet",
-    "description": "Jazz performance by High Jin Quintet.",
+    "description": null,
     "ticket_link": null,
     "age_limit": null,
     "genres": null,
     "_search_en": {
       "title": "Haijin Quintet",
-      "description": "Jazz performance by High Jin Quintet."
+      "description": null
     },
     "_search_ko": {
       "title": "하이진 퀸텟",
-      "description": "하이진 퀸텟의 재즈 공연."
+      "description": null
     }
   },
   {
@@ -380,17 +376,17 @@
     "price": null,
     "llm_confidence": 1.0,
     "title": "Malo Band",
-    "description": "Band of jazz vocalist Malo, known as 'Queen of Scat' and 'Korea's Ella Fitzgerald'.",
+    "description": null,
     "ticket_link": null,
     "age_limit": null,
     "genres": null,
     "_search_en": {
       "title": "Malo Band",
-      "description": "Band of jazz vocalist Malo, known as 'Queen of Scat' and 'Korea's Ella Fitzgerald'."
+      "description": null
     },
     "_search_ko": {
       "title": "말로 밴드",
-      "description": "'스캣의 여왕', '한국의 엘라 피츠제럴드'로 불리는 재즈 보컬리스트 말로의 밴드."
+      "description": null
     }
   },
   {
@@ -586,9 +582,7 @@
     "venue_handle": "yeonnam5701",
     "musician_ids": [],
     "musicians": [],
-    "musician_ig_handles": [
-      "ddungdorinet"
-    ],
+    "musician_ig_handles": [],
     "venue_id": "ven_4d03e35d-51cd-4d54-b557-de37066bcffc",
     "venue_location_id": "main",
     "datetime": "2026-03-19T11:00:00+00:00",
@@ -616,6 +610,40 @@
     },
     "_search_ko": {
       "title": "서효상 퀄텟",
+      "description": null
+    }
+  },
+  {
+    "id": "evt_20260319_bb7ced6a-3909-475b-8476-88e24c25f202",
+    "event_key": "v:ven_0bb609fe-50dc-4752-9d9f-a339c3957fad|t:2026-03-19T11:00:00+00:00",
+    "source_url": "https://www.instagram.com/p/DV2qvAJCY_G/",
+    "venue_handle": "chunnyun.jazz",
+    "musician_ids": [],
+    "musicians": [],
+    "musician_ig_handles": [],
+    "venue_id": "ven_0bb609fe-50dc-4752-9d9f-a339c3957fad",
+    "venue_location_id": "main",
+    "datetime": "2026-03-19T11:00:00+00:00",
+    "date": "2026-03-19",
+    "sets": [
+      {
+        "label": null,
+        "time": "20:00"
+      }
+    ],
+    "price": null,
+    "llm_confidence": 1.0,
+    "title": "Han Sangwon Funk Band",
+    "description": null,
+    "ticket_link": null,
+    "age_limit": null,
+    "genres": null,
+    "_search_en": {
+      "title": "Han Sangwon Funk Band",
+      "description": null
+    },
+    "_search_ko": {
+      "title": "한상원 펑크 밴드",
       "description": null
     }
   },
@@ -957,17 +985,17 @@
     "sets": null,
     "price": "10,000원",
     "llm_confidence": 1.0,
-    "title": "La Petite France Quartet",
+    "title": null,
     "description": null,
     "ticket_link": null,
     "age_limit": null,
     "genres": null,
     "_search_en": {
-      "title": "La Petite France Quartet",
+      "title": null,
       "description": null
     },
     "_search_ko": {
-      "title": "La Petite France Quartet",
+      "title": null,
       "description": null
     }
   },
@@ -1030,40 +1058,6 @@
     }
   },
   {
-    "id": "evt_20260320_f59c1936-5c07-4ddc-8c1b-2b701542917d",
-    "event_key": "v:ven_8cefa639-4b24-4b1d-a1c0-4adb40311bde|t:2026-03-20T10:00:00+00:00",
-    "source_url": "https://www.instagram.com/p/DVoEJKaGqQC/",
-    "venue_handle": "flatnine_jazzbar",
-    "musician_ids": [],
-    "musicians": [],
-    "musician_ig_handles": [],
-    "venue_id": "ven_8cefa639-4b24-4b1d-a1c0-4adb40311bde",
-    "venue_location_id": "main",
-    "datetime": "2026-03-20T10:00:00+00:00",
-    "date": "2026-03-20",
-    "sets": [
-      {
-        "label": "1부",
-        "time": "19:00"
-      }
-    ],
-    "price": "KRW 15,000",
-    "llm_confidence": 1.0,
-    "title": "Gritty Kitty",
-    "description": "Gritty Kitty performance.",
-    "ticket_link": null,
-    "age_limit": null,
-    "genres": null,
-    "_search_en": {
-      "title": "Gritty Kitty",
-      "description": "Gritty Kitty performance."
-    },
-    "_search_ko": {
-      "title": "그리티 키티",
-      "description": "그리티 키티 공연."
-    }
-  },
-  {
     "id": "evt_20260320_507ccf59-3a3b-412c-9198-94ff6baf846c",
     "event_key": "v:ven_36cd80b6-ba1b-48d5-a42f-82bfaf89d154|t:2026-03-20T10:00:00+00:00",
     "source_url": "https://www.instagram.com/p/DV54ahkjkiP/",
@@ -1084,17 +1078,17 @@
     "price": null,
     "llm_confidence": 1.0,
     "title": "Reema Jazz Band",
-    "description": "Performance by Lima Jazz Band.",
+    "description": null,
     "ticket_link": null,
     "age_limit": null,
     "genres": null,
     "_search_en": {
       "title": "Reema Jazz Band",
-      "description": "Performance by Lima Jazz Band."
+      "description": null
     },
     "_search_ko": {
       "title": "리마 재즈밴드",
-      "description": "리마 재즈밴드의 공연."
+      "description": null
     }
   },
   {
@@ -1123,17 +1117,17 @@
     "price": "KRW 33,000",
     "llm_confidence": 1.0,
     "title": "Lee Ha-rin Quartet",
-    "description": "'Early Spring' EDLS X 8RECORDZ concert featuring Lee Jun-ho (@junhobus), Seo Yul (@esther_kim02), Ban Gwang-ok (@oksworld), and Lee Ha-rin (@haredrin).",
+    "description": null,
     "ticket_link": null,
     "age_limit": null,
     "genres": null,
     "_search_en": {
       "title": "Lee Ha-rin Quartet",
-      "description": "'Early Spring' EDLS X 8RECORDZ concert featuring Lee Jun-ho (@junhobus), Seo Yul (@esther_kim02), Ban Gwang-ok (@oksworld), and Lee Ha-rin (@haredrin)."
+      "description": null
     },
     "_search_ko": {
       "title": "이 하린 퀄텟",
-      "description": "'이른, 봄' EDLS X 8RECORDZ 콘서트. 이준호 (@junhobus), 서율 (@esther_kim02), 반광옥 (@oksworld), 이하린 (@haredrin)의 무대."
+      "description": null
     }
   },
   {
@@ -1202,6 +1196,40 @@
     "_search_ko": {
       "title": "EDLS x 8Recordz 콘서트",
       "description": "EDLS와 8Recordz의 특별 콘서트."
+    }
+  },
+  {
+    "id": "evt_20260320_f59c1936-5c07-4ddc-8c1b-2b701542917d",
+    "event_key": "v:ven_8cefa639-4b24-4b1d-a1c0-4adb40311bde|t:2026-03-20T10:00:00+00:00",
+    "source_url": "https://www.instagram.com/p/DV5vB-zmvMB/",
+    "venue_handle": "flatnine_jazzbar",
+    "musician_ids": [],
+    "musicians": [],
+    "musician_ig_handles": [],
+    "venue_id": "ven_8cefa639-4b24-4b1d-a1c0-4adb40311bde",
+    "venue_location_id": "main",
+    "datetime": "2026-03-20T10:30:00+00:00",
+    "date": "2026-03-20",
+    "sets": [
+      {
+        "label": "1부",
+        "time": "19:30"
+      }
+    ],
+    "price": "15,000원",
+    "llm_confidence": 1.0,
+    "title": "Gritty Kitty",
+    "description": null,
+    "ticket_link": null,
+    "age_limit": null,
+    "genres": null,
+    "_search_en": {
+      "title": "Gritty Kitty",
+      "description": null
+    },
+    "_search_ko": {
+      "title": "그리티 키티",
+      "description": null
     }
   },
   {
@@ -1339,17 +1367,17 @@
     "price": "20,000원",
     "llm_confidence": 1.0,
     "title": "Lee Sang-min Tribute to Miles",
-    "description": "Jazz live performance by Lee Sang-min Art of Legacy.",
+    "description": null,
     "ticket_link": null,
     "age_limit": null,
     "genres": null,
     "_search_en": {
       "title": "Lee Sang-min Tribute to Miles",
-      "description": "Jazz live performance by Lee Sang-min Art of Legacy."
+      "description": null
     },
     "_search_ko": {
       "title": "이상민 트리뷰트 투 마일스",
-      "description": "이상민 Art of Legacy의 재즈 라이브 공연."
+      "description": null
     }
   },
   {
@@ -1411,17 +1439,17 @@
     "price": "KRW 10,000",
     "llm_confidence": 1.0,
     "title": "Nam Jeongmin Band",
-    "description": "Live performance by Nam Jung-min Band.",
+    "description": null,
     "ticket_link": null,
     "age_limit": null,
     "genres": null,
     "_search_en": {
       "title": "Nam Jeongmin Band",
-      "description": "Live performance by Nam Jung-min Band."
+      "description": null
     },
     "_search_ko": {
       "title": "남정민 밴드",
-      "description": "남정민 밴드의 라이브 공연."
+      "description": null
     }
   },
   {
@@ -1451,31 +1479,27 @@
     "price": "20,000원",
     "llm_confidence": 1.0,
     "title": "Nanahjin",
-    "description": "Jazzxover Sensation. Nan Ah-jin Band performance.",
+    "description": null,
     "ticket_link": null,
     "age_limit": null,
     "genres": null,
     "_search_en": {
       "title": "Nanahjin",
-      "description": "Jazzxover Sensation. Nan Ah-jin Band performance."
+      "description": null
     },
     "_search_ko": {
       "title": "난아진",
-      "description": "재즈엑스오버 센세이션. 난아진 밴드 공연."
+      "description": null
     }
   },
   {
     "id": "evt_20260320_4462cd80-8267-477e-936f-caf9231c2110",
     "event_key": "v:ven_10e36def-592b-447e-a571-ca96975b6e87|t:2026-03-20T11:00:00+00:00",
-    "source_url": "https://www.instagram.com/p/DV5rLO6E0eH/",
+    "source_url": "https://www.instagram.com/p/DV5s4ihE3FX/",
     "venue_handle": "jazzlounge_official",
     "musician_ids": [],
     "musicians": [],
-    "musician_ig_handles": [
-      "baeminhyuk6",
-      "iamcorea",
-      "thisisjaehun"
-    ],
+    "musician_ig_handles": [],
     "venue_id": "ven_10e36def-592b-447e-a571-ca96975b6e87",
     "venue_location_id": "main",
     "datetime": "2026-03-20T11:00:00+00:00",
@@ -1492,18 +1516,18 @@
     ],
     "price": "8,000원",
     "llm_confidence": 1.0,
-    "title": "Bae Minhyuk Trio",
-    "description": "Silver Bullet Trio performance. Roster: guitar, piano, bass.",
+    "title": "Silver Bullet Trio",
+    "description": null,
     "ticket_link": null,
     "age_limit": null,
     "genres": null,
     "_search_en": {
-      "title": "Bae Minhyuk Trio",
-      "description": "Silver Bullet Trio performance. Roster: guitar, piano, bass."
+      "title": "Silver Bullet Trio",
+      "description": null
     },
     "_search_ko": {
-      "title": "배민혁 트리오",
-      "description": "실버 불렛 트리오 공연. 출연진: 기타, 피아노, 베이스."
+      "title": "실버 불렛 트리오",
+      "description": null
     }
   },
   {
@@ -1915,6 +1939,40 @@
     }
   },
   {
+    "id": "evt_20260320_e808a0c6-892c-4c93-80c5-5eb51beed48d",
+    "event_key": "v:ven_0bb609fe-50dc-4752-9d9f-a339c3957fad|t:2026-03-20T11:00:00+00:00",
+    "source_url": "https://www.instagram.com/p/DV2qvAJCY_G/",
+    "venue_handle": "chunnyun.jazz",
+    "musician_ids": [],
+    "musicians": [],
+    "musician_ig_handles": [],
+    "venue_id": "ven_0bb609fe-50dc-4752-9d9f-a339c3957fad",
+    "venue_location_id": "main",
+    "datetime": "2026-03-20T11:00:00+00:00",
+    "date": "2026-03-20",
+    "sets": [
+      {
+        "label": null,
+        "time": "20:00"
+      }
+    ],
+    "price": null,
+    "llm_confidence": 1.0,
+    "title": "Park Jaehong Blues & Soul Band",
+    "description": null,
+    "ticket_link": null,
+    "age_limit": null,
+    "genres": null,
+    "_search_en": {
+      "title": "Park Jaehong Blues & Soul Band",
+      "description": null
+    },
+    "_search_ko": {
+      "title": "박재홍 블루스 & 소울 밴드",
+      "description": null
+    }
+  },
+  {
     "id": "evt_20260320_80959571-516e-4a18-adaa-9cd2ab9ba8d8",
     "event_key": "v:ven_dd4baf49-45a9-45ad-b34a-a57a99579303|t:2026-03-20T11:30:00+00:00",
     "source_url": "https://www.instagram.com/p/DUnP59GD_pN/",
@@ -2229,23 +2287,23 @@
     "price": null,
     "llm_confidence": 1.0,
     "title": "Another Season",
-    "description": "Jazz performance by Another Season.",
+    "description": null,
     "ticket_link": null,
     "age_limit": null,
     "genres": null,
     "_search_en": {
       "title": "Another Season",
-      "description": "Jazz performance by Another Season."
+      "description": null
     },
     "_search_ko": {
       "title": "어나더시즌",
-      "description": "어나더시즌의 재즈 공연."
+      "description": null
     }
   },
   {
     "id": "evt_20260320_4be8b267-cf7d-44db-90db-d9a7ec08664d",
     "event_key": "v:ven_8cefa639-4b24-4b1d-a1c0-4adb40311bde|t:2026-03-20T12:40:00+00:00",
-    "source_url": "https://www.instagram.com/p/DVoEJKaGqQC/",
+    "source_url": "https://www.instagram.com/p/DV5vB-zmvMB/",
     "venue_handle": "flatnine_jazzbar",
     "musician_ids": [],
     "musicians": [],
@@ -2256,24 +2314,58 @@
     "date": "2026-03-20",
     "sets": [
       {
-        "label": "2부",
+        "label": null,
         "time": "21:40"
       }
     ],
-    "price": "KRW 15,000",
+    "price": "15,000원",
     "llm_confidence": 1.0,
-    "title": "Jo Ah-hye Duo",
-    "description": "Jo Ah-hye Duo performance.",
+    "title": "Jo Ahae Duo",
+    "description": null,
     "ticket_link": null,
     "age_limit": null,
     "genres": null,
     "_search_en": {
-      "title": "Jo Ah-hye Duo",
-      "description": "Jo Ah-hye Duo performance."
+      "title": "Jo Ahae Duo",
+      "description": null
     },
     "_search_ko": {
       "title": "조아혜 듀오",
-      "description": "조아혜 듀오 공연."
+      "description": null
+    }
+  },
+  {
+    "id": "evt_20260320_4a52f820-7662-4bb5-9b62-6fd8d6bac7e1",
+    "event_key": "v:ven_8cefa639-4b24-4b1d-a1c0-4adb40311bde|t:2026-03-20T13:30:00+00:00",
+    "source_url": "https://www.instagram.com/p/DV5vB-zmvMB/",
+    "venue_handle": "flatnine_jazzbar",
+    "musician_ids": [],
+    "musicians": [],
+    "musician_ig_handles": [],
+    "venue_id": "ven_8cefa639-4b24-4b1d-a1c0-4adb40311bde",
+    "venue_location_id": "main",
+    "datetime": "2026-03-20T13:30:00+00:00",
+    "date": "2026-03-20",
+    "sets": [
+      {
+        "label": "2부",
+        "time": "22:30"
+      }
+    ],
+    "price": "15,000원",
+    "llm_confidence": 1.0,
+    "title": "Jo Ahhye Duo",
+    "description": null,
+    "ticket_link": null,
+    "age_limit": null,
+    "genres": null,
+    "_search_en": {
+      "title": "Jo Ahhye Duo",
+      "description": null
+    },
+    "_search_ko": {
+      "title": "조아혜 듀오",
+      "description": null
     }
   },
   {
@@ -2473,7 +2565,7 @@
   {
     "id": "evt_20260321_c32a4e18-5664-4ed7-bfea-fdea40788cb1",
     "event_key": "v:ven_8cefa639-4b24-4b1d-a1c0-4adb40311bde|t:2026-03-21T07:00:00+00:00",
-    "source_url": "https://www.instagram.com/p/DVoEJKaGqQC/",
+    "source_url": "https://www.instagram.com/p/DV5vB-zmvMB/",
     "venue_handle": "flatnine_jazzbar",
     "musician_ids": [],
     "musicians": [],
@@ -2484,24 +2576,24 @@
     "date": "2026-03-21",
     "sets": [
       {
-        "label": "1부",
+        "label": null,
         "time": "16:00"
       }
     ],
-    "price": "KRW 15,000",
+    "price": "15,000원",
     "llm_confidence": 1.0,
-    "title": "Gyeongmin Quartet",
-    "description": "Gyeongmin Quartet performance.",
+    "title": "Gyeongdoen Quartet",
+    "description": null,
     "ticket_link": null,
     "age_limit": null,
     "genres": null,
     "_search_en": {
-      "title": "Gyeongmin Quartet",
-      "description": "Gyeongmin Quartet performance."
+      "title": "Gyeongdoen Quartet",
+      "description": null
     },
     "_search_ko": {
-      "title": "경민 퀄텟",
-      "description": "경민 퀄텟 공연."
+      "title": "경된 퀄텟",
+      "description": null
     }
   },
   {
@@ -2563,17 +2655,17 @@
     "price": null,
     "llm_confidence": 1.0,
     "title": "Hailluv Quartet",
-    "description": "Performance by Haeilrip Velvet Groove.",
+    "description": null,
     "ticket_link": null,
     "age_limit": null,
     "genres": null,
     "_search_en": {
       "title": "Hailluv Quartet",
-      "description": "Performance by Haeilrip Velvet Groove."
+      "description": null
     },
     "_search_ko": {
       "title": "해인럽 퀄텟",
-      "description": "해일립 벨벳 그루브의 공연."
+      "description": null
     }
   },
   {
@@ -2651,7 +2743,7 @@
   {
     "id": "evt_20260321_fbf63de0-014a-4248-adb6-a45e2f2e9bfa",
     "event_key": "v:ven_8cefa639-4b24-4b1d-a1c0-4adb40311bde|t:2026-03-21T10:00:00+00:00",
-    "source_url": "https://www.instagram.com/p/DVoEJKaGqQC/",
+    "source_url": "https://www.instagram.com/p/DV5vB-zmvMB/",
     "venue_handle": "flatnine_jazzbar",
     "musician_ids": [],
     "musicians": [],
@@ -2662,24 +2754,24 @@
     "date": "2026-03-21",
     "sets": [
       {
-        "label": "2부",
+        "label": null,
         "time": "19:00"
       }
     ],
-    "price": "KRW 15,000",
+    "price": "15,000원",
     "llm_confidence": 1.0,
-    "title": "Linapik Quintet",
-    "description": "Linapik Quintet performance.",
+    "title": "LILI Park Quintet",
+    "description": null,
     "ticket_link": null,
     "age_limit": null,
     "genres": null,
     "_search_en": {
-      "title": "Linapik Quintet",
-      "description": "Linapik Quintet performance."
+      "title": "LILI Park Quintet",
+      "description": null
     },
     "_search_ko": {
-      "title": "리나피크 퀸텟",
-      "description": "리나피크 퀸텟 공연."
+      "title": "LILI파크 퀸텟",
+      "description": null
     }
   },
   {
@@ -2703,17 +2795,17 @@
     "price": null,
     "llm_confidence": 1.0,
     "title": "Lee Su-kyung Band",
-    "description": "Jazz performance by Lee Soo-kyung Band.",
+    "description": null,
     "ticket_link": null,
     "age_limit": null,
     "genres": null,
     "_search_en": {
       "title": "Lee Su-kyung Band",
-      "description": "Jazz performance by Lee Soo-kyung Band."
+      "description": null
     },
     "_search_ko": {
       "title": "이수경 밴드",
-      "description": "이수경 밴드의 재즈 공연."
+      "description": null
     }
   },
   {
@@ -2737,17 +2829,17 @@
     "price": "Advance KRW 30,000, On-site KRW 35,000 (includes 1 drink & snack)",
     "llm_confidence": 1.0,
     "title": "Im Mi-jung Duo",
-    "description": "Duo concert by jazz pianist Lim Mi-jung (winner of the 23rd Korean Popular Music Awards for Best Performance Album) and guitarist Park Yoon-woo. Advance ticket includes 1 drink & snack.",
+    "description": null,
     "ticket_link": null,
     "age_limit": null,
     "genres": null,
     "_search_en": {
       "title": "Im Mi-jung Duo",
-      "description": "Duo concert by jazz pianist Lim Mi-jung (winner of the 23rd Korean Popular Music Awards for Best Performance Album) and guitarist Park Yoon-woo. Advance ticket includes 1 drink & snack."
+      "description": null
     },
     "_search_ko": {
       "title": "임미정 듀오",
-      "description": "재즈 피아니스트 임미정 (제23회 한국대중음악상 최우수 연주음반상 수상)과 기타리스트 박윤우의 듀오 콘서트. 예매 시 1 drink & snack 포함."
+      "description": null
     }
   },
   {
@@ -2817,17 +2909,17 @@
     "price": null,
     "llm_confidence": 1.0,
     "title": "Hwang Eun-hye Trio",
-    "description": "Performance by Sorang, featuring Lim Jung-won (vocal) @greenflow_ofc and Sung Ji-sun (piano) @jisun_pianist.",
+    "description": null,
     "ticket_link": null,
     "age_limit": null,
     "genres": null,
     "_search_en": {
       "title": "Hwang Eun-hye Trio",
-      "description": "Performance by Sorang, featuring Lim Jung-won (vocal) @greenflow_ofc and Sung Ji-sun (piano) @jisun_pianist."
+      "description": null
     },
     "_search_ko": {
       "title": "황은혜 트리오",
-      "description": "보컬 임정원 @greenflow_ofc, 피아노 성지선 @jisun_pianist으로 구성된 소랑 공연."
+      "description": null
     }
   },
   {
@@ -2961,17 +3053,17 @@
     "price": "20,000원",
     "llm_confidence": 1.0,
     "title": "Lim Chae-hee Quartet",
-    "description": "Lim Chae-hee jazz live performance.",
+    "description": null,
     "ticket_link": null,
     "age_limit": null,
     "genres": null,
     "_search_en": {
       "title": "Lim Chae-hee Quartet",
-      "description": "Lim Chae-hee jazz live performance."
+      "description": null
     },
     "_search_ko": {
       "title": "임채희 퀄텟",
-      "description": "임채희 재즈 라이브 공연."
+      "description": null
     }
   },
   {
@@ -3036,31 +3128,27 @@
     "price": "20,000원",
     "llm_confidence": 1.0,
     "title": "Kim Ka-on Quartet",
-    "description": "Red Night Special Gig. Kim Ga-on Quartet performance.",
+    "description": null,
     "ticket_link": null,
     "age_limit": null,
     "genres": null,
     "_search_en": {
       "title": "Kim Ka-on Quartet",
-      "description": "Red Night Special Gig. Kim Ga-on Quartet performance."
+      "description": null
     },
     "_search_ko": {
       "title": "김가온 퀄텟",
-      "description": "레드 나이트 스페셜 기그. 김가온 퀄텟 공연."
+      "description": null
     }
   },
   {
     "id": "evt_20260321_5a68f029-ad85-4706-b8d4-927a6da7a751",
     "event_key": "v:ven_10e36def-592b-447e-a571-ca96975b6e87|t:2026-03-21T11:00:00+00:00",
-    "source_url": "https://www.instagram.com/p/DV5sgUTE1V3/",
+    "source_url": "https://www.instagram.com/p/DV5s4ihE3FX/",
     "venue_handle": "jazzlounge_official",
     "musician_ids": [],
     "musicians": [],
-    "musician_ig_handles": [
-      "_eju__",
-      "hoonyy__g",
-      "jazzin_ju"
-    ],
+    "musician_ig_handles": [],
     "venue_id": "ven_10e36def-592b-447e-a571-ca96975b6e87",
     "venue_location_id": "main",
     "datetime": "2026-03-21T11:00:00+00:00",
@@ -3077,18 +3165,18 @@
     ],
     "price": "8,000원",
     "llm_confidence": 1.0,
-    "title": "Jinju Choi Trio",
-    "description": "Choi Jin-ju Trio performance. Roster: Choi Jin-ju (vocal), guitar, piano (with accordion).",
+    "title": "Choi Jinju Trio",
+    "description": null,
     "ticket_link": null,
     "age_limit": null,
     "genres": null,
     "_search_en": {
-      "title": "Jinju Choi Trio",
-      "description": "Choi Jin-ju Trio performance. Roster: Choi Jin-ju (vocal), guitar, piano (with accordion)."
+      "title": "Choi Jinju Trio",
+      "description": null
     },
     "_search_ko": {
       "title": "최진주 트리오",
-      "description": "최진주 트리오 공연. 출연진: 최진주 (보컬), 기타, 피아노 (아코디언 겸임)."
+      "description": null
     }
   },
   {
@@ -3468,6 +3556,40 @@
     }
   },
   {
+    "id": "evt_20260321_017a2a27-2686-418d-94aa-c677d6de0e95",
+    "event_key": "v:ven_0bb609fe-50dc-4752-9d9f-a339c3957fad|t:2026-03-21T11:00:00+00:00",
+    "source_url": "https://www.instagram.com/p/DV2qvAJCY_G/",
+    "venue_handle": "chunnyun.jazz",
+    "musician_ids": [],
+    "musicians": [],
+    "musician_ig_handles": [],
+    "venue_id": "ven_0bb609fe-50dc-4752-9d9f-a339c3957fad",
+    "venue_location_id": "main",
+    "datetime": "2026-03-21T11:00:00+00:00",
+    "date": "2026-03-21",
+    "sets": [
+      {
+        "label": null,
+        "time": "20:00"
+      }
+    ],
+    "price": null,
+    "llm_confidence": 1.0,
+    "title": "Han Sangwon Funk Band",
+    "description": null,
+    "ticket_link": null,
+    "age_limit": null,
+    "genres": null,
+    "_search_en": {
+      "title": "Han Sangwon Funk Band",
+      "description": null
+    },
+    "_search_ko": {
+      "title": "한상원 펑크 밴드",
+      "description": null
+    }
+  },
+  {
     "id": "evt_20260321_03ee8881-1d1a-43dc-beae-071a7578caeb",
     "event_key": "v:ven_dd4baf49-45a9-45ad-b34a-a57a99579303|t:2026-03-21T11:30:00+00:00",
     "source_url": "https://www.instagram.com/p/DUnP59GD_pN/",
@@ -3671,17 +3793,17 @@
     "price": null,
     "llm_confidence": 1.0,
     "title": "Beard (Kang Ho-geon) Quartet",
-    "description": "Jazz performance by Beard & Youngblood.",
+    "description": null,
     "ticket_link": null,
     "age_limit": null,
     "genres": null,
     "_search_en": {
       "title": "Beard (Kang Ho-geon) Quartet",
-      "description": "Jazz performance by Beard & Youngblood."
+      "description": null
     },
     "_search_ko": {
       "title": "Beard (강호건) 퀄텟",
-      "description": "Beard & Youngblood의 재즈 공연."
+      "description": null
     }
   },
   {
@@ -3739,17 +3861,17 @@
     "price": null,
     "llm_confidence": 1.0,
     "title": "Yubal-i and Friends",
-    "description": "Yubal-i and Friends concert from 9:20 PM to 11 PM, scheduled not to overlap with the BTS performance. Time delayed to celebrate BTS's full group return. Club opens from 5 PM.",
+    "description": null,
     "ticket_link": null,
     "age_limit": null,
     "genres": null,
     "_search_en": {
       "title": "Yubal-i and Friends",
-      "description": "Yubal-i and Friends concert from 9:20 PM to 11 PM, scheduled not to overlap with the BTS performance. Time delayed to celebrate BTS's full group return. Club opens from 5 PM."
+      "description": null
     },
     "_search_ko": {
       "title": "유발이와 친구들",
-      "description": "BTS 공연과 겹치지 않게 밤 9시 20분부터 11시까지 진행되는 유발이와 친구들 공연. BTS 완전체 귀환 축하를 위해 시간을 늦춤. 클럽은 오후 5시부터 오픈."
+      "description": null
     }
   },
   {
@@ -3773,23 +3895,23 @@
     "price": null,
     "llm_confidence": 1.0,
     "title": "Park Jae-hong Band",
-    "description": "Jazz performance by Park Jae-hong Band.",
+    "description": null,
     "ticket_link": null,
     "age_limit": null,
     "genres": null,
     "_search_en": {
       "title": "Park Jae-hong Band",
-      "description": "Jazz performance by Park Jae-hong Band."
+      "description": null
     },
     "_search_ko": {
       "title": "박재홍 밴드",
-      "description": "박재홍 밴드의 재즈 공연."
+      "description": null
     }
   },
   {
     "id": "evt_20260321_854e8f83-9631-4fb3-8807-8a85a8cb81c1",
     "event_key": "v:ven_8cefa639-4b24-4b1d-a1c0-4adb40311bde|t:2026-03-21T12:40:00+00:00",
-    "source_url": "https://www.instagram.com/p/DVoEJKaGqQC/",
+    "source_url": "https://www.instagram.com/p/DV5vB-zmvMB/",
     "venue_handle": "flatnine_jazzbar",
     "musician_ids": [],
     "musicians": [],
@@ -3800,24 +3922,58 @@
     "date": "2026-03-21",
     "sets": [
       {
-        "label": "3부",
+        "label": null,
         "time": "21:40"
       }
     ],
-    "price": "KRW 15,000",
+    "price": "15,000원",
     "llm_confidence": 1.0,
-    "title": "So-young Duo",
-    "description": "So-young Duo performance.",
+    "title": "Soyoung Duo",
+    "description": null,
     "ticket_link": null,
     "age_limit": null,
     "genres": null,
     "_search_en": {
-      "title": "So-young Duo",
-      "description": "So-young Duo performance."
+      "title": "Soyoung Duo",
+      "description": null
     },
     "_search_ko": {
       "title": "소영 듀오",
-      "description": "소영 듀오 공연."
+      "description": null
+    }
+  },
+  {
+    "id": "evt_20260321_3fac0c92-2471-4f78-b826-be83d9cfb91a",
+    "event_key": "v:ven_8cefa639-4b24-4b1d-a1c0-4adb40311bde|t:2026-03-21T13:30:00+00:00",
+    "source_url": "https://www.instagram.com/p/DV5vB-zmvMB/",
+    "venue_handle": "flatnine_jazzbar",
+    "musician_ids": [],
+    "musicians": [],
+    "musician_ig_handles": [],
+    "venue_id": "ven_8cefa639-4b24-4b1d-a1c0-4adb40311bde",
+    "venue_location_id": "main",
+    "datetime": "2026-03-21T13:30:00+00:00",
+    "date": "2026-03-21",
+    "sets": [
+      {
+        "label": "3부",
+        "time": "22:30"
+      }
+    ],
+    "price": "15,000원",
+    "llm_confidence": 1.0,
+    "title": "Soyeong Duo",
+    "description": null,
+    "ticket_link": null,
+    "age_limit": null,
+    "genres": null,
+    "_search_en": {
+      "title": "Soyeong Duo",
+      "description": null
+    },
+    "_search_ko": {
+      "title": "소영 듀오",
+      "description": null
     }
   },
   {
@@ -3959,7 +4115,7 @@
   {
     "id": "evt_20260322_5cff5863-07c2-401b-8ce4-d53f2322f5e5",
     "event_key": "v:ven_8cefa639-4b24-4b1d-a1c0-4adb40311bde|t:2026-03-22T07:00:00+00:00",
-    "source_url": "https://www.instagram.com/p/DVoEJKaGqQC/",
+    "source_url": "https://www.instagram.com/p/DV5vB-zmvMB/",
     "venue_handle": "flatnine_jazzbar",
     "musician_ids": [],
     "musicians": [],
@@ -3974,20 +4130,20 @@
         "time": "16:00"
       }
     ],
-    "price": "KRW 15,000",
+    "price": "15,000원",
     "llm_confidence": 1.0,
-    "title": "Kim Dae-yoon Quartet",
-    "description": "Kim Dae-yoon Quartet performance.",
+    "title": "Kim Daeyun Quartet",
+    "description": null,
     "ticket_link": null,
     "age_limit": null,
     "genres": null,
     "_search_en": {
-      "title": "Kim Dae-yoon Quartet",
-      "description": "Kim Dae-yoon Quartet performance."
+      "title": "Kim Daeyun Quartet",
+      "description": null
     },
     "_search_ko": {
       "title": "김대윤 퀄텟",
-      "description": "김대윤 퀄텟 공연."
+      "description": null
     }
   },
   {
@@ -4121,17 +4277,17 @@
     "price": "20,000원",
     "llm_confidence": 1.0,
     "title": "Park Him-chan Trio",
-    "description": "Park Him-chan jazz live performance.",
+    "description": null,
     "ticket_link": null,
     "age_limit": null,
     "genres": null,
     "_search_en": {
       "title": "Park Him-chan Trio",
-      "description": "Park Him-chan jazz live performance."
+      "description": null
     },
     "_search_ko": {
       "title": "박힘찬 트리오",
-      "description": "박힘찬 재즈 라이브 공연."
+      "description": null
     }
   },
   {
@@ -4171,7 +4327,7 @@
   {
     "id": "evt_20260322_360515aa-2879-4115-ba81-b105fe22b064",
     "event_key": "v:ven_8cefa639-4b24-4b1d-a1c0-4adb40311bde|t:2026-03-22T10:00:00+00:00",
-    "source_url": "https://www.instagram.com/p/DVoEJKaGqQC/",
+    "source_url": "https://www.instagram.com/p/DV5vB-zmvMB/",
     "venue_handle": "flatnine_jazzbar",
     "musician_ids": [],
     "musicians": [],
@@ -4186,20 +4342,20 @@
         "time": "19:00"
       }
     ],
-    "price": "KRW 15,000",
+    "price": "15,000원",
     "llm_confidence": 1.0,
-    "title": "Ha So-young Quartet",
-    "description": "Ha So-young Quartet performance.",
+    "title": "Heo Soyoung Quintet",
+    "description": null,
     "ticket_link": null,
     "age_limit": null,
     "genres": null,
     "_search_en": {
-      "title": "Ha So-young Quartet",
-      "description": "Ha So-young Quartet performance."
+      "title": "Heo Soyoung Quintet",
+      "description": null
     },
     "_search_ko": {
-      "title": "하소영 퀄텟",
-      "description": "하소영 퀄텟 공연."
+      "title": "허소영 퀸텟",
+      "description": null
     }
   },
   {
@@ -4223,17 +4379,17 @@
     "price": null,
     "llm_confidence": 1.0,
     "title": "Park Jae-hong Duo",
-    "description": "Jazz performance by Park Jae-hong Duo.",
+    "description": null,
     "ticket_link": null,
     "age_limit": null,
     "genres": null,
     "_search_en": {
       "title": "Park Jae-hong Duo",
-      "description": "Jazz performance by Park Jae-hong Duo."
+      "description": null
     },
     "_search_ko": {
       "title": "박재홍 듀오",
-      "description": "박재홍 듀오의 재즈 공연."
+      "description": null
     }
   },
   {
@@ -4816,17 +4972,17 @@
     "price": null,
     "llm_confidence": 1.0,
     "title": "Common Tones",
-    "description": "Jazz performance by Common Tones.",
+    "description": null,
     "ticket_link": null,
     "age_limit": null,
     "genres": null,
     "_search_en": {
       "title": "Common Tones",
-      "description": "Jazz performance by Common Tones."
+      "description": null
     },
     "_search_ko": {
       "title": "Common Tones",
-      "description": "Common Tones의 재즈 공연."
+      "description": null
     }
   },
   {
@@ -4942,23 +5098,23 @@
     "price": "20,000원",
     "llm_confidence": 1.0,
     "title": "Tuna Kim",
-    "description": "Jazz live performance by Kim Cham-chi Trio.",
+    "description": null,
     "ticket_link": null,
     "age_limit": null,
     "genres": null,
     "_search_en": {
       "title": "Tuna Kim",
-      "description": "Jazz live performance by Kim Cham-chi Trio."
+      "description": null
     },
     "_search_ko": {
       "title": "김참치",
-      "description": "김참치 트리오의 재즈 라이브 공연."
+      "description": null
     }
   },
   {
     "id": "evt_20260323_b224ca17-f141-4ccc-aef1-71dd1bf4e548",
     "event_key": "v:ven_8cefa639-4b24-4b1d-a1c0-4adb40311bde|t:2026-03-23T11:00:00+00:00",
-    "source_url": "https://www.instagram.com/p/DVoEJKaGqQC/",
+    "source_url": "https://www.instagram.com/p/DV5vB-zmvMB/",
     "venue_handle": "flatnine_jazzbar",
     "musician_ids": [],
     "musicians": [],
@@ -4973,20 +5129,20 @@
         "time": "20:00"
       }
     ],
-    "price": "KRW 15,000",
+    "price": "15,000원",
     "llm_confidence": 1.0,
     "title": "PJM Trio",
-    "description": "PJM Trio performance.",
+    "description": null,
     "ticket_link": null,
     "age_limit": null,
     "genres": null,
     "_search_en": {
       "title": "PJM Trio",
-      "description": "PJM Trio performance."
+      "description": null
     },
     "_search_ko": {
       "title": "PJM 트리오",
-      "description": "PJM 트리오 공연."
+      "description": null
     }
   },
   {
@@ -5221,17 +5377,17 @@
     "price": null,
     "llm_confidence": 1.0,
     "title": "Lee Su-kyung Quartet",
-    "description": "Live performance by Real Jazz.",
+    "description": null,
     "ticket_link": null,
     "age_limit": null,
     "genres": null,
     "_search_en": {
       "title": "Lee Su-kyung Quartet",
-      "description": "Live performance by Real Jazz."
+      "description": null
     },
     "_search_ko": {
       "title": "이수경 퀄텟",
-      "description": "Real Jazz의 라이브 공연."
+      "description": null
     }
   },
   {
@@ -5255,23 +5411,23 @@
     "price": "20,000원",
     "llm_confidence": 1.0,
     "title": "Jazz Jam Day",
-    "description": "Tuesday Jazz Jam Day.",
+    "description": null,
     "ticket_link": null,
     "age_limit": null,
     "genres": null,
     "_search_en": {
       "title": "Jazz Jam Day",
-      "description": "Tuesday Jazz Jam Day."
+      "description": null
     },
     "_search_ko": {
       "title": "재즈 잼 데이",
-      "description": "화요일 재즈 잼 데이."
+      "description": null
     }
   },
   {
     "id": "evt_20260324_c938a8ef-fe68-433d-98c9-b391bbc2cbdb",
     "event_key": "v:ven_8cefa639-4b24-4b1d-a1c0-4adb40311bde|t:2026-03-24T11:00:00+00:00",
-    "source_url": "https://www.instagram.com/p/DVoEJKaGqQC/",
+    "source_url": "https://www.instagram.com/p/DV5vB-zmvMB/",
     "venue_handle": "flatnine_jazzbar",
     "musician_ids": [],
     "musicians": [],
@@ -5286,20 +5442,20 @@
         "time": "20:00"
       }
     ],
-    "price": "KRW 15,000",
+    "price": "15,000원",
     "llm_confidence": 1.0,
-    "title": "Jeong Jae-bong Quartet & Moon Hee-myung",
-    "description": "Jeong Jae-bong Quartet & Moon Hee-myung performance.",
+    "title": "Jeong Jaebong Quartet (Moon Miyoung)",
+    "description": null,
     "ticket_link": null,
     "age_limit": null,
     "genres": null,
     "_search_en": {
-      "title": "Jeong Jae-bong Quartet & Moon Hee-myung",
-      "description": "Jeong Jae-bong Quartet & Moon Hee-myung performance."
+      "title": "Jeong Jaebong Quartet (Moon Miyoung)",
+      "description": null
     },
     "_search_ko": {
-      "title": "정재봉 퀄텟 & 문희명",
-      "description": "정재봉 퀄텟 & 문희명 공연."
+      "title": "정재봉 퀄텟 (문미영)",
+      "description": null
     }
   },
   {
@@ -5425,17 +5581,17 @@
     "price": null,
     "llm_confidence": 1.0,
     "title": "Kwon Hye-ri Quartet",
-    "description": "Live performance by EROWLY.",
+    "description": null,
     "ticket_link": null,
     "age_limit": null,
     "genres": null,
     "_search_en": {
       "title": "Kwon Hye-ri Quartet",
-      "description": "Live performance by EROWLY."
+      "description": null
     },
     "_search_ko": {
       "title": "권혜리 퀄텟",
-      "description": "EROWLY의 라이브 공연."
+      "description": null
     }
   },
   {
@@ -5459,17 +5615,17 @@
     "price": "20,000원",
     "llm_confidence": 1.0,
     "title": "Kim Tae-hyun Quartet",
-    "description": "Kim Tae-hyun jazz live performance.",
+    "description": null,
     "ticket_link": null,
     "age_limit": null,
     "genres": null,
     "_search_en": {
       "title": "Kim Tae-hyun Quartet",
-      "description": "Kim Tae-hyun jazz live performance."
+      "description": null
     },
     "_search_ko": {
       "title": "김태현 퀄텟",
-      "description": "김태현 재즈 라이브 공연."
+      "description": null
     }
   },
   {
@@ -5509,7 +5665,7 @@
   {
     "id": "evt_20260325_4418de78-0441-4ae9-a70a-01c40228f0d9",
     "event_key": "v:ven_8cefa639-4b24-4b1d-a1c0-4adb40311bde|t:2026-03-25T11:00:00+00:00",
-    "source_url": "https://www.instagram.com/p/DVoEJKaGqQC/",
+    "source_url": "https://www.instagram.com/p/DV5vB-zmvMB/",
     "venue_handle": "flatnine_jazzbar",
     "musician_ids": [],
     "musicians": [],
@@ -5524,20 +5680,20 @@
         "time": "20:00"
       }
     ],
-    "price": "KRW 15,000",
+    "price": "15,000원",
     "llm_confidence": 1.0,
-    "title": "Swing Day Rob Quintet",
-    "description": "Swing Day Rob Quintet performance.",
+    "title": "Swing Day (Rob Quintet)",
+    "description": null,
     "ticket_link": null,
     "age_limit": null,
     "genres": null,
     "_search_en": {
-      "title": "Swing Day Rob Quintet",
-      "description": "Swing Day Rob Quintet performance."
+      "title": "Swing Day (Rob Quintet)",
+      "description": null
     },
     "_search_ko": {
-      "title": "스윙데이 랍 퀸텟",
-      "description": "스윙데이 랍 퀸텟 공연."
+      "title": "Swing Day (롭 퀸텟)",
+      "description": null
     }
   },
   {
@@ -5763,17 +5919,17 @@
     "price": null,
     "llm_confidence": 1.0,
     "title": "Kim Byeong-ryeol Quintet",
-    "description": "Live performance by Kim Byeong-ryeol Friends.",
+    "description": null,
     "ticket_link": null,
     "age_limit": null,
     "genres": null,
     "_search_en": {
       "title": "Kim Byeong-ryeol Quintet",
-      "description": "Live performance by Kim Byeong-ryeol Friends."
+      "description": null
     },
     "_search_ko": {
       "title": "김병렬 퀸텟",
-      "description": "김병렬 Friends의 라이브 공연."
+      "description": null
     }
   },
   {
@@ -5797,17 +5953,17 @@
     "price": "20,000원",
     "llm_confidence": 1.0,
     "title": "Jo Woon and Good Friends",
-    "description": "Jo Un jazz live performance.",
+    "description": null,
     "ticket_link": null,
     "age_limit": null,
     "genres": null,
     "_search_en": {
       "title": "Jo Woon and Good Friends",
-      "description": "Jo Un jazz live performance."
+      "description": null
     },
     "_search_ko": {
       "title": "조운과 좋은친구들",
-      "description": "조운 재즈 라이브 공연."
+      "description": null
     }
   },
   {
@@ -5847,7 +6003,7 @@
   {
     "id": "evt_20260326_9feaf865-5469-496c-8111-7b13dff2a05b",
     "event_key": "v:ven_8cefa639-4b24-4b1d-a1c0-4adb40311bde|t:2026-03-26T11:00:00+00:00",
-    "source_url": "https://www.instagram.com/p/DVoEJKaGqQC/",
+    "source_url": "https://www.instagram.com/p/DV5vB-zmvMB/",
     "venue_handle": "flatnine_jazzbar",
     "musician_ids": [],
     "musicians": [],
@@ -5862,20 +6018,20 @@
         "time": "20:00"
       }
     ],
-    "price": "KRW 15,000",
+    "price": "15,000원",
     "llm_confidence": 1.0,
-    "title": "Feel the Groove Jeong Seong-won Quartet",
-    "description": "Feel the Groove Jeong Seong-won Quartet performance.",
+    "title": "Feel the Groove (Jeong Seonghyeon Quartet)",
+    "description": null,
     "ticket_link": null,
     "age_limit": null,
     "genres": null,
     "_search_en": {
-      "title": "Feel the Groove Jeong Seong-won Quartet",
-      "description": "Feel the Groove Jeong Seong-won Quartet performance."
+      "title": "Feel the Groove (Jeong Seonghyeon Quartet)",
+      "description": null
     },
     "_search_ko": {
-      "title": "필 더 그루브 정성원 퀄텟",
-      "description": "필 더 그루브 정성원 퀄텟 공연."
+      "title": "Feel the Groove (정성현 퀄텟)",
+      "description": null
     }
   },
   {
@@ -6075,7 +6231,7 @@
   {
     "id": "evt_20260327_100734d4-3a79-4fbc-b61f-c0e7d29987f6",
     "event_key": "v:ven_8cefa639-4b24-4b1d-a1c0-4adb40311bde|t:2026-03-27T10:00:00+00:00",
-    "source_url": "https://www.instagram.com/p/DVoEJKaGqQC/",
+    "source_url": "https://www.instagram.com/p/DV5vB-zmvMB/",
     "venue_handle": "flatnine_jazzbar",
     "musician_ids": [],
     "musicians": [],
@@ -6090,20 +6246,20 @@
         "time": "19:00"
       }
     ],
-    "price": "KRW 15,000",
+    "price": "15,000원",
     "llm_confidence": 1.0,
-    "title": "Kim Hee-hee & Her Trio",
-    "description": "Kim Hee-hee & Her Trio performance.",
+    "title": "Kim Minhui & Her Trio",
+    "description": null,
     "ticket_link": null,
     "age_limit": null,
     "genres": null,
     "_search_en": {
-      "title": "Kim Hee-hee & Her Trio",
-      "description": "Kim Hee-hee & Her Trio performance."
+      "title": "Kim Minhui & Her Trio",
+      "description": null
     },
     "_search_ko": {
-      "title": "김희희 & Her 트리오",
-      "description": "김희희 & Her 트리오 공연."
+      "title": "김민희 & Her 트리오",
+      "description": null
     }
   },
   {
@@ -6197,17 +6353,17 @@
     "price": null,
     "llm_confidence": 1.0,
     "title": "Lee Dae-won Quintet",
-    "description": "Jazz performance by Lee Dae-won Quartet.",
+    "description": null,
     "ticket_link": null,
     "age_limit": null,
     "genres": null,
     "_search_en": {
       "title": "Lee Dae-won Quintet",
-      "description": "Jazz performance by Lee Dae-won Quartet."
+      "description": null
     },
     "_search_ko": {
       "title": "이대원 퀸텟",
-      "description": "이대원 퀄텟의 재즈 공연."
+      "description": null
     }
   },
   {
@@ -6267,17 +6423,17 @@
     "price": "20,000원",
     "llm_confidence": 1.0,
     "title": "LAZYKUMA",
-    "description": "LAZYKUMA jazz live performance.",
+    "description": null,
     "ticket_link": null,
     "age_limit": null,
     "genres": null,
     "_search_en": {
       "title": "LAZYKUMA",
-      "description": "LAZYKUMA jazz live performance."
+      "description": null
     },
     "_search_ko": {
       "title": "레이지쿠마",
-      "description": "LAZYKUMA 재즈 라이브 공연."
+      "description": null
     }
   },
   {
@@ -6385,7 +6541,7 @@
   {
     "id": "evt_20260327_84f10fa8-76da-4128-8004-3139a8ff317b",
     "event_key": "v:ven_10e36def-592b-447e-a571-ca96975b6e87|t:2026-03-27T11:00:00+00:00",
-    "source_url": "https://www.instagram.com/p/DVYNLxiE01v/",
+    "source_url": "https://www.instagram.com/p/DV5s4ihE3FX/",
     "venue_handle": "jazzlounge_official",
     "musician_ids": [],
     "musicians": [],
@@ -6396,24 +6552,28 @@
     "date": "2026-03-27",
     "sets": [
       {
-        "label": null,
+        "label": "1부",
         "time": "20:00"
+      },
+      {
+        "label": "2부",
+        "time": "21:00"
       }
     ],
-    "price": "KRW 8,000",
+    "price": "8,000원",
     "llm_confidence": 1.0,
-    "title": "Yang Hyun-soo Trio",
-    "description": "Yang Hyun-soo Trio performance. Roster: Yang Hyun-soo (drums), saxophone, piano.",
+    "title": "Yang Hyunsoo Trio",
+    "description": null,
     "ticket_link": null,
     "age_limit": null,
     "genres": null,
     "_search_en": {
-      "title": "Yang Hyun-soo Trio",
-      "description": "Yang Hyun-soo Trio performance. Roster: Yang Hyun-soo (drums), saxophone, piano."
+      "title": "Yang Hyunsoo Trio",
+      "description": null
     },
     "_search_ko": {
       "title": "양현수 트리오",
-      "description": "양현수 트리오 공연. 출연진: 양현수 (드럼), 색소폰, 피아노."
+      "description": null
     }
   },
   {
@@ -6665,7 +6825,7 @@
   {
     "id": "evt_20260327_e7676c50-5fb5-4914-b6ae-9fc055acae1a",
     "event_key": "v:ven_8cefa639-4b24-4b1d-a1c0-4adb40311bde|t:2026-03-27T12:40:00+00:00",
-    "source_url": "https://www.instagram.com/p/DVoEJKaGqQC/",
+    "source_url": "https://www.instagram.com/p/DV5vB-zmvMB/",
     "venue_handle": "flatnine_jazzbar",
     "musician_ids": [],
     "musicians": [],
@@ -6680,20 +6840,20 @@
         "time": "21:40"
       }
     ],
-    "price": "KRW 15,000",
+    "price": "15,000원",
     "llm_confidence": 1.0,
     "title": "Mood Ballad",
-    "description": "Mood Ballad performance.",
+    "description": null,
     "ticket_link": null,
     "age_limit": null,
     "genres": null,
     "_search_en": {
       "title": "Mood Ballad",
-      "description": "Mood Ballad performance."
+      "description": null
     },
     "_search_ko": {
       "title": "무드 발라드",
-      "description": "무드 발라드 공연."
+      "description": null
     }
   },
   {
@@ -6728,7 +6888,7 @@
   {
     "id": "evt_20260328_1460094d-3aed-4594-bd21-4f34deb49a23",
     "event_key": "v:ven_8cefa639-4b24-4b1d-a1c0-4adb40311bde|t:2026-03-28T07:00:00+00:00",
-    "source_url": "https://www.instagram.com/p/DVoEJKaGqQC/",
+    "source_url": "https://www.instagram.com/p/DV5vB-zmvMB/",
     "venue_handle": "flatnine_jazzbar",
     "musician_ids": [],
     "musicians": [],
@@ -6743,20 +6903,20 @@
         "time": "16:00"
       }
     ],
-    "price": "KRW 15,000",
+    "price": "15,000원",
     "llm_confidence": 1.0,
-    "title": "Ganimime Quartet",
-    "description": "Ganimime Quartet performance.",
+    "title": "GaNaNi",
+    "description": null,
     "ticket_link": null,
     "age_limit": null,
     "genres": null,
     "_search_en": {
-      "title": "Ganimime Quartet",
-      "description": "Ganimime Quartet performance."
+      "title": "GaNaNi",
+      "description": null
     },
     "_search_ko": {
-      "title": "기마니메 퀄텟",
-      "description": "기마니메 퀄텟 공연."
+      "title": "가나니",
+      "description": null
     }
   },
   {
@@ -6820,17 +6980,17 @@
     "price": null,
     "llm_confidence": 1.0,
     "title": "An Seong-mi Quartet",
-    "description": "Live performance by An Seong-mi Band.",
+    "description": null,
     "ticket_link": null,
     "age_limit": null,
     "genres": null,
     "_search_en": {
       "title": "An Seong-mi Quartet",
-      "description": "Live performance by An Seong-mi Band."
+      "description": null
     },
     "_search_ko": {
       "title": "안성미 퀄텟",
-      "description": "안성미 밴드의 라이브 공연."
+      "description": null
     }
   },
   {
@@ -6870,7 +7030,7 @@
   {
     "id": "evt_20260328_2b1193b7-0682-4a0d-ada1-e2c0bc51bf99",
     "event_key": "v:ven_8cefa639-4b24-4b1d-a1c0-4adb40311bde|t:2026-03-28T10:00:00+00:00",
-    "source_url": "https://www.instagram.com/p/DVoEJKaGqQC/",
+    "source_url": "https://www.instagram.com/p/DV5vB-zmvMB/",
     "venue_handle": "flatnine_jazzbar",
     "musician_ids": [],
     "musicians": [],
@@ -6885,20 +7045,20 @@
         "time": "19:00"
       }
     ],
-    "price": "KRW 15,000",
+    "price": "15,000원",
     "llm_confidence": 1.0,
-    "title": "Brian Shin & the Swing Makers",
-    "description": "Brian Shin & the Swing Makers performance.",
+    "title": "Brian Shin & The Swing Makers",
+    "description": null,
     "ticket_link": null,
     "age_limit": null,
     "genres": null,
     "_search_en": {
-      "title": "Brian Shin & the Swing Makers",
-      "description": "Brian Shin & the Swing Makers performance."
+      "title": "Brian Shin & The Swing Makers",
+      "description": null
     },
     "_search_ko": {
       "title": "브라이언 신 & 더 스윙 메이커스",
-      "description": "브라이언 신 & 더 스윙 메이커스 공연."
+      "description": null
     }
   },
   {
@@ -7065,17 +7225,17 @@
     "price": "20,000원",
     "llm_confidence": 1.0,
     "title": "Kim Ye-chan",
-    "description": "Kim Ye-chan jazz live performance.",
+    "description": null,
     "ticket_link": null,
     "age_limit": null,
     "genres": null,
     "_search_en": {
       "title": "Kim Ye-chan",
-      "description": "Kim Ye-chan jazz live performance."
+      "description": null
     },
     "_search_ko": {
       "title": "김예찬",
-      "description": "김예찬 재즈 라이브 공연."
+      "description": null
     }
   },
   {
@@ -7183,7 +7343,7 @@
   {
     "id": "evt_20260328_840b2220-758a-4329-a99d-3a7573767fb8",
     "event_key": "v:ven_10e36def-592b-447e-a571-ca96975b6e87|t:2026-03-28T11:00:00+00:00",
-    "source_url": "https://www.instagram.com/p/DVYNLxiE01v/",
+    "source_url": "https://www.instagram.com/p/DV5s4ihE3FX/",
     "venue_handle": "jazzlounge_official",
     "musician_ids": [],
     "musicians": [],
@@ -7194,24 +7354,28 @@
     "date": "2026-03-28",
     "sets": [
       {
-        "label": null,
+        "label": "1부",
         "time": "20:00"
+      },
+      {
+        "label": "2부",
+        "time": "21:00"
       }
     ],
-    "price": "KRW 8,000",
+    "price": "8,000원",
     "llm_confidence": 1.0,
-    "title": "Son Young-seo Trio",
-    "description": "Son Young-seo Trio performance. Roster: Son Young-seo (vocal), piano, bass.",
+    "title": "Son Yeongseo Trio",
+    "description": null,
     "ticket_link": null,
     "age_limit": null,
     "genres": null,
     "_search_en": {
-      "title": "Son Young-seo Trio",
-      "description": "Son Young-seo Trio performance. Roster: Son Young-seo (vocal), piano, bass."
+      "title": "Son Yeongseo Trio",
+      "description": null
     },
     "_search_ko": {
       "title": "손영서 트리오",
-      "description": "손영서 트리오 공연. 출연진: 손영서 (보컬), 피아노, 베이스."
+      "description": null
     }
   },
   {
@@ -7279,6 +7443,52 @@
     },
     "_search_ko": {
       "title": "콜린 김 트리오 (보컬 박민기)",
+      "description": null
+    }
+  },
+  {
+    "id": "evt_20260328_9c3cf7bf-8dfb-4bad-b732-6d715ae44c4e",
+    "event_key": "v:ven_269ddfb9-0de3-43b7-8845-98b29d7c6077|t:2026-03-28T11:00:00+00:00",
+    "source_url": "https://www.instagram.com/p/DV6Ccu8EyyG/",
+    "venue_handle": "subriot_hbc",
+    "musician_ids": [],
+    "musicians": [],
+    "musician_ig_handles": [],
+    "venue_id": "ven_269ddfb9-0de3-43b7-8845-98b29d7c6077",
+    "venue_location_id": "main",
+    "datetime": "2026-03-28T11:00:00+00:00",
+    "date": "2026-03-28",
+    "sets": [
+      {
+        "label": null,
+        "time": "20:00"
+      },
+      {
+        "label": null,
+        "time": "20:40"
+      },
+      {
+        "label": null,
+        "time": "21:00"
+      },
+      {
+        "label": null,
+        "time": "22:30"
+      }
+    ],
+    "price": "30,000원",
+    "llm_confidence": 1.0,
+    "title": "Groove Sessions",
+    "description": null,
+    "ticket_link": null,
+    "age_limit": null,
+    "genres": null,
+    "_search_en": {
+      "title": "Groove Sessions",
+      "description": null
+    },
+    "_search_ko": {
+      "title": "그루브 세션",
       "description": null
     }
   },
@@ -7455,7 +7665,7 @@
   {
     "id": "evt_20260328_1c71bce5-7586-4233-8c8f-128cb15e068a",
     "event_key": "v:ven_8cefa639-4b24-4b1d-a1c0-4adb40311bde|t:2026-03-28T12:40:00+00:00",
-    "source_url": "https://www.instagram.com/p/DVoEJKaGqQC/",
+    "source_url": "https://www.instagram.com/p/DV5vB-zmvMB/",
     "venue_handle": "flatnine_jazzbar",
     "musician_ids": [],
     "musicians": [],
@@ -7470,20 +7680,20 @@
         "time": "21:40"
       }
     ],
-    "price": "KRW 15,000",
+    "price": "15,000원",
     "llm_confidence": 1.0,
-    "title": "Yu Ha-ri Duo",
-    "description": "Yu Ha-ri Duo performance.",
+    "title": "Yu Hari Duo",
+    "description": null,
     "ticket_link": null,
     "age_limit": null,
     "genres": null,
     "_search_en": {
-      "title": "Yu Ha-ri Duo",
-      "description": "Yu Ha-ri Duo performance."
+      "title": "Yu Hari Duo",
+      "description": null
     },
     "_search_ko": {
       "title": "유하리 듀오",
-      "description": "유하리 듀오 공연."
+      "description": null
     }
   },
   {
@@ -7518,7 +7728,7 @@
   {
     "id": "evt_20260329_02f58c3e-2613-4c48-846e-d900ba2aea3b",
     "event_key": "v:ven_8cefa639-4b24-4b1d-a1c0-4adb40311bde|t:2026-03-29T07:00:00+00:00",
-    "source_url": "https://www.instagram.com/p/DVoEJKaGqQC/",
+    "source_url": "https://www.instagram.com/p/DV5vB-zmvMB/",
     "venue_handle": "flatnine_jazzbar",
     "musician_ids": [],
     "musicians": [],
@@ -7533,20 +7743,20 @@
         "time": "16:00"
       }
     ],
-    "price": "KRW 15,000",
+    "price": "15,000원",
     "llm_confidence": 1.0,
-    "title": "JAZZCATS",
-    "description": "JAZZCATS performance.",
+    "title": "Park Sangah JAZZCATS",
+    "description": null,
     "ticket_link": null,
     "age_limit": null,
     "genres": null,
     "_search_en": {
-      "title": "JAZZCATS",
-      "description": "JAZZCATS performance."
+      "title": "Park Sangah JAZZCATS",
+      "description": null
     },
     "_search_ko": {
-      "title": "재즈캣츠",
-      "description": "재즈캣츠 공연."
+      "title": "박상아 재즈캣츠",
+      "description": null
     }
   },
   {
@@ -7646,17 +7856,17 @@
     "price": null,
     "llm_confidence": 1.0,
     "title": "Hailluv Quartet",
-    "description": "Live performance by Hailluv and Lovely Friends.",
+    "description": null,
     "ticket_link": null,
     "age_limit": null,
     "genres": null,
     "_search_en": {
       "title": "Hailluv Quartet",
-      "description": "Live performance by Hailluv and Lovely Friends."
+      "description": null
     },
     "_search_ko": {
       "title": "해이럽 퀄텟",
-      "description": "Hailluv와 Lovely Friends의 라이브 공연."
+      "description": null
     }
   },
   {
@@ -7680,17 +7890,17 @@
     "price": "20,000원",
     "llm_confidence": 1.0,
     "title": "Kim Young-jae",
-    "description": "Kim Young-jae jazz live performance.",
+    "description": null,
     "ticket_link": null,
     "age_limit": null,
     "genres": null,
     "_search_en": {
       "title": "Kim Young-jae",
-      "description": "Kim Young-jae jazz live performance."
+      "description": null
     },
     "_search_ko": {
       "title": "김영재",
-      "description": "김영재 재즈 라이브 공연."
+      "description": null
     }
   },
   {
@@ -7730,7 +7940,7 @@
   {
     "id": "evt_20260329_e3d37f08-81a1-4915-b66e-8843cda7e15e",
     "event_key": "v:ven_8cefa639-4b24-4b1d-a1c0-4adb40311bde|t:2026-03-29T10:00:00+00:00",
-    "source_url": "https://www.instagram.com/p/DVoEJKaGqQC/",
+    "source_url": "https://www.instagram.com/p/DV5vB-zmvMB/",
     "venue_handle": "flatnine_jazzbar",
     "musician_ids": [],
     "musicians": [],
@@ -7745,20 +7955,20 @@
         "time": "19:00"
       }
     ],
-    "price": "KRW 15,000",
+    "price": "15,000원",
     "llm_confidence": 1.0,
-    "title": "Kim Won-mi",
-    "description": "Kim Won-mi performance.",
+    "title": "Kim Seongmi",
+    "description": null,
     "ticket_link": null,
     "age_limit": null,
     "genres": null,
     "_search_en": {
-      "title": "Kim Won-mi",
-      "description": "Kim Won-mi performance."
+      "title": "Kim Seongmi",
+      "description": null
     },
     "_search_ko": {
-      "title": "김원미",
-      "description": "김원미 공연."
+      "title": "김성미",
+      "description": null
     }
   },
   {
@@ -7992,23 +8202,23 @@
     "price": "20,000원",
     "llm_confidence": 1.0,
     "title": "Jung Woo-yeon",
-    "description": "Jung Woo-yeon jazz live performance.",
+    "description": null,
     "ticket_link": null,
     "age_limit": null,
     "genres": null,
     "_search_en": {
       "title": "Jung Woo-yeon",
-      "description": "Jung Woo-yeon jazz live performance."
+      "description": null
     },
     "_search_ko": {
       "title": "정우연",
-      "description": "정우연 재즈 라이브 공연."
+      "description": null
     }
   },
   {
     "id": "evt_20260330_4fbcd871-50f0-4e69-be0b-c1520c55a69a",
     "event_key": "v:ven_8cefa639-4b24-4b1d-a1c0-4adb40311bde|t:2026-03-30T11:00:00+00:00",
-    "source_url": "https://www.instagram.com/p/DVoEJKaGqQC/",
+    "source_url": "https://www.instagram.com/p/DV5vB-zmvMB/",
     "venue_handle": "flatnine_jazzbar",
     "musician_ids": [],
     "musicians": [],
@@ -8023,20 +8233,20 @@
         "time": "20:00"
       }
     ],
-    "price": "KRW 15,000",
+    "price": "15,000원",
     "llm_confidence": 1.0,
-    "title": "Kim Cheol-su Trio",
-    "description": "Kim Cheol-su Trio performance.",
+    "title": "Kim Cheolsu Trio",
+    "description": null,
     "ticket_link": null,
     "age_limit": null,
     "genres": null,
     "_search_en": {
-      "title": "Kim Cheol-su Trio",
-      "description": "Kim Cheol-su Trio performance."
+      "title": "Kim Cheolsu Trio",
+      "description": null
     },
     "_search_ko": {
       "title": "김철수 트리오",
-      "description": "김철수 트리오 공연."
+      "description": null
     }
   },
   {
@@ -8203,23 +8413,23 @@
     "price": "20,000원",
     "llm_confidence": 1.0,
     "title": "Jazz Jam Day",
-    "description": "Tuesday Jazz Jam Day.",
+    "description": null,
     "ticket_link": null,
     "age_limit": null,
     "genres": null,
     "_search_en": {
       "title": "Jazz Jam Day",
-      "description": "Tuesday Jazz Jam Day."
+      "description": null
     },
     "_search_ko": {
       "title": "재즈 잼 데이",
-      "description": "화요일 재즈 잼 데이."
+      "description": null
     }
   },
   {
     "id": "evt_20260331_8cfa46e4-ca60-413e-ac1d-5c3e31edc7b0",
     "event_key": "v:ven_8cefa639-4b24-4b1d-a1c0-4adb40311bde|t:2026-03-31T11:00:00+00:00",
-    "source_url": "https://www.instagram.com/p/DVoEJKaGqQC/",
+    "source_url": "https://www.instagram.com/p/DV5vB-zmvMB/",
     "venue_handle": "flatnine_jazzbar",
     "musician_ids": [],
     "musicians": [],
@@ -8234,20 +8444,20 @@
         "time": "20:00"
       }
     ],
-    "price": "KRW 15,000",
+    "price": "15,000원",
     "llm_confidence": 1.0,
-    "title": "Jo Un Quartet",
-    "description": "Jo Un Quartet performance.",
+    "title": "Jo Eun Quartet",
+    "description": null,
     "ticket_link": null,
     "age_limit": null,
     "genres": null,
     "_search_en": {
-      "title": "Jo Un Quartet",
-      "description": "Jo Un Quartet performance."
+      "title": "Jo Eun Quartet",
+      "description": null
     },
     "_search_ko": {
-      "title": "조운 퀄텟",
-      "description": "조운 퀄텟 공연."
+      "title": "조은 퀄텟",
+      "description": null
     }
   },
   {
@@ -8370,17 +8580,17 @@
     "price": "20,000원",
     "llm_confidence": 1.0,
     "title": "Paul Kirby",
-    "description": "Paul Kirby jazz live performance.",
+    "description": null,
     "ticket_link": null,
     "age_limit": null,
     "genres": null,
     "_search_en": {
       "title": "Paul Kirby",
-      "description": "Paul Kirby jazz live performance."
+      "description": null
     },
     "_search_ko": {
       "title": "폴 커비",
-      "description": "Paul Kirby 재즈 라이브 공연."
+      "description": null
     }
   },
   {
@@ -8470,17 +8680,17 @@
     "price": "20,000원",
     "llm_confidence": 1.0,
     "title": "Seo Su-jin",
-    "description": "Seo Su-jin jazz live performance.",
+    "description": null,
     "ticket_link": null,
     "age_limit": null,
     "genres": null,
     "_search_en": {
       "title": "Seo Su-jin",
-      "description": "Seo Su-jin jazz live performance."
+      "description": null
     },
     "_search_ko": {
       "title": "서수진",
-      "description": "서수진 재즈 라이브 공연."
+      "description": null
     }
   },
   {
@@ -8571,17 +8781,17 @@
     "price": "20,000원",
     "llm_confidence": 1.0,
     "title": "Lee Ju-mi",
-    "description": "Lee Ju-mi jazz live performance.",
+    "description": null,
     "ticket_link": null,
     "age_limit": null,
     "genres": null,
     "_search_en": {
       "title": "Lee Ju-mi",
-      "description": "Lee Ju-mi jazz live performance."
+      "description": null
     },
     "_search_ko": {
       "title": "이주미",
-      "description": "이주미 재즈 라이브 공연."
+      "description": null
     }
   },
   {
@@ -8707,17 +8917,17 @@
     "price": "20,000원",
     "llm_confidence": 1.0,
     "title": "The New Messengers",
-    "description": "Shin Dong-jin jazz live performance.",
+    "description": null,
     "ticket_link": null,
     "age_limit": null,
     "genres": null,
     "_search_en": {
       "title": "The New Messengers",
-      "description": "Shin Dong-jin jazz live performance."
+      "description": null
     },
     "_search_ko": {
       "title": "더 뉴 메신저스",
-      "description": "신동진 재즈 라이브 공연."
+      "description": null
     }
   },
   {
@@ -8791,7 +9001,7 @@
   {
     "id": "evt_20260405_a94ccf2f-6336-4adc-83a2-7879247115d2",
     "event_key": "v:ven_a0789558-4701-443e-ab9a-7600c005b2d8|t:2026-04-05T10:00:00+00:00",
-    "source_url": "https://www.instagram.com/p/DV4hkPhEn0I/",
+    "source_url": "https://www.instagram.com/p/DV3Z3PjkuW4/",
     "venue_handle": "sounddog_jazz",
     "musician_ids": [],
     "musicians": [],
@@ -8808,18 +9018,18 @@
     ],
     "price": "20,000원",
     "llm_confidence": 1.0,
-    "title": "Bruce Kang",
-    "description": "Lee Han-eul jazz live performance.",
+    "title": "Jang Hyun-seung Trio",
+    "description": null,
     "ticket_link": null,
     "age_limit": null,
     "genres": null,
     "_search_en": {
-      "title": "Bruce Kang",
-      "description": "Lee Han-eul jazz live performance."
+      "title": "Jang Hyun-seung Trio",
+      "description": null
     },
     "_search_ko": {
-      "title": "브루스 강",
-      "description": "이한얼 재즈 라이브 공연."
+      "title": "장현승 트리오",
+      "description": null
     }
   },
   {
@@ -8877,17 +9087,17 @@
     "price": "20,000원",
     "llm_confidence": 1.0,
     "title": "Kim Young-jik",
-    "description": "Jazz live performance by Ricotta Jazz Trio.",
+    "description": null,
     "ticket_link": null,
     "age_limit": null,
     "genres": null,
     "_search_en": {
       "title": "Kim Young-jik",
-      "description": "Jazz live performance by Ricotta Jazz Trio."
+      "description": null
     },
     "_search_ko": {
       "title": "김영직",
-      "description": "Ricotta Jazz Trio의 재즈 라이브 공연."
+      "description": null
     }
   },
   {
@@ -8911,17 +9121,17 @@
     "price": "20,000원",
     "llm_confidence": 1.0,
     "title": "Seo Su-jin",
-    "description": "Tuesday Jazz Jam Day.",
+    "description": null,
     "ticket_link": null,
     "age_limit": null,
     "genres": null,
     "_search_en": {
       "title": "Seo Su-jin",
-      "description": "Tuesday Jazz Jam Day."
+      "description": null
     },
     "_search_ko": {
       "title": "서수진",
-      "description": "화요일 재즈 잼 데이."
+      "description": null
     }
   },
   {
@@ -8945,17 +9155,17 @@
     "price": "20,000원",
     "llm_confidence": 1.0,
     "title": "Jung Woo-yeon",
-    "description": "Song Jun-young jazz live performance.",
+    "description": null,
     "ticket_link": null,
     "age_limit": null,
     "genres": null,
     "_search_en": {
       "title": "Jung Woo-yeon",
-      "description": "Song Jun-young jazz live performance."
+      "description": null
     },
     "_search_ko": {
       "title": "정우연",
-      "description": "송준영 재즈 라이브 공연."
+      "description": null
     }
   },
   {
@@ -9013,17 +9223,17 @@
     "price": "20,000원",
     "llm_confidence": 1.0,
     "title": "Lee Sang-soo",
-    "description": "Bae Min-hyuk jazz live performance.",
+    "description": null,
     "ticket_link": null,
     "age_limit": null,
     "genres": null,
     "_search_en": {
       "title": "Lee Sang-soo",
-      "description": "Bae Min-hyuk jazz live performance."
+      "description": null
     },
     "_search_ko": {
       "title": "이상수",
-      "description": "배민혁 재즈 라이브 공연."
+      "description": null
     }
   },
   {
@@ -9081,17 +9291,17 @@
     "price": "20,000원",
     "llm_confidence": 1.0,
     "title": "Kim Sang-beom",
-    "description": "Nam Yu-seon jazz live performance.",
+    "description": null,
     "ticket_link": null,
     "age_limit": null,
     "genres": null,
     "_search_en": {
       "title": "Kim Sang-beom",
-      "description": "Nam Yu-seon jazz live performance."
+      "description": null
     },
     "_search_ko": {
       "title": "김상범",
-      "description": "남유선 재즈 라이브 공연."
+      "description": null
     }
   },
   {
@@ -9183,17 +9393,17 @@
     "price": "20,000원",
     "llm_confidence": 1.0,
     "title": "Manuel Weyand",
-    "description": "Jazz live performance by New Jazz Messengers.",
+    "description": null,
     "ticket_link": null,
     "age_limit": null,
     "genres": null,
     "_search_en": {
       "title": "Manuel Weyand",
-      "description": "Jazz live performance by New Jazz Messengers."
+      "description": null
     },
     "_search_ko": {
       "title": "마누엘 웨이언드",
-      "description": "New Jazz Messengers의 재즈 라이브 공연."
+      "description": null
     }
   },
   {
@@ -9287,17 +9497,17 @@
     "price": "20,000원",
     "llm_confidence": 1.0,
     "title": "Jazz Jam Day",
-    "description": "Ahn Hyun-bin jazz live performance.",
+    "description": null,
     "ticket_link": null,
     "age_limit": null,
     "genres": null,
     "_search_en": {
       "title": "Jazz Jam Day",
-      "description": "Ahn Hyun-bin jazz live performance."
+      "description": null
     },
     "_search_ko": {
       "title": "재즈 잼 데이",
-      "description": "안현빈 재즈 라이브 공연."
+      "description": null
     }
   },
   {
@@ -9355,17 +9565,17 @@
     "price": "20,000원",
     "llm_confidence": 1.0,
     "title": "Kang Jae-hoon",
-    "description": "Damon Brown jazz live performance.",
+    "description": null,
     "ticket_link": null,
     "age_limit": null,
     "genres": null,
     "_search_en": {
       "title": "Kang Jae-hoon",
-      "description": "Damon Brown jazz live performance."
+      "description": null
     },
     "_search_ko": {
       "title": "강재훈",
-      "description": "Damon Brown 재즈 라이브 공연."
+      "description": null
     }
   },
   {
@@ -9389,17 +9599,17 @@
     "price": "20,000원",
     "llm_confidence": 1.0,
     "title": "Kim Gi-beom Sounddog 4Days",
-    "description": "Tuesday Jazz Jam Day.",
+    "description": null,
     "ticket_link": null,
     "age_limit": null,
     "genres": null,
     "_search_en": {
       "title": "Kim Gi-beom Sounddog 4Days",
-      "description": "Tuesday Jazz Jam Day."
+      "description": null
     },
     "_search_ko": {
       "title": "김기범 사운드독 포 데이즈",
-      "description": "화요일 재즈 잼 데이."
+      "description": null
     }
   },
   {
@@ -9423,17 +9633,17 @@
     "price": "20,000원",
     "llm_confidence": 1.0,
     "title": "Kim Gi-beom Sounddog 4Days",
-    "description": "Manuel Weyand jazz live performance.",
+    "description": null,
     "ticket_link": null,
     "age_limit": null,
     "genres": null,
     "_search_en": {
       "title": "Kim Gi-beom Sounddog 4Days",
-      "description": "Manuel Weyand jazz live performance."
+      "description": null
     },
     "_search_ko": {
       "title": "김기범 사운드독 포 데이즈",
-      "description": "Manuel Weyand 재즈 라이브 공연."
+      "description": null
     }
   },
   {
@@ -9491,17 +9701,17 @@
     "price": "20,000원",
     "llm_confidence": 1.0,
     "title": "Kim Gi-beom Sounddog 4Days",
-    "description": "Lee Ji-young jazz live performance.",
+    "description": null,
     "ticket_link": null,
     "age_limit": null,
     "genres": null,
     "_search_en": {
       "title": "Kim Gi-beom Sounddog 4Days",
-      "description": "Lee Ji-young jazz live performance."
+      "description": null
     },
     "_search_ko": {
       "title": "김기범 사운드독 포 데이즈",
-      "description": "이지영 재즈 라이브 공연."
+      "description": null
     }
   },
   {
@@ -9559,17 +9769,17 @@
     "price": "20,000원",
     "llm_confidence": 1.0,
     "title": "Kim Gi-beom Sounddog 4Days",
-    "description": "Manuel Weyand jazz live performance.",
+    "description": null,
     "ticket_link": null,
     "age_limit": null,
     "genres": null,
     "_search_en": {
       "title": "Kim Gi-beom Sounddog 4Days",
-      "description": "Manuel Weyand jazz live performance."
+      "description": null
     },
     "_search_ko": {
       "title": "김기범 사운드독 포 데이즈",
-      "description": "Manuel Weyand 재즈 라이브 공연."
+      "description": null
     }
   },
   {
@@ -9627,17 +9837,17 @@
     "price": "20,000원",
     "llm_confidence": 1.0,
     "title": "Jazz Jam Day",
-    "description": "Jazz live performance by Charlie Jung Kailash Band.",
+    "description": null,
     "ticket_link": null,
     "age_limit": null,
     "genres": null,
     "_search_en": {
       "title": "Jazz Jam Day",
-      "description": "Jazz live performance by Charlie Jung Kailash Band."
+      "description": null
     },
     "_search_ko": {
       "title": "재즈 잼 데이",
-      "description": "찰리정 Kailash Band의 재즈 라이브 공연."
+      "description": null
     }
   },
   {
@@ -9695,17 +9905,17 @@
     "price": "20,000원",
     "llm_confidence": 1.0,
     "title": "Damon Brown",
-    "description": "Kim Bo-min jazz live performance.",
+    "description": null,
     "ticket_link": null,
     "age_limit": null,
     "genres": null,
     "_search_en": {
       "title": "Damon Brown",
-      "description": "Kim Bo-min jazz live performance."
+      "description": null
     },
     "_search_ko": {
       "title": "데이먼 브라운",
-      "description": "김보민 재즈 라이브 공연."
+      "description": null
     }
   },
   {
@@ -9763,17 +9973,17 @@
     "price": "20,000원",
     "llm_confidence": 1.0,
     "title": "Kim Min-chan",
-    "description": "Ten Years of Living Jazz jazz live performance.",
+    "description": null,
     "ticket_link": null,
     "age_limit": null,
     "genres": null,
     "_search_en": {
       "title": "Kim Min-chan",
-      "description": "Ten Years of Living Jazz jazz live performance."
+      "description": null
     },
     "_search_ko": {
       "title": "김민찬",
-      "description": "Ten Years of Living Jazz 재즈 라이브 공연."
+      "description": null
     }
   },
   {
@@ -9797,17 +10007,17 @@
     "price": "20,000원",
     "llm_confidence": 1.0,
     "title": "Kim Min-chan",
-    "description": "Ten Years of Living Jazz jazz live performance.",
+    "description": null,
     "ticket_link": null,
     "age_limit": null,
     "genres": null,
     "_search_en": {
       "title": "Kim Min-chan",
-      "description": "Ten Years of Living Jazz jazz live performance."
+      "description": null
     },
     "_search_ko": {
       "title": "김민찬",
-      "description": "Ten Years of Living Jazz 재즈 라이브 공연."
+      "description": null
     }
   },
   {
@@ -9831,17 +10041,17 @@
     "price": "20,000원",
     "llm_confidence": 1.0,
     "title": "Lee Sang-min",
-    "description": "Ten Years of Living Jazz jazz live performance.",
+    "description": null,
     "ticket_link": null,
     "age_limit": null,
     "genres": null,
     "_search_en": {
       "title": "Lee Sang-min",
-      "description": "Ten Years of Living Jazz jazz live performance."
+      "description": null
     },
     "_search_ko": {
       "title": "이상민",
-      "description": "Ten Years of Living Jazz 재즈 라이브 공연."
+      "description": null
     }
   },
   {
@@ -9899,17 +10109,17 @@
     "price": "20,000원",
     "llm_confidence": 1.0,
     "title": "Paul Kirby",
-    "description": "Ten Years of Living Jazz jazz live performance.",
+    "description": null,
     "ticket_link": null,
     "age_limit": null,
     "genres": null,
     "_search_en": {
       "title": "Paul Kirby",
-      "description": "Ten Years of Living Jazz jazz live performance."
+      "description": null
     },
     "_search_ko": {
       "title": "폴 커비",
-      "description": "Ten Years of Living Jazz 재즈 라이브 공연."
+      "description": null
     }
   },
   {
@@ -10007,17 +10217,17 @@
     "price": "20,000원",
     "llm_confidence": 1.0,
     "title": "Vellaja",
-    "description": "Ten Years of Living Jazz jazz live performance.",
+    "description": null,
     "ticket_link": null,
     "age_limit": null,
     "genres": null,
     "_search_en": {
       "title": "Vellaja",
-      "description": "Ten Years of Living Jazz jazz live performance."
+      "description": null
     },
     "_search_ko": {
       "title": "벨라자",
-      "description": "Ten Years of Living Jazz 재즈 라이브 공연."
+      "description": null
     }
   },
   {
@@ -10075,17 +10285,17 @@
     "price": "20,000원",
     "llm_confidence": 1.0,
     "title": "Park Him-chan",
-    "description": "Ten Years of Living Jazz jazz live performance.",
+    "description": null,
     "ticket_link": null,
     "age_limit": null,
     "genres": null,
     "_search_en": {
       "title": "Park Him-chan",
-      "description": "Ten Years of Living Jazz jazz live performance."
+      "description": null
     },
     "_search_ko": {
       "title": "박힘찬",
-      "description": "Ten Years of Living Jazz 재즈 라이브 공연."
+      "description": null
     }
   },
   {
@@ -10179,17 +10389,17 @@
     "price": "20,000원",
     "llm_confidence": 1.0,
     "title": "Jazz Jam Day",
-    "description": "Kwon Se-jun jazz live performance.",
+    "description": null,
     "ticket_link": null,
     "age_limit": null,
     "genres": null,
     "_search_en": {
       "title": "Jazz Jam Day",
-      "description": "Kwon Se-jun jazz live performance."
+      "description": null
     },
     "_search_ko": {
       "title": "재즈 잼 데이",
-      "description": "권세준 재즈 라이브 공연."
+      "description": null
     }
   },
   {
@@ -10247,17 +10457,17 @@
     "price": "20,000원",
     "llm_confidence": 1.0,
     "title": "Lee Seong-gu",
-    "description": "Kwon Se-jun jazz live performance.",
+    "description": null,
     "ticket_link": null,
     "age_limit": null,
     "genres": null,
     "_search_en": {
       "title": "Lee Seong-gu",
-      "description": "Kwon Se-jun jazz live performance."
+      "description": null
     },
     "_search_ko": {
       "title": "이성구",
-      "description": "권세준 재즈 라이브 공연."
+      "description": null
     }
   },
   {
@@ -10281,17 +10491,17 @@
     "price": "20,000원",
     "llm_confidence": 1.0,
     "title": "Lee Ji-young",
-    "description": "Tuesday Jazz Jam Day.",
+    "description": null,
     "ticket_link": null,
     "age_limit": null,
     "genres": null,
     "_search_en": {
       "title": "Lee Ji-young",
-      "description": "Tuesday Jazz Jam Day."
+      "description": null
     },
     "_search_ko": {
       "title": "이지영",
-      "description": "화요일 재즈 잼 데이."
+      "description": null
     }
   },
   {
@@ -10315,17 +10525,17 @@
     "price": "20,000원",
     "llm_confidence": 1.0,
     "title": "Ryu Da-bin",
-    "description": "Damon Brown jazz live performance.",
+    "description": null,
     "ticket_link": null,
     "age_limit": null,
     "genres": null,
     "_search_en": {
       "title": "Ryu Da-bin",
-      "description": "Damon Brown jazz live performance."
+      "description": null
     },
     "_search_ko": {
       "title": "류다빈",
-      "description": "Damon Brown 재즈 라이브 공연."
+      "description": null
     }
   },
   {
@@ -10418,17 +10628,17 @@
     "price": null,
     "llm_confidence": 1.0,
     "title": "An Shinae Quintet",
-    "description": "Gwacheon Jazz Picnic May 1st Friday lineup.",
+    "description": null,
     "ticket_link": null,
     "age_limit": null,
     "genres": null,
     "_search_en": {
       "title": "An Shinae Quintet",
-      "description": "Gwacheon Jazz Picnic May 1st Friday lineup."
+      "description": null
     },
     "_search_ko": {
       "title": "안신애 퀸텟",
-      "description": "과천재즈피크닉 5월 1일 금요일 라인업."
+      "description": null
     }
   },
   {
@@ -10483,17 +10693,17 @@
     "price": null,
     "llm_confidence": 1.0,
     "title": "Raul Midon",
-    "description": "Gwacheon Jazz Picnic May 2nd Saturday lineup.",
+    "description": null,
     "ticket_link": null,
     "age_limit": null,
     "genres": null,
     "_search_en": {
       "title": "Raul Midon",
-      "description": "Gwacheon Jazz Picnic May 2nd Saturday lineup."
+      "description": null
     },
     "_search_ko": {
       "title": "라울 미동",
-      "description": "과천재즈피크닉 5월 2일 토요일 라인업."
+      "description": null
     }
   },
   {
