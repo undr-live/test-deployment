@@ -5,25 +5,24 @@
 ## Build Information
 
 - **Environment**: TEST
-- **Build Time**: 2026-03-21T21:39:07Z
-- **Source Commit**: [`429d3e555dce624f757a4de4e5b7cfbe77e11862`](https://github.com/keunwoochoi/seoulunderground.live/commit/429d3e555dce624f757a4de4e5b7cfbe77e11862)
+- **Build Time**: 2026-03-21T22:01:17Z
+- **Source Commit**: [`2e994b3601941a8aec269efbd42fed941b1383be`](https://github.com/keunwoochoi/seoulunderground.live/commit/2e994b3601941a8aec269efbd42fed941b1383be)
 - **Branch**: `feat/seo-llm-optimization`
-- **Workflow Run**: [View logs](https://github.com/keunwoochoi/seoulunderground.live/actions/runs/23389358066)
+- **Workflow Run**: [View logs](https://github.com/keunwoochoi/seoulunderground.live/actions/runs/23389734755)
 
 ## Commit Details
 
 - **Author**: Keunwoo Choi <gnuchoi+github@gmail.com>
-- **Message**: feat: SEO and LLM optimization — meta tags, structured data, GA4 update
+- **Message**: feat: static HTML pages for SEO crawlability + Naver/Google SC prep
 
-- Update GA4 measurement ID to G-6T1KPG2K45 (new undr.live stream)
-- Add descriptive <title>, <meta description>, Open Graph, Twitter Card tags
-- Set lang="ko" (site is Korean-first)
-- Add canonical URL
-- Add robots.txt (allow all, sitemap reference)
-- Add sitemap.xml with hreflang alternates for ko/en
-- Inject dynamic JSON-LD structured data (schema.org WebSite + MusicEvent)
-  so search engines and LLMs can cite individual upcoming events
-- Fix 404.html title (was "Seoul Underground Live")
+- generate_seo_pages.py: generates events.html (full listing) and
+  digest/YYYY-MM-DD/index.html (weekly digest) from exported JSON.
+  Both are plain HTML — readable by Naver Yeti and other non-JS crawlers.
+  Hooked into deploy workflow after JSON export, before npm build.
+- sitemap.xml: add events.html entry
+- index.html: add commented placeholders for Google SC + Naver verification
+  meta tags (fill in after registering properties)
+- Ship current week's events.html and digest page with this commit
 
 Co-Authored-By: Claude Sonnet 4.6 <noreply@anthropic.com>
 
