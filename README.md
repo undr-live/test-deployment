@@ -5,20 +5,25 @@
 ## Build Information
 
 - **Environment**: TEST
-- **Build Time**: 2026-03-21T21:10:25Z
-- **Source Commit**: [`de823bfee5ad9eabad4c9cb2599bd729029ac469`](https://github.com/keunwoochoi/seoulunderground.live/commit/de823bfee5ad9eabad4c9cb2599bd729029ac469)
-- **Branch**: `fix/screenshot-footer-visibility`
-- **Workflow Run**: [View logs](https://github.com/keunwoochoi/seoulunderground.live/actions/runs/23388864404)
+- **Build Time**: 2026-03-21T21:39:07Z
+- **Source Commit**: [`429d3e555dce624f757a4de4e5b7cfbe77e11862`](https://github.com/keunwoochoi/seoulunderground.live/commit/429d3e555dce624f757a4de4e5b7cfbe77e11862)
+- **Branch**: `feat/seo-llm-optimization`
+- **Workflow Run**: [View logs](https://github.com/keunwoochoi/seoulunderground.live/actions/runs/23389358066)
 
 ## Commit Details
 
 - **Author**: Keunwoo Choi <gnuchoi+github@gmail.com>
-- **Message**: fix: per-page adaptive event count to keep footer visible in screenshots
+- **Message**: feat: SEO and LLM optimization — meta tags, structured data, GA4 update
 
-Each story page now independently probes from 7 down to 3 events to find
-the maximum count that keeps the @undr.live footer within the 593px crop
-boundary. This preserves 1부/2부 set detail while ensuring the footer is
-never clipped, regardless of row height variation across pages.
+- Update GA4 measurement ID to G-6T1KPG2K45 (new undr.live stream)
+- Add descriptive <title>, <meta description>, Open Graph, Twitter Card tags
+- Set lang="ko" (site is Korean-first)
+- Add canonical URL
+- Add robots.txt (allow all, sitemap reference)
+- Add sitemap.xml with hreflang alternates for ko/en
+- Inject dynamic JSON-LD structured data (schema.org WebSite + MusicEvent)
+  so search engines and LLMs can cite individual upcoming events
+- Fix 404.html title (was "Seoul Underground Live")
 
 Co-Authored-By: Claude Sonnet 4.6 <noreply@anthropic.com>
 
