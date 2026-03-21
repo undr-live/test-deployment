@@ -5,19 +5,24 @@
 ## Build Information
 
 - **Environment**: TEST
-- **Build Time**: 2026-03-19T04:56:48Z
-- **Source Commit**: [`b7289729140e4c253c10eb7df8048dabe961a486`](https://github.com/keunwoochoi/seoulunderground.live/commit/b7289729140e4c253c10eb7df8048dabe961a486)
-- **Branch**: `fix/stale-highlight-titles`
-- **Workflow Run**: [View logs](https://github.com/keunwoochoi/seoulunderground.live/actions/runs/23280498649)
+- **Build Time**: 2026-03-21T17:20:12Z
+- **Source Commit**: [`662cba241094eee1ce26828dc9caba098a3f6c5d`](https://github.com/keunwoochoi/seoulunderground.live/commit/662cba241094eee1ce26828dc9caba098a3f6c5d)
+- **Branch**: `fix/screenshot-footer-visibility`
+- **Workflow Run**: [View logs](https://github.com/keunwoochoi/seoulunderground.live/actions/runs/23384709343)
 
 ## Commit Details
 
 - **Author**: Keunwoo Choi <gnuchoi+github@gmail.com>
-- **Message**: perf: batch-fetch events and translations in export_highlights
+- **Message**: fix: ensure Instagram footer is always visible in screenshot pages
 
-Fixes N+1 query pattern: was doing 2 queries per highlight inside the
-loop. Now fetches all events and translations in 2 queries total using
-IN clauses.
+Rows with 1부/2부 set schedules are taller than single-set rows,
+pushing the footer below the viewport crop window. Fix:
+
+1. Add data-ig-footer attribute to InstagramFooter for reliable
+   Playwright targeting.
+2. Before taking screenshots, probe page 1 and measure whether the
+   footer is within the viewport. If clipped, reduce epp by 1 and
+   re-probe until it fits (min epp: 5).
 
 Co-Authored-By: Claude Sonnet 4.6 <noreply@anthropic.com>
 
