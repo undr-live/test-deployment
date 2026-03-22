@@ -5,31 +5,23 @@
 ## Build Information
 
 - **Environment**: TEST
-- **Build Time**: 2026-03-22T03:34:43Z
-- **Source Commit**: [`4eb7366454ca789ce492489c83652bb330b7a0fa`](https://github.com/keunwoochoi/seoulunderground.live/commit/4eb7366454ca789ce492489c83652bb330b7a0fa)
+- **Build Time**: 2026-03-22T03:43:06Z
+- **Source Commit**: [`913be3ad1637a21cf19ace655dd4252afee38ab0`](https://github.com/keunwoochoi/seoulunderground.live/commit/913be3ad1637a21cf19ace655dd4252afee38ab0)
 - **Branch**: `refactor/remove-hardcoded-paths`
-- **Workflow Run**: [View logs](https://github.com/keunwoochoi/seoulunderground.live/actions/runs/23394892932)
+- **Workflow Run**: [View logs](https://github.com/keunwoochoi/seoulunderground.live/actions/runs/23395010848)
 
 ## Commit Details
 
 - **Author**: Keunwoo Choi <gnuchoi+github@gmail.com>
-- **Message**: refactor: remove hardcoded paths and inline config values
+- **Message**: fix: address code review on install.sh and sitemap
 
-1. deploy-pages.yml: replace /Users/keunwoo/... with $DEV_WORKSPACE
-   (configurable via GitHub Actions variable, defaults to $HOME/Codes/seoul.music)
-   and $HOME for the github_actions temp dir sweep.
-
-2. launchd plists: replace /Users/keunwoo/... with __PROJECT_DIR__ and
-   __HOME_DIR__ placeholders. Add config/launchd/install.sh to stamp in
-   real paths and load into ~/Library/LaunchAgents/ on any machine.
-
-3. ig_post_daily.py: replace inline {"jazz": "재즈", ...} dict with
-   config.GENRES[genre]["display_name_ko"].
-
-4. generate_seo_pages.py: replace hardcoded LOCALITIES = [("seoul","jazz")]
-   with a derivation from config.LOCALITY_GENRE_REGISTRY (enabled entries).
-   Fix output path collision: now writes to public/{locality}/{genre}/.
-   Add display_name/display_name_ko to config.LOCALITIES and config.GENRES.
+- install.sh: fix argument parsing — was using positional $1 so
+  --project-dir flag was assigned literally as the path. Now parses
+  --project-dir <value> correctly with an error if value is missing.
+- generate_seo_pages.py: add generate_sitemap() — rewrites sitemap.xml
+  automatically from enabled LOCALITY_GENRE_REGISTRY entries, including
+  all app routes (with hreflang), events.html, and digest pages per locality.
+  Sitemap is now always in sync with config; no manual edits needed.
 
 Co-Authored-By: Claude Sonnet 4.6 <noreply@anthropic.com>
 
