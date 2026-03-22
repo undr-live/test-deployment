@@ -5,15 +5,18 @@
 ## Build Information
 
 - **Environment**: TEST
-- **Build Time**: 2026-03-22T18:25:12Z
-- **Source Commit**: [`9967ba4fbc3dbb2521dd6cbad01c4185c342bd8d`](https://github.com/keunwoochoi/seoulunderground.live/commit/9967ba4fbc3dbb2521dd6cbad01c4185c342bd8d)
+- **Build Time**: 2026-03-22T18:31:26Z
+- **Source Commit**: [`3c283f950b2e77ef750da8b73b7defd2edcc1190`](https://github.com/keunwoochoi/seoulunderground.live/commit/3c283f950b2e77ef750da8b73b7defd2edcc1190)
 - **Branch**: `feat/pr-a-filter-pills-group-by`
-- **Workflow Run**: [View logs](https://github.com/keunwoochoi/seoulunderground.live/actions/runs/23409528151)
+- **Workflow Run**: [View logs](https://github.com/keunwoochoi/seoulunderground.live/actions/runs/23409643908)
 
 ## Commit Details
 
 - **Author**: Keunwoo Choi <gnuchoi+github@gmail.com>
-- **Message**: feat: sort group-by-venue by tier then event count (same as 공연장 tab)
+- **Message**: fix: always show group-by toggle regardless of view mode
+
+Was hidden in table view, so desktop users with saved table preference
+couldn't see it.
 
 Co-Authored-By: Claude Sonnet 4.6 <noreply@anthropic.com>
 
