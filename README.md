@@ -5,27 +5,20 @@
 ## Build Information
 
 - **Environment**: TEST
-- **Build Time**: 2026-03-22T04:32:18Z
-- **Source Commit**: [`e18cbdb9ecbe3ac454b003f3c3808bcce5b5e538`](https://github.com/keunwoochoi/seoulunderground.live/commit/e18cbdb9ecbe3ac454b003f3c3808bcce5b5e538)
-- **Branch**: `refactor/remove-hardcoded-paths`
-- **Workflow Run**: [View logs](https://github.com/keunwoochoi/seoulunderground.live/actions/runs/23395702696)
+- **Build Time**: 2026-03-22T05:23:36Z
+- **Source Commit**: [`f065a361edfb15c2c112aac62a52c503ecfdf805`](https://github.com/keunwoochoi/seoulunderground.live/commit/f065a361edfb15c2c112aac62a52c503ecfdf805)
+- **Branch**: `fix/export-venue-tier`
+- **Workflow Run**: [View logs](https://github.com/keunwoochoi/seoulunderground.live/actions/runs/23396430435)
 
 ## Commit Details
 
 - **Author**: Keunwoo Choi <gnuchoi+github@gmail.com>
-- **Message**: fix: locale-aware SEO pages + regenerate stale HTML
+- **Message**: fix: export venue tier field in static JSON
 
-- Add _UI dict for ko/de/en: html lang, CTA text, last-updated label,
-  performers label, service description
-- Add _fmt_date() for locale-aware date headers (Korean / English)
-- _render_event: add lang param; uses locale performers label
-- _render_page: use primary_lang to drive all UI strings; html lang attr
-- generate(): load events.{primary_lang}.json (not hardcoded ko); generate
-  locale-appropriate title/subtitle/description for non-ko localities
-- Regenerate all HTML with corrected output:
-  - Germany: <html lang="de">, German CTA/labels, English event text,
-    correct CTA URL (/germany/jazz/de), correct IG handle
-- Add 11 new tests covering i18n (45 total, all pass)
+tier was missing from the venues export, causing all venues to default
+to tier 1 in static mode. Tier-3 venues like @gc_jazzpicnic were ranking
+as high as tier-0/1 venues since the frontend sort fell back to event
+count alone.
 
 Co-Authored-By: Claude Sonnet 4.6 <noreply@anthropic.com>
 
