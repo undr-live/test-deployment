@@ -5,18 +5,15 @@
 ## Build Information
 
 - **Environment**: TEST
-- **Build Time**: 2026-03-22T18:31:26Z
-- **Source Commit**: [`3c283f950b2e77ef750da8b73b7defd2edcc1190`](https://github.com/keunwoochoi/seoulunderground.live/commit/3c283f950b2e77ef750da8b73b7defd2edcc1190)
+- **Build Time**: 2026-03-22T18:32:26Z
+- **Source Commit**: [`9cdf845661707d30cf0e074bad6c470ec6e46c3c`](https://github.com/keunwoochoi/seoulunderground.live/commit/9cdf845661707d30cf0e074bad6c470ec6e46c3c)
 - **Branch**: `feat/pr-a-filter-pills-group-by`
-- **Workflow Run**: [View logs](https://github.com/keunwoochoi/seoulunderground.live/actions/runs/23409643908)
+- **Workflow Run**: [View logs](https://github.com/keunwoochoi/seoulunderground.live/actions/runs/23409648474)
 
 ## Commit Details
 
 - **Author**: Keunwoo Choi <gnuchoi+github@gmail.com>
-- **Message**: fix: always show group-by toggle regardless of view mode
-
-Was hidden in table view, so desktop users with saved table preference
-couldn't see it.
+- **Message**: fix: capitalize Today in English i18n
 
 Co-Authored-By: Claude Sonnet 4.6 <noreply@anthropic.com>
 
