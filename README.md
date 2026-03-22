@@ -5,25 +5,19 @@
 ## Build Information
 
 - **Environment**: TEST
-- **Build Time**: 2026-03-21T23:52:37Z
-- **Source Commit**: [`5c349a1ffdacec343c4de960e30067d2a1bd7381`](https://github.com/keunwoochoi/seoulunderground.live/commit/5c349a1ffdacec343c4de960e30067d2a1bd7381)
-- **Branch**: `feat/seo-llm-optimization`
-- **Workflow Run**: [View logs](https://github.com/keunwoochoi/seoulunderground.live/actions/runs/23391547375)
+- **Build Time**: 2026-03-22T01:12:52Z
+- **Source Commit**: [`3d03b7b2bb218b3ceb7c8d274cb25d30ef2698b5`](https://github.com/keunwoochoi/seoulunderground.live/commit/3d03b7b2bb218b3ceb7c8d274cb25d30ef2698b5)
+- **Branch**: `chore/cleanup-actions-temp-dirs`
+- **Workflow Run**: [View logs](https://github.com/keunwoochoi/seoulunderground.live/actions/runs/23392790210)
 
 ## Commit Details
 
 - **Author**: Keunwoo Choi <gnuchoi+github@gmail.com>
-- **Message**: fix: address code review on JSON-LD structured data
+- **Message**: chore: move actions-gh-pages temp dirs to ~/github_actions after each deploy
 
-- Fix performer name: was using m.name (doesn't exist); now uses
-  getI18nValueWithFallback(name_ko/name_en) || name_irl || ig_handle
-- Fix SearchAction target and MusicEvent url fallback: were hardcoded to
-  /seoul/jazz/ko; now use locality/genre/lang route variables
-- Fix addressLocality/addressCountry: were hardcoded to 서울/KR; now derive
-  from LOCALITY_GEO map in locality.ts (seoul→서울/KR, germany→Germany/DE)
-- Sync canonical and og:url to current route in same useEffect
-  (was hardcoded to root in index.html, wrong for /seoul/jazz/en etc.)
-- Add LOCALITY_GEO to locality.ts dependency array
+peaceiris/actions-gh-pages creates actions_github_pages_* dirs in $HOME
+with no config option to change the location. This step moves them to
+~/github_actions/ after every deploy run (even on failure).
 
 Co-Authored-By: Claude Sonnet 4.6 <noreply@anthropic.com>
 
