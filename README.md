@@ -5,20 +5,20 @@
 ## Build Information
 
 - **Environment**: TEST
-- **Build Time**: 2026-03-22T05:23:36Z
-- **Source Commit**: [`f065a361edfb15c2c112aac62a52c503ecfdf805`](https://github.com/keunwoochoi/seoulunderground.live/commit/f065a361edfb15c2c112aac62a52c503ecfdf805)
-- **Branch**: `fix/export-venue-tier`
-- **Workflow Run**: [View logs](https://github.com/keunwoochoi/seoulunderground.live/actions/runs/23396430435)
+- **Build Time**: 2026-03-22T05:46:01Z
+- **Source Commit**: [`2eceaba058a79ce7a45d0aa215201febeb59ee85`](https://github.com/keunwoochoi/seoulunderground.live/commit/2eceaba058a79ce7a45d0aa215201febeb59ee85)
+- **Branch**: `fix/frontend-copy-fixes`
+- **Workflow Run**: [View logs](https://github.com/keunwoochoi/seoulunderground.live/actions/runs/23396749532)
 
 ## Commit Details
 
 - **Author**: Keunwoo Choi <gnuchoi+github@gmail.com>
-- **Message**: fix: export venue tier field in static JSON
+- **Message**: fix: remove duplicate CET, drop germany IG handle, clean Korean copy
 
-tier was missing from the venues export, causing all venues to default
-to tier 1 in static mode. Tier-3 venues like @gc_jazzpicnic were ranking
-as high as tier-0/1 venues since the frontend sort fell back to event
-count alone.
+- CET appeared twice (approxCET() already appends ' CET', call sites
+  were appending it again)
+- Remove @undr.live_germany.jazz from footer (account doesn't exist)
+- Korean welcome: remove '(이하 sul)', replace 'sul' with 'undr.live'
 
 Co-Authored-By: Claude Sonnet 4.6 <noreply@anthropic.com>
 
