@@ -5,23 +5,27 @@
 ## Build Information
 
 - **Environment**: TEST
-- **Build Time**: 2026-03-22T03:43:06Z
-- **Source Commit**: [`913be3ad1637a21cf19ace655dd4252afee38ab0`](https://github.com/keunwoochoi/seoulunderground.live/commit/913be3ad1637a21cf19ace655dd4252afee38ab0)
+- **Build Time**: 2026-03-22T04:20:16Z
+- **Source Commit**: [`de036df811d98662485c068f76eb265e86212b78`](https://github.com/keunwoochoi/seoulunderground.live/commit/de036df811d98662485c068f76eb265e86212b78)
 - **Branch**: `refactor/remove-hardcoded-paths`
-- **Workflow Run**: [View logs](https://github.com/keunwoochoi/seoulunderground.live/actions/runs/23395010848)
+- **Workflow Run**: [View logs](https://github.com/keunwoochoi/seoulunderground.live/actions/runs/23395536088)
 
 ## Commit Details
 
 - **Author**: Keunwoo Choi <gnuchoi+github@gmail.com>
-- **Message**: fix: address code review on install.sh and sitemap
+- **Message**: fix: resolve runner.home error + opt into Node.js 24 across all workflows
 
-- install.sh: fix argument parsing — was using positional $1 so
-  --project-dir flag was assigned literally as the path. Now parses
-  --project-dir <value> correctly with an error if value is missing.
-- generate_seo_pages.py: add generate_sitemap() — rewrites sitemap.xml
-  automatically from enabled LOCALITY_GENRE_REGISTRY entries, including
-  all app routes (with hreflang), events.html, and digest pages per locality.
-  Sitemap is now always in sync with config; no manual edits needed.
+runner.home is not available in job-level env: expressions; move
+DEV_WORKSPACE resolution to a dedicated setup step using $GITHUB_ENV
+with vars.DEV_WORKSPACE as override and $HOME/Codes/seoul.music as
+fallback. Apply to both deploy-pages.yml and deploy-test.yml.
+
+Also fix hardcoded /Users/keunwoo path in deploy-test.yml (uses
+$DEV_WORKSPACE now like deploy-pages.yml).
+
+Add FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true to all jobs to opt in
+before the June 2026 forced migration; bump node-version 20 → 24
+in all setup-node steps.
 
 Co-Authored-By: Claude Sonnet 4.6 <noreply@anthropic.com>
 
