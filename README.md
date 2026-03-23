@@ -5,21 +5,15 @@
 ## Build Information
 
 - **Environment**: TEST
-- **Build Time**: 2026-03-23T00:09:39Z
-- **Source Commit**: [`382a848c011fa907cdf5f4e2fb9f061562de6ea5`](https://github.com/keunwoochoi/seoulunderground.live/commit/382a848c011fa907cdf5f4e2fb9f061562de6ea5)
+- **Build Time**: 2026-03-23T00:10:30Z
+- **Source Commit**: [`9d91189c3dfd43cae93298e7cf4058a0f272bc17`](https://github.com/keunwoochoi/seoulunderground.live/commit/9d91189c3dfd43cae93298e7cf4058a0f272bc17)
 - **Branch**: `feat/pr-c-performer-instruments`
-- **Workflow Run**: [View logs](https://github.com/keunwoochoi/seoulunderground.live/actions/runs/23415846300)
+- **Workflow Run**: [View logs](https://github.com/keunwoochoi/seoulunderground.live/actions/runs/23415855239)
 
 ## Commit Details
 
 - **Author**: Keunwoo Choi <gnuchoi+github@gmail.com>
-- **Message**: fix: use i18n for musicians/featuring label in EventCard
-
-Hardcoded 'Musicians'/'Featuring' strings were showing in English
-regardless of the active language. Now routes through t(lang, key).
-
-Added musicians/featuring keys to en/ko/de in i18n.ts.
-Added rule to CLAUDE.md: all UI labels must respect the active language.
+- **Message**: fix: use 연주자 instead of 뮤지션 for Korean musicians label
 
 Co-Authored-By: Claude Sonnet 4.6 <noreply@anthropic.com>
 
