@@ -5,18 +5,20 @@
 ## Build Information
 
 - **Environment**: TEST
-- **Build Time**: 2026-03-22T18:55:46Z
-- **Source Commit**: [`700aa957855ed64e230752106c2d8aac55c98499`](https://github.com/keunwoochoi/seoulunderground.live/commit/700aa957855ed64e230752106c2d8aac55c98499)
-- **Branch**: `feat/pr-a-filter-pills-group-by`
-- **Workflow Run**: [View logs](https://github.com/keunwoochoi/seoulunderground.live/actions/runs/23410100082)
+- **Build Time**: 2026-03-23T00:05:29Z
+- **Source Commit**: [`8c4815e2756dc7b545951dc7e18db255eccd201d`](https://github.com/keunwoochoi/seoulunderground.live/commit/8c4815e2756dc7b545951dc7e18db255eccd201d)
+- **Branch**: `feat/pr-c-performer-instruments`
+- **Workflow Run**: [View logs](https://github.com/keunwoochoi/seoulunderground.live/actions/runs/23415760044)
 
 ## Commit Details
 
 - **Author**: Keunwoo Choi <gnuchoi+github@gmail.com>
-- **Message**: fix: auto-switch to card view when group-by-venue is selected
+- **Message**: feat: show performer instruments in event cards
 
-In table view clicking 공연장별 set the URL param but the venue-grouped
-render was gated behind viewMode === 'card', so nothing changed visually.
+Add instruments field to musicians_inline in export_static_json.py so
+per-musician instrument data flows through to the frontend. Update
+EventMusicianSummary type in EventCard.tsx and App.tsx, and render
+instruments in parentheses after each performer name in event cards.
 
 Co-Authored-By: Claude Sonnet 4.6 <noreply@anthropic.com>
 
