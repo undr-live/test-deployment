@@ -5,25 +5,20 @@
 ## Build Information
 
 - **Environment**: TEST
-- **Build Time**: 2026-03-23T05:21:26Z
-- **Source Commit**: [`937f58e8dc1ca06ef5143facb9653791029a89f5`](https://github.com/keunwoochoi/seoulunderground.live/commit/937f58e8dc1ca06ef5143facb9653791029a89f5)
+- **Build Time**: 2026-03-23T05:32:48Z
+- **Source Commit**: [`dcfb3ebce1ab37566eb252231911e57b71cdb387`](https://github.com/keunwoochoi/seoulunderground.live/commit/dcfb3ebce1ab37566eb252231911e57b71cdb387)
 - **Branch**: `feat/pr-e-venue-map`
-- **Workflow Run**: [View logs](https://github.com/keunwoochoi/seoulunderground.live/actions/runs/23422668085)
+- **Workflow Run**: [View logs](https://github.com/keunwoochoi/seoulunderground.live/actions/runs/23422945586)
 
 ## Commit Details
 
 - **Author**: Keunwoo Choi <gnuchoi+github@gmail.com>
-- **Message**: feat(map): map as overlay toggle + geocoder floor-prefix fix
+- **Message**: fix(map): use VenueMaster locations[0] coords for venues missing lat/lon
 
-Map is now an independent toggle above the venue list (card/table always
-visible below). Clicking the pin icon in the toolbar shows/hides the map;
-the card/table view mode is unaffected.
-
-Removes 'map' from venuesViewMode type — back to 'card' | 'table'.
-
-Also fixes geocode_venues.py: retries with floor/basement prefix stripped
-("B1, ", "2F, ", "3층, ") when the first Nominatim attempt fails.
-Geocoded oleojazzpub and teddy.valley as a result.
+39 of 72 masters have lat/lon in locations[0] that were being ignored.
+Adds venuesForMap memo that merges master coordinates + i18n address text
+into filteredVenues before passing to VenueMap, bringing mapped count
+from ~18 to ~39.
 
 Co-Authored-By: Claude Sonnet 4.6 <noreply@anthropic.com>
 
