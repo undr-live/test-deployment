@@ -5,20 +5,25 @@
 ## Build Information
 
 - **Environment**: TEST
-- **Build Time**: 2026-03-23T02:04:56Z
-- **Source Commit**: [`02a46ce98449a9816e34d7389db539669c961234`](https://github.com/keunwoochoi/seoulunderground.live/commit/02a46ce98449a9816e34d7389db539669c961234)
-- **Branch**: `feat/pr-d-ical-export`
-- **Workflow Run**: [View logs](https://github.com/keunwoochoi/seoulunderground.live/actions/runs/23418332671)
+- **Build Time**: 2026-03-23T04:12:18Z
+- **Source Commit**: [`0b224bac0fe14652e09d0d1585c069ee82efa98b`](https://github.com/keunwoochoi/seoulunderground.live/commit/0b224bac0fe14652e09d0d1585c069ee82efa98b)
+- **Branch**: `feat/pr-e-venue-map`
+- **Workflow Run**: [View logs](https://github.com/keunwoochoi/seoulunderground.live/actions/runs/23421101142)
 
 ## Commit Details
 
 - **Author**: Keunwoo Choi <gnuchoi+github@gmail.com>
-- **Message**: fix: RFC 5545 line folding + robust UID fallback in iCal export
+- **Message**: feat: venue map — SVG map with pins + Nominatim geocoding (PR E draft)
 
-- foldLine(): fold lines exceeding 75 octets with CRLF+space per RFC 5545 §3.1;
-  uses TextEncoder for accurate UTF-8 byte counting (Korean titles are 3 bytes/char)
-- UID fallback: use datetime+title+venue_name composite instead of datetime alone
-  to avoid collisions when two events share the same start time
+- etl/geocode_venues.py: batch-geocode venue addresses via Nominatim (free,
+  no API key); 18/72 Seoul venues now have lat/lon
+- VenueMap.tsx: pure SVG map — Seoul bounds, Han River polygon, neighborhood
+  labels, venue pins from lat/lon; hover tooltip; click pin → switch to card
+  view + scroll to venue
+- MapPinIcon.tsx: new map pin SVG icon
+- App.tsx: venuesViewMode extended to 'card' | 'table' | 'map'; map button
+  in view toggle (venues tab only); venue cards get id for scroll-to
+- i18n.ts: map_view key (en: Map, ko: 지도, de: Karte)
 
 Co-Authored-By: Claude Sonnet 4.6 <noreply@anthropic.com>
 
