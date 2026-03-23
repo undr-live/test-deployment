@@ -5,17 +5,15 @@
 ## Build Information
 
 - **Environment**: TEST
-- **Build Time**: 2026-03-23T00:16:30Z
-- **Source Commit**: [`a408ee06b23e38d963169c42f9794b7d71dd2f78`](https://github.com/keunwoochoi/seoulunderground.live/commit/a408ee06b23e38d963169c42f9794b7d71dd2f78)
+- **Build Time**: 2026-03-23T00:21:22Z
+- **Source Commit**: [`16ed362b5a2669e958efa849806f0ce685f9b7a4`](https://github.com/keunwoochoi/seoulunderground.live/commit/16ed362b5a2669e958efa849806f0ce685f9b7a4)
 - **Branch**: `feat/pr-c-performer-instruments`
-- **Workflow Run**: [View logs](https://github.com/keunwoochoi/seoulunderground.live/actions/runs/23416001693)
+- **Workflow Run**: [View logs](https://github.com/keunwoochoi/seoulunderground.live/actions/runs/23416104998)
 
 ## Commit Details
 
 - **Author**: Keunwoo Choi <gnuchoi+github@gmail.com>
-- **Message**: fix: prefer name_ko on Korean page when displaying musician names
-
-Was always picking name_en first regardless of lang.
+- **Message**: fix: musician profile link uses current lang instead of hardcoded 'en'
 
 Co-Authored-By: Claude Sonnet 4.6 <noreply@anthropic.com>
 
