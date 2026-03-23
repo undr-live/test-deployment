@@ -5,24 +5,25 @@
 ## Build Information
 
 - **Environment**: TEST
-- **Build Time**: 2026-03-23T04:51:23Z
-- **Source Commit**: [`8aae3f99bf6d5568c6b1fc56aedac7e9a7b06c4e`](https://github.com/keunwoochoi/seoulunderground.live/commit/8aae3f99bf6d5568c6b1fc56aedac7e9a7b06c4e)
+- **Build Time**: 2026-03-23T05:12:39Z
+- **Source Commit**: [`06c395a97bdd7ece668e64712848105877339326`](https://github.com/keunwoochoi/seoulunderground.live/commit/06c395a97bdd7ece668e64712848105877339326)
 - **Branch**: `feat/pr-e-venue-map`
-- **Workflow Run**: [View logs](https://github.com/keunwoochoi/seoulunderground.live/actions/runs/23421995062)
+- **Workflow Run**: [View logs](https://github.com/keunwoochoi/seoulunderground.live/actions/runs/23422488172)
 
 ## Commit Details
 
 - **Author**: Keunwoo Choi <gnuchoi+github@gmail.com>
-- **Message**: feat(map): standout pins, in-map popup panel, language-specific tiles
+- **Message**: fix(map): markers missing on page refresh + address localization
 
-- Pins: changed to bright orange-red (#e85d26) for high visibility
-- Click behavior: clicking a pin shows an inline popup panel on the map
-  (name, address, subway, IG link, Google Maps link) — no longer navigates
-  to venue card
-- Language-specific tiles: ko → OSM standard (Korean labels); en/de → Carto
-  Voyager (Latin-script labels)
-- Popup panel localized via t(lang, key)
-- Removes onVenueClick prop and venueToScrollTo state (no longer needed)
+Split single map useEffect into two:
+- Effect 1: map init + tile layer (deps: [lang])
+- Effect 2: marker management (deps: [venues, lang])
+
+Effect 1 ran at mount with empty venues; Effect 2 now correctly fires
+when the async venues API response arrives, adding all markers.
+
+Address in the popup panel already uses i18n_data.address_text[lang]
+with location_text fallback — confirmed correct for all languages.
 
 Co-Authored-By: Claude Sonnet 4.6 <noreply@anthropic.com>
 
