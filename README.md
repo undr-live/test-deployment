@@ -5,20 +5,15 @@
 ## Build Information
 
 - **Environment**: TEST
-- **Build Time**: 2026-03-23T05:32:48Z
-- **Source Commit**: [`dcfb3ebce1ab37566eb252231911e57b71cdb387`](https://github.com/keunwoochoi/seoulunderground.live/commit/dcfb3ebce1ab37566eb252231911e57b71cdb387)
-- **Branch**: `feat/pr-e-venue-map`
-- **Workflow Run**: [View logs](https://github.com/keunwoochoi/seoulunderground.live/actions/runs/23422945586)
+- **Build Time**: 2026-03-23T05:48:26Z
+- **Source Commit**: [`32f146786c853e1275f9faa4747c7ee813115a5d`](https://github.com/keunwoochoi/seoulunderground.live/commit/32f146786c853e1275f9faa4747c7ee813115a5d)
+- **Branch**: `fix/remove-map-debug-text`
+- **Workflow Run**: [View logs](https://github.com/keunwoochoi/seoulunderground.live/actions/runs/23423334775)
 
 ## Commit Details
 
 - **Author**: Keunwoo Choi <gnuchoi+github@gmail.com>
-- **Message**: fix(map): use VenueMaster locations[0] coords for venues missing lat/lon
-
-39 of 72 masters have lat/lon in locations[0] that were being ignored.
-Adds venuesForMap memo that merges master coordinates + i18n address text
-into filteredVenues before passing to VenueMap, bringing mapped count
-from ~18 to ~39.
+- **Message**: fix: remove debug venue count text from map
 
 Co-Authored-By: Claude Sonnet 4.6 <noreply@anthropic.com>
 
