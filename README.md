@@ -5,20 +5,17 @@
 ## Build Information
 
 - **Environment**: TEST
-- **Build Time**: 2026-03-23T00:13:17Z
-- **Source Commit**: [`726317646e692f01b3b5f087993ce0e316ad00b9`](https://github.com/keunwoochoi/seoulunderground.live/commit/726317646e692f01b3b5f087993ce0e316ad00b9)
+- **Build Time**: 2026-03-23T00:16:30Z
+- **Source Commit**: [`a408ee06b23e38d963169c42f9794b7d71dd2f78`](https://github.com/keunwoochoi/seoulunderground.live/commit/a408ee06b23e38d963169c42f9794b7d71dd2f78)
 - **Branch**: `feat/pr-c-performer-instruments`
-- **Workflow Run**: [View logs](https://github.com/keunwoochoi/seoulunderground.live/actions/runs/23415930072)
+- **Workflow Run**: [View logs](https://github.com/keunwoochoi/seoulunderground.live/actions/runs/23416001693)
 
 ## Commit Details
 
 - **Author**: Keunwoo Choi <gnuchoi+github@gmail.com>
-- **Message**: feat: translate instrument names to Korean and German
+- **Message**: fix: prefer name_ko on Korean page when displaying musician names
 
-Added translateInstrument() to i18n.ts with translations for all 15
-instruments currently in the DB (bass, piano, drums, trumpet, saxophone,
-guitar, vocals, keyboard, violin, flute, trombone, vibraphone, percussion,
-composer, conductor).
+Was always picking name_en first regardless of lang.
 
 Co-Authored-By: Claude Sonnet 4.6 <noreply@anthropic.com>
 
