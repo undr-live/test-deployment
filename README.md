@@ -5,20 +5,15 @@
 ## Build Information
 
 - **Environment**: TEST
-- **Build Time**: 2026-03-23T00:29:06Z
-- **Source Commit**: [`c86fe753760b28c88875ca06658a9cc62b452798`](https://github.com/keunwoochoi/seoulunderground.live/commit/c86fe753760b28c88875ca06658a9cc62b452798)
-- **Branch**: `feat/pr-c-performer-instruments`
-- **Workflow Run**: [View logs](https://github.com/keunwoochoi/seoulunderground.live/actions/runs/23416261496)
+- **Build Time**: 2026-03-23T01:15:42Z
+- **Source Commit**: [`b20679d78fd6b67f94bd5d8569de1a46c10a4b0e`](https://github.com/keunwoochoi/seoulunderground.live/commit/b20679d78fd6b67f94bd5d8569de1a46c10a4b0e)
+- **Branch**: `main`
+- **Workflow Run**: [View logs](https://github.com/keunwoochoi/seoulunderground.live/actions/runs/23417276331)
 
 ## Commit Details
 
-- **Author**: Keunwoo Choi <gnuchoi+github@gmail.com>
-- **Message**: fix: filter empty strings from instruments split; deduplicate EventMusicianSummary type
-
-- export_static_json: filter empty strings after split/strip (review suggestion)
-- App.tsx: import EventMusicianSummary from EventCard instead of duplicating the type
-
-Co-Authored-By: Claude Sonnet 4.6 <noreply@anthropic.com>
+- **Author**:  <>
+- **Message**: 
 
 ## Deployment URLs
 

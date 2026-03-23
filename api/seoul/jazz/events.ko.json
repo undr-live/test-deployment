@@ -14,18 +14,18 @@
     "sets": null,
     "price": null,
     "llm_confidence": 1.0,
-    "title": "혼토니 빅밴드 오케스트라",
-    "description": "The Horntony Street Jazz Orchestra brings a rich tapestry of sounds to the stage, blending the band's deep tour history with a live atmosphere that captivates every audience member. Featuring a diverse array of instruments, the performance offers an immersive experience that seamlessly merges technical precision with soulful storytelling.",
+    "title": "혼토니 빅밴드",
+    "description": null,
     "ticket_link": null,
     "age_limit": null,
     "genres": null,
     "_search_en": {
-      "title": "Horn Tony Big Band Orchestra",
-      "description": "The Horntony Street Jazz Orchestra brings a rich tapestry of sounds to the stage, blending the band's deep tour history with a live atmosphere that captivates every audience member. Featuring a diverse array of instruments, the performance offers an immersive experience that seamlessly merges technical precision with soulful storytelling."
+      "title": "Horn Tony Big Band",
+      "description": null
     },
     "_search_ko": {
-      "title": "혼토니 빅밴드 오케스트라",
-      "description": "The Horntony Street Jazz Orchestra brings a rich tapestry of sounds to the stage, blending the band's deep tour history with a live atmosphere that captivates every audience member. Featuring a diverse array of instruments, the performance offers an immersive experience that seamlessly merges technical precision with soulful storytelling."
+      "title": "혼토니 빅밴드",
+      "description": null
     }
   },
   {
@@ -222,24 +222,24 @@
     "date": "2026-03-23",
     "sets": [
       {
-        "label": "1부",
+        "label": null,
         "time": "20:00"
       }
     ],
     "price": "15,000원",
     "llm_confidence": 1.0,
     "title": "PJM 트리오",
-    "description": "Immerse yourself in the soulful sounds of PJM Trio, a band celebrated for their rich musical history and diverse instrumentation. This intimate performance blends technical precision with raw emotional depth, promising an unforgettable atmosphere that defines their legendary live shows.",
+    "description": null,
     "ticket_link": null,
     "age_limit": null,
     "genres": null,
     "_search_en": {
       "title": "PJM Trio",
-      "description": "Immerse yourself in the soulful sounds of PJM Trio, a band celebrated for their rich musical history and diverse instrumentation. This intimate performance blends technical precision with raw emotional depth, promising an unforgettable atmosphere that defines their legendary live shows."
+      "description": null
     },
     "_search_ko": {
       "title": "PJM 트리오",
-      "description": "Immerse yourself in the soulful sounds of PJM Trio, a band celebrated for their rich musical history and diverse instrumentation. This intimate performance blends technical precision with raw emotional depth, promising an unforgettable atmosphere that defines their legendary live shows."
+      "description": null
     }
   },
   {
@@ -880,24 +880,24 @@
     "date": "2026-03-24",
     "sets": [
       {
-        "label": "1부",
+        "label": null,
         "time": "20:00"
       }
     ],
     "price": "15,000원",
     "llm_confidence": 1.0,
     "title": "정재동 퀄텟 & 문미랑",
-    "description": "Immerse yourself in the soulful sounds of the Jeong Jaedong Quartet, featuring the distinctive vocals of Moon Mihyang. This intimate performance masterfully blends classic jazz standards with original compositions, creating a warm and nostalgic atmosphere perfect for any night out.",
+    "description": null,
     "ticket_link": null,
     "age_limit": null,
     "genres": null,
     "_search_en": {
       "title": "Jeong Jaedong Quartet & Moon Mirang",
-      "description": "Immerse yourself in the soulful sounds of the Jeong Jaedong Quartet, featuring the distinctive vocals of Moon Mihyang. This intimate performance masterfully blends classic jazz standards with original compositions, creating a warm and nostalgic atmosphere perfect for any night out."
+      "description": null
     },
     "_search_ko": {
       "title": "정재동 퀄텟 & 문미랑",
-      "description": "Immerse yourself in the soulful sounds of the Jeong Jaedong Quartet, featuring the distinctive vocals of Moon Mihyang. This intimate performance masterfully blends classic jazz standards with original compositions, creating a warm and nostalgic atmosphere perfect for any night out."
+      "description": null
     }
   },
   {
@@ -1285,24 +1285,24 @@
     "date": "2026-03-25",
     "sets": [
       {
-        "label": "1부",
+        "label": null,
         "time": "20:00"
       }
     ],
     "price": "15,000원",
     "llm_confidence": 1.0,
     "title": "롭 퀸텟",
-    "description": "Immerse yourself in the vibrant energy of the Rob Quintet at Swing Day, where a talented lineup featuring Rob on drums and Miyoung Lee on piano delivers an unforgettable night. The performance blends the band's rich tour history with lively swing rhythms, creating an authentic jazz atmosphere that captures the essence of their live shows.",
+    "description": null,
     "ticket_link": null,
     "age_limit": null,
     "genres": null,
     "_search_en": {
       "title": "Rob Quintet",
-      "description": "Immerse yourself in the vibrant energy of the Rob Quintet at Swing Day, where a talented lineup featuring Rob on drums and Miyoung Lee on piano delivers an unforgettable night. The performance blends the band's rich tour history with lively swing rhythms, creating an authentic jazz atmosphere that captures the essence of their live shows."
+      "description": null
     },
     "_search_ko": {
       "title": "롭 퀸텟",
-      "description": "Immerse yourself in the vibrant energy of the Rob Quintet at Swing Day, where a talented lineup featuring Rob on drums and Miyoung Lee on piano delivers an unforgettable night. The performance blends the band's rich tour history with lively swing rhythms, creating an authentic jazz atmosphere that captures the essence of their live shows."
+      "description": null
     }
   },
   {
@@ -1876,24 +1876,24 @@
     "date": "2026-03-26",
     "sets": [
       {
-        "label": "1부",
+        "label": null,
         "time": "20:00"
       }
     ],
     "price": "15,000원",
     "llm_confidence": 1.0,
     "title": "정상현 퀄텟",
-    "description": "Immerse yourself in the soulful sounds of the Jeong Seonghyeon Quartet as they deliver a captivating performance of 'Feel the Groove'. This intimate evening features a talented lineup including 9li.9li, jazzswagger_music, min.hacho, and mj__azz, promising an unforgettable night of jazz and groove.",
+    "description": null,
     "ticket_link": null,
     "age_limit": null,
     "genres": null,
     "_search_en": {
       "title": "Jeong Sanghyeon Quartet",
-      "description": "Immerse yourself in the soulful sounds of the Jeong Seonghyeon Quartet as they deliver a captivating performance of 'Feel the Groove'. This intimate evening features a talented lineup including 9li.9li, jazzswagger_music, min.hacho, and mj__azz, promising an unforgettable night of jazz and groove."
+      "description": null
     },
     "_search_ko": {
       "title": "정상현 퀄텟",
-      "description": "Immerse yourself in the soulful sounds of the Jeong Seonghyeon Quartet as they deliver a captivating performance of 'Feel the Groove'. This intimate evening features a talented lineup including 9li.9li, jazzswagger_music, min.hacho, and mj__azz, promising an unforgettable night of jazz and groove."
+      "description": null
     }
   },
   {
@@ -2889,6 +2889,63 @@
     }
   },
   {
+    "id": "evt_20260327_7b784abd-1e09-45c6-bbd5-8f71ede72392",
+    "event_key": "v:ven_00154ae3-5759-4757-9cca-27ee30b74d49|t:2026-03-27T11:00:00+00:00",
+    "source_url": "https://www.instagram.com/p/DWNDE4VE_a3/",
+    "venue_handle": "milestones_jazz",
+    "musician_ids": [
+      "62b39f74-44a5-40ce-acb3-cf2b21c7fa81",
+      "7ae88241-f6ec-401e-a03d-479fefdb489a"
+    ],
+    "musicians": [
+      {
+        "id": "62b39f74-44a5-40ce-acb3-cf2b21c7fa81",
+        "ig_handle": "daeyounkimm",
+        "name_ko": "김대윤",
+        "name_en": "Daeyoun Kim",
+        "name_irl": "Daeyoun Kim 김대윤",
+        "instruments": [
+          "piano",
+          "composer"
+        ]
+      },
+      {
+        "id": "7ae88241-f6ec-401e-a03d-479fefdb489a",
+        "ig_handle": "jihyung_hong",
+        "name_ko": null,
+        "name_en": null,
+        "name_irl": "홍지형",
+        "instruments": []
+      }
+    ],
+    "musician_ig_handles": [],
+    "venue_id": "ven_00154ae3-5759-4757-9cca-27ee30b74d49",
+    "venue_location_id": "main",
+    "datetime": "2026-03-27T11:00:00+00:00",
+    "date": "2026-03-27",
+    "sets": [
+      {
+        "label": null,
+        "time": "20:00"
+      }
+    ],
+    "price": "15,000원 (예매), 20,000원 (현매)",
+    "llm_confidence": 1.0,
+    "title": "홍지형 트리오",
+    "description": null,
+    "ticket_link": null,
+    "age_limit": null,
+    "genres": null,
+    "_search_en": {
+      "title": "Hong Jihyung Trio",
+      "description": null
+    },
+    "_search_ko": {
+      "title": "홍지형 트리오",
+      "description": null
+    }
+  },
+  {
     "id": "evt_20260327_7c1149fd-e5e0-4d9f-ac55-5be103d1b9a2",
     "event_key": "v:ven_dd4baf49-45a9-45ad-b34a-a57a99579303|t:2026-03-27T11:30:00+00:00",
     "source_url": "https://www.instagram.com/p/DUnP59GD_pN/",
@@ -3214,7 +3271,7 @@
     "age_limit": null,
     "genres": null,
     "_search_en": {
-      "title": "Rockiz",
+      "title": "Lokiz",
       "description": null
     },
     "_search_ko": {
@@ -4058,6 +4115,63 @@
     }
   },
   {
+    "id": "evt_20260328_bae2ae68-62c1-4d68-a697-e2bf2abec6ad",
+    "event_key": "v:ven_00154ae3-5759-4757-9cca-27ee30b74d49|t:2026-03-28T11:00:00+00:00",
+    "source_url": "https://www.instagram.com/p/DWNDE4VE_a3/",
+    "venue_handle": "milestones_jazz",
+    "musician_ids": [
+      "62b39f74-44a5-40ce-acb3-cf2b21c7fa81",
+      "7ae88241-f6ec-401e-a03d-479fefdb489a"
+    ],
+    "musicians": [
+      {
+        "id": "62b39f74-44a5-40ce-acb3-cf2b21c7fa81",
+        "ig_handle": "daeyounkimm",
+        "name_ko": "김대윤",
+        "name_en": "Daeyoun Kim",
+        "name_irl": "Daeyoun Kim 김대윤",
+        "instruments": [
+          "piano",
+          "composer"
+        ]
+      },
+      {
+        "id": "7ae88241-f6ec-401e-a03d-479fefdb489a",
+        "ig_handle": "jihyung_hong",
+        "name_ko": null,
+        "name_en": null,
+        "name_irl": "홍지형",
+        "instruments": []
+      }
+    ],
+    "musician_ig_handles": [],
+    "venue_id": "ven_00154ae3-5759-4757-9cca-27ee30b74d49",
+    "venue_location_id": "main",
+    "datetime": "2026-03-28T11:00:00+00:00",
+    "date": "2026-03-28",
+    "sets": [
+      {
+        "label": null,
+        "time": "20:00"
+      }
+    ],
+    "price": "15,000원 (예매), 20,000원 (현매)",
+    "llm_confidence": 1.0,
+    "title": "홍지형 트리오",
+    "description": null,
+    "ticket_link": null,
+    "age_limit": null,
+    "genres": null,
+    "_search_en": {
+      "title": "Hong Jihyung Trio",
+      "description": null
+    },
+    "_search_ko": {
+      "title": "홍지형 트리오",
+      "description": null
+    }
+  },
+  {
     "id": "evt_20260328_0dafe8fb-7a46-4cec-8add-356cc8d84621",
     "event_key": "v:ven_dd4baf49-45a9-45ad-b34a-a57a99579303|t:2026-03-28T11:30:00+00:00",
     "source_url": "https://www.instagram.com/p/DUnP59GD_pN/",
@@ -4276,17 +4390,17 @@
     "sets": null,
     "price": null,
     "llm_confidence": 1.0,
-    "title": "잼 데이",
+    "title": "모두의 축제 잼데이",
     "description": null,
     "ticket_link": null,
     "age_limit": null,
     "genres": null,
     "_search_en": {
-      "title": "Jam Day",
+      "title": "Jam Day for Everyone",
       "description": null
     },
     "_search_ko": {
-      "title": "잼 데이",
+      "title": "모두의 축제 잼데이",
       "description": null
     }
   },
@@ -4603,17 +4717,17 @@
     "price": "15,000원",
     "llm_confidence": 1.0,
     "title": "김생미",
-    "description": "Experience an intimate evening with Kim Saengmi, a renowned vocalist celebrated for her soulful storytelling and mastery of the Korean pentatonic scale. This special performance features her signature acoustic arrangements and heartfelt lyrics that have captivated audiences across the nation.",
+    "description": null,
     "ticket_link": null,
     "age_limit": null,
     "genres": null,
     "_search_en": {
       "title": "Kim Saengmi",
-      "description": "Experience an intimate evening with Kim Saengmi, a renowned vocalist celebrated for her soulful storytelling and mastery of the Korean pentatonic scale. This special performance features her signature acoustic arrangements and heartfelt lyrics that have captivated audiences across the nation."
+      "description": null
     },
     "_search_ko": {
       "title": "김생미",
-      "description": "Experience an intimate evening with Kim Saengmi, a renowned vocalist celebrated for her soulful storytelling and mastery of the Korean pentatonic scale. This special performance features her signature acoustic arrangements and heartfelt lyrics that have captivated audiences across the nation."
+      "description": null
     }
   },
   {
@@ -4907,6 +5021,35 @@
     "_search_ko": {
       "title": "더 블리스",
       "description": "배선용 (보컬), 고희안 (피아노), 최진배 (베이스), 한가람 (드럼)"
+    }
+  },
+  {
+    "id": "evt_20260329_91e30858-0333-4660-928f-e6beca85be24",
+    "event_key": "v:ven_3a15e2e0-a635-46d1-ba03-722f8c184a39|t:2026-03-29T15:00:00+00:00",
+    "source_url": "https://www.instagram.com/p/DVLLd28kfIZ/",
+    "venue_handle": "jazzclub_janus",
+    "musician_ids": [],
+    "musicians": [],
+    "musician_ig_handles": [],
+    "venue_id": "ven_3a15e2e0-a635-46d1-ba03-722f8c184a39",
+    "venue_location_id": "main",
+    "datetime": "2026-03-29T15:00:00+00:00",
+    "date": "2026-03-30",
+    "sets": null,
+    "price": null,
+    "llm_confidence": 1.0,
+    "title": "재즈파크 빅밴드 (보컬 말로)",
+    "description": null,
+    "ticket_link": null,
+    "age_limit": null,
+    "genres": null,
+    "_search_en": {
+      "title": "Jazz Park Big Band (Vocal Malo)",
+      "description": null
+    },
+    "_search_ko": {
+      "title": "재즈파크 빅밴드 (보컬 말로)",
+      "description": null
     }
   },
   {
@@ -6461,17 +6604,17 @@
     ],
     "price": "40,000원",
     "llm_confidence": 1.0,
-    "title": "김대호 터프 라이프 쇼케이스",
+    "title": "김대호 [TOUGH LIFE] 쇼케이스",
     "description": null,
     "ticket_link": null,
     "age_limit": null,
     "genres": null,
     "_search_en": {
-      "title": "Daeho Kim Tough Life Showcase",
+      "title": "Kim Dae-ho [TOUGH LIFE] Showcase",
       "description": null
     },
     "_search_ko": {
-      "title": "김대호 터프 라이프 쇼케이스",
+      "title": "김대호 [TOUGH LIFE] 쇼케이스",
       "description": null
     }
   },
