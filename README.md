@@ -5,24 +5,24 @@
 ## Build Information
 
 - **Environment**: TEST
-- **Build Time**: 2026-03-23T04:39:59Z
-- **Source Commit**: [`9622e58daaac33cc7a6f7d84c3f2bf18ecace56e`](https://github.com/keunwoochoi/seoulunderground.live/commit/9622e58daaac33cc7a6f7d84c3f2bf18ecace56e)
+- **Build Time**: 2026-03-23T04:51:23Z
+- **Source Commit**: [`8aae3f99bf6d5568c6b1fc56aedac7e9a7b06c4e`](https://github.com/keunwoochoi/seoulunderground.live/commit/8aae3f99bf6d5568c6b1fc56aedac7e9a7b06c4e)
 - **Branch**: `feat/pr-e-venue-map`
-- **Workflow Run**: [View logs](https://github.com/keunwoochoi/seoulunderground.live/actions/runs/23421728208)
+- **Workflow Run**: [View logs](https://github.com/keunwoochoi/seoulunderground.live/actions/runs/23421995062)
 
 ## Commit Details
 
 - **Author**: Keunwoo Choi <gnuchoi+github@gmail.com>
-- **Message**: fix(pr-e): replace hand-drawn SVG map with Leaflet + OSM tiles
+- **Message**: feat(map): standout pins, in-map popup panel, language-specific tiles
 
-- Rewrites VenueMap to use Leaflet.js with OpenStreetMap tiles
-  (free, no API key, proper rendered map with zoom/pan)
-- Fixes type mismatch: Venue.ig_handle is now optional to match App.tsx
-- Removes unused pts() function
-- Fixes onVenueClick scroll bug: strip leading @ from handle
-- Fixes onVenueClick timing: useEffect + venueToScrollTo state instead of setTimeout
-- Fixes preferences.ts: getViewModePreference/saveViewModePreference now support 'map'
-- Tightens geocode_venues.py exception handling to specific exception types
+- Pins: changed to bright orange-red (#e85d26) for high visibility
+- Click behavior: clicking a pin shows an inline popup panel on the map
+  (name, address, subway, IG link, Google Maps link) — no longer navigates
+  to venue card
+- Language-specific tiles: ko → OSM standard (Korean labels); en/de → Carto
+  Voyager (Latin-script labels)
+- Popup panel localized via t(lang, key)
+- Removes onVenueClick prop and venueToScrollTo state (no longer needed)
 
 Co-Authored-By: Claude Sonnet 4.6 <noreply@anthropic.com>
 
