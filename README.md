@@ -5,15 +5,20 @@
 ## Build Information
 
 - **Environment**: TEST
-- **Build Time**: 2026-03-23T00:10:30Z
-- **Source Commit**: [`9d91189c3dfd43cae93298e7cf4058a0f272bc17`](https://github.com/keunwoochoi/seoulunderground.live/commit/9d91189c3dfd43cae93298e7cf4058a0f272bc17)
+- **Build Time**: 2026-03-23T00:13:17Z
+- **Source Commit**: [`726317646e692f01b3b5f087993ce0e316ad00b9`](https://github.com/keunwoochoi/seoulunderground.live/commit/726317646e692f01b3b5f087993ce0e316ad00b9)
 - **Branch**: `feat/pr-c-performer-instruments`
-- **Workflow Run**: [View logs](https://github.com/keunwoochoi/seoulunderground.live/actions/runs/23415855239)
+- **Workflow Run**: [View logs](https://github.com/keunwoochoi/seoulunderground.live/actions/runs/23415930072)
 
 ## Commit Details
 
 - **Author**: Keunwoo Choi <gnuchoi+github@gmail.com>
-- **Message**: fix: use 연주자 instead of 뮤지션 for Korean musicians label
+- **Message**: feat: translate instrument names to Korean and German
+
+Added translateInstrument() to i18n.ts with translations for all 15
+instruments currently in the DB (bass, piano, drums, trumpet, saxophone,
+guitar, vocals, keyboard, violin, flute, trombone, vibraphone, percussion,
+composer, conductor).
 
 Co-Authored-By: Claude Sonnet 4.6 <noreply@anthropic.com>
 
