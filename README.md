@@ -5,25 +5,25 @@
 ## Build Information
 
 - **Environment**: TEST
-- **Build Time**: 2026-03-23T05:12:39Z
-- **Source Commit**: [`06c395a97bdd7ece668e64712848105877339326`](https://github.com/keunwoochoi/seoulunderground.live/commit/06c395a97bdd7ece668e64712848105877339326)
+- **Build Time**: 2026-03-23T05:21:26Z
+- **Source Commit**: [`937f58e8dc1ca06ef5143facb9653791029a89f5`](https://github.com/keunwoochoi/seoulunderground.live/commit/937f58e8dc1ca06ef5143facb9653791029a89f5)
 - **Branch**: `feat/pr-e-venue-map`
-- **Workflow Run**: [View logs](https://github.com/keunwoochoi/seoulunderground.live/actions/runs/23422488172)
+- **Workflow Run**: [View logs](https://github.com/keunwoochoi/seoulunderground.live/actions/runs/23422668085)
 
 ## Commit Details
 
 - **Author**: Keunwoo Choi <gnuchoi+github@gmail.com>
-- **Message**: fix(map): markers missing on page refresh + address localization
+- **Message**: feat(map): map as overlay toggle + geocoder floor-prefix fix
 
-Split single map useEffect into two:
-- Effect 1: map init + tile layer (deps: [lang])
-- Effect 2: marker management (deps: [venues, lang])
+Map is now an independent toggle above the venue list (card/table always
+visible below). Clicking the pin icon in the toolbar shows/hides the map;
+the card/table view mode is unaffected.
 
-Effect 1 ran at mount with empty venues; Effect 2 now correctly fires
-when the async venues API response arrives, adding all markers.
+Removes 'map' from venuesViewMode type — back to 'card' | 'table'.
 
-Address in the popup panel already uses i18n_data.address_text[lang]
-with location_text fallback — confirmed correct for all languages.
+Also fixes geocode_venues.py: retries with floor/basement prefix stripped
+("B1, ", "2F, ", "3층, ") when the first Nominatim attempt fails.
+Geocoded oleojazzpub and teddy.valley as a result.
 
 Co-Authored-By: Claude Sonnet 4.6 <noreply@anthropic.com>
 
