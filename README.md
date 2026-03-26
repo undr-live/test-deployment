@@ -5,20 +5,18 @@
 ## Build Information
 
 - **Environment**: TEST
-- **Build Time**: 2026-03-26T21:54:12Z
-- **Source Commit**: [`3ccb7d81adb84e260ac0f1474c18d66ebc026ddf`](https://github.com/keunwoochoi/seoulunderground.live/commit/3ccb7d81adb84e260ac0f1474c18d66ebc026ddf)
+- **Build Time**: 2026-03-26T22:00:31Z
+- **Source Commit**: [`8da01d402fcd2426065e327796b0a89a571cbfbb`](https://github.com/keunwoochoi/seoulunderground.live/commit/8da01d402fcd2426065e327796b0a89a571cbfbb)
 - **Branch**: `feat/filter-fixes-ga-tracking`
-- **Workflow Run**: [View logs](https://github.com/keunwoochoi/seoulunderground.live/actions/runs/23619904011)
+- **Workflow Run**: [View logs](https://github.com/keunwoochoi/seoulunderground.live/actions/runs/23620139199)
 
 ## Commit Details
 
 - **Author**: Keunwoo Choi <gnuchoi+github@gmail.com>
-- **Message**: fix: update timezone tests for Mon-Sun week; add local test rule to CLAUDE.md
+- **Message**: feat: invert map button color when active
 
-Tests were written for old Sun-Sat week definition. Updated to reflect
-Mon-Sun week (Sunday = end of week) and added year-boundary case.
-
-Also added rule to CLAUDE.md: run tests locally before pushing.
+When the venue map panel is open, the map toggle button now shows
+a light background with dark icon (inverted) for clear visual feedback.
 
 Co-Authored-By: Claude Sonnet 4.6 <noreply@anthropic.com>
 
