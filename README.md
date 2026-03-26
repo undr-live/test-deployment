@@ -5,15 +5,21 @@
 ## Build Information
 
 - **Environment**: TEST
-- **Build Time**: 2026-03-23T05:48:26Z
-- **Source Commit**: [`32f146786c853e1275f9faa4747c7ee813115a5d`](https://github.com/keunwoochoi/seoulunderground.live/commit/32f146786c853e1275f9faa4747c7ee813115a5d)
-- **Branch**: `fix/remove-map-debug-text`
-- **Workflow Run**: [View logs](https://github.com/keunwoochoi/seoulunderground.live/actions/runs/23423334775)
+- **Build Time**: 2026-03-26T05:10:38Z
+- **Source Commit**: [`686c4c969b0eb95440722b1436e3a89dd4f4216e`](https://github.com/keunwoochoi/seoulunderground.live/commit/686c4c969b0eb95440722b1436e3a89dd4f4216e)
+- **Branch**: `fix/seo-germany-disable-lang-routes`
+- **Workflow Run**: [View logs](https://github.com/keunwoochoi/seoulunderground.live/actions/runs/23578584935)
 
 ## Commit Details
 
 - **Author**: Keunwoo Choi <gnuchoi+github@gmail.com>
-- **Message**: fix: remove debug venue count text from map
+- **Message**: fix: disable germany/jazz and create static files for Seoul lang routes
+
+- config.py: set germany-jazz enabled=False so it's excluded from
+  sitemap, JSON export, and SEO page generation
+- deploy-pages.yml: after Vite build, copy dist/index.html to each
+  /{locality}/{genre}/{lang}/index.html so GitHub Pages returns 200
+  instead of 404 for SPA language routes that Google is trying to index
 
 Co-Authored-By: Claude Sonnet 4.6 <noreply@anthropic.com>
 
