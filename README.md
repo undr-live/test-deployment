@@ -5,15 +5,20 @@
 ## Build Information
 
 - **Environment**: TEST
-- **Build Time**: 2026-03-26T21:48:11Z
-- **Source Commit**: [`360b1b933f5173f7cf38b7b6f38a5c27deced23f`](https://github.com/keunwoochoi/seoulunderground.live/commit/360b1b933f5173f7cf38b7b6f38a5c27deced23f)
+- **Build Time**: 2026-03-26T21:54:12Z
+- **Source Commit**: [`3ccb7d81adb84e260ac0f1474c18d66ebc026ddf`](https://github.com/keunwoochoi/seoulunderground.live/commit/3ccb7d81adb84e260ac0f1474c18d66ebc026ddf)
 - **Branch**: `feat/filter-fixes-ga-tracking`
-- **Workflow Run**: [View logs](https://github.com/keunwoochoi/seoulunderground.live/actions/runs/23619676668)
+- **Workflow Run**: [View logs](https://github.com/keunwoochoi/seoulunderground.live/actions/runs/23619904011)
 
 ## Commit Details
 
 - **Author**: Keunwoo Choi <gnuchoi+github@gmail.com>
-- **Message**: fix: update endOfWeekFrom JSDoc to reflect Mon-Sun week
+- **Message**: fix: update timezone tests for Mon-Sun week; add local test rule to CLAUDE.md
+
+Tests were written for old Sun-Sat week definition. Updated to reflect
+Mon-Sun week (Sunday = end of week) and added year-boundary case.
+
+Also added rule to CLAUDE.md: run tests locally before pushing.
 
 Co-Authored-By: Claude Sonnet 4.6 <noreply@anthropic.com>
 
