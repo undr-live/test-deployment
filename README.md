@@ -5,21 +5,30 @@
 ## Build Information
 
 - **Environment**: TEST
-- **Build Time**: 2026-03-26T05:10:38Z
-- **Source Commit**: [`686c4c969b0eb95440722b1436e3a89dd4f4216e`](https://github.com/keunwoochoi/seoulunderground.live/commit/686c4c969b0eb95440722b1436e3a89dd4f4216e)
-- **Branch**: `fix/seo-germany-disable-lang-routes`
-- **Workflow Run**: [View logs](https://github.com/keunwoochoi/seoulunderground.live/actions/runs/23578584935)
+- **Build Time**: 2026-03-26T14:47:59Z
+- **Source Commit**: [`1bafe85e25e53bd7610d4b0fb0e21a11fa19155d`](https://github.com/keunwoochoi/seoulunderground.live/commit/1bafe85e25e53bd7610d4b0fb0e21a11fa19155d)
+- **Branch**: `fix/qwen-merge-no-hallucination`
+- **Workflow Run**: [View logs](https://github.com/keunwoochoi/seoulunderground.live/actions/runs/23600738171)
 
 ## Commit Details
 
 - **Author**: Keunwoo Choi <gnuchoi+github@gmail.com>
-- **Message**: fix: disable germany/jazz and create static files for Seoul lang routes
+- **Message**: fix: Qwen merge prompt must never hallucinate — union only, no synthesis
 
-- config.py: set germany-jazz enabled=False so it's excluded from
-  sitemap, JSON export, and SEO page generation
-- deploy-pages.yml: after Vite build, copy dist/index.html to each
-  /{locality}/{genre}/{lang}/index.html so GitHub Pages returns 200
-  instead of 404 for SPA language routes that Google is trying to index
+The old merge prompt instructed Qwen to "write a NEW synthesized
+description" combining "atmosphere/narrative" from both sources. This
+caused Qwen to generate vivid marketing copy ("Experience the vibrant
+atmosphere...", "unforgettable night of live jazz") even when both
+source descriptions were null.
+
+New prompt rule: output is the union of A and B only. Never invent,
+infer, or embellish. If a field is null in both, output null. Tested
+across 4 null/non-null scenarios + 20 random real-data pairs + all
+once-bad event pairs — 0 hallucinations.
+
+Also add principle to CLAUDE.md and dept-engineering.md: when debugging
+bad data, audit every step that can write that field, not just the first
+plausible one.
 
 Co-Authored-By: Claude Sonnet 4.6 <noreply@anthropic.com>
 
