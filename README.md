@@ -5,15 +5,15 @@
 ## Build Information
 
 - **Environment**: TEST
-- **Build Time**: 2026-03-26T16:32:07Z
-- **Source Commit**: [`1ac3066f8b7a5cc1c04cc6608ea0042b4b516915`](https://github.com/keunwoochoi/seoulunderground.live/commit/1ac3066f8b7a5cc1c04cc6608ea0042b4b516915)
+- **Build Time**: 2026-03-26T16:42:04Z
+- **Source Commit**: [`4bb44f390eefd6c9abc57623d6d0a3b13007a00d`](https://github.com/keunwoochoi/seoulunderground.live/commit/4bb44f390eefd6c9abc57623d6d0a3b13007a00d)
 - **Branch**: `fix/og-image`
-- **Workflow Run**: [View logs](https://github.com/keunwoochoi/seoulunderground.live/actions/runs/23605931460)
+- **Workflow Run**: [View logs](https://github.com/keunwoochoi/seoulunderground.live/actions/runs/23606413109)
 
 ## Commit Details
 
 - **Author**: Keunwoo Choi <gnuchoi+github@gmail.com>
-- **Message**: fix: use ul logo as OG image instead of Instagram logo
+- **Message**: fix: add OG image dimensions, type, and alt text
 
 Co-Authored-By: Claude Sonnet 4.6 <noreply@anthropic.com>
 
