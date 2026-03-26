@@ -5,21 +5,22 @@
 ## Build Information
 
 - **Environment**: TEST
-- **Build Time**: 2026-03-26T22:07:55Z
-- **Source Commit**: [`41c0975a7591ef45809c741e2f6abae5feab93da`](https://github.com/keunwoochoi/seoulunderground.live/commit/41c0975a7591ef45809c741e2f6abae5feab93da)
+- **Build Time**: 2026-03-26T22:18:40Z
+- **Source Commit**: [`5f21d88b1d9a1f0258427b47a18f92728b6efa6a`](https://github.com/keunwoochoi/seoulunderground.live/commit/5f21d88b1d9a1f0258427b47a18f92728b6efa6a)
 - **Branch**: `feat/filter-fixes-ga-tracking`
-- **Workflow Run**: [View logs](https://github.com/keunwoochoi/seoulunderground.live/actions/runs/23620362307)
+- **Workflow Run**: [View logs](https://github.com/keunwoochoi/seoulunderground.live/actions/runs/23620808160)
 
 ## Commit Details
 
 - **Author**: Keunwoo Choi <gnuchoi+github@gmail.com>
-- **Message**: feat: collapsible search bar — icon-only by default, expands on click
+- **Message**: fix: smooth search bar animation, stable height, no focus ring
 
-- Default: shows magnifier icon only
-- Click/tap: expands with animated width + border + placeholder text
-- Click outside (with empty input): collapses back to icon
-- Escape: clears query and collapses
-- If URL has ?q=...: opens pre-expanded with query
+- Input always in DOM; width 26→200 via cubic-bezier transition (no pop-in)
+- Input fades in via opacity transition, slightly delayed after width starts
+- Fixed height 26px matches button group — zero layout shift when opening
+- Removed border from active state; background change alone signals active
+- outline:none + border:none on input removes browser focus ring (the reddish glow)
+- tabIndex=-1 when closed to prevent accidental keyboard focus
 
 Co-Authored-By: Claude Sonnet 4.6 <noreply@anthropic.com>
 
