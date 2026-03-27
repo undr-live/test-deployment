@@ -5,28 +5,26 @@
 ## Build Information
 
 - **Environment**: TEST
-- **Build Time**: 2026-03-26T23:27:13Z
-- **Source Commit**: [`4f513c708eb06a8f5ef2c6052f6a6c15936b8cf8`](https://github.com/keunwoochoi/seoulunderground.live/commit/4f513c708eb06a8f5ef2c6052f6a6c15936b8cf8)
-- **Branch**: `fix/unknown-event-time`
-- **Workflow Run**: [View logs](https://github.com/keunwoochoi/seoulunderground.live/actions/runs/23623079898)
+- **Build Time**: 2026-03-27T12:34:28Z
+- **Source Commit**: [`370bd08e45a2c76ce943b18618c9e226c022c8ff`](https://github.com/keunwoochoi/seoulunderground.live/commit/370bd08e45a2c76ce943b18618c9e226c022c8ff)
+- **Branch**: `feat/musician-highlight-slack-frontend`
+- **Workflow Run**: [View logs](https://github.com/keunwoochoi/seoulunderground.live/actions/runs/23646412401)
 
 ## Commit Details
 
 - **Author**: Keunwoo Choi <gnuchoi+github@gmail.com>
-- **Message**: fix: unknown event time — display '—', retry image fetch, safer delays
+- **Message**: feat: musician highlight — Slack notification + frontend display (#141)
 
-ETL:
-- Retry image fetch for posts saved without images (files=None): on next
-  run, posts with metadata but no files will re-attempt web.post() detail
-  fetch instead of being skipped — auto-backfill once session is restored
-- Add DOWNLOAD_DELAY pause before web.post() detail fetch (was missing)
-- Bump post delay default 1-3s → 2-5s; download delay 0.5-1.5s → 1.5-3.5s
-
-Frontend:
-- formatSets() now returns null when no set time is known (was falling
-  back to datetime field, which is midnight sentinel — not a real time)
-- EventCard and EventTableView show '—' when displayTime is null,
-  instead of the raw ISO datetime string or a misleading "12:00 AM"
+- SlackNotifier.send_musician_highlight(): posts weekly musician card
+  with name, instruments, score, top venues, collaborators
+- select_highlight.select(): calls Slack after writing JSON (not dry-run)
+- export_static_json: copies musician_highlight.json → static API dir
+- routers.py: GET /musician-highlight endpoint
+- MusicianHighlight TypeScript type in types/highlights.ts
+- FeaturedMusician component: accent-bordered banner above events list
+- App.tsx: loads /api/musician-highlight, renders FeaturedMusician in
+  events tab (hidden in screenshot mode)
+- i18n: musician_of_week + instruments keys in en/ko/de
 
 Co-Authored-By: Claude Sonnet 4.6 <noreply@anthropic.com>
 

@@ -1,0 +1,30 @@
+{
+  "ig_handle": "smjazz_98",
+  "name_ko": "신명준",
+  "name_en": "신명준",
+  "instruments": "bass",
+  "qwen_score": 8,
+  "highlight_score": 71,
+  "bidirectional_connections": 1,
+  "venue_only_connections": 9,
+  "musician_connections": 32,
+  "recently_active": false,
+  "top_venues": [
+    "jazzlounge_official",
+    "boogiewoogieseoul",
+    "newall_jazz",
+    "mammy__blue",
+    "subriot_hbc"
+  ],
+  "frequent_collaborators": [
+    "un_mardi",
+    "altruisticdrum",
+    "d.a___zz",
+    "hyoungminkim_jazzjange",
+    "daekyeong__"
+  ],
+  "selected_at": "2026-03-23T06:00:07.037285+00:00",
+  "selected_date": "2026-03-23",
+  "locality": "seoul",
+  "genre": "jazz"
+}
