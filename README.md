@@ -5,19 +5,23 @@
 ## Build Information
 
 - **Environment**: TEST
-- **Build Time**: 2026-03-27T12:55:22Z
-- **Source Commit**: [`cdaf173ef6baa2a2abe2eb5cbba4c2f993faeec4`](https://github.com/keunwoochoi/seoulunderground.live/commit/cdaf173ef6baa2a2abe2eb5cbba4c2f993faeec4)
-- **Branch**: `feat/musician-highlight-slack-frontend`
-- **Workflow Run**: [View logs](https://github.com/keunwoochoi/seoulunderground.live/actions/runs/23647194373)
+- **Build Time**: 2026-03-27T14:04:26Z
+- **Source Commit**: [`f7ef0b6aa1b9122b7b6d610f1999ae2ba7117e52`](https://github.com/keunwoochoi/seoulunderground.live/commit/f7ef0b6aa1b9122b7b6d610f1999ae2ba7117e52)
+- **Branch**: `fix/jsonld-missing-fields`
+- **Workflow Run**: [View logs](https://github.com/keunwoochoi/seoulunderground.live/actions/runs/23650047130)
 
 ## Commit Details
 
 - **Author**: Keunwoo Choi <gnuchoi+github@gmail.com>
-- **Message**: revert: remove premature musician highlight frontend feature
+- **Message**: fix: add missing JSON-LD fields for Google Search Console warnings
 
-Remove API endpoint, static export, FeaturedMusician component, App.tsx
-wiring, i18n keys, and MusicianHighlight type. Keep only the Slack
-notification (send_musician_highlight) added in this branch.
+Adds all 6 missing fields to MusicEvent schema:
+- endDate: same as startDate (best available — no end time in data)
+- eventStatus: EventScheduled (always true for upcoming events)
+- image: og-image.png fallback (no per-event images available)
+- offers: price + ticket_link if available, else source URL
+- performer: omit field entirely when empty (was [])
+- description: already present, was already omitted when null
 
 Co-Authored-By: Claude Sonnet 4.6 <noreply@anthropic.com>
 
