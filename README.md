@@ -5,23 +5,20 @@
 ## Build Information
 
 - **Environment**: TEST
-- **Build Time**: 2026-03-27T14:04:26Z
-- **Source Commit**: [`f7ef0b6aa1b9122b7b6d610f1999ae2ba7117e52`](https://github.com/keunwoochoi/seoulunderground.live/commit/f7ef0b6aa1b9122b7b6d610f1999ae2ba7117e52)
-- **Branch**: `fix/jsonld-missing-fields`
-- **Workflow Run**: [View logs](https://github.com/keunwoochoi/seoulunderground.live/actions/runs/23650047130)
+- **Build Time**: 2026-03-27T20:09:19Z
+- **Source Commit**: [`c3620b212e6635c30fb7a7ba792484155e2a9662`](https://github.com/keunwoochoi/seoulunderground.live/commit/c3620b212e6635c30fb7a7ba792484155e2a9662)
+- **Branch**: `fix/map-cleaner-tiles-subway`
+- **Workflow Run**: [View logs](https://github.com/keunwoochoi/seoulunderground.live/actions/runs/23665384821)
 
 ## Commit Details
 
 - **Author**: Keunwoo Choi <gnuchoi+github@gmail.com>
-- **Message**: fix: add missing JSON-LD fields for Google Search Console warnings
+- **Message**: fix: switch map to CartoDB Voyager for all languages
 
-Adds all 6 missing fields to MusicEvent schema:
-- endDate: same as startDate (best available — no end time in data)
-- eventStatus: EventScheduled (always true for upcoming events)
-- image: og-image.png fallback (no per-event images available)
-- offers: price + ticket_link if available, else source URL
-- performer: omit field entirely when empty (was [])
-- description: already present, was already omitted when null
+Replaces noisy OSM standard tiles (used for Korean) with CartoDB Voyager
+across all languages. Voyager shows Seoul subway lines natively, has
+Korean labels, and is visually much cleaner. Map no longer reinitializes
+on language switch since tiles are now language-independent.
 
 Co-Authored-By: Claude Sonnet 4.6 <noreply@anthropic.com>
 
