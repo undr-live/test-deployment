@@ -5,18 +5,18 @@
 ## Build Information
 
 - **Environment**: TEST
-- **Build Time**: 2026-03-29T19:13:01Z
-- **Source Commit**: [`c2530344bc1f09dc3756e20677b77854d0b0112b`](https://github.com/keunwoochoi/seoulunderground.live/commit/c2530344bc1f09dc3756e20677b77854d0b0112b)
+- **Build Time**: 2026-03-29T19:14:05Z
+- **Source Commit**: [`9d4c791fa0c65c945a1145f47e00c4ac6c257efd`](https://github.com/keunwoochoi/seoulunderground.live/commit/9d4c791fa0c65c945a1145f47e00c4ac6c257efd)
 - **Branch**: `feat/musician-profile-ig-cta`
-- **Workflow Run**: [View logs](https://github.com/keunwoochoi/seoulunderground.live/actions/runs/23716828712)
+- **Workflow Run**: [View logs](https://github.com/keunwoochoi/seoulunderground.live/actions/runs/23716887412)
 
 ## Commit Details
 
 - **Author**: Keunwoo Choi <gnuchoi+github@gmail.com>
-- **Message**: fix: use plain text link style for Instagram CTA on musician profile
+- **Message**: revert: restore original @handle text link on musician profile
 
-Match venue/event link pattern: plain colored text link + · separator
-+ muted @handle. Remove the pill button which was off-brand.
+The pill button and text link variants were both worse.
+Original monospace @handle link is cleaner.
 
 Co-Authored-By: Claude Sonnet 4.6 <noreply@anthropic.com>
 
