@@ -5,15 +5,15 @@
 ## Build Information
 
 - **Environment**: TEST
-- **Build Time**: 2026-03-29T20:24:52Z
-- **Source Commit**: [`f9da0bc53d638eb0a2b403a7a389bd05f1ff03b6`](https://github.com/keunwoochoi/seoulunderground.live/commit/f9da0bc53d638eb0a2b403a7a389bd05f1ff03b6)
+- **Build Time**: 2026-03-29T20:27:59Z
+- **Source Commit**: [`4f63349dad4c195c510b7c353403cb57c593842e`](https://github.com/keunwoochoi/seoulunderground.live/commit/4f63349dad4c195c510b7c353403cb57c593842e)
 - **Branch**: `feat/musician-profile-ig-cta`
-- **Workflow Run**: [View logs](https://github.com/keunwoochoi/seoulunderground.live/actions/runs/23718248724)
+- **Workflow Run**: [View logs](https://github.com/keunwoochoi/seoulunderground.live/actions/runs/23718280662)
 
 ## Commit Details
 
 - **Author**: Keunwoo Choi <gnuchoi+github@gmail.com>
-- **Message**: fix: show handle in Instagram link label on musician profile
+- **Message**: fix: display links as cards on musician profile, matching event panel style
 
 Co-Authored-By: Claude Sonnet 4.6 <noreply@anthropic.com>
 
