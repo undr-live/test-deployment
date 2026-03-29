@@ -5,23 +5,19 @@
 ## Build Information
 
 - **Environment**: TEST
-- **Build Time**: 2026-03-29T06:27:12Z
-- **Source Commit**: [`6e9a7fa147f25cc0b30957f432ca419598b74750`](https://github.com/keunwoochoi/seoulunderground.live/commit/6e9a7fa147f25cc0b30957f432ca419598b74750)
+- **Build Time**: 2026-03-29T06:32:41Z
+- **Source Commit**: [`ad458ed695577ef028ebc81a87f9348da8155ef5`](https://github.com/keunwoochoi/seoulunderground.live/commit/ad458ed695577ef028ebc81a87f9348da8155ef5)
 - **Branch**: `feat/musician-list-ui`
-- **Workflow Run**: [View logs](https://github.com/keunwoochoi/seoulunderground.live/actions/runs/23703115851)
+- **Workflow Run**: [View logs](https://github.com/keunwoochoi/seoulunderground.live/actions/runs/23703198099)
 
 ## Commit Details
 
 - **Author**: Keunwoo Choi <gnuchoi+github@gmail.com>
-- **Message**: feat: musician list 2D grid with upcoming show info and filters
+- **Message**: refactor: address code review feedback on MusicianList
 
-- Replace 1-column list with responsive 2-column grid (minmax 160px)
-- Remove confidence score display
-- Add instrument filter chips (composer, piano, bass, vocals, drums, sax, guitar)
-- Add "playing soon" toggle to filter to musicians with upcoming shows
-- Show next show date/time/venue on each card (e.g. "● 오늘 8pm · Oleo Jazz Pub")
-- Sort: upcoming-first by soonest show, then completeness, show count, alpha
-- Mute @handle to text-secondary; all labels i18n'd
+- Use shiftDate() for tomorrow calculation instead of manual date math
+- Extract processMusicianData() as a standalone pure function (testable)
+- Simplify filter: remove IIFE, compute needle once outside the boolean
 
 Co-Authored-By: Claude Sonnet 4.6 <noreply@anthropic.com>
 
