@@ -5,15 +5,23 @@
 ## Build Information
 
 - **Environment**: TEST
-- **Build Time**: 2026-03-27T20:28:40Z
-- **Source Commit**: [`d1e1f661d8155b28276374dfc39f3af294babab8`](https://github.com/keunwoochoi/seoulunderground.live/commit/d1e1f661d8155b28276374dfc39f3af294babab8)
-- **Branch**: `fix/map-cleaner-tiles-subway`
-- **Workflow Run**: [View logs](https://github.com/keunwoochoi/seoulunderground.live/actions/runs/23666115035)
+- **Build Time**: 2026-03-29T06:27:12Z
+- **Source Commit**: [`6e9a7fa147f25cc0b30957f432ca419598b74750`](https://github.com/keunwoochoi/seoulunderground.live/commit/6e9a7fa147f25cc0b30957f432ca419598b74750)
+- **Branch**: `feat/musician-list-ui`
+- **Workflow Run**: [View logs](https://github.com/keunwoochoi/seoulunderground.live/actions/runs/23703115851)
 
 ## Commit Details
 
 - **Author**: Keunwoo Choi <gnuchoi+github@gmail.com>
-- **Message**: fix: update stale comments in VenueMap after tile unification
+- **Message**: feat: musician list 2D grid with upcoming show info and filters
+
+- Replace 1-column list with responsive 2-column grid (minmax 160px)
+- Remove confidence score display
+- Add instrument filter chips (composer, piano, bass, vocals, drums, sax, guitar)
+- Add "playing soon" toggle to filter to musicians with upcoming shows
+- Show next show date/time/venue on each card (e.g. "● 오늘 8pm · Oleo Jazz Pub")
+- Sort: upcoming-first by soonest show, then completeness, show count, alpha
+- Mute @handle to text-secondary; all labels i18n'd
 
 Co-Authored-By: Claude Sonnet 4.6 <noreply@anthropic.com>
 
