@@ -5,25 +5,20 @@
 ## Build Information
 
 - **Environment**: TEST
-- **Build Time**: 2026-03-29T06:56:23Z
-- **Source Commit**: [`86b29bb0ad83051d8769d0dd2cc1c41f2acd7d52`](https://github.com/keunwoochoi/seoulunderground.live/commit/86b29bb0ad83051d8769d0dd2cc1c41f2acd7d52)
+- **Build Time**: 2026-03-29T07:07:40Z
+- **Source Commit**: [`1472e79cbef05e18f9b39cf5cb550dabfcc3e030`](https://github.com/keunwoochoi/seoulunderground.live/commit/1472e79cbef05e18f9b39cf5cb550dabfcc3e030)
 - **Branch**: `feat/musician-connections`
-- **Workflow Run**: [View logs](https://github.com/keunwoochoi/seoulunderground.live/actions/runs/23703617408)
+- **Workflow Run**: [View logs](https://github.com/keunwoochoi/seoulunderground.live/actions/runs/23703796682)
 
 ## Commit Details
 
 - **Author**: Keunwoo Choi <gnuchoi+github@gmail.com>
-- **Message**: feat: musician connection export + profile sections (phase 2)
+- **Message**: fix: remove venue count badge from musician cards; fix venue nav on profile
 
-- export_static_json.py: add export_musician_connections() — top-5 venues
-  and top-5 co-musicians per musician written to connections.json; call it
-  in run_export_static_json() for each locality/genre
-- App.tsx: add MusicianConnections type; add /api/connections static route
-- MusicianList: fetch connections; show venue count badge on each card
-- MusicianProfile: fetch connections; add "Venues" section (top venues,
-  clickable → events tab filtered by venue) and "Musicians" section
-  (top co-musicians, clickable → their profile); fix hardcoded Back button
-  to use t(lang, 'back') and navigate back to /musicians list
+- Remove "N venues" badge from musician list cards (was confusing)
+- Venue links on musician profile now navigate to ?tab=venues&q=handle
+  so the user lands on the venues tab with that venue pre-filtered,
+  instead of the broken ?venue= param that showed all events
 
 Co-Authored-By: Claude Sonnet 4.6 <noreply@anthropic.com>
 
