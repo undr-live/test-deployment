@@ -5,18 +5,20 @@
 ## Build Information
 
 - **Environment**: TEST
-- **Build Time**: 2026-03-29T19:14:05Z
-- **Source Commit**: [`9d4c791fa0c65c945a1145f47e00c4ac6c257efd`](https://github.com/keunwoochoi/seoulunderground.live/commit/9d4c791fa0c65c945a1145f47e00c4ac6c257efd)
+- **Build Time**: 2026-03-29T19:55:39Z
+- **Source Commit**: [`bbd059321a2345e928463a6f22fe3e077b70f286`](https://github.com/keunwoochoi/seoulunderground.live/commit/bbd059321a2345e928463a6f22fe3e077b70f286)
 - **Branch**: `feat/musician-profile-ig-cta`
-- **Workflow Run**: [View logs](https://github.com/keunwoochoi/seoulunderground.live/actions/runs/23716887412)
+- **Workflow Run**: [View logs](https://github.com/keunwoochoi/seoulunderground.live/actions/runs/23717702421)
 
 ## Commit Details
 
 - **Author**: Keunwoo Choi <gnuchoi+github@gmail.com>
-- **Message**: revert: restore original @handle text link on musician profile
+- **Message**: feat: links section on musician profile page
 
-The pill button and text link variants were both worse.
-Original monospace @handle link is cleaner.
+Add a '링크' section below instruments showing all known links for the
+musician. Currently shows Instagram (인스타그램/Instagram) from ig_handle.
+Structured to grow: websites field maps youtube/soundcloud/spotify/bandcamp
+to labeled links, unknown domains fall back to bare hostname.
 
 Co-Authored-By: Claude Sonnet 4.6 <noreply@anthropic.com>
 
