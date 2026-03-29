@@ -5,20 +5,19 @@
 ## Build Information
 
 - **Environment**: TEST
-- **Build Time**: 2026-03-29T07:07:40Z
-- **Source Commit**: [`1472e79cbef05e18f9b39cf5cb550dabfcc3e030`](https://github.com/keunwoochoi/seoulunderground.live/commit/1472e79cbef05e18f9b39cf5cb550dabfcc3e030)
+- **Build Time**: 2026-03-29T07:11:52Z
+- **Source Commit**: [`1773c06678d0b4f1ab52c99b38a5255dcb7da0d2`](https://github.com/keunwoochoi/seoulunderground.live/commit/1773c06678d0b4f1ab52c99b38a5255dcb7da0d2)
 - **Branch**: `feat/musician-connections`
-- **Workflow Run**: [View logs](https://github.com/keunwoochoi/seoulunderground.live/actions/runs/23703796682)
+- **Workflow Run**: [View logs](https://github.com/keunwoochoi/seoulunderground.live/actions/runs/23703823896)
 
 ## Commit Details
 
 - **Author**: Keunwoo Choi <gnuchoi+github@gmail.com>
-- **Message**: fix: remove venue count badge from musician cards; fix venue nav on profile
+- **Message**: fix: venue links always show all events (add &all=1)
 
-- Remove "N venues" badge from musician list cards (was confusing)
-- Venue links on musician profile now navigate to ?tab=venues&q=handle
-  so the user lands on the venues tab with that venue pre-filtered,
-  instead of the broken ?venue= param that showed all events
+- Musician profile venue links: navigate to ?q=handle&all=1
+- VenueCard '공연일정 보기': add &all=1 so all future events shown,
+  not just this week's default
 
 Co-Authored-By: Claude Sonnet 4.6 <noreply@anthropic.com>
 
