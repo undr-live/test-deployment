@@ -5,19 +5,20 @@
 ## Build Information
 
 - **Environment**: TEST
-- **Build Time**: 2026-03-29T07:11:52Z
-- **Source Commit**: [`1773c06678d0b4f1ab52c99b38a5255dcb7da0d2`](https://github.com/keunwoochoi/seoulunderground.live/commit/1773c06678d0b4f1ab52c99b38a5255dcb7da0d2)
+- **Build Time**: 2026-03-29T17:42:02Z
+- **Source Commit**: [`5d7e751c1728ecdde09be5918c6c3a3418629763`](https://github.com/keunwoochoi/seoulunderground.live/commit/5d7e751c1728ecdde09be5918c6c3a3418629763)
 - **Branch**: `feat/musician-connections`
-- **Workflow Run**: [View logs](https://github.com/keunwoochoi/seoulunderground.live/actions/runs/23703823896)
+- **Workflow Run**: [View logs](https://github.com/keunwoochoi/seoulunderground.live/actions/runs/23715035723)
 
 ## Commit Details
 
 - **Author**: Keunwoo Choi <gnuchoi+github@gmail.com>
-- **Message**: fix: venue links always show all events (add &all=1)
+- **Message**: fix: venue nav → venues tab; fade upcoming date badge by days away
 
-- Musician profile venue links: navigate to ?q=handle&all=1
-- VenueCard '공연일정 보기': add &all=1 so all future events shown,
-  not just this week's default
+- Musician profile venue links now navigate to ?tab=venues&q=handle
+  (was going to events tab)
+- Upcoming show badge on musician cards fades based on days until show:
+  today/tomorrow=100%, 2-3d=80%, 4-7d=65%, 8-14d=50%, 15+d=35%
 
 Co-Authored-By: Claude Sonnet 4.6 <noreply@anthropic.com>
 
