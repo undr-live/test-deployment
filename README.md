@@ -5,20 +5,18 @@
 ## Build Information
 
 - **Environment**: TEST
-- **Build Time**: 2026-03-29T17:42:02Z
-- **Source Commit**: [`5d7e751c1728ecdde09be5918c6c3a3418629763`](https://github.com/keunwoochoi/seoulunderground.live/commit/5d7e751c1728ecdde09be5918c6c3a3418629763)
-- **Branch**: `feat/musician-connections`
-- **Workflow Run**: [View logs](https://github.com/keunwoochoi/seoulunderground.live/actions/runs/23715035723)
+- **Build Time**: 2026-03-29T17:58:06Z
+- **Source Commit**: [`6ce15e8a56856868c21a4173884269abe40ed3f7`](https://github.com/keunwoochoi/seoulunderground.live/commit/6ce15e8a56856868c21a4173884269abe40ed3f7)
+- **Branch**: `feat/musician-profile-ig-cta`
+- **Workflow Run**: [View logs](https://github.com/keunwoochoi/seoulunderground.live/actions/runs/23715393383)
 
 ## Commit Details
 
 - **Author**: Keunwoo Choi <gnuchoi+github@gmail.com>
-- **Message**: fix: venue nav → venues tab; fade upcoming date badge by days away
+- **Message**: feat: prominent Instagram CTA button on musician profile page
 
-- Musician profile venue links now navigate to ?tab=venues&q=handle
-  (was going to events tab)
-- Upcoming show badge on musician cards fades based on days until show:
-  today/tomorrow=100%, 2-3d=80%, 4-7d=65%, 8-14d=50%, 15+d=35%
+Replace small @handle text link with a filled pill button "Instagram ↗"
+plus muted @handle as secondary label alongside it.
 
 Co-Authored-By: Claude Sonnet 4.6 <noreply@anthropic.com>
 
