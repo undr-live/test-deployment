@@ -5,24 +5,22 @@
 ## Build Information
 
 - **Environment**: TEST
-- **Build Time**: 2026-03-30T00:11:13Z
-- **Source Commit**: [`cebd3f70c8d6affbe38ee1d5319bad1b0ae61e05`](https://github.com/keunwoochoi/seoulunderground.live/commit/cebd3f70c8d6affbe38ee1d5319bad1b0ae61e05)
-- **Branch**: `feat/musician-fetch-links`
-- **Workflow Run**: [View logs](https://github.com/keunwoochoi/seoulunderground.live/actions/runs/23722417350)
+- **Build Time**: 2026-03-30T13:09:24Z
+- **Source Commit**: [`767af7a835ec99d72577c5777b5b48ba7d99ccd4`](https://github.com/keunwoochoi/seoulunderground.live/commit/767af7a835ec99d72577c5777b5b48ba7d99ccd4)
+- **Branch**: `fix/jsonld-offers-fields`
+- **Workflow Run**: [View logs](https://github.com/keunwoochoi/seoulunderground.live/actions/runs/23746346546)
 
 ## Commit Details
 
 - **Author**: Keunwoo Choi <gnuchoi+github@gmail.com>
-- **Message**: refactor: links.json cache + code review fixes
+- **Message**: fix: add missing JSON-LD offers fields for Google Search Console
 
-- links.json per musician replaces linktree_resolved.json:
-  structured with {updated_at, links: [{kind, url, source, via?}],
-  linktree_fetched_at: {url: timestamp}}
-- Fix N+1: batch-fetch all existing YouTube Link rows before musician loop
-- export_static_json: select only (entity_id, url) columns from Link table
-- Specific exceptions: json.JSONDecodeError/OSError/RequestException
-  instead of broad Exception
-- dict.fromkeys() for deduplication in _fetch_linktree_youtube_urls
+Fixes 5 structured data warnings:
+- price: parse free-text KRW string to number (e.g. "20,000원" → 20000; "무료" → 0)
+- priceCurrency: always "KRW" (was omitted when no price)
+- availability: always InStock
+- validFrom: event startDate
+- Remove conditional offers — always emit all fields
 
 Co-Authored-By: Claude Sonnet 4.6 <noreply@anthropic.com>
 
