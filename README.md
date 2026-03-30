@@ -5,26 +5,24 @@
 ## Build Information
 
 - **Environment**: TEST
-- **Build Time**: 2026-03-29T22:31:05Z
-- **Source Commit**: [`b3b106800fc230f34daf3a743eea0725297470ce`](https://github.com/keunwoochoi/seoulunderground.live/commit/b3b106800fc230f34daf3a743eea0725297470ce)
+- **Build Time**: 2026-03-30T00:11:13Z
+- **Source Commit**: [`cebd3f70c8d6affbe38ee1d5319bad1b0ae61e05`](https://github.com/keunwoochoi/seoulunderground.live/commit/cebd3f70c8d6affbe38ee1d5319bad1b0ae61e05)
 - **Branch**: `feat/musician-fetch-links`
-- **Workflow Run**: [View logs](https://github.com/keunwoochoi/seoulunderground.live/actions/runs/23720642346)
+- **Workflow Run**: [View logs](https://github.com/keunwoochoi/seoulunderground.live/actions/runs/23722417350)
 
 ## Commit Details
 
 - **Author**: Keunwoo Choi <gnuchoi+github@gmail.com>
-- **Message**: feat: extract YouTube channel links from musician bios (step 5c)
+- **Message**: refactor: links.json cache + code review fixes
 
-- New etl/musicians/fetch_links.py: reads biography_links from
-  profile/latest.json, extracts YouTube channel URLs (not video URLs),
-  resolves Linktree pages via HTTP GET with 30-day disk cache,
-  writes results to Link table
-- export_static_json.py: export_musicians() now reads Link table to
-  populate websites field (was always empty before)
-- musician_job.sh: add step 5c after extract_instruments
-
-Result: 131 of 814 seoul/jazz musicians now have YouTube channel links
-in the exported JSON, rendered as "YouTube" cards in the 링크 section.
+- links.json per musician replaces linktree_resolved.json:
+  structured with {updated_at, links: [{kind, url, source, via?}],
+  linktree_fetched_at: {url: timestamp}}
+- Fix N+1: batch-fetch all existing YouTube Link rows before musician loop
+- export_static_json: select only (entity_id, url) columns from Link table
+- Specific exceptions: json.JSONDecodeError/OSError/RequestException
+  instead of broad Exception
+- dict.fromkeys() for deduplication in _fetch_linktree_youtube_urls
 
 Co-Authored-By: Claude Sonnet 4.6 <noreply@anthropic.com>
 
