@@ -5,22 +5,17 @@
 ## Build Information
 
 - **Environment**: TEST
-- **Build Time**: 2026-03-30T13:09:24Z
-- **Source Commit**: [`767af7a835ec99d72577c5777b5b48ba7d99ccd4`](https://github.com/keunwoochoi/seoulunderground.live/commit/767af7a835ec99d72577c5777b5b48ba7d99ccd4)
+- **Build Time**: 2026-03-30T13:12:23Z
+- **Source Commit**: [`8adda9f0013ea7b0697c4a2f41637697745eb82d`](https://github.com/keunwoochoi/seoulunderground.live/commit/8adda9f0013ea7b0697c4a2f41637697745eb82d)
 - **Branch**: `fix/jsonld-offers-fields`
-- **Workflow Run**: [View logs](https://github.com/keunwoochoi/seoulunderground.live/actions/runs/23746346546)
+- **Workflow Run**: [View logs](https://github.com/keunwoochoi/seoulunderground.live/actions/runs/23746468737)
 
 ## Commit Details
 
 - **Author**: Keunwoo Choi <gnuchoi+github@gmail.com>
-- **Message**: fix: add missing JSON-LD offers fields for Google Search Console
+- **Message**: refactor: remove redundant isNaN check in parsePriceKRW
 
-Fixes 5 structured data warnings:
-- price: parse free-text KRW string to number (e.g. "20,000원" → 20000; "무료" → 0)
-- priceCurrency: always "KRW" (was omitted when no price)
-- availability: always InStock
-- validFrom: event startDate
-- Remove conditional offers — always emit all fields
+match[0] is always a digit string when match is non-null.
 
 Co-Authored-By: Claude Sonnet 4.6 <noreply@anthropic.com>
 
