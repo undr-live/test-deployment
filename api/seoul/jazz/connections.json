@@ -39,13 +39,13 @@
         "appearances": 4
       },
       {
-        "venue_handle": "flatnine_jazzbar",
-        "venue_name": "FLATNINE",
-        "appearances": 3
-      },
-      {
         "venue_handle": "michiko.seoul_official",
         "venue_name": "MICHIKO SEOUL",
+        "appearances": 4
+      },
+      {
+        "venue_handle": "flatnine_jazzbar",
+        "venue_name": "FLATNINE",
         "appearances": 3
       },
       {
@@ -68,7 +68,7 @@
       {
         "venue_handle": "michiko.seoul_official",
         "venue_name": "MICHIKO SEOUL",
-        "appearances": 6
+        "appearances": 7
       },
       {
         "venue_handle": "subriot_hbc",
@@ -85,7 +85,7 @@
       {
         "venue_handle": "newall_jazz",
         "venue_name": "Newall Jazz Lounge",
-        "appearances": 20
+        "appearances": 21
       },
       {
         "venue_handle": "blueming_jazz",
@@ -132,14 +132,14 @@
         "appearances": 23
       },
       {
-        "venue_handle": "houseofblue.seoul",
-        "venue_name": "House of Blue Jazz Bar",
+        "venue_handle": "jazzlounge_official",
+        "venue_name": "Jazz Lounge Konkuk Wine Bar",
         "appearances": 4
       },
       {
-        "venue_handle": "jazzlounge_official",
-        "venue_name": "Jazz Lounge Konkuk Wine Bar",
-        "appearances": 3
+        "venue_handle": "houseofblue.seoul",
+        "venue_name": "House of Blue Jazz Bar",
+        "appearances": 4
       },
       {
         "venue_handle": "houseofbrown.seoul",
@@ -156,7 +156,7 @@
       {
         "venue_handle": "mammy__blue",
         "venue_name": "Mammy Blue",
-        "appearances": 19
+        "appearances": 20
       },
       {
         "venue_handle": "allthatjazz_itaewon",
@@ -222,7 +222,7 @@
       {
         "venue_handle": "oleojazzpub",
         "venue_name": "Oleojazzpub",
-        "appearances": 46
+        "appearances": 47
       },
       {
         "venue_handle": "michiko.seoul_official",
@@ -324,12 +324,12 @@
       {
         "venue_handle": "houseofbrown.seoul",
         "venue_name": "House of Brown Jazz Bar",
-        "appearances": 9
+        "appearances": 10
       },
       {
         "venue_handle": "jazzlounge_official",
         "venue_name": "Jazz Lounge Konkuk Wine Bar",
-        "appearances": 4
+        "appearances": 5
       },
       {
         "venue_handle": "boogiewoogieseoul",
@@ -390,7 +390,7 @@
       {
         "venue_handle": "oleojazzpub",
         "venue_name": "Oleojazzpub",
-        "appearances": 35
+        "appearances": 36
       },
       {
         "venue_handle": "jazzlounge_official",
@@ -407,7 +407,7 @@
       {
         "venue_handle": "newall_jazz",
         "venue_name": "Newall Jazz Lounge",
-        "appearances": 11
+        "appearances": 12
       },
       {
         "venue_handle": "blueming_jazz",
@@ -429,7 +429,7 @@
       {
         "venue_handle": "newall_jazz",
         "venue_name": "Newall Jazz Lounge",
-        "appearances": 13
+        "appearances": 14
       },
       {
         "venue_handle": "houseofbrown.seoul",
@@ -465,12 +465,17 @@
       {
         "venue_handle": "jazzlounge_official",
         "venue_name": "Jazz Lounge Konkuk Wine Bar",
-        "appearances": 3
+        "appearances": 4
       },
       {
         "venue_handle": "edls_official",
         "venue_name": "Edls",
         "appearances": 2
+      },
+      {
+        "venue_handle": "newall_jazz",
+        "venue_name": "Newall Jazz Lounge",
+        "appearances": 1
       }
     ],
     "mminjaee__": [
@@ -494,7 +499,7 @@
       {
         "venue_handle": "mammy__blue",
         "venue_name": "Mammy Blue",
-        "appearances": 15
+        "appearances": 16
       }
     ],
     "leundong": [
@@ -508,7 +513,7 @@
       {
         "venue_handle": "oleojazzpub",
         "venue_name": "Oleojazzpub",
-        "appearances": 32
+        "appearances": 33
       }
     ],
     "kgvovc": [
@@ -520,7 +525,7 @@
       {
         "venue_handle": "jazzlounge_official",
         "venue_name": "Jazz Lounge Konkuk Wine Bar",
-        "appearances": 3
+        "appearances": 4
       },
       {
         "venue_handle": "edls_official",
@@ -626,11 +631,65 @@
         "appearances": 1
       }
     ],
+    "yongtothesun": [
+      {
+        "venue_handle": "mammy__blue",
+        "venue_name": "Mammy Blue",
+        "appearances": 10
+      },
+      {
+        "venue_handle": "flatnine_jazzbar",
+        "venue_name": "FLATNINE",
+        "appearances": 4
+      },
+      {
+        "venue_handle": "allthatjazz_itaewon",
+        "venue_name": "All That Jazz",
+        "appearances": 2
+      },
+      {
+        "venue_handle": "edls_official",
+        "venue_name": "Edls",
+        "appearances": 2
+      },
+      {
+        "venue_handle": "boogiewoogieseoul",
+        "venue_name": "Boogie Woogie",
+        "appearances": 1
+      }
+    ],
     "iceape8": [
       {
         "venue_handle": "dido_jazz_lounge",
         "venue_name": "Dido Jazz Lounge",
         "appearances": 10
+      }
+    ],
+    "kyu_patitucci": [
+      {
+        "venue_handle": "boogiewoogieseoul",
+        "venue_name": "Boogie Woogie",
+        "appearances": 10
+      },
+      {
+        "venue_handle": "milestones_jazz",
+        "venue_name": "MILESTONES",
+        "appearances": 7
+      },
+      {
+        "venue_handle": "subriot_hbc",
+        "venue_name": "SUBRIOT HBC",
+        "appearances": 6
+      },
+      {
+        "venue_handle": "newall_jazz",
+        "venue_name": "Newall Jazz Lounge",
+        "appearances": 2
+      },
+      {
+        "venue_handle": "idenhouseinsta",
+        "venue_name": "IDENHouse",
+        "appearances": 2
       }
     ],
     "ccc_chambers": [
@@ -647,7 +706,7 @@
       {
         "venue_handle": "newall_jazz",
         "venue_name": "Newall Jazz Lounge",
-        "appearances": 4
+        "appearances": 5
       },
       {
         "venue_handle": "gv_scene",
@@ -658,6 +717,50 @@
         "venue_handle": "subriot_hbc",
         "venue_name": "SUBRIOT HBC",
         "appearances": 3
+      }
+    ],
+    "j_hyuniyo": [
+      {
+        "venue_handle": "newall_jazz",
+        "venue_name": "Newall Jazz Lounge",
+        "appearances": 9
+      },
+      {
+        "venue_handle": "houseofblue.seoul",
+        "venue_name": "House of Blue Jazz Bar",
+        "appearances": 1
+      },
+      {
+        "venue_handle": "boogiewoogieseoul",
+        "venue_name": "Boogie Woogie",
+        "appearances": 1
+      }
+    ],
+    "daekyeong__": [
+      {
+        "venue_handle": "newall_jazz",
+        "venue_name": "Newall Jazz Lounge",
+        "appearances": 9
+      },
+      {
+        "venue_handle": "boogiewoogieseoul",
+        "venue_name": "Boogie Woogie",
+        "appearances": 4
+      },
+      {
+        "venue_handle": "blueming_jazz",
+        "venue_name": "BLUEMING Blueming",
+        "appearances": 3
+      },
+      {
+        "venue_handle": "jazzlounge_official",
+        "venue_name": "Jazz Lounge Konkuk Wine Bar",
+        "appearances": 3
+      },
+      {
+        "venue_handle": "kindseoul.kr",
+        "venue_name": "KIND SEOUL",
+        "appearances": 2
       }
     ],
     "ht_ham89": [
@@ -684,31 +787,31 @@
         "appearances": 3
       }
     ],
-    "yongtothesun": [
+    "ye_vans": [
       {
-        "venue_handle": "mammy__blue",
-        "venue_name": "Mammy Blue",
+        "venue_handle": "michiko.seoul_official",
+        "venue_name": "MICHIKO SEOUL",
         "appearances": 9
       },
       {
-        "venue_handle": "flatnine_jazzbar",
-        "venue_name": "FLATNINE",
-        "appearances": 3
+        "venue_handle": "newall_jazz",
+        "venue_name": "Newall Jazz Lounge",
+        "appearances": 4
       },
       {
-        "venue_handle": "allthatjazz_itaewon",
-        "venue_name": "All That Jazz",
-        "appearances": 2
-      },
-      {
-        "venue_handle": "edls_official",
-        "venue_name": "Edls",
+        "venue_handle": "blueming_jazz",
+        "venue_name": "BLUEMING Blueming",
         "appearances": 2
       },
       {
         "venue_handle": "boogiewoogieseoul",
         "venue_name": "Boogie Woogie",
-        "appearances": 1
+        "appearances": 2
+      },
+      {
+        "venue_handle": "subriot_hbc",
+        "venue_name": "SUBRIOT HBC",
+        "appearances": 2
       }
     ],
     "jazzerej": [
@@ -723,31 +826,31 @@
         "appearances": 3
       }
     ],
-    "kyu_patitucci": [
-      {
-        "venue_handle": "boogiewoogieseoul",
-        "venue_name": "Boogie Woogie",
-        "appearances": 9
-      },
-      {
-        "venue_handle": "milestones_jazz",
-        "venue_name": "MILESTONES",
-        "appearances": 7
-      },
-      {
-        "venue_handle": "subriot_hbc",
-        "venue_name": "SUBRIOT HBC",
-        "appearances": 6
-      },
+    "min_suuuuuuu8": [
       {
         "venue_handle": "newall_jazz",
         "venue_name": "Newall Jazz Lounge",
+        "appearances": 9
+      },
+      {
+        "venue_handle": "michiko.seoul_official",
+        "venue_name": "MICHIKO SEOUL",
+        "appearances": 4
+      },
+      {
+        "venue_handle": "rustic_jazz",
+        "venue_name": "Rustic Jazz",
+        "appearances": 4
+      },
+      {
+        "venue_handle": "bottler_euljiro",
+        "venue_name": "Bottler Euljiro",
         "appearances": 2
       },
       {
-        "venue_handle": "idenhouseinsta",
-        "venue_name": "IDENHouse",
-        "appearances": 2
+        "venue_handle": "mammy__blue",
+        "venue_name": "Mammy Blue",
+        "appearances": 1
       }
     ],
     "hannapkmusic": [
@@ -764,40 +867,6 @@
         "appearances": 8
       }
     ],
-    "j_hyuniyo": [
-      {
-        "venue_handle": "newall_jazz",
-        "venue_name": "Newall Jazz Lounge",
-        "appearances": 8
-      },
-      {
-        "venue_handle": "houseofblue.seoul",
-        "venue_name": "House of Blue Jazz Bar",
-        "appearances": 1
-      },
-      {
-        "venue_handle": "boogiewoogieseoul",
-        "venue_name": "Boogie Woogie",
-        "appearances": 1
-      }
-    ],
-    "rachelpark_sings": [
-      {
-        "venue_handle": "newall_jazz",
-        "venue_name": "Newall Jazz Lounge",
-        "appearances": 8
-      },
-      {
-        "venue_handle": "michiko.seoul_official",
-        "venue_name": "MICHIKO SEOUL",
-        "appearances": 2
-      },
-      {
-        "venue_handle": "boogiewoogieseoul",
-        "venue_name": "Boogie Woogie",
-        "appearances": 1
-      }
-    ],
     "hyoungminkim_jazzjange": [
       {
         "venue_handle": "blueming_jazz",
@@ -810,6 +879,11 @@
         "appearances": 7
       },
       {
+        "venue_handle": "subriot_hbc",
+        "venue_name": "SUBRIOT HBC",
+        "appearances": 3
+      },
+      {
         "venue_handle": "idenhouseinsta",
         "venue_name": "IDENHouse",
         "appearances": 2
@@ -817,38 +891,6 @@
       {
         "venue_handle": "jazzlounge_official",
         "venue_name": "Jazz Lounge Konkuk Wine Bar",
-        "appearances": 2
-      },
-      {
-        "venue_handle": "subriot_hbc",
-        "venue_name": "SUBRIOT HBC",
-        "appearances": 2
-      }
-    ],
-    "daekyeong__": [
-      {
-        "venue_handle": "newall_jazz",
-        "venue_name": "Newall Jazz Lounge",
-        "appearances": 8
-      },
-      {
-        "venue_handle": "boogiewoogieseoul",
-        "venue_name": "Boogie Woogie",
-        "appearances": 4
-      },
-      {
-        "venue_handle": "blueming_jazz",
-        "venue_name": "BLUEMING Blueming",
-        "appearances": 3
-      },
-      {
-        "venue_handle": "jazzlounge_official",
-        "venue_name": "Jazz Lounge Konkuk Wine Bar",
-        "appearances": 3
-      },
-      {
-        "venue_handle": "kindseoul.kr",
-        "venue_name": "KIND SEOUL",
         "appearances": 2
       }
     ],
@@ -888,7 +930,7 @@
       {
         "venue_handle": "mammy__blue",
         "venue_name": "Mammy Blue",
-        "appearances": 5
+        "appearances": 6
       },
       {
         "venue_handle": "edls_official",
@@ -896,13 +938,13 @@
         "appearances": 5
       },
       {
-        "venue_handle": "houseofbrown.seoul",
-        "venue_name": "House of Brown Jazz Bar",
+        "venue_handle": "jazzxover",
+        "venue_name": "Jazz Xover",
         "appearances": 2
       },
       {
-        "venue_handle": "jazzxover",
-        "venue_name": "Jazz Xover",
+        "venue_handle": "flatnine_jazzbar",
+        "venue_name": "FLATNINE",
         "appearances": 2
       }
     ],
@@ -966,7 +1008,7 @@
       {
         "venue_handle": "boogiewoogieseoul",
         "venue_name": "Boogie Woogie",
-        "appearances": 4
+        "appearances": 5
       },
       {
         "venue_handle": "subriot_hbc",
@@ -976,6 +1018,23 @@
       {
         "venue_handle": "gv_scene",
         "venue_name": "GV COFFEE BAR",
+        "appearances": 1
+      }
+    ],
+    "minxophone": [
+      {
+        "venue_handle": "boogiewoogieseoul",
+        "venue_name": "Boogie Woogie",
+        "appearances": 8
+      },
+      {
+        "venue_handle": "subriot_hbc",
+        "venue_name": "SUBRIOT HBC",
+        "appearances": 4
+      },
+      {
+        "venue_handle": "blueming_jazz",
+        "venue_name": "BLUEMING Blueming",
         "appearances": 1
       }
     ],
@@ -1018,11 +1077,43 @@
         "appearances": 1
       }
     ],
-    "ye_vans": [
+    "vocal_lima_": [
       {
-        "venue_handle": "michiko.seoul_official",
-        "venue_name": "MICHIKO SEOUL",
+        "venue_handle": "houseofblue.seoul",
+        "venue_name": "House of Blue Jazz Bar",
         "appearances": 8
+      },
+      {
+        "venue_handle": "dido_jazz_lounge",
+        "venue_name": "Dido Jazz Lounge",
+        "appearances": 4
+      },
+      {
+        "venue_handle": "rustic_jazz",
+        "venue_name": "Rustic Jazz",
+        "appearances": 3
+      },
+      {
+        "venue_handle": "houseofbrown.seoul",
+        "venue_name": "House of Brown Jazz Bar",
+        "appearances": 3
+      },
+      {
+        "venue_handle": "bottler_euljiro",
+        "venue_name": "Bottler Euljiro",
+        "appearances": 1
+      }
+    ],
+    "youngjik.k": [
+      {
+        "venue_handle": "boogiewoogieseoul",
+        "venue_name": "Boogie Woogie",
+        "appearances": 8
+      },
+      {
+        "venue_handle": "allthatjazz_itaewon",
+        "venue_name": "All That Jazz",
+        "appearances": 5
       },
       {
         "venue_handle": "newall_jazz",
@@ -1030,18 +1121,8 @@
         "appearances": 3
       },
       {
-        "venue_handle": "blueming_jazz",
-        "venue_name": "BLUEMING Blueming",
-        "appearances": 2
-      },
-      {
         "venue_handle": "subriot_hbc",
         "venue_name": "SUBRIOT HBC",
-        "appearances": 2
-      },
-      {
-        "venue_handle": "bluecat.fezh",
-        "venue_name": "BLUE CAT",
         "appearances": 2
       }
     ],
@@ -1076,33 +1157,6 @@
         "appearances": 3
       }
     ],
-    "min_suuuuuuu8": [
-      {
-        "venue_handle": "newall_jazz",
-        "venue_name": "Newall Jazz Lounge",
-        "appearances": 8
-      },
-      {
-        "venue_handle": "rustic_jazz",
-        "venue_name": "Rustic Jazz",
-        "appearances": 4
-      },
-      {
-        "venue_handle": "michiko.seoul_official",
-        "venue_name": "MICHIKO SEOUL",
-        "appearances": 3
-      },
-      {
-        "venue_handle": "bottler_euljiro",
-        "venue_name": "Bottler Euljiro",
-        "appearances": 2
-      },
-      {
-        "venue_handle": "mammy__blue",
-        "venue_name": "Mammy Blue",
-        "appearances": 1
-      }
-    ],
     "no_racket_": [
       {
         "venue_handle": "newall_jazz",
@@ -1110,13 +1164,13 @@
         "appearances": 8
       },
       {
-        "venue_handle": "idenhouseinsta",
-        "venue_name": "IDENHouse",
-        "appearances": 2
-      },
-      {
         "venue_handle": "michiko.seoul_official",
         "venue_name": "MICHIKO SEOUL",
+        "appearances": 3
+      },
+      {
+        "venue_handle": "idenhouseinsta",
+        "venue_name": "IDENHouse",
         "appearances": 2
       },
       {
@@ -1176,6 +1230,23 @@
         "venue_handle": "yeonnam5701",
         "venue_name": "Yeonnam5701",
         "appearances": 2
+      }
+    ],
+    "rachelpark_sings": [
+      {
+        "venue_handle": "newall_jazz",
+        "venue_name": "Newall Jazz Lounge",
+        "appearances": 8
+      },
+      {
+        "venue_handle": "michiko.seoul_official",
+        "venue_name": "MICHIKO SEOUL",
+        "appearances": 3
+      },
+      {
+        "venue_handle": "boogiewoogieseoul",
+        "venue_name": "Boogie Woogie",
+        "appearances": 1
       }
     ],
     "jazz_tap": [
@@ -1288,23 +1359,6 @@
         "appearances": 1
       }
     ],
-    "minxophone": [
-      {
-        "venue_handle": "boogiewoogieseoul",
-        "venue_name": "Boogie Woogie",
-        "appearances": 7
-      },
-      {
-        "venue_handle": "subriot_hbc",
-        "venue_name": "SUBRIOT HBC",
-        "appearances": 4
-      },
-      {
-        "venue_handle": "blueming_jazz",
-        "venue_name": "BLUEMING Blueming",
-        "appearances": 1
-      }
-    ],
     "jazz_fingers1": [
       {
         "venue_handle": "allthatjazz_itaewon",
@@ -1327,6 +1381,11 @@
         "venue_handle": "boogiewoogieseoul",
         "venue_name": "Boogie Woogie",
         "appearances": 2
+      },
+      {
+        "venue_handle": "gc_jazzpicnic",
+        "venue_name": "Gwacheon Jazz Picnic",
+        "appearances": 1
       },
       {
         "venue_handle": "jazzclub_janus",
@@ -1363,13 +1422,13 @@
         "appearances": 3
       },
       {
-        "venue_handle": "idenhouseinsta",
-        "venue_name": "IDENHouse",
-        "appearances": 2
-      },
-      {
         "venue_handle": "blueming_jazz",
         "venue_name": "BLUEMING Blueming",
+        "appearances": 3
+      },
+      {
+        "venue_handle": "idenhouseinsta",
+        "venue_name": "IDENHouse",
         "appearances": 2
       }
     ],
@@ -1412,52 +1471,30 @@
         "appearances": 1
       }
     ],
-    "vocal_lima_": [
+    "2junebbang2": [
       {
-        "venue_handle": "houseofblue.seoul",
-        "venue_name": "House of Blue Jazz Bar",
+        "venue_handle": "michiko.seoul_official",
+        "venue_name": "MICHIKO SEOUL",
         "appearances": 7
-      },
-      {
-        "venue_handle": "dido_jazz_lounge",
-        "venue_name": "Dido Jazz Lounge",
-        "appearances": 4
-      },
-      {
-        "venue_handle": "rustic_jazz",
-        "venue_name": "Rustic Jazz",
-        "appearances": 3
-      },
-      {
-        "venue_handle": "houseofbrown.seoul",
-        "venue_name": "House of Brown Jazz Bar",
-        "appearances": 3
-      },
-      {
-        "venue_handle": "bottler_euljiro",
-        "venue_name": "Bottler Euljiro",
-        "appearances": 1
-      }
-    ],
-    "youngjik.k": [
-      {
-        "venue_handle": "boogiewoogieseoul",
-        "venue_name": "Boogie Woogie",
-        "appearances": 7
-      },
-      {
-        "venue_handle": "allthatjazz_itaewon",
-        "venue_name": "All That Jazz",
-        "appearances": 5
-      },
-      {
-        "venue_handle": "newall_jazz",
-        "venue_name": "Newall Jazz Lounge",
-        "appearances": 3
       },
       {
         "venue_handle": "subriot_hbc",
         "venue_name": "SUBRIOT HBC",
+        "appearances": 3
+      },
+      {
+        "venue_handle": "allthatjazz_itaewon",
+        "venue_name": "All That Jazz",
+        "appearances": 2
+      },
+      {
+        "venue_handle": "jazzlounge_official",
+        "venue_name": "Jazz Lounge Konkuk Wine Bar",
+        "appearances": 2
+      },
+      {
+        "venue_handle": "boogiewoogieseoul",
+        "venue_name": "Boogie Woogie",
         "appearances": 2
       }
     ],
@@ -1537,7 +1574,7 @@
       {
         "venue_handle": "houseofblue.seoul",
         "venue_name": "House of Blue Jazz Bar",
-        "appearances": 2
+        "appearances": 3
       },
       {
         "venue_handle": "boogiewoogieseoul",
@@ -1632,7 +1669,7 @@
       {
         "venue_handle": "michiko.seoul_official",
         "venue_name": "MICHIKO SEOUL",
-        "appearances": 4
+        "appearances": 5
       },
       {
         "venue_handle": "jazzlounge_official",
@@ -1711,6 +1748,11 @@
         "appearances": 2
       },
       {
+        "venue_handle": "newall_jazz",
+        "venue_name": "Newall Jazz Lounge",
+        "appearances": 2
+      },
+      {
         "venue_handle": "subriot_hbc",
         "venue_name": "SUBRIOT HBC",
         "appearances": 2
@@ -1718,11 +1760,6 @@
       {
         "venue_handle": "flatnine_jazzbar",
         "venue_name": "FLATNINE",
-        "appearances": 1
-      },
-      {
-        "venue_handle": "newall_jazz",
-        "venue_name": "Newall Jazz Lounge",
         "appearances": 1
       }
     ],
@@ -1733,14 +1770,14 @@
         "appearances": 6
       },
       {
-        "venue_handle": "newall_jazz",
-        "venue_name": "Newall Jazz Lounge",
+        "venue_handle": "michiko.seoul_official",
+        "venue_name": "MICHIKO SEOUL",
         "appearances": 4
       },
       {
-        "venue_handle": "michiko.seoul_official",
-        "venue_name": "MICHIKO SEOUL",
-        "appearances": 3
+        "venue_handle": "newall_jazz",
+        "venue_name": "Newall Jazz Lounge",
+        "appearances": 4
       },
       {
         "venue_handle": "mammy__blue",
@@ -1763,6 +1800,40 @@
         "venue_handle": "milestones_jazz",
         "venue_name": "MILESTONES",
         "appearances": 2
+      }
+    ],
+    "hayeonsongdrums": [
+      {
+        "venue_handle": "boogiewoogieseoul",
+        "venue_name": "Boogie Woogie",
+        "appearances": 6
+      },
+      {
+        "venue_handle": "flatnine_jazzbar",
+        "venue_name": "FLATNINE",
+        "appearances": 2
+      },
+      {
+        "venue_handle": "jazzclub_evans",
+        "venue_name": "CLUB EVANS",
+        "appearances": 1
+      },
+      {
+        "venue_handle": "oleojazzpub",
+        "venue_name": "Oleojazzpub",
+        "appearances": 1
+      },
+      {
+        "venue_handle": "blueming_jazz",
+        "venue_name": "BLUEMING Blueming",
+        "appearances": 1
+      }
+    ],
+    "solidbass_jong": [
+      {
+        "venue_handle": "boogiewoogieseoul",
+        "venue_name": "Boogie Woogie",
+        "appearances": 6
       }
     ],
     "ddungdorinet": [
@@ -1809,33 +1880,6 @@
         "appearances": 1
       }
     ],
-    "2junebbang2": [
-      {
-        "venue_handle": "michiko.seoul_official",
-        "venue_name": "MICHIKO SEOUL",
-        "appearances": 6
-      },
-      {
-        "venue_handle": "subriot_hbc",
-        "venue_name": "SUBRIOT HBC",
-        "appearances": 3
-      },
-      {
-        "venue_handle": "allthatjazz_itaewon",
-        "venue_name": "All That Jazz",
-        "appearances": 2
-      },
-      {
-        "venue_handle": "jazzlounge_official",
-        "venue_name": "Jazz Lounge Konkuk Wine Bar",
-        "appearances": 2
-      },
-      {
-        "venue_handle": "boogiewoogieseoul",
-        "venue_name": "Boogie Woogie",
-        "appearances": 2
-      }
-    ],
     "__suno_kim__": [
       {
         "venue_handle": "boogiewoogieseoul",
@@ -1860,6 +1904,18 @@
       {
         "venue_handle": "flatnine_jazzbar",
         "venue_name": "FLATNINE",
+        "appearances": 1
+      }
+    ],
+    "hong_vocalist": [
+      {
+        "venue_handle": "michiko.seoul_official",
+        "venue_name": "MICHIKO SEOUL",
+        "appearances": 6
+      },
+      {
+        "venue_handle": "subriot_hbc",
+        "venue_name": "SUBRIOT HBC",
         "appearances": 1
       }
     ],
@@ -1889,7 +1945,7 @@
       {
         "venue_handle": "subriot_hbc",
         "venue_name": "SUBRIOT HBC",
-        "appearances": 3
+        "appearances": 4
       },
       {
         "venue_handle": "blueming_jazz",
@@ -1916,7 +1972,7 @@
       {
         "venue_handle": "newall_jazz",
         "venue_name": "Newall Jazz Lounge",
-        "appearances": 3
+        "appearances": 4
       },
       {
         "venue_handle": "subriot_hbc",
@@ -1968,6 +2024,23 @@
         "venue_handle": "subriot_hbc",
         "venue_name": "SUBRIOT HBC",
         "appearances": 1
+      }
+    ],
+    "himchanpark": [
+      {
+        "venue_handle": "boogiewoogieseoul",
+        "venue_name": "Boogie Woogie",
+        "appearances": 6
+      },
+      {
+        "venue_handle": "flatnine_jazzbar",
+        "venue_name": "FLATNINE",
+        "appearances": 3
+      },
+      {
+        "venue_handle": "jazzclub_evans",
+        "venue_name": "CLUB EVANS",
+        "appearances": 2
       }
     ],
     "satsuki.on.bass": [
@@ -2208,6 +2281,23 @@
         "appearances": 1
       }
     ],
+    "drummer.jamesjo": [
+      {
+        "venue_handle": "boogiewoogieseoul",
+        "venue_name": "Boogie Woogie",
+        "appearances": 5
+      },
+      {
+        "venue_handle": "subriot_hbc",
+        "venue_name": "SUBRIOT HBC",
+        "appearances": 3
+      },
+      {
+        "venue_handle": "blueming_jazz",
+        "venue_name": "BLUEMING Blueming",
+        "appearances": 1
+      }
+    ],
     "drumjaewon": [
       {
         "venue_handle": "michiko.seoul_official",
@@ -2235,6 +2325,11 @@
         "venue_handle": "subriot_hbc",
         "venue_name": "SUBRIOT HBC",
         "appearances": 3
+      },
+      {
+        "venue_handle": "blueming_jazz",
+        "venue_name": "BLUEMING Blueming",
+        "appearances": 1
       }
     ],
     "hamseokjin_": [
@@ -2447,6 +2542,11 @@
         "venue_handle": "flatnine_jazzbar",
         "venue_name": "FLATNINE",
         "appearances": 1
+      },
+      {
+        "venue_handle": "blueming_jazz",
+        "venue_name": "BLUEMING Blueming",
+        "appearances": 1
       }
     ],
     "rob.ligato": [
@@ -2500,6 +2600,11 @@
         "appearances": 5
       },
       {
+        "venue_handle": "houseofblue.seoul",
+        "venue_name": "House of Blue Jazz Bar",
+        "appearances": 3
+      },
+      {
         "venue_handle": "jazzlounge_official",
         "venue_name": "Jazz Lounge Konkuk Wine Bar",
         "appearances": 2
@@ -2512,11 +2617,6 @@
       {
         "venue_handle": "milestones_jazz",
         "venue_name": "MILESTONES",
-        "appearances": 2
-      },
-      {
-        "venue_handle": "houseofblue.seoul",
-        "venue_name": "House of Blue Jazz Bar",
         "appearances": 2
       }
     ],
@@ -2545,40 +2645,6 @@
         "venue_handle": "subriot_hbc",
         "venue_name": "SUBRIOT HBC",
         "appearances": 0
-      }
-    ],
-    "hayeonsongdrums": [
-      {
-        "venue_handle": "boogiewoogieseoul",
-        "venue_name": "Boogie Woogie",
-        "appearances": 5
-      },
-      {
-        "venue_handle": "flatnine_jazzbar",
-        "venue_name": "FLATNINE",
-        "appearances": 2
-      },
-      {
-        "venue_handle": "jazzclub_evans",
-        "venue_name": "CLUB EVANS",
-        "appearances": 1
-      },
-      {
-        "venue_handle": "oleojazzpub",
-        "venue_name": "Oleojazzpub",
-        "appearances": 1
-      },
-      {
-        "venue_handle": "blueming_jazz",
-        "venue_name": "BLUEMING Blueming",
-        "appearances": 1
-      }
-    ],
-    "solidbass_jong": [
-      {
-        "venue_handle": "boogiewoogieseoul",
-        "venue_name": "Boogie Woogie",
-        "appearances": 5
       }
     ],
     "seong_eun._.jp": [
@@ -2693,6 +2759,11 @@
         "venue_handle": "boogiewoogieseoul",
         "venue_name": "Boogie Woogie",
         "appearances": 1
+      },
+      {
+        "venue_handle": "gc_jazzpicnic",
+        "venue_name": "Gwacheon Jazz Picnic",
+        "appearances": 1
       }
     ],
     "yoon_sunghee_trio": [
@@ -2759,6 +2830,11 @@
         "venue_handle": "subriot_hbc",
         "venue_name": "SUBRIOT HBC",
         "appearances": 1
+      },
+      {
+        "venue_handle": "rustic_jazz",
+        "venue_name": "Rustic Jazz",
+        "appearances": 1
       }
     ],
     "9li.9li": [
@@ -2773,18 +2849,6 @@
         "appearances": 1
       }
     ],
-    "hong_vocalist": [
-      {
-        "venue_handle": "michiko.seoul_official",
-        "venue_name": "MICHIKO SEOUL",
-        "appearances": 5
-      },
-      {
-        "venue_handle": "subriot_hbc",
-        "venue_name": "SUBRIOT HBC",
-        "appearances": 1
-      }
-    ],
     "paulkirby8547": [
       {
         "venue_handle": "boogiewoogieseoul",
@@ -2795,6 +2859,11 @@
         "venue_handle": "flatnine_jazzbar",
         "venue_name": "FLATNINE",
         "appearances": 3
+      },
+      {
+        "venue_handle": "mammy__blue",
+        "venue_name": "Mammy Blue",
+        "appearances": 1
       }
     ],
     "nohcdown": [
@@ -2841,23 +2910,38 @@
         "venue_handle": "edls_official",
         "venue_name": "Edls",
         "appearances": 1
+      },
+      {
+        "venue_handle": "flatnine_jazzbar",
+        "venue_name": "FLATNINE",
+        "appearances": 1
       }
     ],
-    "himchanpark": [
+    "ihatebrushsticks": [
       {
         "venue_handle": "boogiewoogieseoul",
         "venue_name": "Boogie Woogie",
         "appearances": 5
       },
       {
-        "venue_handle": "jazzclub_evans",
-        "venue_name": "CLUB EVANS",
+        "venue_handle": "idenhouseinsta",
+        "venue_name": "IDENHouse",
         "appearances": 2
       },
       {
         "venue_handle": "flatnine_jazzbar",
         "venue_name": "FLATNINE",
-        "appearances": 2
+        "appearances": 1
+      },
+      {
+        "venue_handle": "orient_express_wine_",
+        "venue_name": "Orient Express Wine",
+        "appearances": 1
+      },
+      {
+        "venue_handle": "subriot_hbc",
+        "venue_name": "SUBRIOT HBC",
+        "appearances": 1
       }
     ],
     "gguneee": [
@@ -2916,6 +3000,11 @@
         "venue_handle": "kindseoul.kr",
         "venue_name": "KIND SEOUL",
         "appearances": 1
+      },
+      {
+        "venue_handle": "subriot_hbc",
+        "venue_name": "SUBRIOT HBC",
+        "appearances": 1
       }
     ],
     "jazzxbass": [
@@ -2928,6 +3017,33 @@
         "venue_handle": "flatnine_jazzbar",
         "venue_name": "FLATNINE",
         "appearances": 2
+      },
+      {
+        "venue_handle": "boogiewoogieseoul",
+        "venue_name": "Boogie Woogie",
+        "appearances": 1
+      }
+    ],
+    "sc._.creation": [
+      {
+        "venue_handle": "dido_jazz_lounge",
+        "venue_name": "Dido Jazz Lounge",
+        "appearances": 5
+      },
+      {
+        "venue_handle": "rustic_jazz",
+        "venue_name": "Rustic Jazz",
+        "appearances": 3
+      },
+      {
+        "venue_handle": "subriot_hbc",
+        "venue_name": "SUBRIOT HBC",
+        "appearances": 2
+      },
+      {
+        "venue_handle": "flatnine_jazzbar",
+        "venue_name": "FLATNINE",
+        "appearances": 1
       },
       {
         "venue_handle": "boogiewoogieseoul",
@@ -2983,6 +3099,33 @@
       {
         "venue_handle": "flatnine_jazzbar",
         "venue_name": "FLATNINE",
+        "appearances": 1
+      }
+    ],
+    "hot_jazz_moon": [
+      {
+        "venue_handle": "boogiewoogieseoul",
+        "venue_name": "Boogie Woogie",
+        "appearances": 4
+      },
+      {
+        "venue_handle": "idenhouseinsta",
+        "venue_name": "IDENHouse",
+        "appearances": 3
+      },
+      {
+        "venue_handle": "clubmild_official",
+        "venue_name": "CLUB MILD",
+        "appearances": 2
+      },
+      {
+        "venue_handle": "houseofblue.seoul",
+        "venue_name": "House of Blue Jazz Bar",
+        "appearances": 1
+      },
+      {
+        "venue_handle": "blueming_jazz",
+        "venue_name": "BLUEMING Blueming",
         "appearances": 1
       }
     ],
@@ -3073,7 +3216,7 @@
       {
         "venue_handle": "mammy__blue",
         "venue_name": "Mammy Blue",
-        "appearances": 3
+        "appearances": 4
       },
       {
         "venue_handle": "boogiewoogieseoul",
@@ -3176,20 +3319,30 @@
         "appearances": 0
       }
     ],
-    "drummer.jamesjo": [
+    "dyk_bass": [
       {
         "venue_handle": "boogiewoogieseoul",
         "venue_name": "Boogie Woogie",
         "appearances": 4
       },
       {
-        "venue_handle": "subriot_hbc",
-        "venue_name": "SUBRIOT HBC",
-        "appearances": 3
+        "venue_handle": "jazzlounge_official",
+        "venue_name": "Jazz Lounge Konkuk Wine Bar",
+        "appearances": 1
       },
       {
-        "venue_handle": "blueming_jazz",
-        "venue_name": "BLUEMING Blueming",
+        "venue_handle": "subriot_hbc",
+        "venue_name": "SUBRIOT HBC",
+        "appearances": 1
+      },
+      {
+        "venue_handle": "michiko.seoul_official",
+        "venue_name": "MICHIKO SEOUL",
+        "appearances": 1
+      },
+      {
+        "venue_handle": "rustic_jazz",
+        "venue_name": "Rustic Jazz",
         "appearances": 1
       }
     ],
@@ -3287,13 +3440,13 @@
         "appearances": 4
       },
       {
-        "venue_handle": "allthatjazz_itaewon",
-        "venue_name": "All That Jazz",
-        "appearances": 2
-      },
-      {
         "venue_handle": "jazzlounge_official",
         "venue_name": "Jazz Lounge Konkuk Wine Bar",
+        "appearances": 3
+      },
+      {
+        "venue_handle": "allthatjazz_itaewon",
+        "venue_name": "All That Jazz",
         "appearances": 2
       },
       {
@@ -3312,6 +3465,11 @@
         "venue_handle": "newall_jazz",
         "venue_name": "Newall Jazz Lounge",
         "appearances": 4
+      },
+      {
+        "venue_handle": "rustic_jazz",
+        "venue_name": "Rustic Jazz",
+        "appearances": 1
       }
     ],
     "kyung_1_lee": [
@@ -3367,6 +3525,23 @@
       {
         "venue_handle": "subriot_hbc",
         "venue_name": "SUBRIOT HBC",
+        "appearances": 1
+      }
+    ],
+    "kim_in_young_bass": [
+      {
+        "venue_handle": "flatnine_jazzbar",
+        "venue_name": "FLATNINE",
+        "appearances": 4
+      },
+      {
+        "venue_handle": "bluecat.fezh",
+        "venue_name": "BLUE CAT",
+        "appearances": 2
+      },
+      {
+        "venue_handle": "mammy__blue",
+        "venue_name": "Mammy Blue",
         "appearances": 1
       }
     ],
@@ -3619,6 +3794,28 @@
         "appearances": 4
       }
     ],
+    "sugarjazzzz": [
+      {
+        "venue_handle": "yeonnam5701",
+        "venue_name": "Yeonnam5701",
+        "appearances": 4
+      },
+      {
+        "venue_handle": "bluecat.fezh",
+        "venue_name": "BLUE CAT",
+        "appearances": 2
+      },
+      {
+        "venue_handle": "boogiewoogieseoul",
+        "venue_name": "Boogie Woogie",
+        "appearances": 1
+      },
+      {
+        "venue_handle": "edls_official",
+        "venue_name": "Edls",
+        "appearances": 1
+      }
+    ],
     "yoo_bohyun": [
       {
         "venue_handle": "boogiewoogieseoul",
@@ -3678,6 +3875,40 @@
         "venue_handle": "jazzxover",
         "venue_name": "Jazz Xover",
         "appearances": 3
+      }
+    ],
+    "20_more_bass": [
+      {
+        "venue_handle": "blueming_jazz",
+        "venue_name": "BLUEMING Blueming",
+        "appearances": 4
+      },
+      {
+        "venue_handle": "subriot_hbc",
+        "venue_name": "SUBRIOT HBC",
+        "appearances": 3
+      },
+      {
+        "venue_handle": "idenhouseinsta",
+        "venue_name": "IDENHouse",
+        "appearances": 2
+      },
+      {
+        "venue_handle": "boogiewoogieseoul",
+        "venue_name": "Boogie Woogie",
+        "appearances": 2
+      },
+      {
+        "venue_handle": "edls_official",
+        "venue_name": "Edls",
+        "appearances": 2
+      }
+    ],
+    "kimchulsoomusic": [
+      {
+        "venue_handle": "flatnine_jazzbar",
+        "venue_name": "FLATNINE",
+        "appearances": 4
       }
     ],
     "iamcorea": [
@@ -3751,6 +3982,23 @@
         "appearances": 1
       }
     ],
+    "damonjazz": [
+      {
+        "venue_handle": "rustic_jazz",
+        "venue_name": "Rustic Jazz",
+        "appearances": 4
+      },
+      {
+        "venue_handle": "houseofbrown.seoul",
+        "venue_name": "House of Brown Jazz Bar",
+        "appearances": 3
+      },
+      {
+        "venue_handle": "mammy__blue",
+        "venue_name": "Mammy Blue",
+        "appearances": 2
+      }
+    ],
     "thesouthernlimited": [
       {
         "venue_handle": "allthatjazz_itaewon",
@@ -3797,33 +4045,6 @@
         "appearances": 1
       }
     ],
-    "ihatebrushsticks": [
-      {
-        "venue_handle": "boogiewoogieseoul",
-        "venue_name": "Boogie Woogie",
-        "appearances": 4
-      },
-      {
-        "venue_handle": "idenhouseinsta",
-        "venue_name": "IDENHouse",
-        "appearances": 2
-      },
-      {
-        "venue_handle": "flatnine_jazzbar",
-        "venue_name": "FLATNINE",
-        "appearances": 1
-      },
-      {
-        "venue_handle": "orient_express_wine_",
-        "venue_name": "Orient Express Wine",
-        "appearances": 1
-      },
-      {
-        "venue_handle": "subriot_hbc",
-        "venue_name": "SUBRIOT HBC",
-        "appearances": 1
-      }
-    ],
     "jinkimtp": [
       {
         "venue_handle": "boogiewoogieseoul",
@@ -3840,7 +4061,7 @@
       {
         "venue_handle": "flatnine_jazzbar",
         "venue_name": "FLATNINE",
-        "appearances": 2
+        "appearances": 3
       }
     ],
     "matterday_music": [
@@ -3937,33 +4158,6 @@
         "appearances": 4
       }
     ],
-    "sc._.creation": [
-      {
-        "venue_handle": "dido_jazz_lounge",
-        "venue_name": "Dido Jazz Lounge",
-        "appearances": 4
-      },
-      {
-        "venue_handle": "rustic_jazz",
-        "venue_name": "Rustic Jazz",
-        "appearances": 2
-      },
-      {
-        "venue_handle": "subriot_hbc",
-        "venue_name": "SUBRIOT HBC",
-        "appearances": 2
-      },
-      {
-        "venue_handle": "flatnine_jazzbar",
-        "venue_name": "FLATNINE",
-        "appearances": 1
-      },
-      {
-        "venue_handle": "boogiewoogieseoul",
-        "venue_name": "Boogie Woogie",
-        "appearances": 1
-      }
-    ],
     "kwonguin": [
       {
         "venue_handle": "dido_jazz_lounge",
@@ -4000,13 +4194,13 @@
         "appearances": 4
       },
       {
-        "venue_handle": "flatnine_jazzbar",
-        "venue_name": "FLATNINE",
-        "appearances": 2
-      },
-      {
         "venue_handle": "mammy__blue",
         "venue_name": "Mammy Blue",
+        "appearances": 3
+      },
+      {
+        "venue_handle": "flatnine_jazzbar",
+        "venue_name": "FLATNINE",
         "appearances": 2
       }
     ],
@@ -4014,6 +4208,13 @@
       {
         "venue_handle": "rustic_jazz",
         "venue_name": "Rustic Jazz",
+        "appearances": 4
+      }
+    ],
+    "mj_kim0": [
+      {
+        "venue_handle": "flatnine_jazzbar",
+        "venue_name": "FLATNINE",
         "appearances": 4
       }
     ],
@@ -4066,33 +4267,6 @@
         "appearances": 1
       }
     ],
-    "hot_jazz_moon": [
-      {
-        "venue_handle": "boogiewoogieseoul",
-        "venue_name": "Boogie Woogie",
-        "appearances": 3
-      },
-      {
-        "venue_handle": "idenhouseinsta",
-        "venue_name": "IDENHouse",
-        "appearances": 3
-      },
-      {
-        "venue_handle": "clubmild_official",
-        "venue_name": "CLUB MILD",
-        "appearances": 2
-      },
-      {
-        "venue_handle": "houseofblue.seoul",
-        "venue_name": "House of Blue Jazz Bar",
-        "appearances": 1
-      },
-      {
-        "venue_handle": "blueming_jazz",
-        "venue_name": "BLUEMING Blueming",
-        "appearances": 1
-      }
-    ],
     "guitar_jiho": [
       {
         "venue_handle": "idenhouseinsta",
@@ -4102,6 +4276,18 @@
       {
         "venue_handle": "boogiewoogieseoul",
         "venue_name": "Boogie Woogie",
+        "appearances": 1
+      }
+    ],
+    "kwakjiwoong": [
+      {
+        "venue_handle": "flatnine_jazzbar",
+        "venue_name": "FLATNINE",
+        "appearances": 3
+      },
+      {
+        "venue_handle": "subriot_hbc",
+        "venue_name": "SUBRIOT HBC",
         "appearances": 1
       }
     ],
@@ -4161,15 +4347,25 @@
         "appearances": 1
       }
     ],
-    "riniyoo": [
+    "ddanddarawon": [
       {
         "venue_handle": "jazzxover",
         "venue_name": "Jazz Xover",
         "appearances": 3
       },
       {
-        "venue_handle": "bluecat.fezh",
-        "venue_name": "BLUE CAT",
+        "venue_handle": "newall_jazz",
+        "venue_name": "Newall Jazz Lounge",
+        "appearances": 2
+      },
+      {
+        "venue_handle": "milestones_jazz",
+        "venue_name": "MILESTONES",
+        "appearances": 1
+      },
+      {
+        "venue_handle": "mammy__blue",
+        "venue_name": "Mammy Blue",
         "appearances": 1
       }
     ],
@@ -4183,40 +4379,6 @@
         "venue_handle": "kindseoul.kr",
         "venue_name": "KIND SEOUL",
         "appearances": 1
-      }
-    ],
-    "quiet.trp": [
-      {
-        "venue_handle": "newall_jazz",
-        "venue_name": "Newall Jazz Lounge",
-        "appearances": 3
-      },
-      {
-        "venue_handle": "kindseoul.kr",
-        "venue_name": "KIND SEOUL",
-        "appearances": 2
-      },
-      {
-        "venue_handle": "jazzgarage_official",
-        "venue_name": "Jazz Garage",
-        "appearances": 1
-      },
-      {
-        "venue_handle": "michiko.seoul_official",
-        "venue_name": "MICHIKO SEOUL",
-        "appearances": 1
-      }
-    ],
-    "swing_or_nothing": [
-      {
-        "venue_handle": "newall_jazz",
-        "venue_name": "Newall Jazz Lounge",
-        "appearances": 3
-      },
-      {
-        "venue_handle": "boogiewoogieseoul",
-        "venue_name": "Boogie Woogie",
-        "appearances": 2
       }
     ],
     "sujaejung_pi": [
@@ -4238,18 +4400,6 @@
         "venue_handle": "subriot_hbc",
         "venue_name": "SUBRIOT HBC",
         "appearances": 3
-      }
-    ],
-    "beyourselfo_o": [
-      {
-        "venue_handle": "newall_jazz",
-        "venue_name": "Newall Jazz Lounge",
-        "appearances": 3
-      },
-      {
-        "venue_handle": "boogiewoogieseoul",
-        "venue_name": "Boogie Woogie",
-        "appearances": 1
       }
     ],
     "bassloverz0": [
@@ -4383,6 +4533,11 @@
         "appearances": 1
       },
       {
+        "venue_handle": "rustic_jazz",
+        "venue_name": "Rustic Jazz",
+        "appearances": 1
+      },
+      {
         "venue_handle": "jazzclub_evans",
         "venue_name": "CLUB EVANS",
         "appearances": 0
@@ -4393,6 +4548,23 @@
         "venue_handle": "flatnine_jazzbar",
         "venue_name": "FLATNINE",
         "appearances": 3
+      }
+    ],
+    "taekukbop": [
+      {
+        "venue_handle": "oleojazzpub",
+        "venue_name": "Oleojazzpub",
+        "appearances": 3
+      },
+      {
+        "venue_handle": "boogiewoogieseoul",
+        "venue_name": "Boogie Woogie",
+        "appearances": 2
+      },
+      {
+        "venue_handle": "teddy.valley",
+        "venue_name": "Teddy Valley",
+        "appearances": 1
       }
     ],
     "jettone88": [
@@ -4488,33 +4660,6 @@
         "appearances": 1
       }
     ],
-    "dyk_bass": [
-      {
-        "venue_handle": "boogiewoogieseoul",
-        "venue_name": "Boogie Woogie",
-        "appearances": 3
-      },
-      {
-        "venue_handle": "jazzlounge_official",
-        "venue_name": "Jazz Lounge Konkuk Wine Bar",
-        "appearances": 1
-      },
-      {
-        "venue_handle": "subriot_hbc",
-        "venue_name": "SUBRIOT HBC",
-        "appearances": 1
-      },
-      {
-        "venue_handle": "michiko.seoul_official",
-        "venue_name": "MICHIKO SEOUL",
-        "appearances": 1
-      },
-      {
-        "venue_handle": "rustic_jazz",
-        "venue_name": "Rustic Jazz",
-        "appearances": 1
-      }
-    ],
     "drhongjazz": [
       {
         "venue_handle": "subriot_hbc",
@@ -4551,13 +4696,13 @@
         "appearances": 3
       },
       {
-        "venue_handle": "dido_jazz_lounge",
-        "venue_name": "Dido Jazz Lounge",
-        "appearances": 2
-      },
-      {
         "venue_handle": "yeonnam5701",
         "venue_name": "Yeonnam5701",
+        "appearances": 3
+      },
+      {
+        "venue_handle": "dido_jazz_lounge",
+        "venue_name": "Dido Jazz Lounge",
         "appearances": 2
       },
       {
@@ -4624,6 +4769,23 @@
         "appearances": 1
       }
     ],
+    "bluejazz82": [
+      {
+        "venue_handle": "flatnine_jazzbar",
+        "venue_name": "FLATNINE",
+        "appearances": 3
+      },
+      {
+        "venue_handle": "bluecat.fezh",
+        "venue_name": "BLUE CAT",
+        "appearances": 2
+      },
+      {
+        "venue_handle": "jazzclub_janus",
+        "venue_name": "Jazz Club Janus",
+        "appearances": 0
+      }
+    ],
     "likewar1976": [
       {
         "venue_handle": "blueming_jazz",
@@ -4638,6 +4800,11 @@
       {
         "venue_handle": "mammy__blue",
         "venue_name": "Mammy Blue",
+        "appearances": 1
+      },
+      {
+        "venue_handle": "flatnine_jazzbar",
+        "venue_name": "FLATNINE",
         "appearances": 1
       }
     ],
@@ -4665,23 +4832,6 @@
       {
         "venue_handle": "jazzgarage_official",
         "venue_name": "Jazz Garage",
-        "appearances": 1
-      }
-    ],
-    "kim_in_young_bass": [
-      {
-        "venue_handle": "flatnine_jazzbar",
-        "venue_name": "FLATNINE",
-        "appearances": 3
-      },
-      {
-        "venue_handle": "bluecat.fezh",
-        "venue_name": "BLUE CAT",
-        "appearances": 2
-      },
-      {
-        "venue_handle": "mammy__blue",
-        "venue_name": "Mammy Blue",
         "appearances": 1
       }
     ],
@@ -4756,6 +4906,11 @@
         "venue_handle": "edls_official",
         "venue_name": "Edls",
         "appearances": 1
+      },
+      {
+        "venue_handle": "mammy__blue",
+        "venue_name": "Mammy Blue",
+        "appearances": 1
       }
     ],
     "mj__azz": [
@@ -4785,25 +4940,15 @@
         "appearances": 1
       }
     ],
-    "ddanddarawon": [
+    "riniyoo": [
       {
         "venue_handle": "jazzxover",
         "venue_name": "Jazz Xover",
         "appearances": 3
       },
       {
-        "venue_handle": "newall_jazz",
-        "venue_name": "Newall Jazz Lounge",
-        "appearances": 2
-      },
-      {
-        "venue_handle": "milestones_jazz",
-        "venue_name": "MILESTONES",
-        "appearances": 1
-      },
-      {
-        "venue_handle": "mammy__blue",
-        "venue_name": "Mammy Blue",
+        "venue_handle": "bluecat.fezh",
+        "venue_name": "BLUE CAT",
         "appearances": 1
       }
     ],
@@ -4862,6 +5007,28 @@
       {
         "venue_handle": "boogiewoogieseoul",
         "venue_name": "Boogie Woogie",
+        "appearances": 1
+      }
+    ],
+    "quiet.trp": [
+      {
+        "venue_handle": "newall_jazz",
+        "venue_name": "Newall Jazz Lounge",
+        "appearances": 3
+      },
+      {
+        "venue_handle": "kindseoul.kr",
+        "venue_name": "KIND SEOUL",
+        "appearances": 2
+      },
+      {
+        "venue_handle": "jazzgarage_official",
+        "venue_name": "Jazz Garage",
+        "appearances": 1
+      },
+      {
+        "venue_handle": "michiko.seoul_official",
+        "venue_name": "MICHIKO SEOUL",
         "appearances": 1
       }
     ],
@@ -5140,6 +5307,23 @@
         "appearances": 2
       }
     ],
+    "swing_or_nothing": [
+      {
+        "venue_handle": "newall_jazz",
+        "venue_name": "Newall Jazz Lounge",
+        "appearances": 3
+      },
+      {
+        "venue_handle": "boogiewoogieseoul",
+        "venue_name": "Boogie Woogie",
+        "appearances": 2
+      },
+      {
+        "venue_handle": "mammy__blue",
+        "venue_name": "Mammy Blue",
+        "appearances": 1
+      }
+    ],
     "wooyeonjeong": [
       {
         "venue_handle": "bluecat.fezh",
@@ -5194,28 +5378,6 @@
         "venue_handle": "blueming_jazz",
         "venue_name": "BLUEMING Blueming",
         "appearances": 2
-      }
-    ],
-    "sugarjazzzz": [
-      {
-        "venue_handle": "yeonnam5701",
-        "venue_name": "Yeonnam5701",
-        "appearances": 3
-      },
-      {
-        "venue_handle": "bluecat.fezh",
-        "venue_name": "BLUE CAT",
-        "appearances": 2
-      },
-      {
-        "venue_handle": "boogiewoogieseoul",
-        "venue_name": "Boogie Woogie",
-        "appearances": 1
-      },
-      {
-        "venue_handle": "edls_official",
-        "venue_name": "Edls",
-        "appearances": 1
       }
     ],
     "tazz_piano": [
@@ -5361,44 +5523,10 @@
         "appearances": 1
       }
     ],
-    "20_more_bass": [
-      {
-        "venue_handle": "blueming_jazz",
-        "venue_name": "BLUEMING Blueming",
-        "appearances": 3
-      },
-      {
-        "venue_handle": "subriot_hbc",
-        "venue_name": "SUBRIOT HBC",
-        "appearances": 3
-      },
-      {
-        "venue_handle": "idenhouseinsta",
-        "venue_name": "IDENHouse",
-        "appearances": 2
-      },
-      {
-        "venue_handle": "boogiewoogieseoul",
-        "venue_name": "Boogie Woogie",
-        "appearances": 2
-      },
-      {
-        "venue_handle": "edls_official",
-        "venue_name": "Edls",
-        "appearances": 2
-      }
-    ],
     "jazzy___daddy": [
       {
         "venue_handle": "milestones_jazz",
         "venue_name": "MILESTONES",
-        "appearances": 3
-      }
-    ],
-    "kimchulsoomusic": [
-      {
-        "venue_handle": "flatnine_jazzbar",
-        "venue_name": "FLATNINE",
         "appearances": 3
       }
     ],
@@ -5452,21 +5580,33 @@
         "appearances": 1
       }
     ],
-    "damonjazz": [
+    "parkhyonjae": [
       {
-        "venue_handle": "houseofbrown.seoul",
-        "venue_name": "House of Brown Jazz Bar",
+        "venue_handle": "dido_jazz_lounge",
+        "venue_name": "Dido Jazz Lounge",
         "appearances": 3
       },
       {
-        "venue_handle": "mammy__blue",
-        "venue_name": "Mammy Blue",
+        "venue_handle": "boogiewoogieseoul",
+        "venue_name": "Boogie Woogie",
         "appearances": 2
+      }
+    ],
+    "tp.heim": [
+      {
+        "venue_handle": "boogiewoogieseoul",
+        "venue_name": "Boogie Woogie",
+        "appearances": 3
       },
       {
-        "venue_handle": "rustic_jazz",
-        "venue_name": "Rustic Jazz",
-        "appearances": 2
+        "venue_handle": "subriot_hbc",
+        "venue_name": "SUBRIOT HBC",
+        "appearances": 1
+      },
+      {
+        "venue_handle": "blueming_jazz",
+        "venue_name": "BLUEMING Blueming",
+        "appearances": 1
       }
     ],
     "yun_jazz": [
@@ -5665,6 +5805,18 @@
         "appearances": 1
       }
     ],
+    "beyourselfo_o": [
+      {
+        "venue_handle": "newall_jazz",
+        "venue_name": "Newall Jazz Lounge",
+        "appearances": 3
+      },
+      {
+        "venue_handle": "boogiewoogieseoul",
+        "venue_name": "Boogie Woogie",
+        "appearances": 1
+      }
+    ],
     "hyunbae_noh": [
       {
         "venue_handle": "boogiewoogieseoul",
@@ -5694,6 +5846,23 @@
         "venue_handle": "boogiewoogieseoul",
         "venue_name": "Boogie Woogie",
         "appearances": 3
+      }
+    ],
+    "hornlee_sit": [
+      {
+        "venue_handle": "boogiewoogieseoul",
+        "venue_name": "Boogie Woogie",
+        "appearances": 3
+      },
+      {
+        "venue_handle": "subriot_hbc",
+        "venue_name": "SUBRIOT HBC",
+        "appearances": 1
+      },
+      {
+        "venue_handle": "rustic_jazz",
+        "venue_name": "Rustic Jazz",
+        "appearances": 1
       }
     ],
     "kihwamusic": [
@@ -5951,7 +6120,7 @@
       {
         "venue_handle": "gc_jazzpicnic",
         "venue_name": "Gwacheon Jazz Picnic",
-        "appearances": 1
+        "appearances": 0
       }
     ],
     "eun._.ha_": [
@@ -6006,14 +6175,14 @@
     ],
     "jaekyung_3625": [
       {
-        "venue_handle": "subriot_hbc",
-        "venue_name": "SUBRIOT HBC",
+        "venue_handle": "boogiewoogieseoul",
+        "venue_name": "Boogie Woogie",
         "appearances": 3
       },
       {
-        "venue_handle": "boogiewoogieseoul",
-        "venue_name": "Boogie Woogie",
-        "appearances": 2
+        "venue_handle": "subriot_hbc",
+        "venue_name": "SUBRIOT HBC",
+        "appearances": 3
       },
       {
         "venue_handle": "blueming_jazz",
@@ -6050,6 +6219,32 @@
         "venue_handle": "clubmild_official",
         "venue_name": "CLUB MILD",
         "appearances": 3
+      }
+    ],
+    "nss_drum": [
+      {
+        "venue_handle": "newall_jazz",
+        "venue_name": "Newall Jazz Lounge",
+        "appearances": 3
+      }
+    ],
+    "onlyone_joo": [
+      {
+        "venue_handle": "newall_jazz",
+        "venue_name": "Newall Jazz Lounge",
+        "appearances": 3
+      }
+    ],
+    "picnicjazzband": [
+      {
+        "venue_handle": "houseofbrown.seoul",
+        "venue_name": "House of Brown Jazz Bar",
+        "appearances": 3
+      },
+      {
+        "venue_handle": "jazzgarage_official",
+        "venue_name": "Jazz Garage",
+        "appearances": 1
       }
     ],
     "pwonb.xss": [
@@ -6166,18 +6361,6 @@
         "appearances": 1
       }
     ],
-    "kwakjiwoong": [
-      {
-        "venue_handle": "flatnine_jazzbar",
-        "venue_name": "FLATNINE",
-        "appearances": 2
-      },
-      {
-        "venue_handle": "subriot_hbc",
-        "venue_name": "SUBRIOT HBC",
-        "appearances": 1
-      }
-    ],
     "mooieym": [
       {
         "venue_handle": "mammy__blue",
@@ -6236,6 +6419,33 @@
         "appearances": 0
       }
     ],
+    "joon.pf": [
+      {
+        "venue_handle": "boogiewoogieseoul",
+        "venue_name": "Boogie Woogie",
+        "appearances": 2
+      },
+      {
+        "venue_handle": "michiko.seoul_official",
+        "venue_name": "MICHIKO SEOUL",
+        "appearances": 2
+      },
+      {
+        "venue_handle": "allthatjazz_itaewon",
+        "venue_name": "All That Jazz",
+        "appearances": 1
+      },
+      {
+        "venue_handle": "mammy__blue",
+        "venue_name": "Mammy Blue",
+        "appearances": 1
+      },
+      {
+        "venue_handle": "newall_jazz",
+        "venue_name": "Newall Jazz Lounge",
+        "appearances": 1
+      }
+    ],
     "byungjobang": [
       {
         "venue_handle": "mammy__blue",
@@ -6258,6 +6468,23 @@
         "venue_handle": "houseofblue.seoul",
         "venue_name": "House of Blue Jazz Bar",
         "appearances": 1
+      }
+    ],
+    "kwakdakyung": [
+      {
+        "venue_handle": "boogiewoogieseoul",
+        "venue_name": "Boogie Woogie",
+        "appearances": 2
+      },
+      {
+        "venue_handle": "gv_scene",
+        "venue_name": "GV COFFEE BAR",
+        "appearances": 1
+      },
+      {
+        "venue_handle": "gc_jazzpicnic",
+        "venue_name": "Gwacheon Jazz Picnic",
+        "appearances": 0
       }
     ],
     "hachul_music": [
@@ -6379,23 +6606,6 @@
         "appearances": 1
       }
     ],
-    "taekukbop": [
-      {
-        "venue_handle": "boogiewoogieseoul",
-        "venue_name": "Boogie Woogie",
-        "appearances": 2
-      },
-      {
-        "venue_handle": "oleojazzpub",
-        "venue_name": "Oleojazzpub",
-        "appearances": 2
-      },
-      {
-        "venue_handle": "teddy.valley",
-        "venue_name": "Teddy Valley",
-        "appearances": 1
-      }
-    ],
     "ju_jusong": [
       {
         "venue_handle": "seoulforestjazz",
@@ -6422,6 +6632,11 @@
       {
         "venue_handle": "subriot_hbc",
         "venue_name": "SUBRIOT HBC",
+        "appearances": 1
+      },
+      {
+        "venue_handle": "blueming_jazz",
+        "venue_name": "BLUEMING Blueming",
         "appearances": 1
       }
     ],
@@ -6610,23 +6825,11 @@
         "venue_handle": "yeonnam5701",
         "venue_name": "Yeonnam5701",
         "appearances": 2
-      }
-    ],
-    "bluejazz82": [
-      {
-        "venue_handle": "bluecat.fezh",
-        "venue_name": "BLUE CAT",
-        "appearances": 2
       },
       {
-        "venue_handle": "flatnine_jazzbar",
-        "venue_name": "FLATNINE",
-        "appearances": 2
-      },
-      {
-        "venue_handle": "jazzclub_janus",
-        "venue_name": "Jazz Club Janus",
-        "appearances": 0
+        "venue_handle": "michiko.seoul_official",
+        "venue_name": "MICHIKO SEOUL",
+        "appearances": 1
       }
     ],
     "leeyoon_trb": [
@@ -6677,13 +6880,13 @@
         "appearances": 2
       },
       {
-        "venue_handle": "boogiewoogieseoul",
-        "venue_name": "Boogie Woogie",
+        "venue_handle": "kindseoul.kr",
+        "venue_name": "KIND SEOUL",
         "appearances": 1
       },
       {
-        "venue_handle": "kindseoul.kr",
-        "venue_name": "KIND SEOUL",
+        "venue_handle": "boogiewoogieseoul",
+        "venue_name": "Boogie Woogie",
         "appearances": 1
       }
     ],
@@ -6781,13 +6984,13 @@
         "appearances": 2
       },
       {
-        "venue_handle": "jazzlounge_official",
-        "venue_name": "Jazz Lounge Konkuk Wine Bar",
+        "venue_handle": "laidback2019",
+        "venue_name": "Laidback",
         "appearances": 1
       },
       {
-        "venue_handle": "laidback2019",
-        "venue_name": "Laidback",
+        "venue_handle": "jazzlounge_official",
+        "venue_name": "Jazz Lounge Konkuk Wine Bar",
         "appearances": 1
       },
       {
@@ -6978,6 +7181,28 @@
         "appearances": 1
       }
     ],
+    "jazzsnobs": [
+      {
+        "venue_handle": "boogiewoogieseoul",
+        "venue_name": "Boogie Woogie",
+        "appearances": 2
+      },
+      {
+        "venue_handle": "allthatjazz_itaewon",
+        "venue_name": "All That Jazz",
+        "appearances": 1
+      },
+      {
+        "venue_handle": "flatnine_jazzbar",
+        "venue_name": "FLATNINE",
+        "appearances": 1
+      },
+      {
+        "venue_handle": "jazzclub_janus",
+        "venue_name": "Jazz Club Janus",
+        "appearances": 1
+      }
+    ],
     "sol_brown_": [
       {
         "venue_handle": "boogiewoogieseoul",
@@ -7094,6 +7319,11 @@
         "appearances": 2
       },
       {
+        "venue_handle": "dido_jazz_lounge",
+        "venue_name": "Dido Jazz Lounge",
+        "appearances": 2
+      },
+      {
         "venue_handle": "jazzxover",
         "venue_name": "Jazz Xover",
         "appearances": 1
@@ -7106,11 +7336,6 @@
       {
         "venue_handle": "yeonnam5701",
         "venue_name": "Yeonnam5701",
-        "appearances": 1
-      },
-      {
-        "venue_handle": "flatnine_jazzbar",
-        "venue_name": "FLATNINE",
         "appearances": 1
       }
     ],
@@ -7130,33 +7355,6 @@
       {
         "venue_handle": "kindseoul.kr",
         "venue_name": "KIND SEOUL",
-        "appearances": 1
-      }
-    ],
-    "joon.pf": [
-      {
-        "venue_handle": "michiko.seoul_official",
-        "venue_name": "MICHIKO SEOUL",
-        "appearances": 2
-      },
-      {
-        "venue_handle": "boogiewoogieseoul",
-        "venue_name": "Boogie Woogie",
-        "appearances": 1
-      },
-      {
-        "venue_handle": "allthatjazz_itaewon",
-        "venue_name": "All That Jazz",
-        "appearances": 1
-      },
-      {
-        "venue_handle": "mammy__blue",
-        "venue_name": "Mammy Blue",
-        "appearances": 1
-      },
-      {
-        "venue_handle": "newall_jazz",
-        "venue_name": "Newall Jazz Lounge",
         "appearances": 1
       }
     ],
@@ -7337,18 +7535,6 @@
         "appearances": 2
       }
     ],
-    "parkhyonjae": [
-      {
-        "venue_handle": "boogiewoogieseoul",
-        "venue_name": "Boogie Woogie",
-        "appearances": 2
-      },
-      {
-        "venue_handle": "dido_jazz_lounge",
-        "venue_name": "Dido Jazz Lounge",
-        "appearances": 2
-      }
-    ],
     "pf_s24h": [
       {
         "venue_handle": "flatnine_jazzbar",
@@ -7382,6 +7568,11 @@
     ],
     "jonghyun_pf": [
       {
+        "venue_handle": "boogiewoogieseoul",
+        "venue_name": "Boogie Woogie",
+        "appearances": 2
+      },
+      {
         "venue_handle": "flatnine_jazzbar",
         "venue_name": "FLATNINE",
         "appearances": 2
@@ -7390,11 +7581,6 @@
         "venue_handle": "oleojazzpub",
         "venue_name": "Oleojazzpub",
         "appearances": 2
-      },
-      {
-        "venue_handle": "boogiewoogieseoul",
-        "venue_name": "Boogie Woogie",
-        "appearances": 1
       }
     ],
     "cheolho7792": [
@@ -7462,23 +7648,6 @@
       {
         "venue_handle": "subriot_hbc",
         "venue_name": "SUBRIOT HBC",
-        "appearances": 1
-      }
-    ],
-    "tp.heim": [
-      {
-        "venue_handle": "boogiewoogieseoul",
-        "venue_name": "Boogie Woogie",
-        "appearances": 2
-      },
-      {
-        "venue_handle": "subriot_hbc",
-        "venue_name": "SUBRIOT HBC",
-        "appearances": 1
-      },
-      {
-        "venue_handle": "blueming_jazz",
-        "venue_name": "BLUEMING Blueming",
         "appearances": 1
       }
     ],
@@ -7693,18 +7862,6 @@
       {
         "venue_handle": "oleojazzpub",
         "venue_name": "Oleojazzpub",
-        "appearances": 1
-      }
-    ],
-    "hornlee_sit": [
-      {
-        "venue_handle": "boogiewoogieseoul",
-        "venue_name": "Boogie Woogie",
-        "appearances": 2
-      },
-      {
-        "venue_handle": "subriot_hbc",
-        "venue_name": "SUBRIOT HBC",
         "appearances": 1
       }
     ],
@@ -7990,6 +8147,11 @@
         "venue_handle": "newall_jazz",
         "venue_name": "Newall Jazz Lounge",
         "appearances": 2
+      },
+      {
+        "venue_handle": "mammy__blue",
+        "venue_name": "Mammy Blue",
+        "appearances": 1
       }
     ],
     "drummer_erik": [
@@ -8074,6 +8236,46 @@
         "appearances": 2
       }
     ],
+    "nakzzing": [
+      {
+        "venue_handle": "michiko.seoul_official",
+        "venue_name": "MICHIKO SEOUL",
+        "appearances": 2
+      }
+    ],
+    "parkjyuk": [
+      {
+        "venue_handle": "boogiewoogieseoul",
+        "venue_name": "Boogie Woogie",
+        "appearances": 2
+      }
+    ],
+    "rachelmonde0510": [
+      {
+        "venue_handle": "houseofbrown.seoul",
+        "venue_name": "House of Brown Jazz Bar",
+        "appearances": 2
+      }
+    ],
+    "pyr00_pyro": [
+      {
+        "venue_handle": "jazzlounge_official",
+        "venue_name": "Jazz Lounge Konkuk Wine Bar",
+        "appearances": 2
+      }
+    ],
+    "prappmusic": [
+      {
+        "venue_handle": "boogiewoogieseoul",
+        "venue_name": "Boogie Woogie",
+        "appearances": 2
+      },
+      {
+        "venue_handle": "subriot_hbc",
+        "venue_name": "SUBRIOT HBC",
+        "appearances": 1
+      }
+    ],
     "hogyu_hwang": [
       {
         "venue_handle": "seoulforestjazz",
@@ -8139,6 +8341,18 @@
         "appearances": 1
       }
     ],
+    "oh5won1seok3": [
+      {
+        "venue_handle": "jazzxover",
+        "venue_name": "Jazz Xover",
+        "appearances": 1
+      },
+      {
+        "venue_handle": "boogiewoogieseoul",
+        "venue_name": "Boogie Woogie",
+        "appearances": 1
+      }
+    ],
     "eeeqdrum": [
       {
         "venue_handle": "subriot_hbc",
@@ -8148,6 +8362,18 @@
       {
         "venue_handle": "jazzgarage_official",
         "venue_name": "Jazz Garage",
+        "appearances": 1
+      }
+    ],
+    "patrick_jga_": [
+      {
+        "venue_handle": "jazzlounge_official",
+        "venue_name": "Jazz Lounge Konkuk Wine Bar",
+        "appearances": 1
+      },
+      {
+        "venue_handle": "boogiewoogieseoul",
+        "venue_name": "Boogie Woogie",
         "appearances": 1
       }
     ],
@@ -8174,23 +8400,6 @@
       {
         "venue_handle": "jazzclub_evans",
         "venue_name": "CLUB EVANS",
-        "appearances": 1
-      }
-    ],
-    "kwakdakyung": [
-      {
-        "venue_handle": "gv_scene",
-        "venue_name": "GV COFFEE BAR",
-        "appearances": 1
-      },
-      {
-        "venue_handle": "boogiewoogieseoul",
-        "venue_name": "Boogie Woogie",
-        "appearances": 1
-      },
-      {
-        "venue_handle": "gc_jazzpicnic",
-        "venue_name": "Gwacheon Jazz Picnic",
         "appearances": 1
       }
     ],
@@ -8558,18 +8767,6 @@
         "appearances": 0
       }
     ],
-    "oh5won1seok3": [
-      {
-        "venue_handle": "boogiewoogieseoul",
-        "venue_name": "Boogie Woogie",
-        "appearances": 1
-      },
-      {
-        "venue_handle": "jazzxover",
-        "venue_name": "Jazz Xover",
-        "appearances": 1
-      }
-    ],
     "shin_jeegug": [
       {
         "venue_handle": "boogiewoogieseoul",
@@ -8604,28 +8801,6 @@
         "appearances": 0
       }
     ],
-    "jazzsnobs": [
-      {
-        "venue_handle": "allthatjazz_itaewon",
-        "venue_name": "All That Jazz",
-        "appearances": 1
-      },
-      {
-        "venue_handle": "boogiewoogieseoul",
-        "venue_name": "Boogie Woogie",
-        "appearances": 1
-      },
-      {
-        "venue_handle": "flatnine_jazzbar",
-        "venue_name": "FLATNINE",
-        "appearances": 1
-      },
-      {
-        "venue_handle": "jazzclub_janus",
-        "venue_name": "Jazz Club Janus",
-        "appearances": 1
-      }
-    ],
     "silver_hyeok_choi": [
       {
         "venue_handle": "milestones_jazz",
@@ -8652,13 +8827,13 @@
         "appearances": 1
       },
       {
-        "venue_handle": "gc_jazzpicnic",
-        "venue_name": "Gwacheon Jazz Picnic",
-        "appearances": 1
-      },
-      {
         "venue_handle": "flatnine_jazzbar",
         "venue_name": "FLATNINE",
+        "appearances": 0
+      },
+      {
+        "venue_handle": "gc_jazzpicnic",
+        "venue_name": "Gwacheon Jazz Picnic",
         "appearances": 0
       }
     ],
@@ -8753,6 +8928,11 @@
         "venue_handle": "subriot_hbc",
         "venue_name": "SUBRIOT HBC",
         "appearances": 1
+      },
+      {
+        "venue_handle": "michiko.seoul_official",
+        "venue_name": "MICHIKO SEOUL",
+        "appearances": 1
       }
     ],
     "bass_bassun": [
@@ -8823,6 +9003,11 @@
       {
         "venue_handle": "blueming_jazz",
         "venue_name": "BLUEMING Blueming",
+        "appearances": 1
+      },
+      {
+        "venue_handle": "boogiewoogieseoul",
+        "venue_name": "Boogie Woogie",
         "appearances": 1
       }
     ],
@@ -9303,6 +9488,11 @@
         "venue_handle": "boogiewoogieseoul",
         "venue_name": "Boogie Woogie",
         "appearances": 1
+      },
+      {
+        "venue_handle": "gc_jazzpicnic",
+        "venue_name": "Gwacheon Jazz Picnic",
+        "appearances": 1
       }
     ],
     "circlekim21": [
@@ -9541,6 +9731,83 @@
         "appearances": 1
       }
     ],
+    "nam_sung_ung": [
+      {
+        "venue_handle": "michiko.seoul_official",
+        "venue_name": "MICHIKO SEOUL",
+        "appearances": 1
+      }
+    ],
+    "naneunya_blessedgirl": [
+      {
+        "venue_handle": "boogiewoogieseoul",
+        "venue_name": "Boogie Woogie",
+        "appearances": 1
+      }
+    ],
+    "moonseok_": [
+      {
+        "venue_handle": "newall_jazz",
+        "venue_name": "Newall Jazz Lounge",
+        "appearances": 1
+      }
+    ],
+    "ohyangs": [
+      {
+        "venue_handle": "subriot_hbc",
+        "venue_name": "SUBRIOT HBC",
+        "appearances": 1
+      }
+    ],
+    "bomichoidrums": [
+      {
+        "venue_handle": "gc_jazzpicnic",
+        "venue_name": "Gwacheon Jazz Picnic",
+        "appearances": 1
+      }
+    ],
+    "p1aycold": [
+      {
+        "venue_handle": "subriot_hbc",
+        "venue_name": "SUBRIOT HBC",
+        "appearances": 1
+      }
+    ],
+    "pcy5249": [
+      {
+        "venue_handle": "subriot_hbc",
+        "venue_name": "SUBRIOT HBC",
+        "appearances": 1
+      }
+    ],
+    "kamdohyeon": [
+      {
+        "venue_handle": "subriot_hbc",
+        "venue_name": "SUBRIOT HBC",
+        "appearances": 1
+      }
+    ],
+    "raely.music": [
+      {
+        "venue_handle": "subriot_hbc",
+        "venue_name": "SUBRIOT HBC",
+        "appearances": 1
+      }
+    ],
+    "ps_777": [
+      {
+        "venue_handle": "subriot_hbc",
+        "venue_name": "SUBRIOT HBC",
+        "appearances": 1
+      }
+    ],
+    "pongnakornchai": [
+      {
+        "venue_handle": "mammy__blue",
+        "venue_name": "Mammy Blue",
+        "appearances": 1
+      }
+    ],
     "sophone_kim": [
       {
         "venue_handle": "flatnine_jazzbar",
@@ -9615,17 +9882,17 @@
       {
         "ig_handle": "gyoungdun",
         "name": "김경태 | 경던",
-        "co_appearances": 13
+        "co_appearances": 14
       },
       {
         "ig_handle": "emmet_709",
         "name": "Choi Eun Gyu",
-        "co_appearances": 10
+        "co_appearances": 11
       },
       {
         "ig_handle": "2junebbang2",
         "name": "이준영",
-        "co_appearances": 10
+        "co_appearances": 11
       },
       {
         "ig_handle": "woonjo_",
@@ -9642,7 +9909,7 @@
       {
         "ig_handle": "lester_yoo",
         "name": "유택언",
-        "co_appearances": 13
+        "co_appearances": 14
       },
       {
         "ig_handle": "ccc_chambers",
@@ -9655,13 +9922,13 @@
         "co_appearances": 8
       },
       {
-        "ig_handle": "bassist_lee_dong_min",
-        "name": "LV.37",
-        "co_appearances": 6
-      },
-      {
         "ig_handle": "emmet_709",
         "name": "Choi Eun Gyu",
+        "co_appearances": 7
+      },
+      {
+        "ig_handle": "bassist_lee_dong_min",
+        "name": "LV.37",
         "co_appearances": 6
       }
     ],
@@ -9669,7 +9936,7 @@
       {
         "ig_handle": "seokgwon_k",
         "name": "강석권",
-        "co_appearances": 15
+        "co_appearances": 16
       },
       {
         "ig_handle": "bowingpark",
@@ -9696,7 +9963,7 @@
       {
         "ig_handle": "brownsoundstudio",
         "name": "브라운합주실",
-        "co_appearances": 15
+        "co_appearances": 16
       },
       {
         "ig_handle": "bowingpark",
@@ -9750,7 +10017,7 @@
       {
         "ig_handle": "un_mardi",
         "name": "손영서 Yeongseo Son",
-        "co_appearances": 15
+        "co_appearances": 16
       },
       {
         "ig_handle": "altruisticdrum",
@@ -9765,7 +10032,7 @@
       {
         "ig_handle": "ccc_chambers",
         "name": "최민호",
-        "co_appearances": 3
+        "co_appearances": 4
       },
       {
         "ig_handle": "sih___oo",
@@ -9777,7 +10044,7 @@
       {
         "ig_handle": "daekyeong__",
         "name": "Daekyeong Kim",
-        "co_appearances": 15
+        "co_appearances": 16
       },
       {
         "ig_handle": "smjazz_98",
@@ -9787,7 +10054,7 @@
       {
         "ig_handle": "ccc_chambers",
         "name": "최민호",
-        "co_appearances": 4
+        "co_appearances": 5
       },
       {
         "ig_handle": "altruisticdrum",
@@ -9858,12 +10125,12 @@
       {
         "ig_handle": "troychunmusic",
         "name": "토리춘",
-        "co_appearances": 29
+        "co_appearances": 30
       },
       {
         "ig_handle": "jihoonkimz",
         "name": "Jihoon Kim",
-        "co_appearances": 32
+        "co_appearances": 33
       },
       {
         "ig_handle": "tjkofficial_account",
@@ -9885,12 +10152,12 @@
       {
         "ig_handle": "brownbeatj",
         "name": "김정우 Jeongwoo Kim",
-        "co_appearances": 29
+        "co_appearances": 30
       },
       {
         "ig_handle": "jihoonkimz",
         "name": "Jihoon Kim",
-        "co_appearances": 28
+        "co_appearances": 29
       },
       {
         "ig_handle": "tjkofficial_account",
@@ -9912,12 +10179,12 @@
       {
         "ig_handle": "brownbeatj",
         "name": "김정우 Jeongwoo Kim",
-        "co_appearances": 32
+        "co_appearances": 33
       },
       {
         "ig_handle": "troychunmusic",
         "name": "토리춘",
-        "co_appearances": 28
+        "co_appearances": 29
       },
       {
         "ig_handle": "tjkofficial_account",
@@ -9930,8 +10197,8 @@
         "co_appearances": 3
       },
       {
-        "ig_handle": "adam.aronesty",
-        "name": "adam aronesty",
+        "ig_handle": "taekukbop",
+        "name": "김태국",
         "co_appearances": 3
       }
     ],
@@ -10023,6 +10290,82 @@
         "co_appearances": 11
       }
     ],
+    "jongtaehwangbo": [
+      {
+        "ig_handle": "ye_vans",
+        "name": "양예본 Yebon Yang",
+        "co_appearances": 12
+      },
+      {
+        "ig_handle": "psyoouung",
+        "name": "박성영",
+        "co_appearances": 12
+      },
+      {
+        "ig_handle": "juwon_vox",
+        "name": "김주원",
+        "co_appearances": 7
+      },
+      {
+        "ig_handle": "john_kim_93",
+        "name": "김민호",
+        "co_appearances": 4
+      }
+    ],
+    "ye_vans": [
+      {
+        "ig_handle": "jongtaehwangbo",
+        "name": "황보종태",
+        "co_appearances": 12
+      },
+      {
+        "ig_handle": "psyoouung",
+        "name": "박성영",
+        "co_appearances": 17
+      },
+      {
+        "ig_handle": "juwon_vox",
+        "name": "김주원",
+        "co_appearances": 7
+      },
+      {
+        "ig_handle": "john_kim_93",
+        "name": "김민호",
+        "co_appearances": 5
+      },
+      {
+        "ig_handle": "min_suuuuuuu8",
+        "name": "No.민수",
+        "co_appearances": 5
+      }
+    ],
+    "psyoouung": [
+      {
+        "ig_handle": "jongtaehwangbo",
+        "name": "황보종태",
+        "co_appearances": 12
+      },
+      {
+        "ig_handle": "ye_vans",
+        "name": "양예본 Yebon Yang",
+        "co_appearances": 17
+      },
+      {
+        "ig_handle": "juwon_vox",
+        "name": "김주원",
+        "co_appearances": 7
+      },
+      {
+        "ig_handle": "john_kim_93",
+        "name": "김민호",
+        "co_appearances": 6
+      },
+      {
+        "ig_handle": "hodddang",
+        "name": "유호정",
+        "co_appearances": 2
+      }
+    ],
     "nowherebefore": [
       {
         "ig_handle": "bdinnov",
@@ -10050,70 +10393,70 @@
         "co_appearances": 5
       }
     ],
-    "psyoouung": [
+    "2junebbang2": [
       {
-        "ig_handle": "ye_vans",
-        "name": "양예본 Yebon Yang",
-        "co_appearances": 16
+        "ig_handle": "emmet_709",
+        "name": "Choi Eun Gyu",
+        "co_appearances": 12
       },
       {
-        "ig_handle": "jongtaehwangbo",
-        "name": "황보종태",
+        "ig_handle": "lester_yoo",
+        "name": "유택언",
         "co_appearances": 11
       },
       {
-        "ig_handle": "juwon_vox",
-        "name": "김주원",
-        "co_appearances": 7
-      },
-      {
-        "ig_handle": "john_kim_93",
-        "name": "김민호",
+        "ig_handle": "gyoungdun",
+        "name": "김경태 | 경던",
         "co_appearances": 6
       },
       {
-        "ig_handle": "hodddang",
-        "name": "유호정",
-        "co_appearances": 2
-      }
-    ],
-    "ye_vans": [
-      {
-        "ig_handle": "psyoouung",
-        "name": "박성영",
-        "co_appearances": 16
+        "ig_handle": "woongs_0628",
+        "name": "황보웅",
+        "co_appearances": 4
       },
       {
-        "ig_handle": "jongtaehwangbo",
-        "name": "황보종태",
+        "ig_handle": "ccc_chambers",
+        "name": "최민호",
+        "co_appearances": 3
+      }
+    ],
+    "emmet_709": [
+      {
+        "ig_handle": "2junebbang2",
+        "name": "이준영",
+        "co_appearances": 12
+      },
+      {
+        "ig_handle": "lester_yoo",
+        "name": "유택언",
         "co_appearances": 11
       },
       {
-        "ig_handle": "juwon_vox",
-        "name": "김주원",
+        "ig_handle": "gyoungdun",
+        "name": "김경태 | 경던",
         "co_appearances": 7
       },
       {
-        "ig_handle": "john_kim_93",
-        "name": "김민호",
-        "co_appearances": 5
+        "ig_handle": "woongs_0628",
+        "name": "황보웅",
+        "co_appearances": 4
       },
       {
-        "ig_handle": "min_suuuuuuu8",
-        "name": "No.민수",
-        "co_appearances": 4
+        "ig_handle": "mj__azz",
+        "name": "정민준",
+        "co_appearances": 2
       }
     ],
     "h_0zl": [
       {
         "ig_handle": "1_woolsss",
         "name": "김한울",
-        "co_appearances": 26
+        "co_appearances": 28
       },
       {
         "ig_handle": "kgvovc",
         "name": "김지현",
-        "co_appearances": 19
+        "co_appearances": 20
       },
       {
         "ig_handle": "iceape8",
@@ -10135,12 +10478,12 @@
       {
         "ig_handle": "h_0zl",
         "name": "정현우",
-        "co_appearances": 26
+        "co_appearances": 28
       },
       {
         "ig_handle": "kgvovc",
         "name": "김지현",
-        "co_appearances": 18
+        "co_appearances": 19
       },
       {
         "ig_handle": "iceape8",
@@ -10162,12 +10505,12 @@
       {
         "ig_handle": "h_0zl",
         "name": "정현우",
-        "co_appearances": 19
+        "co_appearances": 20
       },
       {
         "ig_handle": "1_woolsss",
         "name": "김한울",
-        "co_appearances": 18
+        "co_appearances": 19
       },
       {
         "ig_handle": "iceape8",
@@ -10251,28 +10594,6 @@
         "co_appearances": 3
       }
     ],
-    "jongtaehwangbo": [
-      {
-        "ig_handle": "ye_vans",
-        "name": "양예본 Yebon Yang",
-        "co_appearances": 11
-      },
-      {
-        "ig_handle": "psyoouung",
-        "name": "박성영",
-        "co_appearances": 11
-      },
-      {
-        "ig_handle": "juwon_vox",
-        "name": "김주원",
-        "co_appearances": 7
-      },
-      {
-        "ig_handle": "john_kim_93",
-        "name": "김민호",
-        "co_appearances": 4
-      }
-    ],
     "jazz_gychoi219": [
       {
         "ig_handle": "kyu_patitucci",
@@ -10307,13 +10628,13 @@
         "co_appearances": 11
       },
       {
-        "ig_handle": "altruisticdrum",
-        "name": "양현수",
-        "co_appearances": 5
-      },
-      {
         "ig_handle": "hot_jazz_moon",
         "name": "KyeongMoon Kim",
+        "co_appearances": 6
+      },
+      {
+        "ig_handle": "altruisticdrum",
+        "name": "양현수",
         "co_appearances": 5
       },
       {
@@ -10325,60 +10646,6 @@
         "ig_handle": "dr.simon11",
         "name": "SeungHyeon Lee",
         "co_appearances": 3
-      }
-    ],
-    "2junebbang2": [
-      {
-        "ig_handle": "emmet_709",
-        "name": "Choi Eun Gyu",
-        "co_appearances": 11
-      },
-      {
-        "ig_handle": "lester_yoo",
-        "name": "유택언",
-        "co_appearances": 10
-      },
-      {
-        "ig_handle": "gyoungdun",
-        "name": "김경태 | 경던",
-        "co_appearances": 5
-      },
-      {
-        "ig_handle": "woongs_0628",
-        "name": "황보웅",
-        "co_appearances": 4
-      },
-      {
-        "ig_handle": "ccc_chambers",
-        "name": "최민호",
-        "co_appearances": 3
-      }
-    ],
-    "emmet_709": [
-      {
-        "ig_handle": "2junebbang2",
-        "name": "이준영",
-        "co_appearances": 11
-      },
-      {
-        "ig_handle": "lester_yoo",
-        "name": "유택언",
-        "co_appearances": 10
-      },
-      {
-        "ig_handle": "gyoungdun",
-        "name": "김경태 | 경던",
-        "co_appearances": 6
-      },
-      {
-        "ig_handle": "woongs_0628",
-        "name": "황보웅",
-        "co_appearances": 4
-      },
-      {
-        "ig_handle": "mj__azz",
-        "name": "정민준",
-        "co_appearances": 2
       }
     ],
     "john_mi_jin": [
@@ -10437,14 +10704,68 @@
         "co_appearances": 5
       },
       {
-        "ig_handle": "wani_soo",
-        "name": "류수완",
+        "ig_handle": "un_mardi",
+        "name": "손영서 Yeongseo Son",
         "co_appearances": 5
       },
       {
-        "ig_handle": "altruisticdrum",
-        "name": "양현수",
+        "ig_handle": "wani_soo",
+        "name": "류수완",
+        "co_appearances": 5
+      }
+    ],
+    "strongcastle_": [
+      {
+        "ig_handle": "junghwa_jazz",
+        "name": "재즈보컬리스트 정화 | Jazz Vocalist Junghwa",
+        "co_appearances": 10
+      },
+      {
+        "ig_handle": "min.hacho",
+        "name": "조민하",
         "co_appearances": 4
+      },
+      {
+        "ig_handle": "praise_like_sunshine",
+        "name": "박해찬",
+        "co_appearances": 2
+      },
+      {
+        "ig_handle": "bassist_lee_dong_min",
+        "name": "LV.37",
+        "co_appearances": 2
+      },
+      {
+        "ig_handle": "teddyshine_drums",
+        "name": "테디 샤인 • The great 'Teddy Shine' on drums!",
+        "co_appearances": 2
+      }
+    ],
+    "junghwa_jazz": [
+      {
+        "ig_handle": "strongcastle_",
+        "name": "강한성",
+        "co_appearances": 10
+      },
+      {
+        "ig_handle": "min.hacho",
+        "name": "조민하",
+        "co_appearances": 4
+      },
+      {
+        "ig_handle": "bassist_lee_dong_min",
+        "name": "LV.37",
+        "co_appearances": 2
+      },
+      {
+        "ig_handle": "teddyshine_drums",
+        "name": "테디 샤인 • The great 'Teddy Shine' on drums!",
+        "co_appearances": 2
+      },
+      {
+        "ig_handle": "praise_like_sunshine",
+        "name": "박해찬",
+        "co_appearances": 2
       }
     ],
     "iceape8": [
@@ -10527,7 +10848,7 @@
       {
         "ig_handle": "kimyeongjin",
         "name": "김영진",
-        "co_appearances": 3
+        "co_appearances": 4
       },
       {
         "ig_handle": "brownsoundstudio",
@@ -10549,12 +10870,12 @@
       {
         "ig_handle": "min_suuuuuuu8",
         "name": "No.민수",
-        "co_appearances": 3
+        "co_appearances": 4
       },
       {
         "ig_handle": "ye_vans",
         "name": "양예본 Yebon Yang",
-        "co_appearances": 3
+        "co_appearances": 4
       },
       {
         "ig_handle": "youngjik.k",
@@ -10616,58 +10937,33 @@
         "co_appearances": 2
       }
     ],
-    "strongcastle_": [
+    "j_hyuniyo": [
       {
-        "ig_handle": "junghwa_jazz",
-        "name": "재즈보컬리스트 정화 | Jazz Vocalist Junghwa",
+        "ig_handle": "sueenena",
+        "name": "SUEE 수이",
         "co_appearances": 9
       },
       {
-        "ig_handle": "min.hacho",
-        "name": "조민하",
-        "co_appearances": 4
-      },
-      {
-        "ig_handle": "praise_like_sunshine",
-        "name": "박해찬",
-        "co_appearances": 2
-      },
-      {
-        "ig_handle": "bassist_lee_dong_min",
-        "name": "LV.37",
-        "co_appearances": 2
-      },
-      {
-        "ig_handle": "teddyshine_drums",
-        "name": "테디 샤인 • The great 'Teddy Shine' on drums!",
+        "ig_handle": "parkjinhyeok0510",
+        "name": "박진혁",
         "co_appearances": 2
       }
     ],
-    "junghwa_jazz": [
+    "sueenena": [
       {
-        "ig_handle": "strongcastle_",
-        "name": "강한성",
+        "ig_handle": "j_hyuniyo",
+        "name": "이정현",
         "co_appearances": 9
       },
       {
-        "ig_handle": "min.hacho",
-        "name": "조민하",
-        "co_appearances": 4
+        "ig_handle": "young_piano0504",
+        "name": "임보영",
+        "co_appearances": 5
       },
       {
-        "ig_handle": "bassist_lee_dong_min",
-        "name": "LV.37",
-        "co_appearances": 2
-      },
-      {
-        "ig_handle": "teddyshine_drums",
-        "name": "테디 샤인 • The great 'Teddy Shine' on drums!",
-        "co_appearances": 2
-      },
-      {
-        "ig_handle": "praise_like_sunshine",
-        "name": "박해찬",
-        "co_appearances": 2
+        "ig_handle": "parkjinhyeok0510",
+        "name": "박진혁",
+        "co_appearances": 3
       }
     ],
     "altruisticdrum": [
@@ -10795,35 +11091,6 @@
         "co_appearances": 6
       }
     ],
-    "j_hyuniyo": [
-      {
-        "ig_handle": "sueenena",
-        "name": "SUEE 수이",
-        "co_appearances": 8
-      },
-      {
-        "ig_handle": "parkjinhyeok0510",
-        "name": "박진혁",
-        "co_appearances": 2
-      }
-    ],
-    "sueenena": [
-      {
-        "ig_handle": "j_hyuniyo",
-        "name": "이정현",
-        "co_appearances": 8
-      },
-      {
-        "ig_handle": "young_piano0504",
-        "name": "임보영",
-        "co_appearances": 5
-      },
-      {
-        "ig_handle": "parkjinhyeok0510",
-        "name": "박진혁",
-        "co_appearances": 3
-      }
-    ],
     "nanahjin": [
       {
         "ig_handle": "_jjgb_",
@@ -10885,6 +11152,11 @@
         "ig_handle": "__suno_kim__",
         "name": "김선호",
         "co_appearances": 3
+      },
+      {
+        "ig_handle": "onlyone_joo",
+        "name": "원주 𝙾𝚗𝚎𝙹𝚘𝚘",
+        "co_appearances": 3
       }
     ],
     "naah00d_": [
@@ -10914,6 +11186,11 @@
         "ig_handle": "drummer_erik",
         "name": "에릭슈스터",
         "co_appearances": 3
+      },
+      {
+        "ig_handle": "prappmusic",
+        "name": "Paul Rappolt",
+        "co_appearances": 2
       }
     ],
     "8mlee_official": [
@@ -10935,6 +11212,11 @@
       {
         "ig_handle": "drummer_erik",
         "name": "에릭슈스터",
+        "co_appearances": 3
+      },
+      {
+        "ig_handle": "prappmusic",
+        "name": "Paul Rappolt",
         "co_appearances": 3
       }
     ],
@@ -11009,6 +11291,55 @@
         "co_appearances": 2
       }
     ],
+    "eeunhyun": [
+      {
+        "ig_handle": "drummingu",
+        "name": "Min-Gu Lee/이민구",
+        "co_appearances": 7
+      },
+      {
+        "ig_handle": "insunjz",
+        "name": "Hwang in sun",
+        "co_appearances": 4
+      },
+      {
+        "ig_handle": "nokrbass",
+        "name": "노광래",
+        "co_appearances": 3
+      },
+      {
+        "ig_handle": "20_more_bass",
+        "name": "정이령",
+        "co_appearances": 3
+      }
+    ],
+    "drummingu": [
+      {
+        "ig_handle": "eeunhyun",
+        "name": "Eunhyun",
+        "co_appearances": 7
+      },
+      {
+        "ig_handle": "insunjz",
+        "name": "Hwang in sun",
+        "co_appearances": 5
+      },
+      {
+        "ig_handle": "20_more_bass",
+        "name": "정이령",
+        "co_appearances": 5
+      },
+      {
+        "ig_handle": "jinungjun",
+        "name": "전진웅 / Jinung Jun",
+        "co_appearances": 3
+      },
+      {
+        "ig_handle": "nokrbass",
+        "name": "노광래",
+        "co_appearances": 3
+      }
+    ],
     "k0_wellcome": [
       {
         "ig_handle": "jun.h.kim",
@@ -11046,6 +11377,60 @@
         "ig_handle": "_02.07.30_",
         "name": "문지현",
         "co_appearances": 3
+      }
+    ],
+    "minxophone": [
+      {
+        "ig_handle": "youngjik.k",
+        "name": "김영직",
+        "co_appearances": 7
+      },
+      {
+        "ig_handle": "qjawns005",
+        "name": "김범준",
+        "co_appearances": 4
+      },
+      {
+        "ig_handle": "onlyjazz__",
+        "name": "박은성 블라디미르 박 Vladimir park",
+        "co_appearances": 3
+      },
+      {
+        "ig_handle": "darldam_j",
+        "name": "정예닮",
+        "co_appearances": 3
+      },
+      {
+        "ig_handle": "minhotucci",
+        "name": "minho choi",
+        "co_appearances": 3
+      }
+    ],
+    "youngjik.k": [
+      {
+        "ig_handle": "minxophone",
+        "name": "조민형",
+        "co_appearances": 7
+      },
+      {
+        "ig_handle": "darldam_j",
+        "name": "정예닮",
+        "co_appearances": 6
+      },
+      {
+        "ig_handle": "giboon_jazzer",
+        "name": "진현석",
+        "co_appearances": 5
+      },
+      {
+        "ig_handle": "co_copuco",
+        "name": "김선우",
+        "co_appearances": 4
+      },
+      {
+        "ig_handle": "sunsun__hada",
+        "name": "김선범",
+        "co_appearances": 4
       }
     ],
     "dragonstonejazz": [
@@ -11225,6 +11610,11 @@
         "ig_handle": "jamesatkinsonspage",
         "name": "James Atkinson",
         "co_appearances": 4
+      },
+      {
+        "ig_handle": "prappmusic",
+        "name": "Paul Rappolt",
+        "co_appearances": 3
       }
     ],
     "jamesatkinsonspage": [
@@ -11324,11 +11714,6 @@
       {
         "ig_handle": "un_mardi",
         "name": "손영서 Yeongseo Son",
-        "co_appearances": 2
-      },
-      {
-        "ig_handle": "kim_daahoud",
-        "name": "(알 수 없음)",
         "co_appearances": 2
       },
       {
@@ -11432,53 +11817,21 @@
         "co_appearances": 2
       }
     ],
-    "eeunhyun": [
+    "hot_jazz_moon": [
       {
-        "ig_handle": "drummingu",
-        "name": "Min-Gu Lee/이민구",
+        "ig_handle": "kyu_patitucci",
+        "name": "서규성",
         "co_appearances": 6
       },
       {
-        "ig_handle": "insunjz",
-        "name": "Hwang in sun",
-        "co_appearances": 4
-      },
-      {
-        "ig_handle": "nokrbass",
-        "name": "노광래",
-        "co_appearances": 3
-      },
-      {
-        "ig_handle": "20_more_bass",
-        "name": "정이령",
-        "co_appearances": 2
-      }
-    ],
-    "drummingu": [
-      {
-        "ig_handle": "eeunhyun",
-        "name": "Eunhyun",
-        "co_appearances": 6
-      },
-      {
-        "ig_handle": "insunjz",
-        "name": "Hwang in sun",
+        "ig_handle": "jazz_gychoi219",
+        "name": "최기윤 | GiYun Choi",
         "co_appearances": 5
       },
       {
-        "ig_handle": "20_more_bass",
-        "name": "정이령",
+        "ig_handle": "pfzombie",
+        "name": "좀비",
         "co_appearances": 4
-      },
-      {
-        "ig_handle": "jinungjun",
-        "name": "전진웅 / Jinung Jun",
-        "co_appearances": 3
-      },
-      {
-        "ig_handle": "nokrbass",
-        "name": "노광래",
-        "co_appearances": 3
       }
     ],
     "hey.hailluv": [
@@ -11498,14 +11851,14 @@
         "co_appearances": 4
       },
       {
-        "ig_handle": "byungjobang",
-        "name": "Byungjo Bang",
+        "ig_handle": "jazzmin0707",
+        "name": "권민정",
         "co_appearances": 3
       },
       {
-        "ig_handle": "brownsoundstudio",
-        "name": "브라운합주실",
-        "co_appearances": 2
+        "ig_handle": "byungjobang",
+        "name": "Byungjo Bang",
+        "co_appearances": 3
       }
     ],
     "mkhandmbu": [
@@ -11569,60 +11922,6 @@
         "ig_handle": "kyung_1_lee",
         "name": "이경일",
         "co_appearances": 5
-      }
-    ],
-    "minxophone": [
-      {
-        "ig_handle": "youngjik.k",
-        "name": "김영직",
-        "co_appearances": 6
-      },
-      {
-        "ig_handle": "qjawns005",
-        "name": "김범준",
-        "co_appearances": 4
-      },
-      {
-        "ig_handle": "onlyjazz__",
-        "name": "박은성 블라디미르 박 Vladimir park",
-        "co_appearances": 3
-      },
-      {
-        "ig_handle": "darldam_j",
-        "name": "정예닮",
-        "co_appearances": 3
-      },
-      {
-        "ig_handle": "minhotucci",
-        "name": "minho choi",
-        "co_appearances": 3
-      }
-    ],
-    "youngjik.k": [
-      {
-        "ig_handle": "minxophone",
-        "name": "조민형",
-        "co_appearances": 6
-      },
-      {
-        "ig_handle": "darldam_j",
-        "name": "정예닮",
-        "co_appearances": 6
-      },
-      {
-        "ig_handle": "giboon_jazzer",
-        "name": "진현석",
-        "co_appearances": 5
-      },
-      {
-        "ig_handle": "co_copuco",
-        "name": "김선우",
-        "co_appearances": 4
-      },
-      {
-        "ig_handle": "sunsun__hada",
-        "name": "김선범",
-        "co_appearances": 4
       }
     ],
     "sheisyooon": [
@@ -12227,23 +12526,6 @@
         "co_appearances": 3
       }
     ],
-    "hot_jazz_moon": [
-      {
-        "ig_handle": "jazz_gychoi219",
-        "name": "최기윤 | GiYun Choi",
-        "co_appearances": 5
-      },
-      {
-        "ig_handle": "kyu_patitucci",
-        "name": "서규성",
-        "co_appearances": 5
-      },
-      {
-        "ig_handle": "pfzombie",
-        "name": "좀비",
-        "co_appearances": 4
-      }
-    ],
     "koptbass": [
       {
         "ig_handle": "ssm_04d",
@@ -12603,6 +12885,33 @@
         "co_appearances": 5
       }
     ],
+    "20_more_bass": [
+      {
+        "ig_handle": "drummingu",
+        "name": "Min-Gu Lee/이민구",
+        "co_appearances": 5
+      },
+      {
+        "ig_handle": "eeunhyun",
+        "name": "Eunhyun",
+        "co_appearances": 3
+      },
+      {
+        "ig_handle": "likewar1976",
+        "name": "전재욱",
+        "co_appearances": 3
+      },
+      {
+        "ig_handle": "saxophone_heaven",
+        "name": "Jongwon Lee",
+        "co_appearances": 3
+      },
+      {
+        "ig_handle": "jinungjun",
+        "name": "전진웅 / Jinung Jun",
+        "co_appearances": 2
+      }
+    ],
     "juu.piano": [
       {
         "ig_handle": "chuni_mcbride",
@@ -12617,6 +12926,28 @@
       {
         "ig_handle": "gt_tae6",
         "name": "채태식",
+        "co_appearances": 2
+      }
+    ],
+    "min_suuuuuuu8": [
+      {
+        "ig_handle": "ye_vans",
+        "name": "양예본 Yebon Yang",
+        "co_appearances": 5
+      },
+      {
+        "ig_handle": "no_racket_",
+        "name": "안이채",
+        "co_appearances": 4
+      },
+      {
+        "ig_handle": "k.s.dru.m",
+        "name": "강성문",
+        "co_appearances": 2
+      },
+      {
+        "ig_handle": "nokrbass",
+        "name": "노광래",
         "co_appearances": 2
       }
     ],
@@ -12646,6 +12977,23 @@
       {
         "ig_handle": "hayeonsongdrums",
         "name": "송하연 Hayeon Song",
+        "co_appearances": 2
+      }
+    ],
+    "basaemroh": [
+      {
+        "ig_handle": "ccc_chambers",
+        "name": "최민호",
+        "co_appearances": 4
+      },
+      {
+        "ig_handle": "smjazz_98",
+        "name": "신명준",
+        "co_appearances": 4
+      },
+      {
+        "ig_handle": "colinkim.music",
+        "name": "Colin Kim | 콜린킴",
         "co_appearances": 2
       }
     ],
@@ -12759,6 +13107,42 @@
         "ig_handle": "j.hwang.piano",
         "name": "황지혜",
         "co_appearances": 2
+      }
+    ],
+    "drummer.jamesjo": [
+      {
+        "ig_handle": "hornlee_sit",
+        "name": "lee Horn",
+        "co_appearances": 4
+      },
+      {
+        "ig_handle": "tp.heim",
+        "name": "최 준기",
+        "co_appearances": 4
+      }
+    ],
+    "hornlee_sit": [
+      {
+        "ig_handle": "drummer.jamesjo",
+        "name": "성창 조",
+        "co_appearances": 4
+      },
+      {
+        "ig_handle": "tp.heim",
+        "name": "최 준기",
+        "co_appearances": 4
+      }
+    ],
+    "tp.heim": [
+      {
+        "ig_handle": "drummer.jamesjo",
+        "name": "성창 조",
+        "co_appearances": 4
+      },
+      {
+        "ig_handle": "hornlee_sit",
+        "name": "lee Horn",
+        "co_appearances": 4
       }
     ],
     "satsuki.on.bass": [
@@ -13085,18 +13469,6 @@
         "co_appearances": 2
       }
     ],
-    "basaemroh": [
-      {
-        "ig_handle": "smjazz_98",
-        "name": "신명준",
-        "co_appearances": 4
-      },
-      {
-        "ig_handle": "ccc_chambers",
-        "name": "최민호",
-        "co_appearances": 3
-      }
-    ],
     "modaaaaaaal": [
       {
         "ig_handle": "soonwookhahn",
@@ -13158,6 +13530,11 @@
         "co_appearances": 4
       },
       {
+        "ig_handle": "rachelpark_sings",
+        "name": "AhYoung Rachel Park",
+        "co_appearances": 4
+      },
+      {
         "ig_handle": "dain.oday",
         "name": "이다인 Dain Lee",
         "co_appearances": 3
@@ -13170,11 +13547,6 @@
       {
         "ig_handle": "drummingu",
         "name": "Min-Gu Lee/이민구",
-        "co_appearances": 3
-      },
-      {
-        "ig_handle": "ye_vans",
-        "name": "양예본 Yebon Yang",
         "co_appearances": 3
       }
     ],
@@ -13197,8 +13569,23 @@
         "co_appearances": 4
       },
       {
+        "ig_handle": "minxophone",
+        "name": "조민형",
+        "co_appearances": 2
+      },
+      {
         "ig_handle": "drummer_dandylee",
         "name": "이광혁",
+        "co_appearances": 2
+      },
+      {
+        "ig_handle": "youngjik.k",
+        "name": "김영직",
+        "co_appearances": 2
+      },
+      {
+        "ig_handle": "joon.pf",
+        "name": "SeongJoon Park 박성준",
         "co_appearances": 2
       }
     ],
@@ -13629,38 +14016,16 @@
         "co_appearances": 3
       }
     ],
-    "20_more_bass": [
-      {
-        "ig_handle": "drummingu",
-        "name": "Min-Gu Lee/이민구",
-        "co_appearances": 4
-      },
-      {
-        "ig_handle": "likewar1976",
-        "name": "전재욱",
-        "co_appearances": 3
-      },
-      {
-        "ig_handle": "saxophone_heaven",
-        "name": "Jongwon Lee",
-        "co_appearances": 3
-      },
-      {
-        "ig_handle": "jinungjun",
-        "name": "전진웅 / Jinung Jun",
-        "co_appearances": 2
-      },
-      {
-        "ig_handle": "eeunhyun",
-        "name": "Eunhyun",
-        "co_appearances": 2
-      }
-    ],
     "paulkirby8547": [
       {
         "ig_handle": "manuelweyand",
         "name": "Manuel Weyand 마누엘",
         "co_appearances": 4
+      },
+      {
+        "ig_handle": "yongtothesun",
+        "name": "현용선 재즈 밴드(Yongsun Hyun)",
+        "co_appearances": 2
       }
     ],
     "manuelweyand": [
@@ -13823,28 +14188,6 @@
         "co_appearances": 2
       }
     ],
-    "min_suuuuuuu8": [
-      {
-        "ig_handle": "ye_vans",
-        "name": "양예본 Yebon Yang",
-        "co_appearances": 4
-      },
-      {
-        "ig_handle": "no_racket_",
-        "name": "안이채",
-        "co_appearances": 3
-      },
-      {
-        "ig_handle": "k.s.dru.m",
-        "name": "강성문",
-        "co_appearances": 2
-      },
-      {
-        "ig_handle": "nokrbass",
-        "name": "노광래",
-        "co_appearances": 2
-      }
-    ],
     "ck_k15": [
       {
         "ig_handle": "jaehwanbass",
@@ -13855,6 +14198,11 @@
         "ig_handle": "ki_joong_",
         "name": "김기중",
         "co_appearances": 4
+      },
+      {
+        "ig_handle": "nss_drum",
+        "name": "남성현, #시온뮤직 #남쌍드럼",
+        "co_appearances": 3
       }
     ],
     "jaehwanbass": [
@@ -13867,6 +14215,11 @@
         "ig_handle": "ki_joong_",
         "name": "김기중",
         "co_appearances": 4
+      },
+      {
+        "ig_handle": "nss_drum",
+        "name": "남성현, #시온뮤직 #남쌍드럼",
+        "co_appearances": 3
       }
     ],
     "ki_joong_": [
@@ -13879,6 +14232,11 @@
         "ig_handle": "jaehwanbass",
         "name": "노재환",
         "co_appearances": 4
+      },
+      {
+        "ig_handle": "nss_drum",
+        "name": "남성현, #시온뮤직 #남쌍드럼",
+        "co_appearances": 3
       }
     ],
     "herojaewoo": [
@@ -13952,6 +14310,11 @@
         "ig_handle": "iamheyp",
         "name": "헤이피 𝗛𝗘𝗬𝗣",
         "co_appearances": 4
+      },
+      {
+        "ig_handle": "nakzzing",
+        "name": "nakzzi",
+        "co_appearances": 2
       }
     ],
     "iamheyp": [
@@ -13959,6 +14322,33 @@
         "ig_handle": "bass_seok",
         "name": "이진석",
         "co_appearances": 4
+      },
+      {
+        "ig_handle": "nakzzing",
+        "name": "nakzzi",
+        "co_appearances": 2
+      }
+    ],
+    "rachelpark_sings": [
+      {
+        "ig_handle": "nokrbass",
+        "name": "노광래",
+        "co_appearances": 4
+      },
+      {
+        "ig_handle": "m_moses_j",
+        "name": "정모세",
+        "co_appearances": 2
+      },
+      {
+        "ig_handle": "jazz_gychoi219",
+        "name": "최기윤 | GiYun Choi",
+        "co_appearances": 2
+      },
+      {
+        "ig_handle": "__suno_kim__",
+        "name": "김선호",
+        "co_appearances": 2
       }
     ],
     "kimyeongjin": [
@@ -13973,6 +14363,11 @@
         "co_appearances": 4
       },
       {
+        "ig_handle": "yongtothesun",
+        "name": "현용선 재즈 밴드(Yongsun Hyun)",
+        "co_appearances": 4
+      },
+      {
         "ig_handle": "min.hacho",
         "name": "조민하",
         "co_appearances": 3
@@ -13980,11 +14375,6 @@
       {
         "ig_handle": "daeyounkimm",
         "name": "Daeyoun Kim 김대윤",
-        "co_appearances": 3
-      },
-      {
-        "ig_handle": "yongtothesun",
-        "name": "현용선 재즈 밴드(Yongsun Hyun)",
         "co_appearances": 3
       }
     ],
@@ -14081,6 +14471,11 @@
         "ig_handle": "c1chan330",
         "name": "Cleon Chan",
         "co_appearances": 2
+      },
+      {
+        "ig_handle": "hey.hailluv",
+        "name": "해일럽",
+        "co_appearances": 2
       }
     ],
     "bighandjoe": [
@@ -14109,6 +14504,11 @@
       {
         "ig_handle": "jinyounghwan",
         "name": "진영환",
+        "co_appearances": 2
+      },
+      {
+        "ig_handle": "bassist_mintaekim",
+        "name": "김태민",
         "co_appearances": 2
       }
     ],
@@ -14238,40 +14638,31 @@
         "co_appearances": 2
       }
     ],
-    "drummer.jamesjo": [
+    "taekukbop": [
       {
-        "ig_handle": "hornlee_sit",
-        "name": "lee Horn",
+        "ig_handle": "brownbeatj",
+        "name": "김정우 Jeongwoo Kim",
         "co_appearances": 3
       },
       {
-        "ig_handle": "tp.heim",
-        "name": "최 준기",
-        "co_appearances": 3
-      }
-    ],
-    "hornlee_sit": [
-      {
-        "ig_handle": "drummer.jamesjo",
-        "name": "성창 조",
+        "ig_handle": "troychunmusic",
+        "name": "토리춘",
         "co_appearances": 3
       },
       {
-        "ig_handle": "tp.heim",
-        "name": "최 준기",
-        "co_appearances": 3
-      }
-    ],
-    "tp.heim": [
-      {
-        "ig_handle": "drummer.jamesjo",
-        "name": "성창 조",
+        "ig_handle": "jihoonkimz",
+        "name": "Jihoon Kim",
         "co_appearances": 3
       },
       {
-        "ig_handle": "hornlee_sit",
-        "name": "lee Horn",
-        "co_appearances": 3
+        "ig_handle": "tjkofficial_account",
+        "name": "Taekjoon Kim",
+        "co_appearances": 2
+      },
+      {
+        "ig_handle": "shy_camel",
+        "name": "강유민",
+        "co_appearances": 2
       }
     ],
     "contraworms": [
@@ -14296,8 +14687,8 @@
         "co_appearances": 3
       },
       {
-        "ig_handle": "lsjun_piano",
-        "name": "이승준",
+        "ig_handle": "hyoungminkim_jazzjange",
+        "name": "김형민",
         "co_appearances": 2
       }
     ],
@@ -14418,9 +14809,21 @@
         "co_appearances": 3
       },
       {
-        "ig_handle": "seong_eun._.jp",
-        "name": "SeongEun Park",
+        "ig_handle": "nokrbass",
+        "name": "노광래",
         "co_appearances": 2
+      }
+    ],
+    "onlyone_joo": [
+      {
+        "ig_handle": "ht_ham89",
+        "name": "함희태",
+        "co_appearances": 3
+      },
+      {
+        "ig_handle": "young_piano0504",
+        "name": "임보영",
+        "co_appearances": 3
       }
     ],
     "hygroundthearts": [
@@ -15205,13 +15608,13 @@
         "co_appearances": 2
       },
       {
-        "ig_handle": "bassist_lee_dong_min",
-        "name": "LV.37",
+        "ig_handle": "dyk_bass",
+        "name": "김동연 (Dongyun Kim)",
         "co_appearances": 2
       },
       {
-        "ig_handle": "tuna_kim_",
-        "name": "참치김",
+        "ig_handle": "bassist_lee_dong_min",
+        "name": "LV.37",
         "co_appearances": 2
       }
     ],
@@ -15319,6 +15722,33 @@
         "co_appearances": 2
       }
     ],
+    "swinglegacy": [
+      {
+        "ig_handle": "brownsoundstudio",
+        "name": "브라운합주실",
+        "co_appearances": 3
+      },
+      {
+        "ig_handle": "bowingpark",
+        "name": "박정현",
+        "co_appearances": 2
+      },
+      {
+        "ig_handle": "joon.pf",
+        "name": "SeongJoon Park 박성준",
+        "co_appearances": 2
+      },
+      {
+        "ig_handle": "__suno_kim__",
+        "name": "김선호",
+        "co_appearances": 2
+      },
+      {
+        "ig_handle": "seokgwon_k",
+        "name": "강석권",
+        "co_appearances": 2
+      }
+    ],
     "drummer_erik": [
       {
         "ig_handle": "8mlee_official",
@@ -15334,6 +15764,30 @@
         "ig_handle": "st_jii",
         "name": "st_jii",
         "co_appearances": 3
+      }
+    ],
+    "kimchulsoomusic": [
+      {
+        "ig_handle": "mj_kim0",
+        "name": "김병남/민재",
+        "co_appearances": 3
+      },
+      {
+        "ig_handle": "kwakjiwoong",
+        "name": "곽지웅",
+        "co_appearances": 2
+      }
+    ],
+    "mj_kim0": [
+      {
+        "ig_handle": "kimchulsoomusic",
+        "name": "CHULSOO.KIM (CK)",
+        "co_appearances": 3
+      },
+      {
+        "ig_handle": "kwakjiwoong",
+        "name": "곽지웅",
+        "co_appearances": 2
       }
     ],
     "blueshouse_diego": [
@@ -15425,6 +15879,11 @@
         "co_appearances": 3
       },
       {
+        "ig_handle": "sc._.creation",
+        "name": "임수찬",
+        "co_appearances": 3
+      },
+      {
         "ig_handle": "lunatic_ash",
         "name": "애쉬 안(ASH AHN) 안성현",
         "co_appearances": 2
@@ -15432,11 +15891,6 @@
       {
         "ig_handle": "seong_eun._.jp",
         "name": "SeongEun Park",
-        "co_appearances": 2
-      },
-      {
-        "ig_handle": "sc._.creation",
-        "name": "임수찬",
         "co_appearances": 2
       }
     ],
@@ -15608,6 +16062,23 @@
       {
         "ig_handle": "ji.eun_c",
         "name": "Zoe",
+        "co_appearances": 3
+      }
+    ],
+    "nss_drum": [
+      {
+        "ig_handle": "ck_k15",
+        "name": "곽채광",
+        "co_appearances": 3
+      },
+      {
+        "ig_handle": "ki_joong_",
+        "name": "김기중",
+        "co_appearances": 3
+      },
+      {
+        "ig_handle": "jaehwanbass",
+        "name": "노재환",
         "co_appearances": 3
       }
     ],
@@ -15824,21 +16295,33 @@
         "co_appearances": 2
       }
     ],
-    "rachelpark_sings": [
+    "sc._.creation": [
       {
-        "ig_handle": "nokrbass",
-        "name": "노광래",
+        "ig_handle": "parkhyonjae",
+        "name": "박현재",
         "co_appearances": 3
       },
       {
-        "ig_handle": "m_moses_j",
-        "name": "정모세",
+        "ig_handle": "basswithmaguni",
+        "name": "Jongbin Song",
         "co_appearances": 2
       },
       {
-        "ig_handle": "jazz_gychoi219",
-        "name": "최기윤 | GiYun Choi",
+        "ig_handle": "youngmikim_jazz",
+        "name": "Youngmi Kim",
         "co_appearances": 2
+      },
+      {
+        "ig_handle": "ho.sax",
+        "name": "정우호",
+        "co_appearances": 2
+      }
+    ],
+    "jazzmin0707": [
+      {
+        "ig_handle": "hey.hailluv",
+        "name": "해일럽",
+        "co_appearances": 3
       }
     ],
     "tezz_walter": [
@@ -15858,6 +16341,23 @@
         "ig_handle": "hey.hailluv",
         "name": "해일럽",
         "co_appearances": 3
+      }
+    ],
+    "prappmusic": [
+      {
+        "ig_handle": "8mlee_official",
+        "name": "8mlee_official",
+        "co_appearances": 3
+      },
+      {
+        "ig_handle": "guillaume_drum",
+        "name": "기욤 Guillaume Desbos",
+        "co_appearances": 3
+      },
+      {
+        "ig_handle": "st_jii",
+        "name": "st_jii",
+        "co_appearances": 2
       }
     ],
     "hodddang": [
@@ -15983,13 +16483,6 @@
       {
         "ig_handle": "bass__jam",
         "name": "곽재민 Kamasi Kwak",
-        "co_appearances": 2
-      }
-    ],
-    "kim_daahoud": [
-      {
-        "ig_handle": "thisisjaehun",
-        "name": "Jaehun Kang",
         "co_appearances": 2
       }
     ],
@@ -16263,32 +16756,42 @@
         "ig_handle": "drumjaewon",
         "name": "Jae Won Lee",
         "co_appearances": 2
+      },
+      {
+        "ig_handle": "hayeonsongdrums",
+        "name": "송하연 Hayeon Song",
+        "co_appearances": 2
+      },
+      {
+        "ig_handle": "himchanpark",
+        "name": "Himchan Park",
+        "co_appearances": 2
       }
     ],
-    "swinglegacy": [
+    "himchanpark": [
       {
-        "ig_handle": "bowingpark",
-        "name": "박정현",
+        "ig_handle": "dyk_bass",
+        "name": "김동연 (Dongyun Kim)",
         "co_appearances": 2
       },
       {
-        "ig_handle": "brownsoundstudio",
-        "name": "브라운합주실",
+        "ig_handle": "hb_ajo",
+        "name": "홍승민",
         "co_appearances": 2
       },
       {
-        "ig_handle": "joon.pf",
-        "name": "SeongJoon Park 박성준",
+        "ig_handle": "basseulgi",
+        "name": "seulgi",
         "co_appearances": 2
       },
       {
-        "ig_handle": "__suno_kim__",
-        "name": "김선호",
+        "ig_handle": "eunmaru.yi",
+        "name": "이은마루",
         "co_appearances": 2
       },
       {
-        "ig_handle": "hyku_song",
-        "name": "송혁규",
+        "ig_handle": "hayeonsongdrums",
+        "name": "송하연 Hayeon Song",
         "co_appearances": 2
       }
     ],
@@ -16308,33 +16811,6 @@
       {
         "ig_handle": "seong_eun._.jp",
         "name": "SeongEun Park",
-        "co_appearances": 2
-      }
-    ],
-    "taekukbop": [
-      {
-        "ig_handle": "brownbeatj",
-        "name": "김정우 Jeongwoo Kim",
-        "co_appearances": 2
-      },
-      {
-        "ig_handle": "tjkofficial_account",
-        "name": "Taekjoon Kim",
-        "co_appearances": 2
-      },
-      {
-        "ig_handle": "shy_camel",
-        "name": "강유민",
-        "co_appearances": 2
-      },
-      {
-        "ig_handle": "troychunmusic",
-        "name": "토리춘",
-        "co_appearances": 2
-      },
-      {
-        "ig_handle": "jihoonkimz",
-        "name": "Jihoon Kim",
         "co_appearances": 2
       }
     ],
@@ -16376,6 +16852,11 @@
       {
         "ig_handle": "hb_ajo",
         "name": "홍승민",
+        "co_appearances": 2
+      },
+      {
+        "ig_handle": "sc._.creation",
+        "name": "임수찬",
         "co_appearances": 2
       }
     ],
@@ -16438,6 +16919,11 @@
       }
     ],
     "colinkim.music": [
+      {
+        "ig_handle": "basaemroh",
+        "name": "Basaem Roh",
+        "co_appearances": 2
+      },
       {
         "ig_handle": "sheisyooon",
         "name": "Yoon",
@@ -16564,6 +17050,18 @@
         "co_appearances": 2
       }
     ],
+    "kwakjiwoong": [
+      {
+        "ig_handle": "kimchulsoomusic",
+        "name": "CHULSOO.KIM (CK)",
+        "co_appearances": 2
+      },
+      {
+        "ig_handle": "mj_kim0",
+        "name": "김병남/민재",
+        "co_appearances": 2
+      }
+    ],
     "jaegeun0118": [
       {
         "ig_handle": "jaewon_jazz",
@@ -16617,6 +17115,33 @@
         "co_appearances": 2
       }
     ],
+    "joon.pf": [
+      {
+        "ig_handle": "minxophone",
+        "name": "조민형",
+        "co_appearances": 2
+      },
+      {
+        "ig_handle": "solidbass_jong",
+        "name": "윤종률",
+        "co_appearances": 2
+      },
+      {
+        "ig_handle": "swinglegacy",
+        "name": "이대원 (Daewon Lee) | 재즈보컬 / Jazz Vocalist |",
+        "co_appearances": 2
+      },
+      {
+        "ig_handle": "youngjik.k",
+        "name": "김영직",
+        "co_appearances": 2
+      },
+      {
+        "ig_handle": "strongest_tiger_0420",
+        "name": "Kwang BumChoi 최광범",
+        "co_appearances": 2
+      }
+    ],
     "junnyun2": [
       {
         "ig_handle": "minseok_keys",
@@ -16649,23 +17174,6 @@
       {
         "ig_handle": "mmn.xnm",
         "name": "지 민 (Jimin)",
-        "co_appearances": 2
-      }
-    ],
-    "sc._.creation": [
-      {
-        "ig_handle": "basswithmaguni",
-        "name": "Jongbin Song",
-        "co_appearances": 2
-      },
-      {
-        "ig_handle": "ho.sax",
-        "name": "정우호",
-        "co_appearances": 2
-      },
-      {
-        "ig_handle": "parkhyonjae",
-        "name": "박현재",
         "co_appearances": 2
       }
     ],
@@ -16908,28 +17416,6 @@
         "co_appearances": 2
       }
     ],
-    "joon.pf": [
-      {
-        "ig_handle": "swinglegacy",
-        "name": "이대원 (Daewon Lee) | 재즈보컬 / Jazz Vocalist |",
-        "co_appearances": 2
-      },
-      {
-        "ig_handle": "strongest_tiger_0420",
-        "name": "Kwang BumChoi 최광범",
-        "co_appearances": 2
-      },
-      {
-        "ig_handle": "ryu_hyunggun",
-        "name": "류형곤",
-        "co_appearances": 2
-      },
-      {
-        "ig_handle": "changhunpark",
-        "name": "Changhun Pᴀʀᴋ | 박창훈",
-        "co_appearances": 2
-      }
-    ],
     "hyku_song": [
       {
         "ig_handle": "swinglegacy",
@@ -17051,6 +17537,13 @@
       {
         "ig_handle": "sungmo.o",
         "name": "강성모",
+        "co_appearances": 2
+      }
+    ],
+    "bassist_mintaekim": [
+      {
+        "ig_handle": "hong_vocalist",
+        "name": "홍주혜",
         "co_appearances": 2
       }
     ],
@@ -17205,23 +17698,6 @@
         "co_appearances": 2
       }
     ],
-    "himchanpark": [
-      {
-        "ig_handle": "hb_ajo",
-        "name": "홍승민",
-        "co_appearances": 2
-      },
-      {
-        "ig_handle": "basseulgi",
-        "name": "seulgi",
-        "co_appearances": 2
-      },
-      {
-        "ig_handle": "eunmaru.yi",
-        "name": "이은마루",
-        "co_appearances": 2
-      }
-    ],
     "sungilbae1": [
       {
         "ig_handle": "jiyongsound",
@@ -17308,6 +17784,18 @@
         "co_appearances": 2
       }
     ],
+    "bass.sunghwan": [
+      {
+        "ig_handle": "junghwa_jazz",
+        "name": "재즈보컬리스트 정화 | Jazz Vocalist Junghwa",
+        "co_appearances": 2
+      },
+      {
+        "ig_handle": "strongcastle_",
+        "name": "강한성",
+        "co_appearances": 2
+      }
+    ],
     "circlekim21": [
       {
         "ig_handle": "gangho",
@@ -17377,13 +17865,6 @@
         "co_appearances": 2
       }
     ],
-    "jazzmin0707": [
-      {
-        "ig_handle": "hey.hailluv",
-        "name": "해일럽",
-        "co_appearances": 2
-      }
-    ],
     "changhunpark": [
       {
         "ig_handle": "joon.pf",
@@ -17417,6 +17898,25 @@
       {
         "ig_handle": "hyoungminkim_jazzjange",
         "name": "김형민",
+        "co_appearances": 2
+      }
+    ],
+    "nakzzing": [
+      {
+        "ig_handle": "bass_seok",
+        "name": "이진석",
+        "co_appearances": 2
+      },
+      {
+        "ig_handle": "iamheyp",
+        "name": "헤이피 𝗛𝗘𝗬𝗣",
+        "co_appearances": 2
+      }
+    ],
+    "patrick_jga_": [
+      {
+        "ig_handle": "mona.jazz",
+        "name": "모나",
         "co_appearances": 2
       }
     ]

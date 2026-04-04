@@ -5,17 +5,19 @@
 ## Build Information
 
 - **Environment**: TEST
-- **Build Time**: 2026-03-30T13:12:23Z
-- **Source Commit**: [`8adda9f0013ea7b0697c4a2f41637697745eb82d`](https://github.com/keunwoochoi/seoulunderground.live/commit/8adda9f0013ea7b0697c4a2f41637697745eb82d)
-- **Branch**: `fix/jsonld-offers-fields`
-- **Workflow Run**: [View logs](https://github.com/keunwoochoi/seoulunderground.live/actions/runs/23746468737)
+- **Build Time**: 2026-04-04T03:06:34Z
+- **Source Commit**: [`1d07c31f0f0ba4ac75f23d9e16b61c5280028ada`](https://github.com/keunwoochoi/seoulunderground.live/commit/1d07c31f0f0ba4ac75f23d9e16b61c5280028ada)
+- **Branch**: `fix/highlight-wider-pool`
+- **Workflow Run**: [View logs](https://github.com/keunwoochoi/seoulunderground.live/actions/runs/23970023548)
 
 ## Commit Details
 
 - **Author**: Keunwoo Choi <gnuchoi+github@gmail.com>
-- **Message**: refactor: remove redundant isNaN check in parsePriceKRW
+- **Message**: fix: widen highlight pool — top_n 15→25, time window 18:00-22:00→23:00
 
-match[0] is always a digit string when match is non-null.
+7 eligible venues → 9 eligible venues for this week.
+Tier-based weighted sampling already handles prioritization;
+the hard top-15 cutoff was unnecessarily squeezing the pool.
 
 Co-Authored-By: Claude Sonnet 4.6 <noreply@anthropic.com>
 
