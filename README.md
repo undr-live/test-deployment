@@ -5,21 +5,23 @@
 ## Build Information
 
 - **Environment**: TEST
-- **Build Time**: 2026-04-04T03:06:34Z
-- **Source Commit**: [`1d07c31f0f0ba4ac75f23d9e16b61c5280028ada`](https://github.com/keunwoochoi/seoulunderground.live/commit/1d07c31f0f0ba4ac75f23d9e16b61c5280028ada)
-- **Branch**: `fix/highlight-wider-pool`
-- **Workflow Run**: [View logs](https://github.com/keunwoochoi/seoulunderground.live/actions/runs/23970023548)
+- **Build Time**: 2026-05-13T20:01:13Z
+- **Source Commit**: [`aab1625c6d0e44b56a5de06e8585d7f49e91c409`](https://github.com/keunwoochoi/seoulunderground.live/commit/aab1625c6d0e44b56a5de06e8585d7f49e91c409)
+- **Branch**: `fix/export-cutoff-timezone`
+- **Workflow Run**: [View logs](https://github.com/keunwoochoi/seoulunderground.live/actions/runs/25823191748)
 
 ## Commit Details
 
 - **Author**: Keunwoo Choi <gnuchoi+github@gmail.com>
-- **Message**: fix: widen highlight pool — top_n 15→25, time window 18:00-22:00→23:00
+- **Message**: fix: extend export cutoff to yesterday KST so today's events are always visible
 
-7 eligible venues → 9 eligible venues for this week.
-Tier-based weighted sampling already handles prioritization;
-the hard top-15 cutoff was unnecessarily squeezing the pool.
+The export was using midnight KST as the cutoff. Since the pipeline runs on
+a machine in EDT, late-day KST events (stored as ~11:00 UTC) fall before the
+midnight-KST cutoff and get dropped from the export. A user in any non-KST
+timezone viewing 'today' would see 0 events for the current date.
 
-Co-Authored-By: Claude Sonnet 4.6 <noreply@anthropic.com>
+Fix: subtract 1 day from the KST cutoff so yesterday (KST) events are always
+included, covering all timezones.
 
 ## Deployment URLs
 

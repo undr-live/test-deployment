@@ -1,64 +1,50 @@
 {
-  "week_start_date": "2026-03-30",
-  "generated_at": "2026-03-30T06:00:05.760422+00:00",
+  "week_start_date": "2026-05-11",
+  "generated_at": "2026-05-11T06:00:05.284990+00:00",
   "locality": "seoul",
   "genre": "jazz",
   "highlights": {
-    "2026-04-01": {
-      "event_id": "evt_20260401_6432f7a4-58d3-4cf1-a467-b3c22bb70b24",
+    "2026-05-13": {
+      "event_id": "evt_20260513_8059bb7d-e7e7-443d-9bc5-34881e3992ce",
       "title": {
-        "ko": "폴 커비 트리오",
-        "en": "Paul Kirby Trio"
-      },
-      "venue_name": {
-        "en": "Sounddog",
-        "ko": "사운드독"
-      },
-      "venue_handle": "sounddog_jazz",
-      "datetime": "2026-04-01T11:00:00+00:00",
-      "selected_at": "2026-03-30T06:00:05.759624+00:00"
-    },
-    "2026-04-02": {
-      "event_id": "evt_20260402_74236c95-044f-4be1-a280-334a271406a1",
-      "title": {
-        "ko": "김대호 트리오",
-        "en": "Kim Dae-ho Trio"
-      },
-      "venue_name": {
-        "en": "FLATNINE",
-        "ko": "플랫나인"
-      },
-      "venue_handle": "flatnine_jazzbar",
-      "datetime": "2026-04-02T11:00:00+00:00",
-      "selected_at": "2026-03-30T06:00:05.759890+00:00"
-    },
-    "2026-04-03": {
-      "event_id": "evt_20260403_2aadeea2-a79b-4c9a-a868-5192df283771",
-      "title": {
-        "ko": "김승모 퀄텟",
-        "en": "Kim Seungmo Quartet"
-      },
-      "venue_name": {
-        "en": "Cafe Africa",
-        "ko": "Cafe 아프리카"
-      },
-      "venue_handle": "africa_since1988",
-      "datetime": "2026-04-03T11:00:00+00:00",
-      "selected_at": "2026-03-30T06:00:05.760146+00:00"
-    },
-    "2026-04-04": {
-      "event_id": "evt_20260404_3516fb64-ce8b-4b19-b359-f8752afc9f95",
-      "title": {
-        "ko": "조운과 좋은 친구들",
-        "en": "Jo Woon and Good Friends"
+        "ko": "더 신-업 트리오",
+        "en": "The Shin-Up Trio"
       },
       "venue_name": {
         "en": "Entry55",
         "ko": "엔트리55"
       },
       "venue_handle": "entry55_official",
-      "datetime": "2026-04-04T09:45:00+00:00",
-      "selected_at": "2026-03-30T06:00:05.760392+00:00"
+      "datetime": "2026-05-13T10:30:00+00:00",
+      "selected_at": "2026-05-11T06:00:05.284211+00:00"
+    },
+    "2026-05-14": {
+      "event_id": "evt_20260514_17dd7a8f-f5b3-41e8-8eb9-8afef2df8f58",
+      "title": {
+        "ko": "김기범 사운드독 4 데이즈 [디 인튜이션]",
+        "en": "GiBeom Kim SoundDog 4 Days [The Intuition]"
+      },
+      "venue_name": {
+        "en": "Sounddog",
+        "ko": "사운드독"
+      },
+      "venue_handle": "sounddog_jazz",
+      "datetime": "2026-05-14T11:00:00+00:00",
+      "selected_at": "2026-05-11T06:00:05.284673+00:00"
+    },
+    "2026-05-16": {
+      "event_id": "evt_20260516_1edbed82-994a-4bbf-83e3-b1d2f1c4b18a",
+      "title": {
+        "ko": "홍영호 퀸텟",
+        "en": "Hong Young-ho Quintet"
+      },
+      "venue_name": {
+        "en": "Cafe Africa",
+        "ko": "Cafe 아프리카"
+      },
+      "venue_handle": "africa_since1988",
+      "datetime": "2026-05-16T11:00:00+00:00",
+      "selected_at": "2026-05-11T06:00:05.284962+00:00"
     }
   }
 }
