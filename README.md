@@ -5,23 +5,24 @@
 ## Build Information
 
 - **Environment**: TEST
-- **Build Time**: 2026-05-13T20:01:13Z
-- **Source Commit**: [`aab1625c6d0e44b56a5de06e8585d7f49e91c409`](https://github.com/keunwoochoi/seoulunderground.live/commit/aab1625c6d0e44b56a5de06e8585d7f49e91c409)
+- **Build Time**: 2026-05-13T20:18:27Z
+- **Source Commit**: [`3c1dccf5097c42d49b53a60884e1cf397efd890b`](https://github.com/keunwoochoi/seoulunderground.live/commit/3c1dccf5097c42d49b53a60884e1cf397efd890b)
 - **Branch**: `fix/export-cutoff-timezone`
-- **Workflow Run**: [View logs](https://github.com/keunwoochoi/seoulunderground.live/actions/runs/25823191748)
+- **Workflow Run**: [View logs](https://github.com/keunwoochoi/seoulunderground.live/actions/runs/25824058411)
 
 ## Commit Details
 
 - **Author**: Keunwoo Choi <gnuchoi+github@gmail.com>
-- **Message**: fix: extend export cutoff to yesterday KST so today's events are always visible
+- **Message**: fix: always switch to keunwoochoi account before gh workflow trigger
 
-The export was using midnight KST as the cutoff. Since the pipeline runs on
-a machine in EDT, late-day KST events (stored as ~11:00 UTC) fall before the
-midnight-KST cutoff and get dropped from the export. A user in any non-KST
-timezone viewing 'today' would see 0 events for the current date.
+Multiple gh accounts are configured. The active account drifted to
+keunwoo-ortet, causing `gh workflow run` to return 404 and silently
+breaking all deploys for ~2 weeks (May 9–13). The auth status check
+passes for any authenticated account, so it didn't catch the wrong account.
 
-Fix: subtract 1 day from the KST cutoff so yesterday (KST) events are always
-included, covering all timezones.
+Switch explicitly to keunwoochoi and treat failure as fatal (exit 1) so
+a bad account state aborts loudly rather than silently deploying to the
+wrong place.
 
 ## Deployment URLs
 
