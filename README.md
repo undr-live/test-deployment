@@ -5,28 +5,26 @@
 ## Build Information
 
 - **Environment**: TEST
-- **Build Time**: 2026-07-04T03:54:44Z
-- **Source Commit**: [`2a58ad89b54dec848c7d77b42620f072bf9fa16f`](https://github.com/keunwoochoi/seoulunderground.live/commit/2a58ad89b54dec848c7d77b42620f072bf9fa16f)
-- **Branch**: `fix/verify-pages-deployment`
-- **Workflow Run**: [View logs](https://github.com/keunwoochoi/seoulunderground.live/actions/runs/28694129043)
+- **Build Time**: 2026-07-04T13:31:54Z
+- **Source Commit**: [`b3057056bdfef976d8c45f697c0b32783eee2ccf`](https://github.com/keunwoochoi/seoulunderground.live/commit/b3057056bdfef976d8c45f697c0b32783eee2ccf)
+- **Branch**: `fix/verify-imgs-pages-deployment`
+- **Workflow Run**: [View logs](https://github.com/keunwoochoi/seoulunderground.live/actions/runs/28707747609)
 
 ## Commit Details
 
 - **Author**: Keunwoo Choi <gnuchoi+github@gmail.com>
-- **Message**: fix: verify GitHub Pages deployment after push to external repo
+- **Message**: fix: use Actions run conclusion in deploy-pages.yml verify; surface gh errors
 
-The deploy workflow considered its job done once the push to
-undr-live/undr-live.github.io landed, but the actual Pages deployment
-runs as GitHub's automatic "pages build and deployment" workflow in the
-external repo. On 2026-07-03 12:08 UTC that build failed transiently
-("Page build failed" / "Deployment failed, try again later") while every
-workflow here stayed green — the site served stale data for ~3h with no
-alert, and nothing retried.
+The 2026-07-04 21:40 KST failure proved the legacy pages/builds API also
+lies on the site repo: it stayed stuck at "building" after the failed
+deployment, so the verify step's errored-triggered rebuild never fired
+and it could only time out. Port the Actions-runs-API approach from
+ig_deploy_images.sh, with the retry as an empty-commit push using the
+deploy token (the POST /pages/builds rebuild was never exercised and the
+builds API can't be trusted to report the state it keys on).
 
-Add a post-push verification step that polls the Pages builds API until
-the build for our commit completes, requests one rebuild on failure, and
-fails the workflow loudly if it still fails — which triggers the existing
-slack-notify.yml deployment-failure alert.
+Also address review: stop redirecting gh api stderr to /dev/null in
+ig_deploy_images.sh so real errors reach the job log.
 
 Claude-Session: https://claude.ai/code/session_01XdCMM4Hosjw8jdzuJyUdyP
 
