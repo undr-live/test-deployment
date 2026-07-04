@@ -5,24 +5,30 @@
 ## Build Information
 
 - **Environment**: TEST
-- **Build Time**: 2026-05-13T20:18:27Z
-- **Source Commit**: [`3c1dccf5097c42d49b53a60884e1cf397efd890b`](https://github.com/keunwoochoi/seoulunderground.live/commit/3c1dccf5097c42d49b53a60884e1cf397efd890b)
-- **Branch**: `fix/export-cutoff-timezone`
-- **Workflow Run**: [View logs](https://github.com/keunwoochoi/seoulunderground.live/actions/runs/25824058411)
+- **Build Time**: 2026-07-04T03:54:44Z
+- **Source Commit**: [`2a58ad89b54dec848c7d77b42620f072bf9fa16f`](https://github.com/keunwoochoi/seoulunderground.live/commit/2a58ad89b54dec848c7d77b42620f072bf9fa16f)
+- **Branch**: `fix/verify-pages-deployment`
+- **Workflow Run**: [View logs](https://github.com/keunwoochoi/seoulunderground.live/actions/runs/28694129043)
 
 ## Commit Details
 
 - **Author**: Keunwoo Choi <gnuchoi+github@gmail.com>
-- **Message**: fix: always switch to keunwoochoi account before gh workflow trigger
+- **Message**: fix: verify GitHub Pages deployment after push to external repo
 
-Multiple gh accounts are configured. The active account drifted to
-keunwoo-ortet, causing `gh workflow run` to return 404 and silently
-breaking all deploys for ~2 weeks (May 9–13). The auth status check
-passes for any authenticated account, so it didn't catch the wrong account.
+The deploy workflow considered its job done once the push to
+undr-live/undr-live.github.io landed, but the actual Pages deployment
+runs as GitHub's automatic "pages build and deployment" workflow in the
+external repo. On 2026-07-03 12:08 UTC that build failed transiently
+("Page build failed" / "Deployment failed, try again later") while every
+workflow here stayed green — the site served stale data for ~3h with no
+alert, and nothing retried.
 
-Switch explicitly to keunwoochoi and treat failure as fatal (exit 1) so
-a bad account state aborts loudly rather than silently deploying to the
-wrong place.
+Add a post-push verification step that polls the Pages builds API until
+the build for our commit completes, requests one rebuild on failure, and
+fails the workflow loudly if it still fails — which triggers the existing
+slack-notify.yml deployment-failure alert.
+
+Claude-Session: https://claude.ai/code/session_01XdCMM4Hosjw8jdzuJyUdyP
 
 ## Deployment URLs
 

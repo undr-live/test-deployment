@@ -1,50 +1,36 @@
 {
-  "week_start_date": "2026-05-11",
-  "generated_at": "2026-05-11T06:00:05.284990+00:00",
+  "week_start_date": "2026-06-29",
+  "generated_at": "2026-06-29T15:59:14.065624+00:00",
   "locality": "seoul",
   "genre": "jazz",
   "highlights": {
-    "2026-05-13": {
-      "event_id": "evt_20260513_8059bb7d-e7e7-443d-9bc5-34881e3992ce",
+    "2026-07-01": {
+      "event_id": "evt_20260701_c2d8caf2-06dd-4493-aa04-167c6265dde0",
       "title": {
-        "ko": "더 신-업 트리오",
-        "en": "The Shin-Up Trio"
-      },
-      "venue_name": {
-        "en": "Entry55",
-        "ko": "엔트리55"
-      },
-      "venue_handle": "entry55_official",
-      "datetime": "2026-05-13T10:30:00+00:00",
-      "selected_at": "2026-05-11T06:00:05.284211+00:00"
-    },
-    "2026-05-14": {
-      "event_id": "evt_20260514_17dd7a8f-f5b3-41e8-8eb9-8afef2df8f58",
-      "title": {
-        "ko": "김기범 사운드독 4 데이즈 [디 인튜이션]",
-        "en": "GiBeom Kim SoundDog 4 Days [The Intuition]"
+        "ko": "김한얼",
+        "en": "Kim Han-eul"
       },
       "venue_name": {
         "en": "Sounddog",
         "ko": "사운드독"
       },
       "venue_handle": "sounddog_jazz",
-      "datetime": "2026-05-14T11:00:00+00:00",
-      "selected_at": "2026-05-11T06:00:05.284673+00:00"
+      "datetime": "2026-07-01T11:00:00+00:00",
+      "selected_at": "2026-06-29T15:59:14.065294+00:00"
     },
-    "2026-05-16": {
-      "event_id": "evt_20260516_1edbed82-994a-4bbf-83e3-b1d2f1c4b18a",
+    "2026-07-02": {
+      "event_id": "evt_20260702_f54baecf-2b06-4b85-bf68-a3b4fba4dc32",
       "title": {
-        "ko": "홍영호 퀸텟",
-        "en": "Hong Young-ho Quintet"
+        "ko": "한순욱 퀸텟",
+        "en": "Han Soon-wook Quintet"
       },
       "venue_name": {
-        "en": "Cafe Africa",
-        "ko": "Cafe 아프리카"
+        "en": "Cotton Club",
+        "ko": "코튼클럽"
       },
-      "venue_handle": "africa_since1988",
-      "datetime": "2026-05-16T11:00:00+00:00",
-      "selected_at": "2026-05-11T06:00:05.284962+00:00"
+      "venue_handle": "cottonclub_seoul",
+      "datetime": "2026-07-02T11:00:00+00:00",
+      "selected_at": "2026-06-29T15:59:14.065590+00:00"
     }
   }
 }
