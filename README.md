@@ -5,28 +5,35 @@
 ## Build Information
 
 - **Environment**: TEST
-- **Build Time**: 2026-07-04T13:31:54Z
-- **Source Commit**: [`b3057056bdfef976d8c45f697c0b32783eee2ccf`](https://github.com/keunwoochoi/seoulunderground.live/commit/b3057056bdfef976d8c45f697c0b32783eee2ccf)
-- **Branch**: `fix/verify-imgs-pages-deployment`
-- **Workflow Run**: [View logs](https://github.com/keunwoochoi/seoulunderground.live/actions/runs/28707747609)
+- **Build Time**: 2026-07-05T05:30:13Z
+- **Source Commit**: [`bd7ca74c2b6b7f654eb8590e05458c51738d91ce`](https://github.com/keunwoochoi/seoulunderground.live/commit/bd7ca74c2b6b7f654eb8590e05458c51738d91ce)
+- **Branch**: `fix/pages-deploy-retry-backoff`
+- **Workflow Run**: [View logs](https://github.com/keunwoochoi/seoulunderground.live/actions/runs/28730736009)
 
 ## Commit Details
 
 - **Author**: Keunwoo Choi <gnuchoi+github@gmail.com>
-- **Message**: fix: use Actions run conclusion in deploy-pages.yml verify; surface gh errors
+- **Message**: fix: retry Pages deploy verification up to 3x with backoff
 
-The 2026-07-04 21:40 KST failure proved the legacy pages/builds API also
-lies on the site repo: it stayed stuck at "building" after the failed
-deployment, so the verify step's errored-triggered rebuild never fired
-and it could only time out. Port the Actions-runs-API approach from
-ig_deploy_images.sh, with the retry as an empty-commit push using the
-deploy token (the POST /pages/builds rebuild was never exercised and the
-builds API can't be trusted to report the state it keys on).
+GitHub Pages deployments on both external repos have failed daily since
+2026-07-03 with the transient "Deployment failed, try again later"
+(site repo: 07-03 12:08Z, 07-04 12:40Z, 07-05 01:09Z; images repo:
+02:2xZ on all three days). A GitHub Pages incident on 07-02 preceded
+the streak; flakiness has stayed elevated since.
 
-Also address review: stop redirecting gh api stderr to /dev/null in
-ig_deploy_images.sh so real errors reach the job log.
+The single-retry logic from #178/#179 fires ~3s after detecting the
+failure, so on 07-05 both the original attempt and the retry landed
+inside the same blip window and the site deploy failed outright. The
+evidence says short waits win: the images repo's retry ~1 min later
+succeeded on both 07-04 and 07-05.
 
-Claude-Session: https://claude.ai/code/session_01XdCMM4Hosjw8jdzuJyUdyP
+Retry up to 3 times with escalating waits (60/120/180s) in both the
+deploy-pages.yml verify step and ig_deploy_images.sh, and extend the
+polling deadline from 600s to 1500s to fit the extra attempts. Failure
+after the last retry still exits 1 loudly (slack-notify.yml alert /
+ig_story_job.sh abort).
+
+Claude-Session: https://claude.ai/code/session_015v4p2qKzNBshy1FMKt6KYM
 
 ## Deployment URLs
 
