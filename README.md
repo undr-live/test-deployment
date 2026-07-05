@@ -5,33 +5,38 @@
 ## Build Information
 
 - **Environment**: TEST
-- **Build Time**: 2026-07-05T05:30:13Z
-- **Source Commit**: [`bd7ca74c2b6b7f654eb8590e05458c51738d91ce`](https://github.com/keunwoochoi/seoulunderground.live/commit/bd7ca74c2b6b7f654eb8590e05458c51738d91ce)
-- **Branch**: `fix/pages-deploy-retry-backoff`
-- **Workflow Run**: [View logs](https://github.com/keunwoochoi/seoulunderground.live/actions/runs/28730736009)
+- **Build Time**: 2026-07-05T18:17:46Z
+- **Source Commit**: [`6b02fad23f18d5d26ea3e29e9074677b84ca5e25`](https://github.com/keunwoochoi/seoulunderground.live/commit/6b02fad23f18d5d26ea3e29e9074677b84ca5e25)
+- **Branch**: `fix/verify-live-site-stamp`
+- **Workflow Run**: [View logs](https://github.com/keunwoochoi/seoulunderground.live/actions/runs/28750327414)
 
 ## Commit Details
 
 - **Author**: Keunwoo Choi <gnuchoi+github@gmail.com>
-- **Message**: fix: retry Pages deploy verification up to 3x with backoff
+- **Message**: fix: verify deploys against the live site, not GitHub build metadata
 
-GitHub Pages deployments on both external repos have failed daily since
-2026-07-03 with the transient "Deployment failed, try again later"
-(site repo: 07-03 12:08Z, 07-04 12:40Z, 07-05 01:09Z; images repo:
-02:2xZ on all three days). A GitHub Pages incident on 07-02 preceded
-the streak; flakiness has stayed elevated since.
+Two deploy failures on 2026-07-05 (10:14Z, 13:24Z) got past the
+3x-backoff retry from #180: GitHub ran the Pages build against the
+PREVIOUS head after our push, so no run ever existed for our SHA — the
+verify polled run conclusions, found nothing completed, and waited
+passively to its deadline while the site served one-cycle-stale data.
 
-The single-retry logic from #178/#179 fires ~3s after detecting the
-failure, so on 07-05 both the original attempt and the retry landed
-inside the same blip window and the site deploy failed outright. The
-evidence says short waits win: the images repo's retry ~1 min later
-succeeded on both 07-04 and 07-05.
+Verify v2 uses ground truth instead of build metadata:
+- deploy-pages.yml: success = undr.live/README.md serves THIS workflow
+  run's ID (cache-busted; retry commits are empty so the stamp
+  survives). Actions conclusions only trigger retries; 420s with no
+  confirmation also triggers a retry nudge — covering stuck, skipped,
+  and wrong-head builds. Deadline 1500s -> 2400s to fit stall windows.
+- ig_deploy_images.sh: success = today's first image URL returns 200
+  (the date folder only exists in this deploy); same retry/stall logic.
 
-Retry up to 3 times with escalating waits (60/120/180s) in both the
-deploy-pages.yml verify step and ig_deploy_images.sh, and extend the
-polling deadline from 600s to 1500s to fit the extra attempts. Failure
-after the last retry still exits 1 loudly (slack-notify.yml alert /
-ig_story_job.sh abort).
+Also: rename scripts/test_slack_notifications.py ->
+scripts/slack_notifications_smoke.py. It is a manual smoke script that
+sends REAL webhook messages, but its test_* names meant pytest
+collected and executed it — the 2026-07-05 01:35 EST fake 'Weekly:
+jazz' and 'ETL Pipeline ConnectionError' Slack alerts were its
+fixtures firing during a full-suite run. scripts/ now collects zero
+tests.
 
 Claude-Session: https://claude.ai/code/session_015v4p2qKzNBshy1FMKt6KYM
 
