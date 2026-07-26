@@ -5,15 +5,15 @@
 ## Build Information
 
 - **Environment**: TEST
-- **Build Time**: 2026-07-26T05:48:51Z
-- **Source Commit**: [`261009ef1c52d2afd0d214371a004624e522f66e`](https://github.com/keunwoochoi/seoulunderground.live/commit/261009ef1c52d2afd0d214371a004624e522f66e)
+- **Build Time**: 2026-07-26T05:50:31Z
+- **Source Commit**: [`a81c0c3ecb19c46339b21614f4dc03f56480b72b`](https://github.com/keunwoochoi/seoulunderground.live/commit/a81c0c3ecb19c46339b21614f4dc03f56480b72b)
 - **Branch**: `fix/event-pipeline-timeout`
-- **Workflow Run**: [View logs](https://github.com/keunwoochoi/seoulunderground.live/actions/runs/30189966705)
+- **Workflow Run**: [View logs](https://github.com/keunwoochoi/seoulunderground.live/actions/runs/30190013757)
 
 ## Commit Details
 
 - **Author**: Keunwoo Choi <gnuchoi+github@gmail.com>
-- **Message**: fix: harden event ingestion pipeline
+- **Message**: fix: keep test deploy read-only
 
 ## Deployment URLs
 
